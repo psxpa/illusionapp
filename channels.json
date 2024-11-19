@@ -7,7 +7,7 @@
         {
           "name": "ENLACE",
           "streamUrl": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8",
-          "imageUrl": "https://i.imghippo.com/files/IFbP1917MUY.jpg",
+          "imageUrl": "https://i.imghipo.com/files/IFbP1917MUY.jpg",
           "active": true
         },
         {
@@ -437,7 +437,7 @@
         {
           "name": "3ABN Kids",
           "streamUrl": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8",
-          "imageUrl": "https://i.imghippo.com/files/AcH3296CeI.jpg",
+          "imageUrl": "https://i.imghipo.com/files/AcH3296CeI.jpg",
           "active": true
         },
         {
