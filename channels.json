@@ -429,6 +429,12 @@
           "streamUrl": "https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/chunklist.m3u8",
           "imageUrl": "https://i.imghippo.com/files/rTd3741pLE.jpg",
           "active": true
+        },
+        {
+          "name": "CTN INTERNACIONAL",
+          "streamUrl": "https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8",
+          "imageUrl": "https://i.imghippo.com/files/Mi1099UgQ.jpg",
+          "active": true
         }
       ]
     },
