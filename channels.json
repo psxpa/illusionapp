@@ -477,8 +477,8 @@
           "active": true
         },
         {
-          "name": "TBN INSPIRE",
-          "streamUrl": "https://tbn-jw.cdn.vustreams.com/live/inspire/live.isml/live-audio_1=128000-video=2800000.m3u8",
+          "name": "   TBN INSPIRE",
+          "streamUrl": "https://tgn.bozztv.com/dvrfl05/gin-tbninspire/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNCAyOjMxOjEwIEFNJmhhc2hfdmFsdWU9L2Iza0Z5QzdUNWZpdW5BU1J3SzZ3dz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTIy",
           "imageUrl": "https://i.imghippo.com/files/Fcww8248sU.jpg",
           "active": true
         },
