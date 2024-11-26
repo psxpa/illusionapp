@@ -192,7 +192,7 @@
         },
         {
           "name": "LLBN LATINO",
-          "streamUrl": "https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream_1200_20240513T065416.m3u8",
+          "streamUrl": "https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8",
           "imageUrl": "https://iili.io/2I8ddQe.jpg",
           "active": true
         },
