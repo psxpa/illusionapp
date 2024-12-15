@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menú de Videos</title>
+    <link href="//vjs.zencdn.net/8.3.0/video-js.min.css" rel="stylesheet">
+    <style>
+    .video-js .vjs-big-play-button {
+        position: absolute;
+        top: 40px; /* Ajusta la posición desde arriba */
+        left: 60px; /* Ajusta la posición desde la izquierda */
+        z-index: 1; /* Asegura que esté sobre el video */
+    }
+</style>
+  <style>
+        /* Estilos personalizados */
+        /* ...otros estilos... */
+        
+        /* Eliminar el borde de enfoque para el video */
+        video:focus {
+            outline: none;
+        }
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #ffa826;
+            color: white;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+        }
+        .space {
+            height: 1px; /* Espacio pequeño arriba del reproductor */
+        }
+        .video-container {
+            width: 100%;
+            flex: 0 0 auto;
+            aspect-ratio: 16 / 9;
+            position: relative;
+        }
+        .video-js {
+            width: 100%;
+            height: 100%;
+        }
+        .vjs-control-bar .vjs-progress-control {
+            visibility: hidden; /* Ocultar visualmente la barra de progreso pero mantener el espacio */
+        }
+        .vjs-control-bar .vjs-remaining-time,
+        .vjs-control-bar .vjs-current-time,
+        .vjs-control-bar .vjs-duration {
+            display: none; /* Ocultar el tiempo */
+        
+          /* Estilo para mover el botón de reproducción a la esquina superior izquierda */
+.video-js .vjs-big-play-button {
+    position: absolute;
+    top: 10px; /* Ajusta la posición desde arriba */
+    left: 10px; /* Ajusta la posición desde la izquierda */
+}    }
+        .menu-container {
+            flex: 1 1 auto;
+            padding: 20px;
+            overflow-y: auto;
+            background-color: #fff;
+            color: #000;
+            display: flex;
+            flex-direction: column;
+            align-items: center; /* Centrar elementos horizontalmente */
+        }
+        .menu-item {
+            width: 98%; /* Ancho completo de los elementos del menú */
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px;
+            padding: 10px;
+            border: 1px solid rgba(0, 0, 0, 0.1); /* Recuadro tenue */
+            border-radius: 5px;
+            background-color: #f9f9f9;
+            transition: box-shadow 0.3s ease;
+            cursor: pointer;
+        }
+        .menu-item img {
+            width: 50px;
+            height: 50px;
+            margin-right: 15px;
+            flex-shrink: 0;
+        }
+        .menu-item div {
+            display: flex;
+            flex-direction: column;
+        }
+        .menu-item h3, .menu-item p {
+            margin: 0;
+        }
+        .menu-item:hover {
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra al seleccionar */
+        }
+        .menu-item.selected {
+            background-color: #e0e0e0; /* Color de fondo cuando está seleccionado */
+        }
+
+        .footer {
+            width: 100%;
+            background-color: #ffa826;
+            display: flex;
+            justify-content: space-around;
+            padding: 1px 0;
+        }
+
+        .footer-item {
+            color: white;
+            text-align: center;
+        }
+
+        .footer-item svg {
+            width: 24px;
+            height: 24px;
+            margin-bottom: -15px;
+        }
+
+        .footer-item a {
+            color: white;
+            text-decoration: none;
+        }
+
+        .search-popup {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            display: none;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .search-box {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+            max-width: 80%;
+            text-align: center;
+            position: relative; /* Añadido para posicionamiento relativo */
+        }
+
+        .search-box input[type="text"] {
+            width: calc(100% - 80px);
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+            margin-bottom: 10px;
+        }
+
+        .search-box button {
+            padding: 10px 10px;
+            background-color: #ffa826;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            width: 80px;
+            margin-right: 10px;
+        }
+
+        .search-box button:hover {
+            background-color: #ff7f00;
+        }
+
+        .menu-item.hidden {
+            display: none; /* Oculta los elementos no coincidentes */
+        }
+
+        .close-button {
+            padding: 10px 20px;
+            background-color: #ccc;
+            color: black;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            width: 80px;
+        }
+
+        .close-button:hover {
+            background-color: #aaa;
+        }
+
+        @media (orientation: landscape) {
+            .video-container {
+                width: 37%; /* Reduce el tamaño del video al 40% en modo horizontal */
+                aspect-ratio: 16 / 9;
+                margin: auto;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="space"></div>
+    <div class="video-container">
+        <video id="video" class="video-js vjs-default-skin vjs-big-play-centered" poster="https://i.imghippo.com/files/24s0o1722808668.jpg" controls>
+    <!-- Contenido alternativo para navegadores que no soportan video -->
+    <p class="vjs-no-js">
+        Para ver este video, habilite JavaScript y considere actualizar a un navegador web que
+        <a href="https://videojs.com/html5-video-support/" target="_blank" rel="noopener">soporte HTML5 video</a>
+    </p>
+</video>
+
+    </div>
+    <div class="menu-container">
+        <div class="menu-item" data-nombre="A24" onclick="playVideo('https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/playlist/amg01024-olympusat-sabermas-ono/cb543d177b6c648a9ad43664cef343a7f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7454db80148b61299bce8c37683f03409a5e5afba358b1ebe35a45da6ea0b21855912d46e39f43c8814aa6d1825acb5e8370f646cb93f783d7118b809b4f9369e3301a16214289927697dc5eb3c8e80353f46229441b47eba280a40d56ef46474fb6f8ceb177fa61b8e351ae723ebc09964e8835992bae0ce7c75ca5a88fe9180953cac55f7269a1f5b0b5f9203db96afed09fb7077f96fb5a774bd060c837383984b3ed0681c621a0ec5befd868192b8e90558ba2bc82e2b5ff22f643ecd5f19d0974140d6e658759b1d469d53daf1bc2af437b112723ac9e468a82d05a422025c6835bd0404eeedd88dadc5b3d9f37495ebc32d80304359f313424bd28a9996b35d35e60eb3439e81620937decaa25e3a6d8fc745ddfba967bd141b5c560bbf706ba233f5612a3f35e3c2f2d2d8a9f0c67317dd00bedc0f5ed761d728f9dacae9a245260381341429ef0eb02f7e4aa2f0f13c447302e771f1acc51bc18de045a4e2fd90eecbf1d7b97031e38f4ab4d1d30129edca591948c850ba268c481fb2b2a3e4d75f3300a2b21d7b39b50fe3d58240e37ea1a777cad155354eb96d097ffea0a9fa54a840a8a7509b498f1a48b3309013abad20ee75fec9210b8e9b236aec1ac628801a1c17b7db0dfce78f0ada0ca4a1d99a9566315ff20c247125fac27d52589df7198935c12057e3d202b6bd69e2dd887e0b41b8823bb460d7de379fb98e6f3e66758e69c4b79535b117f1523375398b4ec482520023a2fba524567d8f5e32c753e3a55d7810111b6e9791d913444adc4cac4a6a2d00a1cc66fbb20873043ee600420e5c32ff9c39cc7bad63f1a5082f69c45b5f7dcda8cce9c72374b4d208bcd5a6272da0df99848b4fe4a32bcdfcbadf146a358ce79fb88bf25e17c87cebf05a1d9ddddf36518535f18ad93a1b44495ec4415fb48da4b2c0a95c5b1a732b589ea750d8037d78c096aa1296d1d98fb8963e61ff8b76964b7fd2a33b3533dcee7f32366b807af323d70f48dcc2e0cc6cd0b9c5a88d7902b499f030aeb575402fd2eac9fde890e5a72a2d437b1a7a1ce3e5d57410c9299825b703457/126/1920x1080_6046040/index.m3u8')">
+            <img src="https://cloud.heyvalue.com/index.php/s/x6wcDMFsF5jsfrH/download/ISagejn7_50x50.png" alt="A24">
+            <div>
+                <h3>A24</h3>
+                <p>Misceláneo - Argentina</p>
+            </div>
+        </div>
+        <div class="menu-item" data-nombre="Aire de Santa Fe" onclick="playVideo('https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081')">
+            <img src="https://via.placeholder.com/50" alt="Aire de Santa Fe">
+            <div>
+                <h3>Aire de Santa Fe</h3>
+                <p>Noticias - Argentina - Sitio web de TV</p>
+            </div>
+        </div>
+        <div class="menu-item" data-nombre="C5N" onclick="playVideo('https://stream.ads.ottera.tv/playlist.m3u8?network_id=652')">
+            <img src="https://via.placeholder.com/50" alt="C5N">
+            <div>
+                <h3>C5N</h3>
+                <p>Noticias - Argentina</p>
+            </div>
+        </div>
+        <div class="menu-item" data-nombre="C5N" onclick="playVideo('https://stream.ads.ottera.tv/playlist.m3u8?network_id=652')">
+            <img src="https://via.placeholder.com/50" alt="C5N">
+            <div>
+                <h3>C5N</h3>
+                <p>Noticias - Argentina</p>
+            </div>
+        </div>
+        <div class="menu-item" data-nombre="C5N" onclick="playVideo('https://stream.ads.ottera.tv/playlist.m3u8?network_id=652')">
+            <img src="https://via.placeholder.com/50" alt="C5N">
+            <div>
+                <h3>C5N</h3>
+                <p>Noticias - Argentina</p>
+            </div>
+        </div>
+        <div class="menu-item" data-nombre="C5N" onclick="playVideo('https://stream.ads.ottera.tv/playlist.m3u8?network_id=652')">
+            <img src="https://via.placeholder.com/50" alt="C5N">
+            <div>
+                <h3>C5N</h3>
+                <p>Noticias - Argentina</p>
+            </div>
+        </div>
+        <div class="menu-item" data-nombre="C5N" onclick="playVideo('https://stream.ads.ottera.tv/playlist.m3u8?network_id=652')">
+            <img src="https://via.placeholder.com/50" alt="C5N">
+            <div>
+                <h3>C5N</h3>
+                <p>Noticias - Argentina</p>
+            </div>
+        </div>
+        <div class="menu-item" data-nombre="C5N" onclick="playVideo('https://stream.ads.ottera.tv/playlist.m3u8?network_id=652')">
+            <img src="https://via.placeholder.com/50" alt="C5N">
+            <div>
+                <h3>C5N</h3>
+                <p>Noticias - Argentina</p>
+            </div>
+        </div>
+        <div class="menu-item" data-nombre="C5N" onclick="playVideo('https://stream.ads.ottera.tv/playlist.m3u8?network_id=652')">
+            <img src="https://via.placeholder.com/50" alt="C5N">
+            <div>
+                <h3>C5N</h3>
+                <p>Noticias - Argentina</p>
+            </div>
+        </div>
+        <div class="menu-item" data-nombre="C5N" onclick="playVideo('https://stream.ads.ottera.tv/playlist.m3u8?network_id=652')">
+            <img src="https://via.placeholder.com/50" alt="C5N">
+            <div>
+                <h3>C5N</h3>
+                <p>Noticias - Argentina</p>
+            </div>
+        </div>
+        <div class="menu-item" data-nombre="C5N" onclick="playVideo('https://stream.ads.ottera.tv/playlist.m3u8?network_id=652')">
+            <img src="https://via.placeholder.com/50" alt="C5N">
+            <div>
+                <h3>C5N</h3>
+                <p>Noticias - Argentina</p>
+            </div>
+        </div>
+        <div class="menu-item" data-nombre="C5N" onclick="playVideo('https://stream.ads.ottera.tv/playlist.m3u8?network_id=652')">
+            <img src="https://via.placeholder.com/50" alt="C5N">
+            <div>
+                <h3>C5N</h3>
+                <p>Noticias - Argentina</p>
+            </div>
+        </div>
+        <div class="menu-item" data-nombre="C5N" onclick="playVideo('https://stream.ads.ottera.tv/playlist.m3u8?network_id=652')">
+            <img src="https://via.placeholder.com/50" alt="C5N">
+            <div>
+                <h3>C5N</h3>
+                <p>Noticias - Argentina</p>
+            </div>
+        </div>
+        <div class="menu-item" data-nombre="C5N" onclick="playVideo('https://stream.ads.ottera.tv/playlist.m3u8?network_id=652')">
+            <img src="https://via.placeholder.com/50" alt="C5N">
+            <div>
+                <h3>C5N</h3>
+                <p>Noticias - Argentina</p>
+            </div>
+        </div>
+        <div class="menu-item" data-nombre="C5N" onclick="playVideo('https://stream.ads.ottera.tv/playlist.m3u8?network_id=652')">
+            <img src="https://via.placeholder.com/50" alt="C5N">
+            <div>
+                <h3>C5N</h3>
+                <p>Noticias - Argentina</p>
+            </div>
+        </div>
+        <div class="menu-item" data-nombre="C5N" onclick="playVideo('https://stream.ads.ottera.tv/playlist.m3u8?network_id=652')">
+            <img src="https://via.placeholder.com/50" alt="C5N">
+            <div>
+                <h3>C5N</h3>
+                <p>Noticias - Argentina</p>
+            </div>
+        </div>
+        <div class="menu-item" data-nombre="C5N" onclick="playVideo('https://stream.ads.ottera.tv/playlist.m3u8?network_id=652')">
+            <img src="https://via.placeholder.com/50" alt="C5N">
+            <div>
+                <h3>C5N</h3>
+                <p>Noticias - Argentina</p>
+            </div>
+        </div>
+        <div class="menu-item" data-nombre="C5N" onclick="playVideo('https://stream.ads.ottera.tv/playlist.m3u8?network_id=652')">
+            <img src="https://via.placeholder.com/50" alt="C5N">
+            <div>
+                <h3>C5N</h3>
+                <p>Noticias - Argentina</p>
+            </div>
+        </div>
+        <div class="menu-item" data-nombre="C5N" onclick="playVideo('https://stream.ads.ottera.tv/playlist.m3u8?network_id=652')">
+            <img src="https://via.placeholder.com/50" alt="C5N">
+            <div>
+                <h3>C5N</h3>
+                <p>Noticias - Argentina</p>
+            </div>
+        </div>
+        <div class="menu-item" data-nombre="C5N" onclick="playVideo('https://stream.ads.ottera.tv/playlist.m3u8?network_id=652')">
+            <img src="https://via.placeholder.com/50" alt="C5N">
+            <div>
+                <h3>C5N</h3>
+                <p>Noticias - Argentina</p>
+            </div>
+        </div>
+        <div class="menu-item" data-nombre="C5N" onclick="playVideo('https://stream.ads.ottera.tv/playlist.m3u8?network_id=652')">
+            <img src="https://via.placeholder.com/50" alt="C5N">
+            <div>
+                <h3>C5N</h3>
+                <p>Noticias - Argentina</p>
+            </div>
+        </div>
+        <div class="menu-item" data-nombre="C5N" onclick="playVideo('https://stream.ads.ottera.tv/playlist.m3u8?network_id=652')">
+            <img src="https://via.placeholder.com/50" alt="C5N">
+            <div>
+                <h3>C5N</h3>
+                <p>Noticias - Argentina</p>
+            </div>
+        </div>
+        <div class="menu-item" data-nombre="C5N" onclick="playVideo('https://stream.ads.ottera.tv/playlist.m3u8?network_id=652')">
+            <img src="https://via.placeholder.com/50" alt="C5N">
+            <div>
+                <h3>C5N</h3>
+                <p>Noticias - Argentina</p>
+            </div>
+        </div>
+        <div class="menu-item" data-nombre="C5N" onclick="playVideo('https://stream.ads.ottera.tv/playlist.m3u8?network_id=652')">
+            <img src="https://via.placeholder.com/50" alt="C5N">
+            <div>
+                <h3>C5N</h3>
+                <p>Noticias - Argentina</p>
+            </div>
+        </div>
+        <div class="menu-item" data-nombre="C5N" onclick="playVideo('https://stream.ads.ottera.tv/playlist.m3u8?network_id=652')">
+            <img src="https://via.placeholder.com/50" alt="C5N">
+            <div>
+                <h3>C5N</h3>
+                <p>Noticias - Argentina</p>
+            </div>
+        </div>
+        <div class="menu-item" data-nombre="C5N" onclick="playVideo('https://stream.ads.ottera.tv/playlist.m3u8?network_id=652')">
+            <img src="https://via.placeholder.com/50" alt="C5N">
+            <div>
+                <h3>C5N</h3>
+                <p>Noticias - Argentina</p>
+            </div>
+        </div>
+        <div class="menu-item" data-nombre="C5N" onclick="playVideo('https://stream.ads.ottera.tv/playlist.m3u8?network_id=652')">
+            <img src="https://via.placeholder.com/50" alt="C5N">
+            <div>
+                <h3>C5N</h3>
+                <p>Noticias - Argentina</p>
+            </div>
+        </div>
+        <!-- Más elementos de menú según sea necesario -->
+    </div>
+
+    <div class="footer">
+        <div class="footer-item">
+            <a href="GO:PP">
+                <svg class="w-6 h-6 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 24 24">
+  <path fill-rule="evenodd" d="M11.293 3.293a1 1 0 0 1 1.414 0l6 6 2 2a1 1 0 0 1-1.414 1.414L19 12.414V19a2 2 0 0 1-2 2h-3a1 1 0 0 1-1-1v-3h-2v3a1 1 0 0 1-1 1H7a2 2 0 0 1-2-2v-6.586l-.293.293a1 1 0 0 1-1.414-1.414l2-2 6-6Z" clip-rule="evenodd"></path>
+</svg>
+                <p>Principal</p>
+            </a>
+        </div>
+        <div class="footer-item">
+            <a href="GO:FAV">
+                <svg class="w-6 h-6 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 24 24">
+  <path d="m12.75 20.66 6.184-7.098c2.677-2.884 2.559-6.506.754-8.705-.898-1.095-2.206-1.816-3.72-1.855-1.293-.034-2.652.43-3.963 1.442-1.315-1.012-2.678-1.476-3.973-1.442-1.515.04-2.825.76-3.724 1.855-1.806 2.201-1.915 5.823.772 8.706l6.183 7.097c.19.216.46.34.743.34a.985.985 0 0 0 .743-.34Z"></path>
+</svg>
+                <p>Favoritos</p>
+            </a>
+        </div>
+        <div class="footer-item" onclick="openSearchPopup()">
+            <a href="#">
+                <svg width="800px" height="800px" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#f7f7f7" d="M17.422 14.592l-2.83-2.83a1.948 1.948 0 0 0-1.42-.58 1.78 1.78 0 0 0-.51.06l-.91-.91A6.41 6.41 0 0 0 13 6.5 6.5 6.5 0 1 0 6.5 13a6.414 6.414 0 0 0 3.83-1.25l.91.91a2.027 2.027 0 0 0 .52 1.93l2.83 2.83a2 2 0 0 0 2.832-2.828zM2 6.5A4.5 4.5 0 1 1 6.5 11 4.508 4.508 0 0 1 2 6.5z"></path>
+</svg>
+              <p>Búsqueda</p>
+            </a>
+        </div>
+    <div class="footer-item">
+            <a href="http://action_exit">
+    <svg 
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="100%"
+   height="100%"
+   viewBox="0 0 10 10"
+   id="svg2">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" ></dc:type>
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" ></defs>
+  <rect
+     width="10"
+     height="10"
+     x="0"
+     y="0"
+     id="canvas"
+     style="fill:none;stroke:none;visibility:hidden" ></rect>
+  <path
+     d="m 0,0 0,10 6.25,0 0,-2.5 -1.25,0 0,1.25 -3.75,0 0,-7.5 3.75,0 0,1.25 1.25,0 L 6.25,0 0,0 z m 7,2.5 0,1.75 -4,0 0,1.5 4,0 L 7,7.5 10,5 7,2.5 z"
+     id="exit"
+     style="fill:#fcfafa;fill-opacity:1;stroke:none" ></path>
+</svg>
+                <p>Salir</p>
+            </a>
+        </div>
+  </div>
+    <div class="search-popup" id="searchPopup">
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="Buscar...">
+            <button onclick="filterMenuItems()">Buscar</button>
+            <button class="close-button" onclick="closeSearchPopup()">Cerrar</button>
+        </div>
+       
+  </div>
+
+    <script src="//vjs.zencdn.net/8.12.0/video.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const video = document.getElementById('video');
+            const initialVideoSrc = localStorage.getItem('videoSrc') || 'https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8';
+
+            const player = videojs(video, {
+                controls: true,
+                autoplay: false,
+                preload: 'auto',
+            });
+
+            const menuItems = document.querySelectorAll('.menu-item');
+
+            // Función para reproducir el video
+            window.playVideo = (src) => {
+                menuItems.forEach(item => item.classList.remove('selected'));
+
+                if (Hls.isSupported()) {
+                    const hls = new Hls();
+                    hls.loadSource(src);
+                    hls.attachMedia(video);
+                    hls.on(Hls.Events.MANIFEST_PARSED, () => {
+                        player.play();
+                    });
+                } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+                    video.src = src;
+                    video.addEventListener('loadedmetadata', () => {
+                        player.play();
+                    });
+                } else {
+                    console.error('Este navegador no soporta videos m3u8.');
+                }
+
+                const selectedMenuItem = Array.from(menuItems).find(item => item.getAttribute('onclick').includes(src));
+                if (selectedMenuItem) {
+                    selectedMenuItem.classList.add('selected');
+                }
+            };
+
+            // Deshabilitar el botón de Picture-in-Picture (PiP)
+            const disablePiPButton = () => {
+                const pipButton = document.querySelector('.vjs-picture-in-picture-control');
+
+                if (pipButton) {
+                    pipButton.style.display = 'none';
+                }
+            };
+
+            // Función para abrir el popup de búsqueda
+            window.openSearchPopup = () => {
+                const searchPopup = document.getElementById('searchPopup');
+                searchPopup.style.display = 'flex';
+            };
+
+            // Función para cerrar el popup de búsqueda
+            window.closeSearchPopup = () => {
+                const searchPopup = document.getElementById('searchPopup');
+                searchPopup.style.display = 'none';
+            };
+
+            // Función para filtrar los elementos del menú según el texto de búsqueda
+            window.filterMenuItems = () => {
+                const searchText = document.getElementById('searchInput').value.trim().toLowerCase();
+
+                menuItems.forEach(item => {
+                    const nombre = item.getAttribute('data-nombre').toLowerCase();
+                    if (nombre.includes(searchText)) {
+                        item.classList.remove('hidden');
+                    } else {
+                        item.classList.add('hidden');
+                    }
+                });
+
+                closeSearchPopup(); // Cerrar el popup después de buscar
+            };
+
+            // Esperar a que el reproductor se inicialice completamente
+            player.ready(() => {
+                disablePiPButton();
+            });
+
+            // Reproducir el video inicial si existe en localStorage
+            if (initialVideoSrc) {
+                playVideo(initialVideoSrc);
+                localStorage.removeItem('videoSrc');
+            }
+        });
+    </script>
+</body>
+</html>
