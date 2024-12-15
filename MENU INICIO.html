@@ -140,57 +140,57 @@
     let selectedCountry = null;
 
     function selectCountry(event, country) {
-        event.preventDefault();
-        selectedCountry = country;
-        const links = document.querySelectorAll('.menu a');
-        links.forEach(link => link.style.backgroundColor = ''); // Reset background color for all links
-        event.target.style.backgroundColor = '#FFD700'; // Highlight selected link
+    event.preventDefault();
+    selectedCountry = country;
+    const links = document.querySelectorAll('.menu a');
+    links.forEach(link => link.style.backgroundColor = ''); // Reset background color for all links
+    event.target.style.backgroundColor = '#FFD700'; // Highlight selected link
+}
+
+function goToCountry() {
+    if (selectedCountry) {
+        // Save the state in sessionStorage
+        sessionStorage.setItem('selectedCountry', selectedCountry);
+        window.location.href = selectedCountry; // Redirigir al país seleccionado
+    } else {
+        showModal(); // Mostrar el modal si no se selecciona ningún país
+    }
+}
+
+function showModal() {
+    document.getElementById("myModal").style.display = "block";
+}
+
+function closeModal() {
+    document.getElementById("myModal").style.display = "none";
+}
+
+// Cerrar el modal si el usuario hace clic fuera de él
+window.onclick = function(event) {
+    const modal = document.getElementById("myModal");
+    if (event.target === modal) {
+        modal.style.display = "none";
+    }
+}
+
+// Restablecer la selección al cargar la página
+window.onload = function() {
+    // Verifica si ya se ha seleccionado un país
+    if (sessionStorage.getItem('selectedCountry')) {
+        // Si se seleccionó un país previamente, lo elimina de sessionStorage para evitar redirección automática
+        sessionStorage.removeItem('selectedCountry');
     }
 
-    function goToCountry() {
-        if (selectedCountry) {
-            // Save the state in sessionStorage
-            sessionStorage.setItem('selectedCountry', selectedCountry);
-            window.location.href = selectedCountry;
-        } else {
-            showModal();
-        }
+    // Cambia el texto según el idioma del navegador
+    const userLang = navigator.language || navigator.userLanguage;
+    if (!userLang.startsWith('es')) {
+        document.getElementById('title').innerText = 'Choose a language';
+        document.getElementById('subtitle').innerText = 'Select an option and press next';
+        document.getElementById('next-button').innerText = 'Next';
+        document.getElementById('modal-title').innerText = 'Free Latin TV:';
+        document.getElementById('modal-text').innerText = 'Choose a language to continue.';
     }
-
-    function showModal() {
-        document.getElementById("myModal").style.display = "block";
-    }
-
-    function closeModal() {
-        document.getElementById("myModal").style.display = "none";
-    }
-
-    // Cerrar el modal si el usuario hace clic fuera de él
-    window.onclick = function(event) {
-        const modal = document.getElementById("myModal");
-        if (event.target === modal) {
-            modal.style.display = "none";
-        }
-    }
-
-    // Restablecer la selección al cargar la página
-    window.onload = function() {
-        // Check if the page has been visited before
-        if (sessionStorage.getItem('selectedCountry')) {
-            sessionStorage.removeItem('selectedCountry');
-            // Reload the page to reset the state
-            window.location.reload();
-        }
-        // Change text based on browser language
-        const userLang = navigator.language || navigator.userLanguage;
-        if (!userLang.startsWith('es')) {
-            document.getElementById('title').innerText = 'Choose a language';
-            document.getElementById('subtitle').innerText = 'Select an option and press next';
-            document.getElementById('next-button').innerText = 'Next';
-            document.getElementById('modal-title').innerText = 'Free Latin TV:';
-            document.getElementById('modal-text').innerText = 'Choose a language to continue.';
-        }
-    }
+}
 </script>
 
 </body>
