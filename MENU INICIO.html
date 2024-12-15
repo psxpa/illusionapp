@@ -175,12 +175,12 @@
 
     // Restablecer la selección al cargar la página
     window.onload = function() {
-        // Check if the page has been visited before
-        if (sessionStorage.getItem('selectedCountry')) {
-            sessionStorage.removeItem('selectedCountry');
-            // Reload the page to reset the state
-            window.location.reload();
-        }
+    if (sessionStorage.getItem('selectedCountry')) {
+        let selectedCountry = sessionStorage.getItem('selectedCountry');
+        // Realiza una acción para continuar con la selección del país
+        window.location.href = selectedCountry;
+    } else {
+        // Continuar con la lógica normal si no hay país seleccionado
         // Change text based on browser language
         const userLang = navigator.language || navigator.userLanguage;
         if (!userLang.startsWith('es')) {
