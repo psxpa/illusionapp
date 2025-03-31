@@ -366,6 +366,7 @@
         },
         {
           "name": "LGD TV",
+          "imageUrl": "https://i.imghippo.com/files/n9818YN.jpg",
           "embedHtml": <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -412,9 +413,7 @@
         ></iframe>
     </div>
 </body>
-</html>",
-          "imageUrl": "https://i.imghippo.com/files/n9818YN.jpg",
-          "active": true
+</html>"
         },
         {
           "name": "RHEMA TV",
