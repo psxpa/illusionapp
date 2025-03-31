@@ -366,10 +366,9 @@
         },
         {
          "name": "LGD TV",
-         "iframeHTML": "<!DOCTYPE html><html lang=\"es\"><head><meta charset=\"UTF-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><title>Video con Fondo Negro</title><style>body, html { margin: 0; padding: 0; background-color: black; height: 100%; overflow: hidden; } .video-container { width: 100%; height: 100vh; display: flex; justify-content: center; align-items: center; background-color: black; } iframe { max-width: 100%; max-height: 100%; background-color: black; }</style></head><body><div class=\"video-container\"><iframe src=\"https://streamtv.intervenhosting.net/hybrid-stream-video-widget/iglesial\" width=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay\" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen style=\"aspect-ratio: 16 / 9; min-height: 320px;\"></iframe></div></body></html>"
+         "iframeHTML": "<div class=\"video-container\"><iframe src=\"https://streamtv.intervenhosting.net/hybrid-stream-video-widget/iglesial\" width=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay\" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen style=\"aspect-ratio: 16/9; min-height:320px; background-color:black;\"></iframe></div>",
          "imageUrl": "https://i.imghippo.com/files/n9818YN.jpg",
          "active": true
-         
         },
         {
         "name": "RHEMA TV",
