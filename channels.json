@@ -365,9 +365,10 @@
           "active": true
         },
         {
-  "name": "LGD TV",
-  "imageUrl": "https://i.imghippo.com/files/n9818YN.jpg",
-  "embedHtml": "<!DOCTYPE html><html lang=\"es\"><head><meta charset=\"UTF-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><title>Video</title><style>body,html{margin:0;padding:0;background:#000;height:100%;overflow:hidden}.video-container{width:100%;height:100vh;display:flex;justify-content:center;align-items:center;background:#000}iframe{max-width:100%;max-height:100%;background:#000}</style></head><body><div class=\"video-container\"><iframe src=\"https://streamtv.intervenhosting.net/hybrid-stream-video-widget/iglesial\" width=\"100%\" frameborder=\"0\" scrolling=\"no\" allow=\"autoplay\" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen style=\"aspect-ratio:16/9;min-height:320px\"></iframe></div></body></html>"
+         "name": "LGD TV",
+         "streamUrl": "https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8",
+         "imageUrl": "https://i.imghippo.com/files/n9818YN.jpg",
+         "active": true
         },
         {
         "name": "RHEMA TV",
