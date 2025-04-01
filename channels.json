@@ -366,9 +366,10 @@
         },
         {
          "name": "LGD TV",
-         "streamUrl": "https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8",
+         "streamUrl": "https://streamtv.intervenhosting.net/hybrid-stream-video-widget/iglesial",
          "imageUrl": "https://i.imghippo.com/files/n9818YN.jpg",
          "active": true
+         "isIframe": true
         },
         {
         "name": "RHEMA TV",
