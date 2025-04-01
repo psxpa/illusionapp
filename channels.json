@@ -426,7 +426,7 @@
         },
         {
           "name": "LGD TV",
-          "streamUrl": "https://streamtv.intervenhosting.net/hybrid-stream-video-widget/iglesial",
+          "streamUrl": "<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Video con Fondo Negro</title>\n    <style>\n        body, html {\n            margin: 0;\n            padding: 0;\n            background-color: black;\n            height: 100%;\n            overflow: hidden;\n        }\n        .video-container {\n            width: 100%;\n            height: 100vh;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            background-color: black;\n        }\n        iframe {\n            max-width: 100%;\n            max-height: 100%;\n            background-color: black;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"video-container\">\n        <iframe \n            src=\"https://streamtv.intervenhosting.net/hybrid-stream-video-widget/iglesial\" \n            width=\"100%\" \n            frameborder=\"0\" \n            scrolling=\"no\" \n            allow=\"autoplay\" \n            allowfullscreen \n            webkitallowfullscreen \n            mozallowfullscreen \n            oallowfullscreen \n            msallowfullscreen \n            style=\"aspect-ratio: 16 / 9; min-height: 320px;\"\n        ></iframe>\n    </div>\n</body>\n</html>",
           "imageUrl": "https://i.imghippo.com/files/n9818YN.jpg",
           "active": true,
           "isIframe": true
