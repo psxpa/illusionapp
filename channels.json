@@ -502,7 +502,7 @@
           "isIframe": false
         },
         {
-          "name": "CTN INTERNACIONAL",
+          "name": " INTERNACIONAL",
           "streamUrl": "https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8",
           "imageUrl": "https://i.imghippo.com/files/Mi1099UgQ.jpg",
           "active": true,
@@ -661,7 +661,7 @@
         },
         {
           "name": "CTN LIFESTYLE",
-          "streamUrl": "https://streamtv.intervenhosting.net/hybrid-stream-video-widget/iglesial",
+          "streamUrl": "https://www.lightcast.com/embed/player.php?&id=55513&type=live",
           "imageUrl": "https://i.imghippo.com/files/xfA2571NRU.jpg",
           "active": true,
           "isIframe": true
