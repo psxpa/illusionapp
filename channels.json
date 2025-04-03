@@ -661,7 +661,7 @@
         },
         {
           "name": "CTN LIFESTYLE",
-          "streamUrl": "//app.jetstream.studio/livestream/embed/jsl:umb9869epxtpkBzU7rim",
+          "streamUrl": "https://www.lightcast.com/embed/player.php?",
           "imageUrl": "https://i.imghippo.com/files/xfA2571NRU.jpg",
           "active": true,
           "isIframe": true
