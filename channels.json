@@ -661,7 +661,7 @@
         },
         {
           "name": "CTN LIFESTYLE",
-          "streamUrl": "https://www.lightcast.com/embed/player.php?",
+          "streamUrl": "https://www.lightcast.com/embed/player.php?responsive=1&skinColor=000000&autoPlay=1&playlistPos=inside&playlistSize=350&tvButtonID=lightcast&id=50859&type=live&appId=5282&from_site=WebApp&site=webapp&autoStart=0&skipPreviewPlayer=1",
           "imageUrl": "https://i.imghippo.com/files/xfA2571NRU.jpg",
           "active": true,
           "isIframe": true
