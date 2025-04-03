@@ -896,10 +896,10 @@
         },
         {
           "name": "IURD TV",
-          "streamUrl": "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8",
+          "streamUrl": "https://iframe.dacast.com/live/24b61c472d976075ed46ad1eb530e6ae/fdc85437d7631afb59fe3767dcc464dd",
           "imageUrl": "https://i.imghippo.com/files/kDYo3919ld.jpg",
           "active": true,
-          "isIframe": false
+          "isIframe": true
         },
         {
           "name": "TV MÃO AMIGA",
