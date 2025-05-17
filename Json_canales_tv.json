@@ -256,11 +256,11 @@
           "streamUrl": "https://6096a9cf11ae5.streamlock.net:1943/live/missiontv_720p/chunklist_w1171385503.m3u8"
         },
         {
-          "name": "TBN UK",
+          "name": "TBN",
           "active": true,
           "imageUrl": "https://i.imgur.com/FxqxX8X.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://live-tbn-ssai.simplestreamcdn.com/v1/manifest/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/97745a6a-5d2e-4d20-bcbd-78f87b9c43e8/0.m3u8"
+          "isIframe": true,
+          "streamUrl": "https://www.livehdtv.com/yayin/?kanal=350&yayin=&guvenlik=$2y$10$qEHEoImoh5I4eTQzKsr0N.sxJANExnyZ6mbMshT1pRjsGpYq16wIe"
         },
         {
           "name": "PTL TV NETWORK",
