@@ -1,7 +1,6 @@
 {
   "allowed_urls": [
     "hybrid-stream",
-    "iframe",
     "widget",
     "lightcast.com",
     "brightcove.net",
