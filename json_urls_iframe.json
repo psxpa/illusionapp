@@ -1,14 +1,6 @@
 {
   "allowed_urls": [
-    "hybrid-stream",
-    "iframe",
-    "widget",
-    "lightcast.com",
-    "embed",
-    "livestreamcdn.net",
-    "alientovision.com",
-    "unored.tv",
-    "app.jetstream",
+    
     "player.php"
   ]
 }
