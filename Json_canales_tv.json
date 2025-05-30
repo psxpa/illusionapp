@@ -683,8 +683,8 @@
           "name": "VISION TV",
           "active": true,
           "imageUrl": "https://i.imgur.com/T8NiCX5.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://stmv1.voxhdnet.com/wilfredo9842/wilfredo9842/chunklist_w191188629.m3u8"
+          "isIframe": true,
+          "streamUrl": "https://ssh101.com/sldp/index.php?id=visiononline"
         },
         {
           "name": "CANAL 30 TV BETHEL",
