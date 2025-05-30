@@ -386,7 +386,7 @@
           "streamUrl": "https://s.emisoras.tv:8081/diostevetv/tracks-v1a1/mono.m3u8"
         },
         {
-          "name": "HOSANNA VISIÓN",
+          "name": "HOSANNA N",
           "active": true,
           "imageUrl": "https://i.imgur.com/VR39ohr.jpeg",
           "isIframe": false,
@@ -628,7 +628,7 @@
           "active": true,
           "imageUrl": "https://i.imgur.com/37XNOgw.jpeg",
           "isIframe": false,
-          "streamUrl": "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8"
+          "streamUrl": "https://antmedia.cablenrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8"
         },
         {
           "name": "LA ROCA TV",
@@ -682,7 +682,7 @@
         {
           "name": "VISION TV",
           "active": true,
-          "imageUrl": "https://i.imgur.com/T8NiCX5.jpeg",
+          "imageUrl": "https://i.imgur.com/FmZb7CX.jpeg",
           "isIframe": true,
           "streamUrl": "https://ssh101.com/sldp/index.php?id=visiononline"
         },
