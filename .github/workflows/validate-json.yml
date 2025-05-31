@@ -1,5 +1,6 @@
-name: 🔍 Validate JSON Files
-on: 
+name: Validate JSON Files
+
+on:
   push:
     branches: [ main, master ]
   pull_request:
@@ -9,17 +10,17 @@ jobs:
   validate-json:
     runs-on: ubuntu-latest
     steps:
-    - name: 📥 Checkout repository
+    - name: Checkout repository
       uses: actions/checkout@v3
       
-    - name: 🐍 Setup Python
+    - name: Setup Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.x'
         
-    - name: ✅ Validate JSON syntax
+    - name: Validate JSON syntax
       run: |
-        echo "🔍 Validating JSON files..."
+        echo "Validating JSON files..."
         for file in *.json; do
           if [ -f "$file" ]; then
             echo "Checking $file..."
@@ -33,9 +34,9 @@ jobs:
           fi
         done
         
-    - name: 🧪 Validate JSON structure
+    - name: Validate JSON structure
       run: |
-        echo "🔍 Validating JSON structure..."
+        echo "Validating JSON structure..."
         python3 << 'EOF'
         import json
         import sys
@@ -44,14 +45,12 @@ jobs:
             with open('Json_canales_tv.json', 'r', encoding='utf-8') as f:
                 data = json.load(f)
             
-            # Validar estructura requerida
             required_keys = ['version', 'languages', 'lastUpdate']
             for key in required_keys:
                 if key not in data:
                     print(f"❌ Missing required key: {key}")
                     sys.exit(1)
             
-            # Validar idiomas
             required_langs = ['en', 'es', 'pt']
             for lang in required_langs:
                 if lang not in data['languages']:
