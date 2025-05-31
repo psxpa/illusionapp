@@ -2,7 +2,7 @@
   "version": "1.1",
   "languages": {
     "en": {
-      "channels": [
+      "channels": 
         {
           "name": "3ABN Kids",
           "active": true,
