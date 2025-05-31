@@ -44,7 +44,24 @@ jobs:
                 lines = content.split('\n')
                 error_line = e.lineno
                 error_col = e.colno
+                real_error_line = error_line
                 
+                # DETECTAR ERROR REAL: Retroceder para errores de coma
+                if "Expecting ',' delimiter" in e.msg or "Expecting ','" in e.msg:
+                    # Buscar línea anterior que necesita coma
+                    for i in range(error_line - 1, max(0, error_line - 4), -1):
+                        if i > 0 and i <= len(lines):
+                            line_content = lines[i-1].strip()
+                            # Si la línea termina con " o } sin coma, ahí está el error real
+                            if (line_content.endswith('"') or line_content.endswith('}')) and not line_content.endswith(','):
+                                real_error_line = i
+                                print(f"🎯 REAL error at line {real_error_line} (Python detected at line {error_line})")
+                                print(f"💡 Error: Missing comma at end of line")
+                                print(f"📄 Line {real_error_line}: {lines[real_error_line-1].strip()}")
+                                print(f"    Should be: {lines[real_error_line-1].strip()},")
+                                return False
+                
+                # Error normal (no de coma) - mostrar como antes
                 print(f"📍 Error at line {error_line}, column {error_col}")
                 print(f"💡 Error: {e.msg}")
                 
