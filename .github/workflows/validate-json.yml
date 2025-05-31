@@ -21,18 +21,53 @@ jobs:
     - name: Validate JSON syntax
       run: |
         echo "Validating JSON files..."
-        for file in *.json; do
-          if [ -f "$file" ]; then
-            echo "Checking $file..."
-            python -m json.tool "$file" > /dev/null
-            if [ $? -eq 0 ]; then
-              echo "✅ $file is valid JSON"
-            else
-              echo "❌ $file has syntax errors"
-              exit 1
-            fi
-          fi
-        done
+        python3 << 'EOF'
+        import json
+        import re
+        import sys
+        import os
+        
+        def validate_json_precise(filename):
+            try:
+                with open(filename, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                    
+                # Intentar parsear
+                json.loads(content)
+                print(f"✅ {filename} is valid JSON")
+                return True
+                
+            except json.JSONDecodeError as e:
+                print(f"❌ {filename} has syntax errors")
+                
+                # Obtener línea exacta
+                lines = content.split('\n')
+                error_line = e.lineno
+                error_col = e.colno
+                
+                print(f"📍 Error at line {error_line}, column {error_col}")
+                print(f"💡 Error: {e.msg}")
+                
+                # Mostrar contexto
+                if error_line <= len(lines):
+                    print(f"📄 Line {error_line}: {lines[error_line-1].strip()}")
+                    print(f"    {' ' * (error_col-1)}^")
+                    
+                return False
+            except Exception as e:
+                print(f"❌ Error reading {filename}: {e}")
+                return False
+        
+        # Validar todos los JSON
+        all_valid = True
+        for filename in os.listdir('.'):
+            if filename.endswith('.json'):
+                if not validate_json_precise(filename):
+                    all_valid = False
+                    
+        if not all_valid:
+            sys.exit(1)
+        EOF
         
     - name: Validate JSON structure
       run: |
