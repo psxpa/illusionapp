@@ -37,7 +37,7 @@
           "imageUrl": "https://i.imgur.com/4iyXOpd.jpeg",
           "isIframe": false,
           "streamUrl": "https://livecdn.live247stream.com/eternallife/tv/playlist.m3u8"
-        },
+        }
         {
           "name": "CBN News",
           "active": true,
