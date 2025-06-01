@@ -46,11 +46,11 @@
           "streamUrl": "https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/us-east-1/734546207001/profile_1/chunklist.m3u8"
         },
         {
-          "name": "TBN INSPIRE",
+          "name": "TBN PACIFIC",
           "active": true,
-          "imageUrl": "https://i.imgur.com/E7m3Sql.jpeg",
+          "imageUrl": "https://i.imgur.com/RlmEw6o.jpeg",
           "isIframe": false,
-          "streamUrl": "https://tgn.bozztv.com/dvrfl05/gin-tbninspire/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMy8yMDI1IDU6NTA6MzYgUE0maGFzaF92YWx1ZT1EMG11UVpubmgzeW1yWkxDZUdqMXhBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI="
+          "streamUrl": "https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/TBNPacificTV/live/playlist.m3u8?"
         },
         {
           "name": "Better Health TV",
