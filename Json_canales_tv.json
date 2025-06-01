@@ -1095,9 +1095,16 @@
           "imageUrl": "https://i.imgur.com/JFYL1Bp.jpeg",
           "isIframe": false,
           "streamUrl": "https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
+        },
+        {
+          "name": "TV AVIVANDO NAÇÕES",
+          "active": true,
+          "imageUrl": "https://i.imgur.com/Xmr0L7g.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8"
         }
       ]
     }
   },
-  "lastUpdate": "2025-04-02"
+  "lastUpdate": "2025-05-31"
 }
