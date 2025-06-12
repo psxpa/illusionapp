@@ -6,5 +6,2565 @@
     "categoria": "entretenimiento",
     "imagenUrl": "https://i.imgur.com/XolGbhL.jpeg",
     "streamUrl": "https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8"
-    }
+  },
+  {
+    "id": 2,
+    "nombre": "13 Cultura",
+    "descripcion": "Cultura-Chile",
+    "categoria": "cultura",
+    "imagenUrl": "https://i.imghippo.com/files/qss9x1727120593.png",
+    "streamUrl": "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8"
+  },
+  {
+    "id": 3,
+    "nombre": "13 Festival",
+    "descripcion": "Entretenimiento-Chile",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/Oz6qU1723481229.png",
+    "streamUrl": "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8"
+  },
+  {
+    "id": 4,
+    "nombre": "13 Max",
+    "descripcion": "Entretenimiento-Chile",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/9Iq5L1723481350.png",
+    "streamUrl": "http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8"
+  },
+  {
+    "id": 5,
+    "nombre": "13 Realities",
+    "descripcion": "Entretenimiento-Chile",
+    "categoria": "kids",
+    "imagenUrl": "https://i.imghippo.com/files/dLaov1723483330.png",
+    "streamUrl": "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8"
+  },
+  {
+    "id": 6,
+    "nombre": "13 Teleseries",
+    "descripcion": "Entretenimiento-Chile",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/DZ8w61723483499.png",
+    "streamUrl": "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"
+  },
+  {
+    "id": 7,
+    "nombre": "AFV en Español",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/HFhbQ1723486588.png",
+    "streamUrl": "https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8"
+  },
+  {
+    "id": 8,
+    "nombre": "88 Stereo",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/LoUYt1723483935.png",
+    "streamUrl": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8"
+  },
+  {
+    "id": 9,
+    "nombre": "101 Antequera",
+    "descripcion": "Misceláneo",
+    "categoria": "misceláneo",
+    "imagenUrl": "https://i.imghippo.com/files/qn2qJ1723484074.png",
+    "streamUrl": "https://www.streaming101tv.es:19360/antequera/antequera.m3u8"
+  },
+  {
+    "id": 10,
+    "nombre": "504 TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/Rij8p1723495491.png",
+    "streamUrl": "https://mediacp.us:8081/504tvhn/index.m3u8"
+  },
+  {
+    "id": 11,
+    "nombre": "Agenda 56 TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/U2AnH1723491054.png",
+    "streamUrl": "https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8"
+  },
+  {
+    "id": 12,
+    "nombre": "ABC TV",
+    "descripcion": "Notocias-Paraguay",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/7u8yF1723409990.jpg",
+    "streamUrl": "https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8"
+  },
+  {
+    "id": 13,
+    "nombre": "ACS NETWORK",
+    "descripcion": "Animado",
+    "categoria": "animados",
+    "imagenUrl": "https://i.imghippo.com/files/Cf1Hx1723480547.png",
+    "streamUrl": "https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8"
+  },
+  {
+    "id": 14,
+    "nombre": "Activa TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/oh1Kw1723484293.png",
+    "streamUrl": "https://streamtv.mediasector.es/hls/activatv/index.m3u8"
+  },
+  {
+    "id": 15,
+    "nombre": "ADN 40",
+    "descripcion": "Noticias México y el Mundo",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/fkXjS1723484503.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8"
+  },
+  {
+    "id": 16,
+    "nombre": "Afortunadas TV",
+    "descripcion": "Misceláneo",
+    "categoria": "misceláneo",
+    "imagenUrl": "https://i.imghippo.com/files/hcKnA1723484651.png",
+    "streamUrl": "https://cloudvideo.servers10.com:8081/8108/index.m3u8"
+  },
+  {
+    "id": 17,
+    "nombre": "Agenda al día TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/hSyXJ1723491859.png",
+    "streamUrl": "https://cp.panelchs.com:1936/8156/8156/playlist.m3u8"
+  },
+  {
+    "id": 18,
+    "nombre": "Agro TV Apurimac",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/ZBMBW1723492348.png",
+    "streamUrl": "https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8"
+  },
+  {
+    "id": 19,
+    "nombre": "Aguacate TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/dG1lP1723493074.png",
+    "streamUrl": "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
+  },
+  {
+    "id": 20,
+    "nombre": "Alegre TV RD",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/8EZwx1723493553.png",
+    "streamUrl": "https://streamunoapp.com:3149/live/alegretvlive.m3u8"
+  },
+  {
+    "id": 21,
+    "nombre": "Alsacias Televisión",
+    "descripcion": "Entretenimiento-Hondura",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/iBUpO1723493934.png",
+    "streamUrl": "https://s.emisoras.tv:8081/atv/index.m3u8"
+  },
+  {
+    "id": 22,
+    "nombre": "AMX Noticias",
+    "descripcion": "Noticias",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/BvskB1723496315.png",
+    "streamUrl": "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8"
+  },
+  {
+    "id": 23,
+    "nombre": "Animastation",
+    "descripcion": "Anime",
+    "categoria": "animados",
+    "imagenUrl": "https://i.imghippo.com/files/pC3iL1723521081.png",
+    "streamUrl": "https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8"
+  },
+  {
+    "id": 24,
+    "nombre": "Animazone TV",
+    "descripcion": "Anime",
+    "categoria": "animados",
+    "imagenUrl": "https://i.imghippo.com/files/ub8Nu1723521590.png",
+    "streamUrl": "http://animezonetv.net/hls/stream.m3u8"
+  },
+  {
+    "id": 25,
+    "nombre": "Antofagasta TV",
+    "descripcion": "Noticias",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/q7v1h1723524697.png",
+    "streamUrl": "https://redirector.dps.live/hls/atv/playlist.m3u8"
+  },
+  {
+    "id": 26,
+    "nombre": "Atacama TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/3Zdju1723525190.png",
+    "streamUrl": "https://v2.tustreaming.cl/atacamatv/index.m3u8"
+  },
+  {
+    "id": 27,
+    "nombre": "ATN TV",
+    "descripcion": "Misceláneo",
+    "categoria": "misceláneo",
+    "imagenUrl": "https://i.imghippo.com/files/nvMRR1723525794.png",
+    "streamUrl": "https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8"
+  },
+  {
+    "id": 28,
+    "nombre": "ATV Argentina",
+    "descripcion": "Noticias",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/25YvD1723526698.png",
+    "streamUrl": "https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8"
+  },
+  {
+    "id": 29,
+    "nombre": "Aurora Media Films",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/nZ1JJ1723527209.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8"
+  },
+  {
+    "id": 30,
+    "nombre": "Austral TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/7cIKH1723528094.png",
+    "streamUrl": "https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8"
+  },
+  {
+    "id": 31,
+    "nombre": "AVC HD",
+    "descripcion": "Noticias- Uruguay",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/Bddko1723564241.png",
+    "streamUrl": "https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8"
+  },
+  {
+    "id": 32,
+    "nombre": "Awapa sports TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/otIpl1723565098.png",
+    "streamUrl": "https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8"
+  },
+  {
+    "id": 33,
+    "nombre": "AZA TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/IC3Wu1723566296.png",
+    "streamUrl": "https://mediacp.us:8081/azatvhd/index.m3u8"
+  },
+  {
+    "id": 34,
+    "nombre": "Azteca Guate",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/Pa2GR1723566521.png",
+    "streamUrl": "https://ch1-tva.duin.dev/hls/stream.m3u8"
+  },
+  {
+    "id": 35,
+    "nombre": "Azteca Internacional",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/x3nCB1723566766.png",
+    "streamUrl": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8"
+  },
+  {
+    "id": 36,
+    "nombre": "B15 Zacatecas",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/EN2cq1723568017.png",
+    "streamUrl": "https://s5.mexside.net:1936/envio2/envio2/chunklist_w700317579.m3u8"
+  },
+  {
+    "id": 37,
+    "nombre": "Bajo Techo Tv",
+    "descripcion": "Misceláneo- RD",
+    "categoria": "misceláneo",
+    "imagenUrl": "https://i.imghippo.com/files/QwFfM1723568672.png",
+    "streamUrl": "https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8"
+  },
+  {
+    "id": 38,
+    "nombre": "Bayres TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/UIHrB1723569175.png",
+    "streamUrl": "https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8"
+  },
+  {
+    "id": 39,
+    "nombre": "beIN SPORTS XTRA",
+    "descripcion": "Deportes",
+    "categoria": "deportes",
+    "imagenUrl": "https://i.imghippo.com/files/8UoA61723572893.png",
+    "streamUrl": "https://lnc-bein-espanol.tubi.video/playlist.m3u8"
+  },
+  {
+    "id": 40,
+    "nombre": "TV Bella  Asunción",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/Ntmua1723573369.png",
+    "streamUrl": "https://tvdatta.com:3602/stream/play.m3u8"
+  },
+  {
+    "id": 41,
+    "nombre": "Blu Radio",
+    "descripcion": "Noticias",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/GVCAb1723573904.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8"
+  },
+  {
+    "id": 42,
+    "nombre": "BNB TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/k55FB1723574655.png",
+    "streamUrl": "https://play.agenciastreaming.com:8081/bnblimalive/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "id": 43,
+    "nombre": "Boing",
+    "descripcion": "Animados-España",
+    "categoria": "animados",
+    "imagenUrl": "https://i.imghippo.com/files/EYDJu1723577029.png",
+    "streamUrl": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8"
+  },
+  {
+    "id": 44,
+    "nombre": "BTV-Bolivia TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/oMbq31723577565.png",
+    "streamUrl": "http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8"
+  },
+  {
+    "id": 45,
+    "nombre": "Bonao TV",
+    "descripcion": "Entretenimiento-RD",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/Y9lxC1723577979.png",
+    "streamUrl": "https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8"
+  },
+  {
+    "id": 46,
+    "nombre": "Boreal TV",
+    "descripcion": "Entretenimiento-RD",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/HWn3t1723578409.png",
+    "streamUrl": "https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8"
+  },
+  {
+    "id": 47,
+    "nombre": "Bruno Masi TV",
+    "descripcion": "Misceláneo",
+    "categoria": "misceláneo",
+    "imagenUrl": "https://i.imghippo.com/files/KVygi1723578860.png",
+    "streamUrl": "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8"
+  },
+  {
+    "id": 48,
+    "nombre": "BTA TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/t6q671723579287.png",
+    "streamUrl": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
+  },
+  {
+    "id": 49,
+    "nombre": "Buena TV",
+    "descripcion": "Entretenimiento-Puerto Rico",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/FaJgZ1723579634.png",
+    "streamUrl": "https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8"
+  },
+  {
+    "id": 50,
+    "nombre": "Big Channel TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/zOtW61723651962.png",
+    "streamUrl": "https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "id": 51,
+    "nombre": "Buin Somos Todos",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/EC7lW1723652362.png",
+    "streamUrl": "https://bst.buin.cl/0.m3u8"
+  },
+  {
+    "id": 52,
+    "nombre": "Cadena A",
+    "descripcion": "Noticias Bolivia",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/HCbp11723654480.png",
+    "streamUrl": "https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8"
+  },
+  {
+    "id": 53,
+    "nombre": "Camino Real TV",
+    "descripcion": "Misceláneo",
+    "categoria": "misceláneo",
+    "imagenUrl": "https://i.imghippo.com/files/AuESa1723655026.png",
+    "streamUrl": "https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8"
+  },
+  {
+    "id": 54,
+    "nombre": "Canal 1 TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/ypPzU1723655875.png",
+    "streamUrl": "https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8"
+  },
+  {
+    "id": 55,
+    "nombre": "Canal 2 de Ushuaia",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/xGekl1723656531.png",
+    "streamUrl": "https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8"
+  },
+  {
+    "id": 56,
+    "nombre": "Canal 2 Misiones",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/33qxm1723657231.png",
+    "streamUrl": "https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8"
+  },
+  {
+    "id": 57,
+    "nombre": "Canal 3 Impresionante",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/zC7gv1723657542.png",
+    "streamUrl": "https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8"
+  },
+  {
+    "id": 58,
+    "nombre": "Cini Friki",
+    "descripcion": "Películas- España",
+    "categoria": "películas",
+    "imagenUrl": "https://i.imghippo.com/files/6Xxny1723658087.png",
+    "streamUrl": "https://d2jqgm8hyia1n3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8hl8d0bx6aah/index.m3u8"
+  },
+  {
+    "id": 59,
+    "nombre": "Canal 4 Catalunya",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/AwyjE1723658664.png",
+    "streamUrl": "https://limited35.todostreaming.es/live/mitjans-livestream.m3u8"
+  },
+  {
+    "id": 60,
+    "nombre": "Canal 4 RD",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/pU5H11723659158.png",
+    "streamUrl": "https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8"
+  },
+  {
+    "id": 61,
+    "nombre": "Canal 4 Tenerife",
+    "descripcion": "Entretenimiento-España",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/uxsXD1723659987.png",
+    "streamUrl": "https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8"
+  },
+  {
+    "id": 62,
+    "nombre": "Canal 5 Santa Fe",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/pCuWg1723660281.png",
+    "streamUrl": "https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8"
+  },
+  {
+    "id": 63,
+    "nombre": "Canal 6 CDMX",
+    "descripcion": "Noticias",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/FVTdD1723663718.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8"
+  },
+  {
+    "id": 64,
+    "nombre": "Canal 7 Jujuy",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/oEZzT1723664668.png",
+    "streamUrl": "https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8"
+  },
+  {
+    "id": 65,
+    "nombre": "Canal 7 Neuquén",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/tDdnU1723665162.png",
+    "streamUrl": "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8"
+  },
+  {
+    "id": 66,
+    "nombre": "Canal 8 CR",
+    "descripcion": "Noticias",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/j4qYD1723665551.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8"
+  },
+  {
+    "id": 67,
+    "nombre": "Canal 8 Santa Rosa",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/5816a1723666037.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8"
+  },
+  {
+    "id": 68,
+    "nombre": "Canal 8 TV+",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/zIaO71723666374.png",
+    "streamUrl": "https://movil.ejeserver.com/live/canal8tv.m3u8"
+  },
+  {
+    "id": 69,
+    "nombre": "Canal 9 Barbe TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/8kwML1723666723.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8"
+  },
+  {
+    "id": 70,
+    "nombre": "Canal 9 Cosespu",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/AeXxs1723668267.png",
+    "streamUrl": "https://video2.lhdserver.es/canal9cosespu/live.m3u8"
+  },
+  {
+    "id": 71,
+    "nombre": "Canal 9 Ixchiguán",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/PVfAE1723668501.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8"
+  },
+  {
+    "id": 72,
+    "nombre": "Canal 10 Cancún",
+    "descripcion": "Misceláneo",
+    "categoria": "misceláneo",
+    "imagenUrl": "https://i.imghippo.com/files/xuucl1723668857.png",
+    "streamUrl": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8"
+  },
+  {
+    "id": 73,
+    "nombre": "Canal 17 TV Nosara",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/MNxea1723671806.png",
+    "streamUrl": "https://acceso.radiosportstv.online:3430/hybrid/play.m3u8"
+  },
+  {
+    "id": 74,
+    "nombre": "Canal 24 Horas Canarias",
+    "descripcion": "Noticias",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/Cn2xr1723672156.png",
+    "streamUrl": "https://rtvelivestream.akamaized.net/rtvesec/can/24h_can_main_dvr.m3u8"
+  },
+  {
+    "id": 75,
+    "nombre": "Canal 29 TVA",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/jssa11723672676.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3967/live/tvelive.m3u8"
+  },
+  {
+    "id": 76,
+    "nombre": "Canal 34 San Juan",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/7FFw41723698252.png",
+    "streamUrl": "https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8"
+  },
+  {
+    "id": 77,
+    "nombre": "Canal 35 Yepocapa",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/2AXcl1723698787.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8"
+  },
+  {
+    "id": 78,
+    "nombre": "Canal 74 San Antonio",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/Q2WXh1723699281.png",
+    "streamUrl": "https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8"
+  },
+  {
+    "id": 79,
+    "nombre": "Canal 100 Chinique",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/Shtk01723699844.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8"
+  },
+  {
+    "id": 80,
+    "nombre": "Canal Nets",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/kyYli1723702793.png",
+    "streamUrl": "https://movil.ejeserver.com/live/nets.m3u8"
+  },
+  {
+    "id": 81,
+    "nombre": "Canal Sur Andalucía 2",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/OMuTA1723748165.png",
+    "streamUrl": "https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8"
+  },
+  {
+    "id": 82,
+    "nombre": "Canal TRO",
+    "descripcion": "Cultura",
+    "categoria": "cultura",
+    "imagenUrl": "https://i.imghippo.com/files/kFTu71723748485.png",
+    "streamUrl": "https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8"
+  },
+  {
+    "id": 83,
+    "nombre": "Canal TRV",
+    "descripcion": "Noticias",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/yOk471723748805.png",
+    "streamUrl": "https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w1370182466.m3u8"
+  },
+  {
+    "id": 84,
+    "nombre": "Bum TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/jDR8Z1723749503.png",
+    "streamUrl": "https://movil.ejeserver.com/live/visiondorada.m3u8"
+  },
+  {
+    "id": 85,
+    "nombre": "Cantina TV",
+    "descripcion": "Entretenimiento-Música",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/YVY4r1723750044.png",
+    "streamUrl": "https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8"
+  },
+  {
+    "id": 86,
+    "nombre": "Capricho TV",
+    "descripcion": "Entretenimiento-Música",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/HAvM11723750345.png",
+    "streamUrl": "https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8"
+  },
+  {
+    "id": 87,
+    "nombre": "Cáscara TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/lZRa51723750950.png",
+    "streamUrl": "https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8"
+  },
+  {
+    "id": 88,
+    "nombre": "CGTN Español",
+    "descripcion": "Noticias",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/VH98e1723751533.png",
+    "streamUrl": "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8"
+  },
+  {
+    "id": 89,
+    "nombre": "Chivacoa TV Internacional",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/l0P361723751963.png",
+    "streamUrl": "https://glb.bozztv.com/glb/ssh101/1234chivacoa/index.m3u8"
+  },
+  {
+    "id": 90,
+    "nombre": "Cine Sony",
+    "descripcion": "Películas",
+    "categoria": "películas",
+    "imagenUrl": "https://i.imghippo.com/files/5kIxq1723752321.png",
+    "streamUrl": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8"
+  },
+  {
+    "id": 91,
+    "nombre": "Cine Sureño",
+    "descripcion": "Películas",
+    "categoria": "películas",
+    "imagenUrl": "https://i.imghippo.com/files/tAevE1723752845.png",
+    "streamUrl": "https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8"
+  },
+  {
+    "id": 92,
+    "nombre": "Cine Drama",
+    "descripcion": "Películas",
+    "categoria": "películas",
+    "imagenUrl": "https://i.imghippo.com/files/K8TmT1723753297.png",
+    "streamUrl": "https://amg01024-olympusat-cinereallatam-ono-ad-z5.amagi.tv/playlist/amg01024-olympusat-cinereallatam-ono/cb543d177b6c648a9ad43664cef343a7f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7454db80148b61299bce8c37683f03409a5e5afba358b1ebb05f42dc65f5e01a55912d46e59f43c8814aa6d2d75bcd5e8f27f3119b91a28c854380d09b669376e3301a16236d89bf6a87c64fb3e58f7b35ee3142381641f2b380a4017391505412feedceba71e95dcd8628ce6432ad099b4a976afe01c01cb4de5eb2a4adde41584bc2ae3f301e8ecbfaf2915b32b975b5b7fae2636e90e0157b5ebb0bb2467a01bed39168eead1492a56d868b790f37c484469e8fc0e985d88e439220d8c2f5946735240405069513b78861a945b712aedc1624485b0aae95589ec5b33731665cc8875bda011ecbade1f7f01c32cd69155be465ca1b01698c127e79e019cfc04406e5270e967b3ceb480a8e43f1bd5e9dcdbdc3143eb0eaf118910588b40ec1b806a7794e3a68d2a2762f2f257cd4fd280e3f69d34496b0a0802753488699ccfad31d39172928501985e6eb75e9f8aa5d1e19cc1d296c6d1d078317d77d91265b052bfd2889e1631384023263e2ae3b2f1806d691e7d2838f9f45b17a8499fc6e2b635f35bf6650773d87e6da01ad60482e225fb2e70529cc6fbca768f4b387a9a12ca8ac65a4396f1511bd9a756f2822bee797f9ea05f951f08715f9bac759dee68e133ff75450e492ffa2b75cf9e380ca4e4fb3a3430025eabbce20f14cb5768c51fbe262d7a65c081f354108c68b14cf5eb7de97c661fa7ee927690fab072f90d52e97462f3102d7872b8866b7353c572109aad3d6654f4bedb226eb5cdc2634c34d793c254ed28e0111d3a6275cd402776ea1afdc98ede437509b3eba25922034af595b7aba8c20bcd7fbb3db977f5805eeb3a967b2b5c7d49f818475284b241bb3f572793b982af98702a18a187fe486c2a5f966857aef30f4d5e478aa6cee9bf25eeea39cf8fa651e110f04ab8fa4ac66aed66072b275df423a0bdcdbb48602d5eefc5628a40d9ac66d088931715ac5ae8174eb23aae9342fa7ca296edc7a36cef7ec647bec21b42b2672e1c7e23f6398db6e732c345c46db2aacb5494b33a4f9eb9662e9b4f90234b8/187/1920x1080_6046040/index.m3u8"
+  },
+  {
+    "id": 93,
+    "nombre": "Cine Familia",
+    "descripcion": "Películas",
+    "categoria": "películas",
+    "imagenUrl": "https://i.imghippo.com/files/IXmEd1723753626.png",
+    "streamUrl": "https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/playlist/amg01024-olympusat-juntos-ono/cb543d177b6c648a9ad43664cef343a7f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7454db80148b61299bce8c37683f03409a5e5afba358b1ebe65c13db39a9b54f55912d46e49f43c8814aa6888658cf5ed223f641c9c7a48cd242d1819b42936de3301a162b6ea68c7887bb3edcbbca334df61b3d552145f4aa85ff4d25f4212938a9c6e5913fb279a98821922e33b204ea0dee70d33df90dfeb44fa4a8ec8943163dfcc20d6372f5b4f3deab626bed3ef8f2b1df2934f398157c54876cc832143a85f3cf1881b163fcc2208ab9271234d99c558e8eb397a1969f4f9911fc9d8cf251434a704a03964d9d946cd62caf10c2a835335948709bc02baeefd85a232c48838e4cd1616ad3b4ae8dcb1c3ede651553e569dc5511639643061be429ead4297e855466ef5f3be95d309454b2bb23f8fdb58f613ab1cd8946f17b9dd660b3a658fc074d5806a0bc2d4f55736ec4e174080f6cd1499693a09f7f1d14fce497b18f442f10771140098ef6f13e9881cd661913d75a2565674a67fc6dd76dcc4e4a0f3ed91fa1cf6315d55c594788a63b4e147985f7a1938ec0cb47ac0db5a599681615775155526f570635530f38875a7b5f383bb00e6a42b006283a80f7e7c4e94dea53fe1ec7166d0677cdb0364c0c407a600be1e20024bb60f26fd2abcb52cde28c52668c28ba436df63939ee999fe09f357ca0b8580f6e99d02ec43329c257e42a86d37dd9fa355458542a3983f1c0f369249ebabefd09b11957824d4a32d5bdeeb6c46f55e6de7a323d085816459f17460395d5cf6d0c77edf372a80da6a362a04c503c28549eac341ed7b8394cc7754969abf69fd0edd25544832ed565d96c0691520f05e8d877bfd0e5bda9d12f1c2bf1828660f7e18488c7d38a017b08673fd2817c5d65d72bf5c356b3fb532ca1d9c5b59a5d9673e327b2cbe37db372f39dce7bc4faaaf7f57318494917ad91859d3aeffc5b15f52ba10e477ebb85ebf369fea0cc2470f852ed804723ee097753cda4ec178a4c9ce32a21f3887953b6256692f89ec67d03e816f454968fc3ae9fe633f907d8889016e683da/143/1920x1080_6046040/index.m3u8"
+  },
+  {
+    "id": 94,
+    "nombre": "Cine Terror",
+    "descripcion": "Películas",
+    "categoria": "películas",
+    "imagenUrl": "https://i.imghippo.com/files/ROFPD1723753867.png",
+    "streamUrl": "https://amg01024-olympusat-horrorfy-ono-ad-ky.amagi.tv/playlist/amg01024-olympusat-horrorfy-ono/cb543d177b6c648a9ad43664cef343a7f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7454db80148b61299bce8c37683f03409a5e5afba358b1ebe35a11db6da6e31a55912d46e49f43c8814aa689dd5ecb5ed370a4109497f783811681839b43936ee3301a162172899078e1aa37d78ac02153f2702c555054f6b3acfc5b32824b462e8e95bfbc6af25dc1853c8c7022a8018c01a2228f6e9e3ffdb424d1acbfcc0c4029b4fb487528b2e09f9fe93941fd0c85aafdc9636fc3b95b6f50de23de302e3d84eb85178bce5a92b3358cb76c0e628dfb229a99a1cdebb98938de4f8a9ea2cb391b1b620007d10ba3cd69832f8b7afd9b4272081d13f5ca0dc7d6815c6a1325ec815ac75d12aae48782cb7c58a0014b00ab0ab05a017f82336972f7288bec5618a63403823c33fa54309302f8bd6cd3b5dee0320defb0ad25fe6bfcfb0edce270ca075d0958c798464a56736dc2e7700c3360b1238eb79bd859275a9b9daaffc44076122b1b2060e188e1629e8bd43f5315ce5e7c181e7e169217987ccc3f591227df1fd0b57b12ef627014c8896525300097cca2cf86c6da7bbb7edeca8f51455d7f71b83631105c3bd7e72895deaefc1b27e23f4501db375b4ceb98c897e1ea0ce0bd1467bcff7619a8de18531d5a3342079e8261d45f98e1754a7e483dbe84bd134b8431a2413397c4c52e85856822cd6ee2cb0f6314a7c128d37a23c41ed56b8cd730e8b15b07113d0a2890ca3c952ef8a00ecb1d076d8d36d5ed77cca31dd0139c0877ea94583a30081a277e5c77210d8217b40e0f56e3a62eea51e7a400e712147b084ed0860f4995a85928dc642e2ef5fb8bbca4c45544912eec239d294387471d22e4fb3de8a8bbe7b5d23c034e8ae0eb049089bcace09a8a2a77006970bcc45c5e789166d38415eea01833bedbddab8a20c73bb2758885b02ff635ef9eef59e0c3cb8c8e1d7d695359f8cee0e9548aec7822954f9b1c7d56ccf0a79e03dcd5b30074ef2790a60f7ca1337b1d84ebcc0dc62fb7f12a6880a36c4ade603dd1ea9c77459c3cc6c053b23a7c5508911fd24b8a94eb6778a923da2e50da6c/194/1920x1080_6046040/index.m3u8"
+  },
+  {
+    "id": 95,
+    "nombre": "Cine Acción",
+    "descripcion": "Películas",
+    "categoria": "películas",
+    "imagenUrl": "https://i.imghippo.com/files/XZPK11723783428.png",
+    "streamUrl": "https://topcinelatam-freetv.amagi.tv/TopCineLATAMx/master_5.m3u8"
+  },
+  {
+    "id": 96,
+    "nombre": "Canal Sony Novelas",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/IlIjS1723784283.png",
+    "streamUrl": "https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8"
+  },
+  {
+    "id": 97,
+    "nombre": "Cine Feel Good",
+    "descripcion": "Películas",
+    "categoria": "películas",
+    "imagenUrl": "https://i.imghippo.com/files/yTX3B1723785019.png",
+    "streamUrl": "https://jmp2.uk/SamsungTVPlus/ESBC2700012RP.m3u8"
+  },
+  {
+    "id": 98,
+    "nombre": "Cines Verdi TV",
+    "descripcion": "Películas",
+    "categoria": "películas",
+    "imagenUrl": "https://i.imghippo.com/files/aukbS1723785302.png",
+    "streamUrl": "https://jmp2.uk/SamsungTVPlus/ESBC2700011AZ.m3u8"
+  },
+  {
+    "id": 99,
+    "nombre": "Cine Español - Rakuten TV",
+    "descripcion": "Películas",
+    "categoria": "películas",
+    "imagenUrl": "https://i.imghippo.com/files/OVCl81723786020.png",
+    "streamUrl": "https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w1370182466.m3u8"
+  },
+  {
+    "id": 100,
+    "nombre": "Citytv Bogotá",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/7sQUT1723786460.png",
+    "streamUrl": "https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8"
+  },
+  {
+    "id": 101,
+    "nombre": "Clan TVE Internacional",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/UTrfC1723786785.png",
+    "streamUrl": "https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8"
+  },
+  {
+    "id": 102,
+    "nombre": "Claro Televisión Dominican",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/sHyxE1723837083.jpg",
+    "streamUrl": "https://vsrv2.az-streamingserver.com:3960/live/claroteledomlive.m3u8"
+  },
+  {
+    "id": 103,
+    "nombre": "Click TV (Coronel)",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/9esKB1723837867.png",
+    "streamUrl": "https://v2.tustreaming.cl/clicktv/playlist.m3u8"
+  },
+  {
+    "id": 104,
+    "nombre": "CN3 Pinamar",
+    "descripcion": "Misceláneo",
+    "categoria": "misceláneo",
+    "imagenUrl": "https://i.imghippo.com/files/RbigO1723841801.png",
+    "streamUrl": "https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8"
+  },
+  {
+    "id": 105,
+    "nombre": "COCO TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/JFqpS1723842249.png",
+    "streamUrl": "https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8"
+  },
+  {
+    "id": 106,
+    "nombre": "Colosal TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/H5nhC1723842579.png",
+    "streamUrl": "http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8"
+  },
+  {
+    "id": 107,
+    "nombre": "Conecta 2 TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/ku93n1723843032.png",
+    "streamUrl": "https://servilive.com:3114/live/liveulive.m3u8"
+  },
+  {
+    "id": 108,
+    "nombre": "Conecta TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/fjvUR1723845729.png",
+    "streamUrl": "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8"
+  },
+  {
+    "id": 109,
+    "nombre": "Contivision",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/KPuYb1723846025.png",
+    "streamUrl": "https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8"
+  },
+  {
+    "id": 110,
+    "nombre": "Canal Vinilo TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/fG0Rc1723846364.png",
+    "streamUrl": "https://live.obslivestream.com/controversiatv/index.m3u8"
+  },
+  {
+    "id": 111,
+    "nombre": "Cosmos TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/hpVg81723846689.png",
+    "streamUrl": "https://v1.tustreaming.cl/cosmostv/index.m3u8"
+  },
+  {
+    "id": 112,
+    "nombre": "Coto Brus TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/t8bWD1723847721.png",
+    "streamUrl": "https://cloudvideo.servers10.com:8081/8030/index.m3u8"
+  },
+  {
+    "id": 113,
+    "nombre": "CR Televisión Moyobamba",
+    "descripcion": "Misceláneo",
+    "categoria": "misceláneo",
+    "imagenUrl": "https://i.imghippo.com/files/Op5f81723862729.png",
+    "streamUrl": "https://live.obslivestream.com/crtvmux/index.m3u8"
+  },
+  {
+    "id": 114,
+    "nombre": "CRTV Choluteca",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/Hb93f1723866016.png",
+    "streamUrl": "https://www.televinterserver.com:19360/crtvcholuteca/crtvcholuteca.m3u8"
+  },
+  {
+    "id": 115,
+    "nombre": "CromTV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/QqQiE1723865747.png",
+    "streamUrl": "https://cnn.essastream.com:3333/live/cromtvlive.m3u8"
+  },
+  {
+    "id": 116,
+    "nombre": "CSI en Español",
+    "descripcion": "Películas",
+    "categoria": "películas",
+    "imagenUrl": "https://i.imghippo.com/files/t82qb1723867346.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285532-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ec065848-4bdc-45cb-ad2c-0ef96c23d424"
+  },
+  {
+    "id": 117,
+    "nombre": "CTV Internacional",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/OpJu91723868324.png",
+    "streamUrl": "https://mediacp.us:8081/ctvhn/index.m3u8"
+  },
+  {
+    "id": 118,
+    "nombre": "Cuatro",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/GQ0No1723869104.png",
+    "streamUrl": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8"
+  },
+  {
+    "id": 119,
+    "nombre": "Cubavisión Internacional",
+    "descripcion": "Misceláneo",
+    "categoria": "misceláneo",
+    "imagenUrl": "https://i.imghippo.com/files/v4rrg1723869355.png",
+    "streamUrl": "https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8"
+  },
+  {
+    "id": 120,
+    "nombre": "Cultura 24",
+    "descripcion": "Cultura",
+    "categoria": "cultura",
+    "imagenUrl": "https://i.imghippo.com/files/5gScN1723871937.png",
+    "streamUrl": "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8"
+  },
+  {
+    "id": 121,
+    "nombre": "Calu TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/Htkqj1723869835.png",
+    "streamUrl": "https://mc.servidor.stream:19360/8256/8256.m3u8"
+  },
+  {
+    "id": 122,
+    "nombre": "Digital809",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/ZFeOs1723870816.png",
+    "streamUrl": "https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8"
+  },
+  {
+    "id": 123,
+    "nombre": "Disney Channel-Geo-blocked",
+    "descripcion": "Animados",
+    "categoria": "animados",
+    "imagenUrl": "https://i.imghippo.com/files/SiPZU1723871095.png",
+    "streamUrl": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8"
+  },
+  {
+    "id": 124,
+    "nombre": "Distrito TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/ul3g51723871542.png",
+    "streamUrl": "https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8"
+  },
+  {
+    "id": 125,
+    "nombre": "DMJ Cuzco",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/YmPd31723871807.png",
+    "streamUrl": "https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8"
+  },
+  {
+    "id": 126,
+    "nombre": "Doble AA",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/m5akD1723872532.png",
+    "streamUrl": "https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8"
+  },
+  {
+    "id": 127,
+    "nombre": "Doble C Televisión",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/9GMOh1723872717.png",
+    "streamUrl": "https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8"
+  },
+  {
+    "id": 128,
+    "nombre": "DreikoTv-Panamá",
+    "descripcion": "Animados",
+    "categoria": "animados",
+    "imagenUrl": "https://i.imghippo.com/files/OIHCI1723872937.png",
+    "streamUrl": "https://cloudvideo.servers10.com:8081/8138/index.m3u8"
+  },
+  {
+    "id": 129,
+    "nombre": "Durán TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/GrdiR1723873353.png",
+    "streamUrl": "https://cloudvideo.servers10.com:8081/8074/index.m3u8"
+  },
+  {
+    "id": 130,
+    "nombre": "DW Español",
+    "descripcion": "Noticias",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/23zpJ1723873555.png",
+    "streamUrl": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8"
+  },
+  {
+    "id": 131,
+    "nombre": "Ecovisión TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/zfSC61723927287.png",
+    "streamUrl": "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8"
+  },
+  {
+    "id": 132,
+    "nombre": "EcuaMundo Radio TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/o2rhJ1723927560.png",
+    "streamUrl": "https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8"
+  },
+  {
+    "id": 133,
+    "nombre": "EDN TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/iQw0M1723927828.png",
+    "streamUrl": "https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8"
+  },
+  {
+    "id": 134,
+    "nombre": "ENERGEEK",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/PdN1v1723928749.png",
+    "streamUrl": "https://wifispeed.trapemn.tv:1936/energeek/canal-1p/playlist.m3u8"
+  },
+  {
+    "id": 135,
+    "nombre": "Educa TV",
+    "descripcion": "Misceláneo",
+    "categoria": "misceláneo",
+    "imagenUrl": "https://i.imghippo.com/files/7tOWn1723929085.png",
+    "streamUrl": "https://vid2.ecuamedia.net/educatv/live/playlist.m3u8"
+  },
+  {
+    "id": 136,
+    "nombre": "El Confidencial TV",
+    "descripcion": "Noticias",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/48r0g1723929918.png",
+    "streamUrl": "https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8"
+  },
+  {
+    "id": 137,
+    "nombre": "El Doce",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/y5Nvy1723930162.png",
+    "streamUrl": "https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8"
+  },
+  {
+    "id": 138,
+    "nombre": "El Ocho TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/7QQuC1723930357.png",
+    "streamUrl": "https://ythls.armelin.one/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8"
+  },
+  {
+    "id": 139,
+    "nombre": "EL PAÍS TV",
+    "descripcion": "Misceláneo",
+    "categoria": "misceláneo",
+    "imagenUrl": "https://i.imghippo.com/files/n1KRV1723930817.png",
+    "streamUrl": "https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8"
+  },
+  {
+    "id": 140,
+    "nombre": "El Sol Radio y Televisión",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/uTqkv1723931190.png",
+    "streamUrl": "http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u"
+  },
+  {
+    "id": 141,
+    "nombre": "El Trece​ TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/EWpNZ1723931457.png",
+    "streamUrl": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
+  },
+  {
+    "id": 142,
+    "nombre": "eSports Max",
+    "descripcion": "Deportes",
+    "categoria": "deportes",
+    "imagenUrl": "https://i.imghippo.com/files/5wKq51723932064.png",
+    "streamUrl": "https://vcp13.myplaytv.com/esportsmax/esportsmax/playlist.m3u8"
+  },
+  {
+    "id": 143,
+    "nombre": "Estrella News",
+    "descripcion": "Noticias",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/9wMHG1723933934.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492e6d7f3f560007ab0f62/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a354-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=496a9c8b-4a81-4661-ac66-d226a913d5e9"
+  },
+  {
+    "id": 144,
+    "nombre": "Estrella TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/mpaur1723934167.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a355-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=73f1f3b5-9aab-48b7-b385-cc16a962802a"
+  },
+  {
+    "id": 145,
+    "nombre": "Es Tu Tele",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/ixfMf1723934355.png",
+    "streamUrl": "https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8"
+  },
+  {
+    "id": 146,
+    "nombre": "Euronews en Español",
+    "descripcion": "Noticias",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/44Dac1723934706.png",
+    "streamUrl": ""
+  },
+  {
+    "id": 147,
+    "nombre": "Expresa TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vljHi1723935270.png",
+    "streamUrl": "https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u88"
+  },
+  {
+    "id": 148,
+    "nombre": "Fanpop TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/i9tYj1723935673.png",
+    "streamUrl": "https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8"
+  },
+  {
+    "id": 149,
+    "nombre": "Farovisión",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/11JAN1723936843.png",
+    "streamUrl": "https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8"
+  },
+  {
+    "id": 150,
+    "nombre": "France 24 Español",
+    "descripcion": "Noticias",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/k8Pf91723938098.png",
+    "streamUrl": "https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8"
+  },
+  {
+    "id": 151,
+    "nombre": "Free tv Saber Más",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/Lfrpy1723938644.png",
+    "streamUrl": "https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/playlist/amg01024-olympusat-sabermas-ono/cb543d177b6c648a9ad43664cef343a7f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7454db80148b61299bce8c37683f03409a5e5afba358b1ebe35a45da6ea0b21855912d46e39f43c8814aa6d1825acb5e8370f646cb93f783d7118b809b4f9369e3301a16214289927697dc5eb3c8e80353f46229441b47eba280a40d56ef46474fb6f8ceb177fa61b8e351ae723ebc09964e8835992bae0ce7c75ca5a88fe9180953cac55f7269a1f5b0b5f9203db96afed09fb7077f96fb5a774bd060c837383984b3ed0681c621a0ec5befd868192b8e90558ba2bc82e2b5ff22f643ecd5f19d0974140d6e658759b1d469d53daf1bc2af437b112723ac9e468a82d05a422025c6835bd0404eeedd88dadc5b3d9f37495ebc32d80304359f313424bd28a9996b35d35e60eb3439e81620937decaa25e3a6d8fc745ddfba967bd141b5c560bbf706ba233f5612a3f35e3c2f2d2d8a9f0c67317dd00bedc0f5ed761d728f9dacae9a245260381341429ef0eb02f7e4aa2f0f13c447302e771f1acc51bc18de045a4e2fd90eecbf1d7b97031e38f4ab4d1d30129edca591948c850ba268c481fb2b2a3e4d75f3300a2b21d7b39b50fe3d58240e37ea1a777cad155354eb96d097ffea0a9fa54a840a8a7509b498f1a48b3309013abad20ee75fec9210b8e9b236aec1ac628801a1c17b7db0dfce78f0ada0ca4a1d99a9566315ff20c247125fac27d52589df7198935c12057e3d202b6bd69e2dd887e0b41b8823bb460d7de379fb98e6f3e66758e69c4b79535b117f1523375398b4ec482520023a2fba524567d8f5e32c753e3a55d7810111b6e9791d913444adc4cac4a6a2d00a1cc66fbb20873043ee600420e5c32ff9c39cc7bad63f1a5082f69c45b5f7dcda8cce9c72374b4d208bcd5a6272da0df99848b4fe4a32bcdfcbadf146a358ce79fb88bf25e17c87cebf05a1d9ddddf36518535f18ad93a1b44495ec4415fb48da4b2c0a95c5b1a732b589ea750d8037d78c096aa1296d1d98fb8963e61ff8b76964b7fd2a33b3533dcee7f32366b807af323d70f48dcc2e0cc6cd0b9c5a88d7902b499f030aeb575402fd2eac9fde890e5a72a2d437b1a7a1ce3e5d57410c9299825b703457/126/1920x1080_6046040/index.m3u8"
+  },
+  {
+    "id": 152,
+    "nombre": "Garabito TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/Bgzt01723938962.png",
+    "streamUrl": "https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8"
+  },
+  {
+    "id": 153,
+    "nombre": "Garage TV Latin America",
+    "descripcion": "Deportes-Motores",
+    "categoria": "deportes",
+    "imagenUrl": "https://i.imghippo.com/files/ZOcGA1724010622.png",
+    "streamUrl": "https://stream1.sersat.com/hls/garagetv.m3u8"
+  },
+  {
+    "id": 154,
+    "nombre": "GDMTV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/3LllY1724090718.png",
+    "streamUrl": "https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8"
+  },
+  {
+    "id": 155,
+    "nombre": "Genios TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/jszi91724091063.png",
+    "streamUrl": "https://live.obslivestream.com/geniostvmux/index.m3u8"
+  },
+  {
+    "id": 156,
+    "nombre": "Girovisual",
+    "descripcion": "Misceláneo",
+    "categoria": "misceláneo",
+    "imagenUrl": "https://i.imghippo.com/files/E8rhT1724092467.png",
+    "streamUrl": "https://unlimited1-us.dps.live/girovisual2/girovisual2.smil/girovisual2/livestream1/chunks.m3u8"
+  },
+  {
+    "id": 157,
+    "nombre": "Plous TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/UmtHc1724093121.png",
+    "streamUrl": "https://vcp7.myplaytv.com/glowtv/glowtv/playlist.m3u8"
+  },
+  {
+    "id": 158,
+    "nombre": "Grjngo Español",
+    "descripcion": "Películas",
+    "categoria": "películas",
+    "imagenUrl": "https://i.imghippo.com/files/XHbVr1724093833.png",
+    "streamUrl": "https://amogonetworx-grjngo-2-eu.plex.wurl.tv/4300.m3u8"
+  },
+  {
+    "id": 159,
+    "nombre": "Guadalupe TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/4BKao1724096949.png",
+    "streamUrl": "https://solo.disfrutaenlared.com:1936/guadalupetv/guadalupetv/playlist.m3u8"
+  },
+  {
+    "id": 160,
+    "nombre": "Guaro TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/LmVw11724097153.png",
+    "streamUrl": "https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8"
+  },
+  {
+    "id": 161,
+    "nombre": "Haina Vision TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/kV8iE1724097403.png",
+    "streamUrl": "https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8"
+  },
+  {
+    "id": 162,
+    "nombre": "Hell's Kitchen en español",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/MvJZL1724097971.png",
+    "streamUrl": "https://jmp2.uk/PlutoTV/6095ad97351eb0000754c1e6-alt.m3u8"
+  },
+  {
+    "id": 163,
+    "nombre": "Hispan TV",
+    "descripcion": "Noticias",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/yt3sS1724098999.png",
+    "streamUrl": "https://live.presstv.ir/hls/hispantv.m3u8"
+  },
+  {
+    "id": 164,
+    "nombre": "Hispania TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/XQXfg1724099192.png",
+    "streamUrl": "https://vcp8.myplaytv.com:1936/hispaniatv/hispaniatv/playlist.m3u8"
+  },
+  {
+    "id": 165,
+    "nombre": "Historias de Ultratumba",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/oxSRK1724099494.png",
+    "streamUrl": "https://jmp2.uk/PlutoTV/5f4d3696d938c900072679fd-alt.m3u8"
+  },
+  {
+    "id": 166,
+    "nombre": "Hoynet TV",
+    "descripcion": "Misceláneo",
+    "categoria": "miscelaneo",
+    "imagenUrl": "https://i.imghippo.com/files/TbS7o1724099963.png",
+    "streamUrl": "https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8"
+  },
+  {
+    "id": 167,
+    "nombre": "iCarly",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/FJ86C1724100799.png",
+    "streamUrl": "https://jmp2.uk/SamsungTVPlus/ESBA3300028OE.m3u8"
+  },
+  {
+    "id": 168,
+    "nombre": "Ice Pilots",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/eLmRV1724101191.png",
+    "streamUrl": "https://jmp2.uk/PlutoTV/62154548a2be360007cb02f0-alt.m3u8"
+  },
+  {
+    "id": 169,
+    "nombre": "Ideas en 5 Minutos",
+    "descripcion": "Misceláneo",
+    "categoria": "misceláneo",
+    "imagenUrl": "https://i.imghippo.com/files/wu2qk1724102367.png",
+    "streamUrl": "https://jmp2.uk/SamsungTVPlus/ESBC3500002PW.m3u8"
+  },
+  {
+    "id": 170,
+    "nombre": "Identidad TV",
+    "descripcion": "Noticias",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/RxgM91724102654.png",
+    "streamUrl": "https://cast.stre.live7.la:3322/live/identidadtvlive.m3u8"
+  },
+  {
+    "id": 171,
+    "nombre": "Imagen TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/UKnle1724102880.png",
+    "streamUrl": "https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8"
+  },
+  {
+    "id": 172,
+    "nombre": "Imagen TV +",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/UKnle1724102880.png",
+    "streamUrl": "https://jmp2.uk/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8"
+  },
+  {
+    "id": 173,
+    "nombre": "Imagen Universal TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/k3xDf1724103392.png",
+    "streamUrl": "https://imagenuniversaltv.net:3771/live/iutvlive.m3u8"
+  },
+  {
+    "id": 174,
+    "nombre": "Impacto Televisión",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/jJr3p1724103764.png",
+    "streamUrl": "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8"
+  },
+  {
+    "id": 175,
+    "nombre": "Infierno Sobre Ruedas",
+    "descripcion": "Películas-Serie",
+    "categoria": "películas",
+    "imagenUrl": "https://i.imghippo.com/files/qMV8I1724104038.png",
+    "streamUrl": "https://jmp2.uk/PlutoTV/64ff26233efb5100082eeb2e-alt.m3u8"
+  },
+  {
+    "id": 176,
+    "nombre": "Infinita TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/oOFVF1724104355.png",
+    "streamUrl": "https://s2.tvdatta.com:3753/hybrid/play.m3u8"
+  },
+  {
+    "id": 177,
+    "nombre": "InterTV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/hTWrx1724104834.png",
+    "streamUrl": "https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8"
+  },
+  {
+    "id": 178,
+    "nombre": "Investiga",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/IGmFh1724105114.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f99-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28f850bd-0f1c-4ede-b97c-ebd1d9a28126"
+  },
+  {
+    "id": 179,
+    "nombre": "IQ Channel",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/nCO0F1724209501.png",
+    "streamUrl": "https://rtmp.info/iqtv/envivo/playlist.m3u8"
+  },
+  {
+    "id": 180,
+    "nombre": "Iron Chef",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/ToLun1724211083.png",
+    "streamUrl": "https://jmp2.uk/PlutoTV/615b9855c6b58b000724477f-alt.m3u8"
+  },
+  {
+    "id": 181,
+    "nombre": "ITV Deportes",
+    "descripcion": "Deportes",
+    "categoria": "deportes",
+    "imagenUrl": "https://i.imghippo.com/files/JIJFX1724211344.png",
+    "streamUrl": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8"
+  },
+  {
+    "id": 182,
+    "nombre": "JBN TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/pFvVO1724211702.png",
+    "streamUrl": "https://mediacp.us:8081/jbntv/index.m3u8"
+  },
+  {
+    "id": 183,
+    "nombre": "Junco Tv",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/yKVtt1724213319.png",
+    "streamUrl": "https://mediacp.us:8081/juncotv/index.m3u8"
+  },
+  {
+    "id": 184,
+    "nombre": "Just For Laughs",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vk6xR1724213906.png",
+    "streamUrl": "https://jmp2.uk/SamsungTVPlus/ESBC2700008SK.m3u8"
+  },
+  {
+    "id": 185,
+    "nombre": "Justicia TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/JnwpP1724214135.png",
+    "streamUrl": "https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8"
+  },
+  {
+    "id": 186,
+    "nombre": "Kanal D Drama",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/aqebL1724214428.png",
+    "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8"
+  },
+  {
+    "id": 187,
+    "nombre": "Kidz Atresmedia",
+    "descripcion": "Animados",
+    "categoria": "animados",
+    "imagenUrl": "https://i.imghippo.com/files/rdOYK1724215115.png",
+    "streamUrl": "https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8"
+  },
+  {
+    "id": 188,
+    "nombre": "La 1",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/8NmRy1724215567.png",
+    "streamUrl": "https://jmp2.uk/SamsungTVPlus/ESBC4100001NZ.m3u8"
+  },
+  {
+    "id": 189,
+    "nombre": "La Caleta TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/MxsJb1724216225.png",
+    "streamUrl": "https://rdn.essastream.com:3168/live/lacaletatvlive.m3u8"
+  },
+  {
+    "id": 190,
+    "nombre": "La Hermandad Salsera",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/kqAAr1724216473.png",
+    "streamUrl": "https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8"
+  },
+  {
+    "id": 191,
+    "nombre": "La Imagen de Tierra Caliente",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/sdqW91724216713.png",
+    "streamUrl": "https://stream.oursnetworktv.com/latin/encoder82/playlist.m3u8"
+  },
+  {
+    "id": 192,
+    "nombre": "La Liga Inside",
+    "descripcion": "Deportes",
+    "categoria": "deportes",
+    "imagenUrl": "https://i.imghippo.com/files/ZVaRG1724217199.png",
+    "streamUrl": "https://jmp2.uk/SamsungTVPlus/ESBD3600001Q1.m3u8"
+  },
+  {
+    "id": 193,
+    "nombre": "LA MIA TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/31Mxl1724217428.png",
+    "streamUrl": "https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8"
+  },
+  {
+    "id": 194,
+    "nombre": "La Que Buena Atlanta",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/8vpw21724217648.png",
+    "streamUrl": "https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8"
+  },
+  {
+    "id": 195,
+    "nombre": "La-X",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/Slpfk1724218070.png",
+    "streamUrl": "https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8"
+  },
+  {
+    "id": 196,
+    "nombre": "Lancelot TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/kxkjQ1724218228.png",
+    "streamUrl": "https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8"
+  },
+  {
+    "id": 197,
+    "nombre": "Lapacho TV Canal 11",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/4Fmqw1724218407.png",
+    "streamUrl": "https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8"
+  },
+  {
+    "id": 198,
+    "nombre": "Las Pistas de Blue",
+    "descripcion": "Animados",
+    "categoria": "animados",
+    "imagenUrl": "https://i.imghippo.com/files/xwN6t1724218618.png",
+    "streamUrl": "https://jmp2.uk/PlutoTV/5f9996533c9de3000759ccb5-alt.m3u8"
+  },
+  {
+    "id": 199,
+    "nombre": "Las Reglas del Juego",
+    "descripcion": "Películas-Series",
+    "categoria": "películas",
+    "imagenUrl": "https://i.imghippo.com/files/6QvZ51724219211.png",
+    "streamUrl": "https://jmp2.uk/SamsungTVPlus/ESBA3300027H5.m3u8"
+  },
+  {
+    "id": 200,
+    "nombre": "Las Tortugas Ninja",
+    "descripcion": "Animados",
+    "categoria": "animados",
+    "imagenUrl": "https://i.imghippo.com/files/aPd0W1724300749.png",
+    "streamUrl": "https://jmp2.uk/PlutoTV/63dd5d7a4e83e700088fbca8-alt.m3u8"
+  },
+  {
+    "id": 201,
+    "nombre": "Latina",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/CeYyC1724300980.png",
+    "streamUrl": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8"
+  },
+  {
+    "id": 202,
+    "nombre": "Latina TV Internacional",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/xdejk1724301224.png",
+    "streamUrl": "https://ss3.domint.net:3156/ltv_str/latinatvint/playlist.m3u8"
+  },
+  {
+    "id": 203,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 204,
+    "nombre": "Invasiva Media",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vN0am1724367804.png",
+    "streamUrl": "https://tv.invasivamedia.com/hls/limtv.m3u88"
+  },
+  {
+    "id": 205,
+    "nombre": "Grupo Lima live",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/9t6Kr1724369363.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3245/stream/play.m3u8"
+  },
+  {
+    "id": 206,
+    "nombre": "Limón TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/3CEPT1724370858.png",
+    "streamUrl": "http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8"
+  },
+  {
+    "id": 207,
+    "nombre": "Lobo TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/9zL5n1724371976.png",
+    "streamUrl": "https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8"
+  },
+  {
+    "id": 208,
+    "nombre": "Quiz TV",
+    "descripcion": "Misceláneo",
+    "categoria": "misceláneo",
+    "imagenUrl": "https://i.imghippo.com/files/GWbaq1724372493.png",
+    "streamUrl": "https://stream.oursnetworktv.com/latin/encoder1/playlist.m3u8"
+  },
+  {
+    "id": 209,
+    "nombre": "LTV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/CbG4O1724384177.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 210,
+    "nombre": "Lucha Libre AAA",
+    "descripcion": "Deportes",
+    "categoria": "deportes",
+    "imagenUrl": "https://i.imghippo.com/files/OSzLO1724472544.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29b4c2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=827dfdd0-3b91-4726-a4ee-e0fff420c780"
+  },
+  {
+    "id": 211,
+    "nombre": "Magic Kids",
+    "descripcion": "Animados",
+    "categoria": "animados",
+    "imagenUrl": "https://i.imghippo.com/files/HwoGI1724472909.png",
+    "streamUrl": "https://magicstream.ddns.net/magicstream/stream.m3u8"
+  },
+  {
+    "id": 212,
+    "nombre": "Mas 23 TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/YXS4X1724473328.png",
+    "streamUrl": "https://vcp4.myplaytv.com:1936/mas23/mas23/playlist.m3u8"
+  },
+  {
+    "id": 213,
+    "nombre": "Matices TV",
+    "descripcion": "Noticias",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/aaS071724473629.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8"
+  },
+  {
+    "id": 214,
+    "nombre": "Max Anime TV",
+    "descripcion": "Animados",
+    "categoria": "animados",
+    "imagenUrl": "https://i.imghippo.com/files/KKg3S1724473992.png",
+    "streamUrl": "https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8"
+  },
+  {
+    "id": 215,
+    "nombre": "Maxivisión TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/C5k1J1724474292.png",
+    "streamUrl": "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8"
+  },
+  {
+    "id": 216,
+    "nombre": "MDA Televisión",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/yhOia1724474523.png",
+    "streamUrl": "https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8"
+  },
+  {
+    "id": 217,
+    "nombre": "Mega TV Jaen",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/Dv0yv1724474805.png",
+    "streamUrl": "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8"
+  },
+  {
+    "id": 219,
+    "nombre": "MegaBox",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/xnomG1724475007.png",
+    "streamUrl": "https://hdbox.chunklistv.com/live?stream=megabox"
+  },
+  {
+    "id": 220,
+    "nombre": "Meganoticias MX",
+    "descripcion": "Noticias",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/MfRTQ1724475192.png",
+    "streamUrl": "https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8"
+  },
+  {
+    "id": 221,
+    "nombre": "Megavisión Canal 19",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/P5UmT1724475383.png",
+    "streamUrl": "https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8"
+  },
+  {
+    "id": 222,
+    "nombre": "Megavisión TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/rVoGJ1724475601.png",
+    "streamUrl": "http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8"
+  },
+  {
+    "id": 223,
+    "nombre": "MetaVersus CR",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/OEWS01724475840.png",
+    "streamUrl": "https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8"
+  },
+  {
+    "id": 224,
+    "nombre": "Metro 12 TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/VUtZh1724476652.png",
+    "streamUrl": "https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8"
+  },
+  {
+    "id": 225,
+    "nombre": "Metro TV HD",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/3o0Th1724476939.png",
+    "streamUrl": "https://s.emisoras.tv:8081/metrotv/index.m3u8"
+  },
+  {
+    "id": 226,
+    "nombre": "Mexiquense TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/HuXU61724477182.png",
+    "streamUrl": "https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8"
+  },
+  {
+    "id": 227,
+    "nombre": "Microvision 10",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/evMdr1724477434.png",
+    "streamUrl": "https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8"
+  },
+  {
+    "id": 228,
+    "nombre": "mijas 3.40 tv",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/OcLrI1724477724.png",
+    "streamUrl": "https://streaming004.gestec-video.com/hls/MIJAS.m3u8"
+  },
+  {
+    "id": 229,
+    "nombre": "Milenial TV",
+    "descripcion": "Misceláneo",
+    "categoria": "misceláneo",
+    "imagenUrl": "https://i.imghippo.com/files/kaFup1724478220.png",
+    "streamUrl": "https://www.milenial.news/salida/milenial.m3u8"
+  },
+  {
+    "id": 230,
+    "nombre": "Milenio Television",
+    "descripcion": "Noticias",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/hiq1F1724643345.png",
+    "streamUrl": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY"
+  },
+  {
+    "id": 231,
+    "nombre": "MiTV",
+    "descripcion": "Misceláneo",
+    "categoria": "misceláneo",
+    "imagenUrl": "https://i.imghippo.com/files/Y3hdS1724643922.png",
+    "streamUrl": "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8"
+  },
+  {
+    "id": 232,
+    "nombre": "Motorvision TV",
+    "descripcion": "Deportes",
+    "categoria": "deportes",
+    "imagenUrl": "https://i.imghippo.com/files/glPzD1724645575.png",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorvision-tv-espanol/mv_es.m3u8?"
+  },
+  {
+    "id": 233,
+    "nombre": "Multivisión Sports",
+    "descripcion": "Deportes",
+    "categoria": "deportes",
+    "imagenUrl": "https://i.imghippo.com/files/CNRmN1724646181.png",
+    "streamUrl": "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8"
+  },
+  {
+    "id": 234,
+    "nombre": "MyTime Movie Network Mexico",
+    "descripcion": "Películas",
+    "categoria": "películas",
+    "imagenUrl": "https://i.imghippo.com/files/x8ZVg1724646942.png",
+    "streamUrl": "https://i.imghippo.com/files/x8ZVg1724646942.png"
+  },
+  {
+    "id": 235,
+    "nombre": "MyTime movie network España",
+    "descripcion": "Películas",
+    "categoria": "películas",
+    "imagenUrl": "https://i.imghippo.com/files/wWliM1724647277.png",
+    "streamUrl": "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": 236,
+    "nombre": "Más Noticias TV",
+    "descripcion": "Noticias",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/BpeV21724647840.png",
+    "streamUrl": "https://www.amixtv.com:8081/mntvh/index.m3u8"
+  },
+  {
+    "id": 237,
+    "nombre": "Mírame TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/Ku0Qt1724648132.png",
+    "streamUrl": "https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8"
+  },
+  {
+    "id": 238,
+    "nombre": "Nacional Tv Peru",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/tkQ7t1724648359.png",
+    "streamUrl": "https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8"
+  },
+  {
+    "id": 239,
+    "nombre": "Naranja TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/86TsG1724648992.png",
+    "streamUrl": "https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8"
+  },
+  {
+    "id": 240,
+    "nombre": "Negocios TV",
+    "descripcion": "Noticias",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/aYBDW1724649468.png",
+    "streamUrl": "https://streaming013.gestec-video.com/hls/negociostv.m3u8"
+  },
+  {
+    "id": 241,
+    "nombre": "Neox TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/Tf9qD1724650202.png",
+    "streamUrl": "https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8"
+  },
+  {
+    "id": 242,
+    "nombre": "Nex TV Canal 21",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/CCpvZ1724650424.png",
+    "streamUrl": "https://vcp4.myplaytv.com:1936/nextv/nextv/playlist.m3u8"
+  },
+  {
+    "id": 243,
+    "nombre": "Nexxo TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/xWRow1724650581.png",
+    "streamUrl": "https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8"
+  },
+  {
+    "id": 244,
+    "nombre": "Nickelodeon en Español",
+    "descripcion": "Animados",
+    "categoria": "animados",
+    "imagenUrl": "https://i.imghippo.com/files/H0fE71724651135.png",
+    "streamUrl": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner="
+  },
+  {
+    "id": 245,
+    "nombre": "NHK World News (Sub Español)",
+    "descripcion": "Noticias",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/NQUB41724733902.png",
+    "streamUrl": "https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8"
+  },
+  {
+    "id": 246,
+    "nombre": "Nickelodeon Panregional",
+    "descripcion": "Animados",
+    "categoria": "animados",
+    "imagenUrl": "https://i.imghippo.com/files/dCfey1724735739.png",
+    "streamUrl": "http://45.181.122.13:8000/play/019"
+  },
+  {
+    "id": 247,
+    "nombre": "Nim TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/New7C1724735997.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8"
+  },
+  {
+    "id": 248,
+    "nombre": "NORTEvisión",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/pob0T1724736251.png",
+    "streamUrl": "http://amaru.dyndns.org:8870/0.m3u8"
+  },
+  {
+    "id": 249,
+    "nombre": "Novelisima",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/wkh4p1724736563.png",
+    "streamUrl": ""
+  },
+  {
+    "id": 250,
+    "nombre": "NSTV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/M2JPD1724736787.png",
+    "streamUrl": "https://cp.panelchs.com:1936/8162/8162/playlist.m3u8"
+  },
+  {
+    "id": 251,
+    "nombre": "Nuevo Mundo TV",
+    "descripcion": "Noticias",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/XKwsZ1724737112.png",
+    "streamUrl": "https://tvlatina.live:1936/8008/8008/playlist.m3u8"
+  },
+  {
+    "id": 252,
+    "nombre": "Onda 15 TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/4Rd551724737446.png",
+    "streamUrl": "https://cloudvideo.servers10.com:8081/8034/index.m3u8"
+  },
+  {
+    "id": 253,
+    "nombre": "Onda TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/eTn6U1724737682.png",
+    "streamUrl": "https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8"
+  },
+  {
+    "id": 254,
+    "nombre": "Onda Valencia",
+    "descripcion": "Noticias",
+    "categoria": "noticias",
+    "imagenUrl": "https://i.imghippo.com/files/fH3QO1724738187.png",
+    "streamUrl": "https://cloudvideo.servers10.com:8081/8116/index.m3u8"
+  },
+  {
+    "id": 255,
+    "nombre": "Planea TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/mud5734rM.jpg",
+    "streamUrl": "https://vdo.grupolimalive.com:3045/live/planeatvlive.m3u8"
+  },
+  {
+    "id": 256,
+    "nombre": "Planeta TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/Bs9805dU.jpg",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 257,
+    "nombre": "Pluto Cine Accion\"",
+    "descripcion": "Películas",
+    "categoria": "películas",
+    "imagenUrl": "https://i.imghippo.com/files/phdW4579t.jpg",
+    "streamUrl": "https://stitcher.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true"
+  },
+  {
+    "id": 258,
+    "nombre": "Pluto Cine Comedia",
+    "descripcion": "Películas",
+    "categoria": "películas",
+    "imagenUrl": "https://i.imghippo.com/files/ubr4886Ss.jpg",
+    "streamUrl": "https://stitcher.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true"
+  },
+  {
+    "id": 259,
+    "nombre": "Pluto Cine Estelar",
+    "descripcion": "Películas",
+    "categoria": "películas",
+    "imagenUrl": "https://i.imghippo.com/files/Mqf2675frw.jpg",
+    "streamUrl": "https://stitcher.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true"
+  },
+  {
+    "id": 260,
+    "nombre": "Pluto Cine Drama",
+    "descripcion": "Películas",
+    "categoria": "películas",
+    "imagenUrl": "https://i.imghippo.com/files/WBll1230HGY.jpg",
+    "streamUrl": "https://stitcher.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true"
+  },
+  {
+    "id": 262,
+    "nombre": "Pluto Cine Suspenso",
+    "descripcion": "Películas",
+    "categoria": "películas",
+    "imagenUrl": "https://i.imghippo.com/files/tCDa4325x.jpg",
+    "streamUrl": "https://stitcher.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true"
+  },
+  {
+    "id": 263,
+    "nombre": "Pluto Cine Romance",
+    "descripcion": "Películas",
+    "categoria": "películas",
+    "imagenUrl": "https://i.imghippo.com/files/lrJ5446Iu.jpg",
+    "streamUrl": "https://stitcher.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true"
+  },
+  {
+    "id": 264,
+    "nombre": "Pluto Cine Familia",
+    "descripcion": "Películas",
+    "categoria": "películas",
+    "imagenUrl": "https://i.imghippo.com/files/hjY8900opg.jpg",
+    "streamUrl": "https://stitcher.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true"
+  },
+  {
+    "id": 265,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 266,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 267,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 268,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 269,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 270,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 271,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 272,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 273,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 274,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 275,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 276,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 277,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 278,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 279,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 280,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 281,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 282,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 283,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 284,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 285,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 286,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 287,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 288,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 289,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 290,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 291,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 292,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 293,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 294,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 295,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 296,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 297,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 298,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 299,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 300,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 301,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 302,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 303,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 304,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 305,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 306,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 307,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 308,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 309,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 310,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 311,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 312,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 313,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 314,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 315,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 316,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 317,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 318,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 319,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 320,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 321,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 322,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  },
+  {
+    "id": 323,
+    "nombre": "Like TV",
+    "descripcion": "Entretenimiento",
+    "categoria": "entretenimiento",
+    "imagenUrl": "https://i.imghippo.com/files/vwkjj1724301669.png",
+    "streamUrl": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8"
+  }
 ]
