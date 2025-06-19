@@ -996,7 +996,7 @@
           "active": true,
           "imageUrl": "https://i.imgur.com/jep0P2K.jpeg",
           "isIframe": false,
-          "streamUrl": "http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8"
+          "streamUrl": "https://tv02.zas.media:1936/redemaoamiga/redemaoamiga/playlist.m3u8"
         },
         {
           "name": "REDE MAIS FAMILIA TV",
