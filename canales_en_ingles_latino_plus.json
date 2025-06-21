@@ -457,9 +457,9 @@
   },
   {
     "id": 58,
-    "nombre": "Cini Friki",
+    "nombre": "Cine Friki",
     "descripcion": "Películas- España",
-    "categoria": "películas",
+    "categoria": "movies",
     "imagenUrl": "https://i.imghippo.com/files/6Xxny1723658087.png",
     "streamUrl": "https://d2jqgm8hyia1n3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8hl8d0bx6aah/index.m3u8"
   },
