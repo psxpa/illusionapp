@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "nombre": "13 Entretención",
-    "descripcion": "Entretenimiento-Chile",
-    "categoria": "entretenimiento",
-    "imagenUrl": "https://i.imgur.com/XolGbhL.jpeg",
-    "streamUrl": "https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8"
+    "nombre": "24 Hour Free Movies",
+    "descripcion": "Movies 24 hour",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/L919gQq.png",
+    "streamUrl": "https://d1j2u714xk898n.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-24HourFreeMovies/145.m3u8"
   },
   {
     "id": 2,
