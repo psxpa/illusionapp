@@ -923,6 +923,13 @@
           "imageUrl": "https://i.imgur.com/8oaXN4C.jpeg",
           "isIframe": false,
           "streamUrl": "https://583ed2f226ac2.streamlock.net/181/stream/playlist.m3u8"
+        },
+        {
+          "name": "EXTREMA KIDS",
+          "active": true,
+          "imageUrl": "https://imgur.com/LDpp9WX.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://583ed2f226ac2.streamlock.net/181/stream/playlist.m3u8"
         }
       ]
     },
