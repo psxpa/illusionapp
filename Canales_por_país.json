@@ -4,6 +4,7 @@
     "nombre": "8madrid TV",
     "descripcion": "8madrid TV",
     "categoria": "movies",
+    "pais": "España",
     "imagenUrl": "https://i.imgur.com/ZjnlY3D.jpeg",
     "streamUrl": "http://185.189.225.150:85/8madrid/index.m3u8"
   },
@@ -12,6 +13,7 @@
     "nombre": "24 Hour Free Movies",
     "descripcion": "24 Hour Free Movies",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://i.imgur.com/iSVnzR1.png",
     "streamUrl": "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8"
   },
@@ -20,1110 +22,1231 @@
     "nombre": "30A TV Classic Movies",
     "descripcion": "30A TV Classic Movies",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://babaktv.com/wp-content/uploads/2023/09/30A-Classi-Movies.jpeg",
     "streamUrl": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8"
   },
   {
     "id": 4004,
-    "nombre": "312 Кино",
-    "descripcion": "312 Кино",
-    "categoria": "movies",
-    "imagenUrl": "https://i.ibb.co/3m9LrLj/k7gIibH.png",
-    "streamUrl": "http://176.126.166.43:1935/live/312kino/playlist.m3u8"
-  },
-  {
-    "id": 4005,
     "nombre": "ABN Bible Movies",
     "descripcion": "ABN Bible Movies",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://i.imgur.com/NCqZdaL.png",
     "streamUrl": "https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8"
   },
   {
-    "id": 4006,
+    "id": 4005,
     "nombre": "Action 24",
     "descripcion": "Action 24",
     "categoria": "movies",
+    "pais": "Grecia",
     "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png",
     "streamUrl": "http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8"
   },
   {
-    "id": 4007,
+    "id": 4006,
     "nombre": "Afghan Nobel Movies",
     "descripcion": "Afghan Nobel Movies",
     "categoria": "movies",
+    "pais": "Canadá",
     "imagenUrl": "https://i.ibb.co/zfdbVSm/logo-1.png",
     "streamUrl": "https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8"
   },
   {
-    "id": 4008,
+    "id": 4007,
     "nombre": "Aflam",
     "descripcion": "Aflam",
     "categoria": "movies",
+    "pais": "Arabia Saudita",
     "imagenUrl": "https://i.imgur.com/cTLj7Yt.png",
     "streamUrl": "https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8"
   },
   {
-    "id": 4009,
+    "id": 4008,
     "nombre": "Aflam TV",
     "descripcion": "Aflam TV",
     "categoria": "movies",
+    "pais": "Marruecos",
     "imagenUrl": "https://i.imgur.com/XqQxO9J.png",
     "streamUrl": "https://fl1002.bozztv.com/ga-aflamtv7/index.m3u8"
   },
   {
-    "id": 4010,
+    "id": 4009,
     "nombre": "AMC East",
     "descripcion": "AMC East",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",
     "streamUrl": "https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8"
   },
   {
-    "id": 4011,
+    "id": 4010,
     "nombre": "AMC Europe Spain",
     "descripcion": "AMC Europe Spain",
     "categoria": "movies",
+    "pais": "Reino Unido",
     "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",
     "streamUrl": "http://vegafibratv.com:8085/AMC/index.m3u8"
   },
   {
-    "id": 4012,
+    "id": 4011,
     "nombre": "American Horrors",
     "descripcion": "American Horrors",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png",
     "streamUrl": "http://107.167.7.162:8081/playlist/amhor/playlist.m3u8"
   },
   {
-    "id": 4013,
-    "nombre": "Astro Box Office Thangathirai",
-    "descripcion": "Astro Box Office Thangathirai",
-    "categoria": "movies",
-    "imagenUrl": "https://i.imgur.com/7J98X4F.png",
-    "streamUrl": "https://live20.bozztv.com/akamaissh101/ssh101/sungo546/playlist.m3u8"
-  },
-  {
-    "id": 4014,
+    "id": 4012,
     "nombre": "Aurora Media Films",
     "descripcion": "Aurora Media Films",
     "categoria": "movies",
+    "pais": "Guatemala",
     "imagenUrl": "https://i.imgur.com/DVC5w6H.png",
     "streamUrl": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8"
   },
   {
-    "id": 4015,
+    "id": 4013,
     "nombre": "AXN Asia",
     "descripcion": "AXN Asia",
     "categoria": "movies",
+    "pais": "Singapur",
     "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png",
     "streamUrl": "http://125hvt.ddns.net:21585/axn/index.m3u8"
   },
   {
-    "id": 4016,
+    "id": 4014,
     "nombre": "Bollywood Classic",
     "descripcion": "Bollywood Classic",
     "categoria": "classic",
+    "pais": "Rumania",
     "imagenUrl": "https://i.imgur.com/ugPo6ca.png",
     "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8"
   },
   {
-    "id": 4017,
+    "id": 4015,
     "nombre": "Bollywood HD",
     "descripcion": "Bollywood HD",
     "categoria": "movies",
+    "pais": "Rumania",
     "imagenUrl": "https://i.imgur.com/scDKOLS.png",
     "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8"
   },
   {
-    "id": 4018,
+    "id": 4016,
     "nombre": "Bolt",
     "descripcion": "Bolt",
     "categoria": "movies",
+    "pais": "Rusia",
     "imagenUrl": "https://i.imgur.com/YdIHXOR.png",
     "streamUrl": "http://95.142.88.250:80/Bolt/index.m3u8"
   },
   {
-    "id": 4019,
+    "id": 4017,
     "nombre": "Bom Cine",
     "descripcion": "Bom Cine",
     "categoria": "movies",
+    "pais": "España",
     "imagenUrl": "https://i.imgur.com/65OX8Gj.png",
     "streamUrl": "http://185.189.225.150:85/BOM/index.m3u8"
   },
   {
-    "id": 4020,
+    "id": 4018,
     "nombre": "Bravo Farsi TV",
     "descripcion": "Bravo Farsi TV",
     "categoria": "movies",
+    "pais": "Irán",
     "imagenUrl": "https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg",
     "streamUrl": "https://bravoohls.wns.live/hls/stream.m3u8"
   },
   {
-    "id": 4021,
+    "id": 4019,
     "nombre": "Charge!",
     "descripcion": "Charge!",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://i.imgur.com/1rxmu2u.png",
     "streamUrl": "https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8"
   },
   {
-    "id": 4022,
-    "nombre": "Cine5",
-    "descripcion": "Cine5",
-    "categoria": "movies",
-    "imagenUrl": "https://i.imgur.com/AmcOAIY.png",
-    "streamUrl": "https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8"
-  },
-  {
-    "id": 4023,
+    "id": 4020,
     "nombre": "Cine Sony",
     "descripcion": "Cine Sony",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://i.imgur.com/bZWoDTg.png",
     "streamUrl": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8"
   },
   {
-    "id": 4024,
+    "id": 4021,
+    "nombre": "Cinecanal",
+    "descripcion": "Cinecanal",
+    "categoria": "movies",
+    "pais": "Estados Unidos",
+    "imagenUrl": "https://comteco.com.bo/img/upload/canales/qvJQXi.png",
+    "streamUrl": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8"
+  },
+  {
+    "id": 4022,
     "nombre": "Cinema",
     "descripcion": "Cinema",
     "categoria": "movies",
+    "pais": "Rusia",
     "imagenUrl": "https://i.imgur.com/b5e9qUA.png",
     "streamUrl": "http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8"
   },
   {
-    "id": 4025,
+    "id": 4023,
     "nombre": "Classique TV",
     "descripcion": "Classique TV",
     "categoria": "movies",
+    "pais": "Brasil",
     "imagenUrl": "https://i.imgur.com/rHxcraT.png",
     "streamUrl": "https://stmv1.srvif.com/classique/classique/playlist.m3u8"
   },
   {
-    "id": 4026,
+    "id": 4024,
     "nombre": "Cosmos TV",
     "descripcion": "Cosmos TV",
     "categoria": "movies",
+    "pais": "Argentina",
     "imagenUrl": "https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png",
     "streamUrl": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8"
   },
   {
-    "id": 4027,
+    "id": 4025,
     "nombre": "Crave 2",
     "descripcion": "Crave 2",
     "categoria": "movies",
+    "pais": "Canadá",
     "imagenUrl": "https://i.imgur.com/e1qJ5Bp.png",
     "streamUrl": "https://fl3.moveonjoy.com/CRAVE_2/index.m3u8"
   },
   {
-    "id": 4028,
+    "id": 4026,
     "nombre": "Crave 4",
     "descripcion": "Crave 4",
     "categoria": "movies",
+    "pais": "Canadá",
     "imagenUrl": "https://i.imgur.com/MyH3Q2p.png",
     "streamUrl": "https://fl3.moveonjoy.com/CRAVE_4/index.m3u8"
   },
   {
-    "id": 4029,
+    "id": 4027,
     "nombre": "CTB Perth Movies",
     "descripcion": "CTB Perth Movies",
     "categoria": "movies",
+    "pais": "Australia",
     "imagenUrl": "https://i.imgur.com/VB8gtCy.jpeg",
     "streamUrl": "https://movies.ctbperth.net.au/hls/stream.m3u8"
   },
   {
-    "id": 4030,
+    "id": 4028,
     "nombre": "DiscoverFilm",
     "descripcion": "DiscoverFilm",
     "categoria": "movies",
+    "pais": "Reino Unido",
     "imagenUrl": "https://i.imgur.com/oMnpsQ5.png",
     "streamUrl": "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8"
   },
   {
-    "id": 4031,
+    "id": 4029,
     "nombre": "Dunia Sinema",
     "descripcion": "Dunia Sinema",
     "categoria": "movies",
+    "pais": "Malasia",
     "imagenUrl": "https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",
     "streamUrl": "https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8"
   },
   {
-    "id": 4032,
+    "id": 4030,
     "nombre": "EBS Cinema",
     "descripcion": "EBS Cinema",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://i.imgur.com/fewPTFE.png",
     "streamUrl": "https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8"
   },
   {
-    "id": 4033,
+    "id": 4031,
     "nombre": "Ekran Movies",
     "descripcion": "Ekran Movies",
     "categoria": "movies",
+    "pais": "Irán",
     "imagenUrl": "https://i.ibb.co/WNyssx28/Screenshot-2025-05-18-211143.png",
     "streamUrl": "https://ca-rt.onetv.app/EkranMovies/index-0.m3u8"
   },
   {
-    "id": 4034,
+    "id": 4032,
     "nombre": "Evrokino",
     "descripcion": "Evrokino",
     "categoria": "movies",
+    "pais": "Rusia",
     "imagenUrl": "https://i.imgur.com/8LPtPf6.png",
     "streamUrl": "http://31.148.48.15/Evrokino/index.m3u8"
   },
   {
-    "id": 4035,
+    "id": 4033,
     "nombre": "Feniks plus Kino",
     "descripcion": "Feniks plus Kino",
     "categoria": "movies",
+    "pais": "Rusia",
     "imagenUrl": "https://i.imgur.com/S9OPMLE.png",
     "streamUrl": "http://31.148.48.15/Feniks_plus_kino/index.m3u8"
   },
   {
-    "id": 4036,
+    "id": 4034,
     "nombre": "Filmrise Forensic Files",
     "descripcion": "Filmrise Forensic Files",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://i.imgur.com/8j2npVc.png",
     "streamUrl": "https://apollo.production-public.tubi.io/live/ac-forensic-files.m3u8"
   },
   {
-    "id": 4037,
+    "id": 4035,
     "nombre": "Filmrise True Crime",
     "descripcion": "Filmrise True Crime",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://i.imgur.com/8j2npVc.png",
     "streamUrl": "https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8"
   },
   {
-    "id": 4038,
+    "id": 4036,
     "nombre": "FXM East",
     "descripcion": "FXM East",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://comteco.com.bo/img/upload/canales/svCJXa.png",
     "streamUrl": "https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8"
   },
   {
-    "id": 4039,
+    "id": 4037,
     "nombre": "GEM Bollywood",
     "descripcion": "GEM Bollywood",
     "categoria": "movies",
+    "pais": "Turquía",
     "imagenUrl": "https://i.imgur.com/2XASeBk.png",
     "streamUrl": "https://ca-rt.onetv.app/gembollywood/index-0.m3u8"
   },
   {
-    "id": 4040,
+    "id": 4038,
     "nombre": "GEM Drama",
     "descripcion": "GEM Drama",
     "categoria": "movies",
+    "pais": "Turquía",
     "imagenUrl": "https://i.imgur.com/k2pGyRH.png",
     "streamUrl": "https://ca-rt.onetv.app/gemdrama/index-0.m3u8"
   },
   {
-    "id": 4041,
+    "id": 4039,
     "nombre": "GEM Drama Plus",
     "descripcion": "GEM Drama Plus",
     "categoria": "movies",
+    "pais": "Turquía",
     "imagenUrl": "https://i.imgur.com/5zPeOJM.png",
     "streamUrl": "https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8"
   },
   {
-    "id": 4042,
+    "id": 4040,
     "nombre": "GEM Film",
     "descripcion": "GEM Film",
     "categoria": "movies",
+    "pais": "Turquía",
     "imagenUrl": "https://i.imgur.com/nrFz3LU.png",
     "streamUrl": "https://ca-rt.onetv.app/gemfilm/index-0.m3u8"
   },
   {
-    "id": 4043,
+    "id": 4041,
     "nombre": "GEM Onyx",
     "descripcion": "GEM Onyx",
     "categoria": "movies",
+    "pais": "Turquía",
     "imagenUrl": "https://i.imgur.com/gXRIAw4.png",
     "streamUrl": "https://ca-rt.onetv.app/gemonyx/index-0.m3u8"
   },
   {
-    "id": 4044,
+    "id": 4042,
     "nombre": "GEM Pixel",
     "descripcion": "GEM Pixel",
     "categoria": "movies",
+    "pais": "Turquía",
     "imagenUrl": "https://i.ibb.co/Q3tkbPrn/icon-27.png",
     "streamUrl": "https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8"
   },
   {
-    "id": 4045,
+    "id": 4043,
     "nombre": "GEM Rubix",
     "descripcion": "GEM Rubix",
     "categoria": "movies",
+    "pais": "Turquía",
     "imagenUrl": "https://i.imgur.com/cDjOj58.png",
     "streamUrl": "https://ca-rt.onetv.app/gemrubix/index-0.m3u8"
   },
   {
-    "id": 4046,
+    "id": 4044,
     "nombre": "GEM Rubix Plus",
     "descripcion": "GEM Rubix Plus",
     "categoria": "movies",
+    "pais": "Turquía",
     "imagenUrl": "https://i.imgur.com/vpqgHrf.png",
     "streamUrl": "https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8"
   },
   {
-    "id": 4047,
+    "id": 4045,
+    "nombre": "GEM TV",
+    "descripcion": "GEM TV",
+    "categoria": "movies",
+    "pais": "Turquía",
+    "imagenUrl": "https://i.imgur.com/m7N6L90.png",
+    "streamUrl": "https://ca-rt.onetv.app/gemb/index-0.m3u8"
+  },
+  {
+    "id": 4046,
     "nombre": "Grand Cinema",
     "descripcion": "Grand Cinema",
     "categoria": "movies",
+    "pais": "Turquía",
     "imagenUrl": "https://www.lyngsat.com/logo/tv/gg/grand-cinema.png",
     "streamUrl": "https://gcinemahls.wns.live/hls/stream.m3u8"
   },
   {
-    "id": 4048,
+    "id": 4047,
     "nombre": "GREAT! Mystery",
     "descripcion": "GREAT! Mystery",
     "categoria": "movies",
+    "pais": "Reino Unido",
     "imagenUrl": "https://image-cdn.suggestedtv.com/api/client/v1/image/ac0cfdfd-868c-4894-8dd9-dbe9f1a18a74?tenant=GREAT&mode=fit&width=300&height=73&format=png",
     "streamUrl": "https://linear-861.frequency.stream/dist/lg-uk/861/hls/master/playlist.m3u8"
   },
   {
-    "id": 4049,
+    "id": 4048,
     "nombre": "Groovy TV",
     "descripcion": "Groovy TV",
     "categoria": "movies",
+    "pais": "Grecia",
     "imagenUrl": "https://i.imgur.com/ZYNQuf1.png",
     "streamUrl": "http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8"
   },
   {
-    "id": 4050,
+    "id": 4049,
     "nombre": "Hallmark Movies Mysteries East",
     "descripcion": "Hallmark Movies Mysteries East",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://i.imgur.com/GPRGA9C.png",
     "streamUrl": "https://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8"
   },
   {
-    "id": 4051,
-    "nombre": "Hero (720p) [Not 24/7]",
-    "descripcion": "Hero (720p) [Not 24/7]",
+    "id": 4050,
+    "nombre": "HBC",
+    "descripcion": "HBC",
     "categoria": "movies",
-    "imagenUrl": "https://i.imgur.com/4t5JQLY.png",
-    "streamUrl": "https://live-fi.tvkaista.net/hero/live.m3u8?hd=true"
+    "pais": "Egipto",
+    "imagenUrl": "https://i.imgur.com/fPphLl1.png",
+    "streamUrl": "https://ffs3.gulfsat.com/hbc/index.m3u8"
   },
   {
-    "id": 4052,
+    "id": 4051,
     "nombre": "ICC Plus",
     "descripcion": "ICC Plus",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://www.lyngsat.com/logo/tv/ii/iccplus-us.png",
     "streamUrl": "https://icchls.wns.live/hls/stream.m3u8"
   },
   {
-    "id": 4053,
+    "id": 4052,
     "nombre": "iFilm 2",
     "descripcion": "iFilm 2",
     "categoria": "movies",
+    "pais": "Irán",
     "imagenUrl": "https://upload.wikimedia.org/wikipedia/fa/c/ce/Ifilm2logo.png",
     "streamUrl": "https://live.presstv.ir/hls/ifilm2.m3u8"
   },
   {
-    "id": 4054,
+    "id": 4053,
     "nombre": "iFilm Arabic",
     "descripcion": "iFilm Arabic",
     "categoria": "movies",
+    "pais": "Irán",
     "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
     "streamUrl": "https://live.presstv.ir/hls/ifilmar.m3u8"
   },
   {
-    "id": 4055,
+    "id": 4054,
     "nombre": "iFilm English",
     "descripcion": "iFilm English",
     "categoria": "movies",
+    "pais": "Irán",
     "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
     "streamUrl": "https://live.presstv.ir/hls/ifilmen.m3u8"
   },
   {
-    "id": 4056,
+    "id": 4055,
     "nombre": "iFilm Persian",
     "descripcion": "iFilm Persian",
     "categoria": "movies",
+    "pais": "Irán",
     "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
     "streamUrl": "https://live.presstv.ir/hls/ifilmfa.m3u8"
   },
   {
-    "id": 4057,
+    "id": 4056,
     "nombre": "Illusion+",
     "descripcion": "Illusion+",
     "categoria": "movies",
+    "pais": "Rusia",
     "imagenUrl": "https://i.imgur.com/9GvuHQ5.png",
     "streamUrl": "http://31.148.48.15/Illusion_plus/index.m3u8"
   },
   {
+    "id": 4057,
+    "nombre": "Jilin Movie Channel",
+    "descripcion": "Jilin Movie Channel",
+    "categoria": "movies",
+    "pais": "China",
+    "imagenUrl": "https://www.tvchinese.net/uploads/tv/jlyspd.jpg",
+    "streamUrl": "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8"
+  },
+  {
     "id": 4058,
-    "nombre": "Indywood TV",
-    "descripcion": "Indywood TV",
-    "categoria": "movies",
-    "imagenUrl": "https://i.ibb.co/jT3NCPp/logo-tv.png",
-    "streamUrl": "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8"
-  },
-  {
-    "id": 4059,
-    "nombre": "Kairali We",
-    "descripcion": "Kairali We",
-    "categoria": "movies",
-    "imagenUrl": "https://i.imgur.com/zXpROBj.png",
-    "streamUrl": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8"
-  },
-  {
-    "id": 4060,
     "nombre": "Kineko",
     "descripcion": "Kineko",
     "categoria": "movies",
+    "pais": "Rusia",
     "imagenUrl": "https://i.imgur.com/Otfvlmf.png",
     "streamUrl": "http://194.143.148.28:8080/KINEKO/index.m3u8"
   },
   {
-    "id": 4061,
+    "id": 4059,
     "nombre": "Kino 1 International",
     "descripcion": "Kino 1 International",
     "categoria": "movies",
+    "pais": "Rusia",
     "imagenUrl": "https://i.imgur.com/U3TC4yz.png",
     "streamUrl": "https://kino-1.catcast.tv/content/38617/index.m3u8"
   },
   {
-    "id": 4062,
+    "id": 4060,
     "nombre": "Kino TV",
     "descripcion": "Kino TV",
     "categoria": "movies",
+    "pais": "Rusia",
     "imagenUrl": "https://i.imgur.com/sMpamNO.png",
     "streamUrl": "https://vod.tuva.ru/kinotv/index.m3u8"
   },
   {
-    "id": 4063,
+    "id": 4061,
     "nombre": "Kuriakos Cine",
     "descripcion": "Kuriakos Cine",
     "categoria": "movies",
+    "pais": "Portugal",
     "imagenUrl": "https://i.imgur.com/CZViCwB.jpg",
     "streamUrl": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8"
   },
   {
-    "id": 4064,
+    "id": 4062,
     "nombre": "Lifetime Movies East",
     "descripcion": "Lifetime Movies East",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://i.imgur.com/BWmqYTO.png",
     "streamUrl": "https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8"
   },
   {
-    "id": 4065,
+    "id": 4063,
     "nombre": "Maah TV",
     "descripcion": "Maah TV",
     "categoria": "movies",
+    "pais": "Malasia",
     "imagenUrl": "https://i.imgur.com/FkyueH6.png",
     "streamUrl": "https://hls.maahtv.live/hls/stream.m3u8"
   },
   {
-    "id": 4066,
+    "id": 4064,
     "nombre": "Made in Hollywood",
     "descripcion": "Made in Hollywood",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://i.imgur.com/p16HNIM.png",
     "streamUrl": "https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8"
   },
   {
-    "id": 4067,
+    "id": 4065,
     "nombre": "Maverick Black Cinema",
     "descripcion": "Maverick Black Cinema",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://images.fubo.tv/station_logos/maverick_black_cinema_c.png",
     "streamUrl": "https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8"
   },
   {
-    "id": 4068,
+    "id": 4066,
     "nombre": "MBC 2",
     "descripcion": "MBC 2",
     "categoria": "movies",
+    "pais": "Emiratos Árabes Unidos",
     "imagenUrl": "https://i.imgur.com/n9mSHuP.png",
     "streamUrl": "https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8"
   },
   {
-    "id": 4069,
+    "id": 4067,
     "nombre": "MBC Bollywood (1080p) [Geo-blocked]",
     "descripcion": "MBC Bollywood (1080p) [Geo-blocked]",
     "categoria": "movies",
+    "pais": "Emiratos Árabes Unidos",
     "imagenUrl": "https://i.imgur.com/TTAGFHG.png",
     "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8"
   },
   {
-    "id": 4070,
+    "id": 4068,
     "nombre": "MBC+ Drama",
     "descripcion": "MBC+ Drama",
     "categoria": "movies",
+    "pais": "Arabia Saudita",
     "imagenUrl": "https://i.imgur.com/lxWdjXG.png",
     "streamUrl": "https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8"
   },
   {
-    "id": 4071,
+    "id": 4069,
     "nombre": "MCI Television",
     "descripcion": "MCI Television",
     "categoria": "family",
+    "pais": "Colombia",
     "imagenUrl": "https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg",
     "streamUrl": "https://video.ejeserver.com/live/mcitelevision.m3u8"
   },
   {
-    "id": 4072,
+    "id": 4070,
     "nombre": "Meta Film TV",
     "descripcion": "Meta Film TV",
     "categoria": "movies",
+    "pais": "Irán",
     "imagenUrl": "https://www.lyngsat.com/logo/tv/mm/meta-film-tv.png",
     "streamUrl": "https://metafilmhls.wns.live/hls/stream.m3u8"
   },
   {
-    "id": 4073,
+    "id": 4071,
     "nombre": "MGM+ East",
     "descripcion": "MGM+ East",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/512px-MGM%2B_logo.svg.png",
     "streamUrl": "https://fl3.moveonjoy.com/EPIX/index.m3u8"
   },
   {
-    "id": 4074,
+    "id": 4072,
     "nombre": "MGM+ Marquee",
     "descripcion": "MGM+ Marquee",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/512px-MGM%2B_Marquee_2023.svg.png",
     "streamUrl": "https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8"
   },
   {
-    "id": 4075,
+    "id": 4073,
     "nombre": "Mosfilm Gold Collection",
     "descripcion": "Mosfilm Gold Collection",
     "categoria": "movies",
+    "pais": "Rusia",
     "imagenUrl": "https://i.imgur.com/95Y8jb6.png",
     "streamUrl": "http://178.217.72.66:8080/mosfilm/index.m3u8"
   },
   {
-    "id": 4076,
+    "id": 4074,
     "nombre": "MovieBox",
     "descripcion": "MovieBox",
     "categoria": "movies",
+    "pais": "Mongolia",
     "imagenUrl": "https://i.imgur.com/xeO1Zb4.png",
     "streamUrl": "https://cdn3.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8"
   },
   {
-    "id": 4077,
+    "id": 4075,
     "nombre": "Movies Action",
     "descripcion": "Movies Action",
     "categoria": "movies",
+    "pais": "Arabia Saudita",
     "imagenUrl": "https://i.imgur.com/NIVhISa.png",
     "streamUrl": "https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8"
   },
   {
-    "id": 4078,
+    "id": 4076,
     "nombre": "Movies Thriller",
     "descripcion": "Movies Thriller",
     "categoria": "movies",
+    "pais": "Arabia Saudita",
     "imagenUrl": "https://i.imgur.com/JWihdcl.png",
     "streamUrl": "https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8"
   },
   {
-    "id": 4079,
+    "id": 4077,
     "nombre": "Movies!",
     "descripcion": "Movies!",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://i.imgur.com/gAGn3mK.png",
     "streamUrl": "https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-movies!/index.m3u8"
   },
   {
-    "id": 4080,
+    "id": 4078,
     "nombre": "MovieSphere",
     "descripcion": "MovieSphere",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://i.imgur.com/h1ejU90.png",
     "streamUrl": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8"
   },
   {
-    "id": 4081,
+    "id": 4079,
     "nombre": "Muzhskoy",
     "descripcion": "Muzhskoy",
     "categoria": "movies",
+    "pais": "Rusia",
     "imagenUrl": "https://i.imgur.com/xyztpBf.png",
     "streamUrl": "https://s1.merlive.am/mujskoy/index.m3u8"
   },
   {
-    "id": 4082,
+    "id": 4080,
     "nombre": "MyTime Movie Network",
     "descripcion": "MyTime Movie Network",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://i.imgur.com/HYgxPVQ.png",
     "streamUrl": "https://mytime-tcl.amagi.tv/playlist.m3u8"
   },
   {
-    "id": 4083,
+    "id": 4081,
     "nombre": "MyTime Movie Network Brazil",
     "descripcion": "MyTime Movie Network Brazil",
     "categoria": "movies",
+    "pais": "Brasil",
     "imagenUrl": "https://i.imgur.com/aiGQtzI.png",
     "streamUrl": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8"
   },
   {
-    "id": 4084,
+    "id": 4082,
     "nombre": "MyTime movie network Spain",
     "descripcion": "MyTime movie network Spain",
     "categoria": "movies",
+    "pais": "España",
     "imagenUrl": "https://i.imgur.com/pw4NZK1.png",
     "streamUrl": "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8"
   },
   {
-    "id": 4085,
+    "id": 4083,
     "nombre": "NETV Toronto",
     "descripcion": "NETV Toronto",
     "categoria": "movies",
+    "pais": "Canadá",
     "imagenUrl": "https://i.imgur.com/WXRBuOW.png",
     "streamUrl": "https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8"
   },
   {
-    "id": 4086,
+    "id": 4084,
     "nombre": "NEW K.MOVIES",
     "descripcion": "NEW K.MOVIES",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://i.imgur.com/wCgirjc.png",
     "streamUrl": "https://ec3b4b7e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X05FV0tNT1ZJRVNfSExT/playlist.m3u8"
   },
   {
-    "id": 4087,
+    "id": 4085,
     "nombre": "Next HD",
     "descripcion": "Next HD",
     "categoria": "movies",
+    "pais": "Paraguay",
     "imagenUrl": "https://i.imgur.com/c2rF3SS.png",
     "streamUrl": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8"
   },
   {
-    "id": 4088,
+    "id": 4086,
     "nombre": "OuterMax East",
     "descripcion": "OuterMax East",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/512px-OuterMax_Logo.svg.png",
     "streamUrl": "https://fl3.moveonjoy.com/OUTER_MAX/index.m3u8"
   },
   {
-    "id": 4089,
+    "id": 4087,
     "nombre": "Paramount Network (Spain)",
     "descripcion": "Paramount Network (Spain)",
     "categoria": "movies",
+    "pais": "España",
     "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png",
     "streamUrl": "http://185.189.225.150:85/Paramount/index.m3u8"
   },
   {
-    "id": 4090,
+    "id": 4088,
     "nombre": "Paramount Network East",
     "descripcion": "Paramount Network East",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png",
     "streamUrl": "https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8"
   },
   {
-    "id": 4091,
+    "id": 4089,
     "nombre": "Persiana Cinema",
     "descripcion": "Persiana Cinema",
     "categoria": "movies",
+    "pais": "Francia",
     "imagenUrl": "https://i.imgur.com/hgIro9r.png",
     "streamUrl": "https://cinehls.persiana.live/hls/stream.m3u8"
   },
   {
-    "id": 4092,
+    "id": 4090,
     "nombre": "Persiana Family",
     "descripcion": "Persiana Family",
     "categoria": "movies",
+    "pais": "Francia",
     "imagenUrl": "https://i.imgur.com/lMZsuWi.png",
     "streamUrl": "https://familyhls.persiana.live/hls/stream.m3u8"
   },
   {
-    "id": 4093,
+    "id": 4091,
     "nombre": "Persiana HD",
     "descripcion": "Persiana HD",
     "categoria": "movies",
+    "pais": "Francia",
     "imagenUrl": "https://i.ibb.co/ZYDqMms/Persiana-HD.png",
     "streamUrl": "https://euhls.persiana.live/hls/stream.m3u8"
   },
   {
-    "id": 4094,
+    "id": 4092,
     "nombre": "Persiana Iranian",
     "descripcion": "Persiana Iranian",
     "categoria": "movies",
+    "pais": "Francia",
     "imagenUrl": "https://i.imgur.com/vqrrpBi.png",
     "streamUrl": "https://irhls.persiana.live/hls/stream.m3u8"
   },
   {
-    "id": 4095,
+    "id": 4093,
     "nombre": "Persiana Korea",
     "descripcion": "Persiana Korea",
     "categoria": "movies",
+    "pais": "Francia",
     "imagenUrl": "https://i.imgur.com/si2ZnIA.png",
     "streamUrl": "https://korhls.persiana.live/hls/stream.m3u8"
   },
   {
-    "id": 4096,
+    "id": 4094,
     "nombre": "Persiana Latino",
     "descripcion": "Persiana Latino",
     "categoria": "movies",
+    "pais": "Francia",
     "imagenUrl": "https://www.lyngsat.com/logo/tv/pp/persiana-latino-fr.png",
     "streamUrl": "https://latinohls.persiana.live/hls/stream.m3u8"
   },
   {
-    "id": 4097,
+    "id": 4095,
     "nombre": "Persiana One",
     "descripcion": "Persiana One",
     "categoria": "movies",
+    "pais": "Francia",
     "imagenUrl": "https://i.imgur.com/X1Dv6st.png",
     "streamUrl": "https://onehls.persiana.live/hls/stream.m3u8"
   },
   {
-    "id": 4098,
+    "id": 4096,
     "nombre": "QTV-3",
     "descripcion": "QTV-3",
     "categoria": "movies",
+    "pais": "China",
     "imagenUrl": "https://www.tvchinese.net/uploads/tv/qdtv3.jpg",
     "streamUrl": "http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8"
   },
   {
-    "id": 4099,
+    "id": 4097,
     "nombre": "Rakuten Top Movies UK",
     "descripcion": "Rakuten Top Movies UK",
     "categoria": "movies",
+    "pais": "España",
     "imagenUrl": "https://i.imgur.com/Meew6eX.png",
     "streamUrl": "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
+  },
+  {
+    "id": 4098,
+    "nombre": "Rakuten TV Action Movies",
+    "descripcion": "Rakuten TV Action Movies",
+    "categoria": "movies",
+    "pais": "España",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8"
+  },
+  {
+    "id": 4099,
+    "nombre": "Rakuten TV Action Movies",
+    "descripcion": "Rakuten TV Action Movies",
+    "categoria": "movies",
+    "pais": "España",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8"
   },
   {
     "id": 4100,
     "nombre": "Rakuten TV Action Movies",
     "descripcion": "Rakuten TV Action Movies",
     "categoria": "movies",
+    "pais": "España",
     "imagenUrl": "https://i.imgur.com/Meew6eX.png",
-    "streamUrl": "https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8"
+    "streamUrl": "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8"
   },
   {
     "id": 4101,
     "nombre": "Rakuten TV Action Movies",
     "descripcion": "Rakuten TV Action Movies",
     "categoria": "movies",
+    "pais": "España",
     "imagenUrl": "https://i.imgur.com/Meew6eX.png",
-    "streamUrl": "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8"
+    "streamUrl": "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8"
   },
   {
     "id": 4102,
     "nombre": "Rakuten TV Action Movies",
     "descripcion": "Rakuten TV Action Movies",
     "categoria": "movies",
+    "pais": "España",
     "imagenUrl": "https://i.imgur.com/Meew6eX.png",
-    "streamUrl": "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8"
+    "streamUrl": "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8"
   },
   {
     "id": 4103,
-    "nombre": "Rakuten TV Action Movies",
-    "descripcion": "Rakuten TV Action Movies",
+    "nombre": "Rakuten TV Comedy Movies",
+    "descripcion": "Rakuten TV Comedy Movies",
     "categoria": "movies",
+    "pais": "España",
     "imagenUrl": "https://i.imgur.com/Meew6eX.png",
-    "streamUrl": "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8"
+    "streamUrl": "https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8"
   },
   {
     "id": 4104,
-    "nombre": "Rakuten TV Action Movies",
-    "descripcion": "Rakuten TV Action Movies",
+    "nombre": "Rakuten TV Comedy Movies",
+    "descripcion": "Rakuten TV Comedy Movies",
     "categoria": "movies",
+    "pais": "España",
     "imagenUrl": "https://i.imgur.com/Meew6eX.png",
-    "streamUrl": "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8"
+    "streamUrl": "https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8"
   },
   {
     "id": 4105,
     "nombre": "Rakuten TV Comedy Movies",
     "descripcion": "Rakuten TV Comedy Movies",
     "categoria": "movies",
+    "pais": "España",
     "imagenUrl": "https://i.imgur.com/Meew6eX.png",
-    "streamUrl": "https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8"
+    "streamUrl": "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8"
   },
   {
     "id": 4106,
     "nombre": "Rakuten TV Comedy Movies",
     "descripcion": "Rakuten TV Comedy Movies",
     "categoria": "movies",
+    "pais": "España",
     "imagenUrl": "https://i.imgur.com/Meew6eX.png",
-    "streamUrl": "https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8"
+    "streamUrl": "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
   },
   {
     "id": 4107,
     "nombre": "Rakuten TV Comedy Movies",
     "descripcion": "Rakuten TV Comedy Movies",
     "categoria": "movies",
+    "pais": "España",
     "imagenUrl": "https://i.imgur.com/Meew6eX.png",
-    "streamUrl": "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8"
+    "streamUrl": "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8"
   },
   {
     "id": 4108,
-    "nombre": "Rakuten TV Comedy Movies",
-    "descripcion": "Rakuten TV Comedy Movies",
+    "nombre": "Rakuten TV Drama Movies",
+    "descripcion": "Rakuten TV Drama Movies",
     "categoria": "movies",
+    "pais": "España",
     "imagenUrl": "https://i.imgur.com/Meew6eX.png",
-    "streamUrl": "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
+    "streamUrl": "https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8"
   },
   {
     "id": 4109,
-    "nombre": "Rakuten TV Comedy Movies",
-    "descripcion": "Rakuten TV Comedy Movies",
+    "nombre": "Rakuten TV Drama Movies",
+    "descripcion": "Rakuten TV Drama Movies",
     "categoria": "movies",
+    "pais": "España",
     "imagenUrl": "https://i.imgur.com/Meew6eX.png",
-    "streamUrl": "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8"
+    "streamUrl": "https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8"
   },
   {
     "id": 4110,
     "nombre": "Rakuten TV Drama Movies",
     "descripcion": "Rakuten TV Drama Movies",
     "categoria": "movies",
+    "pais": "España",
     "imagenUrl": "https://i.imgur.com/Meew6eX.png",
-    "streamUrl": "https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8"
+    "streamUrl": "https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8"
   },
   {
     "id": 4111,
     "nombre": "Rakuten TV Drama Movies",
     "descripcion": "Rakuten TV Drama Movies",
     "categoria": "movies",
+    "pais": "España",
     "imagenUrl": "https://i.imgur.com/Meew6eX.png",
-    "streamUrl": "https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8"
+    "streamUrl": "https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8"
   },
   {
     "id": 4112,
     "nombre": "Rakuten TV Drama Movies",
     "descripcion": "Rakuten TV Drama Movies",
     "categoria": "movies",
+    "pais": "España",
     "imagenUrl": "https://i.imgur.com/Meew6eX.png",
-    "streamUrl": "https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8"
+    "streamUrl": "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
   },
   {
     "id": 4113,
-    "nombre": "Rakuten TV Drama Movies",
-    "descripcion": "Rakuten TV Drama Movies",
-    "categoria": "movies",
+    "nombre": "Rakuten TV Family Movies",
+    "descripcion": "Rakuten TV Family Movies",
+    "categoria": "family",
+    "pais": "España",
     "imagenUrl": "https://i.imgur.com/Meew6eX.png",
-    "streamUrl": "https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8"
+    "streamUrl": "https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8"
   },
   {
     "id": 4114,
-    "nombre": "Rakuten TV Drama Movies",
-    "descripcion": "Rakuten TV Drama Movies",
-    "categoria": "movies",
+    "nombre": "Rakuten TV Family Movies",
+    "descripcion": "Rakuten TV Family Movies",
+    "categoria": "family",
+    "pais": "España",
     "imagenUrl": "https://i.imgur.com/Meew6eX.png",
-    "streamUrl": "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
+    "streamUrl": "https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8"
   },
   {
     "id": 4115,
     "nombre": "Rakuten TV Family Movies",
     "descripcion": "Rakuten TV Family Movies",
     "categoria": "family",
+    "pais": "España",
     "imagenUrl": "https://i.imgur.com/Meew6eX.png",
-    "streamUrl": "https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8"
+    "streamUrl": "https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8"
   },
   {
     "id": 4116,
     "nombre": "Rakuten TV Family Movies",
     "descripcion": "Rakuten TV Family Movies",
     "categoria": "family",
+    "pais": "España",
     "imagenUrl": "https://i.imgur.com/Meew6eX.png",
-    "streamUrl": "https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8"
+    "streamUrl": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
   },
   {
     "id": 4117,
     "nombre": "Rakuten TV Family Movies",
     "descripcion": "Rakuten TV Family Movies",
     "categoria": "family",
-    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
-    "streamUrl": "https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8"
-  },
-  {
-    "id": 4118,
-    "nombre": "Rakuten TV Family Movies",
-    "descripcion": "Rakuten TV Family Movies",
-    "categoria": "family",
-    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
-    "streamUrl": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
-  },
-  {
-    "id": 4119,
-    "nombre": "Rakuten TV Family Movies",
-    "descripcion": "Rakuten TV Family Movies",
-    "categoria": "family",
+    "pais": "España",
     "imagenUrl": "https://i.imgur.com/Meew6eX.png",
     "streamUrl": "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8"
   },
   {
-    "id": 4120,
+    "id": 4118,
     "nombre": "Rakuten TV Nordic Films",
     "descripcion": "Rakuten TV Nordic Films",
     "categoria": "movies",
+    "pais": "España",
     "imagenUrl": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/ff79e878-3eea-45fc-b0cd-55d6acce9b18-width200-quality90.jpeg",
     "streamUrl": "https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8"
+  },
+  {
+    "id": 4119,
+    "nombre": "Rakuten TV Top Movies",
+    "descripcion": "Rakuten TV Top Movies",
+    "categoria": "movies",
+    "pais": "España",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8"
+  },
+  {
+    "id": 4120,
+    "nombre": "Rakuten TV Top Movies",
+    "descripcion": "Rakuten TV Top Movies",
+    "categoria": "movies",
+    "pais": "España",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8"
   },
   {
     "id": 4121,
     "nombre": "Rakuten TV Top Movies",
     "descripcion": "Rakuten TV Top Movies",
     "categoria": "movies",
+    "pais": "España",
     "imagenUrl": "https://i.imgur.com/Meew6eX.png",
-    "streamUrl": "https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8"
+    "streamUrl": "https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8"
   },
   {
     "id": 4122,
     "nombre": "Rakuten TV Top Movies",
     "descripcion": "Rakuten TV Top Movies",
     "categoria": "movies",
-    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
-    "streamUrl": "https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8"
-  },
-  {
-    "id": 4123,
-    "nombre": "Rakuten TV Top Movies",
-    "descripcion": "Rakuten TV Top Movies",
-    "categoria": "movies",
-    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
-    "streamUrl": "https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8"
-  },
-  {
-    "id": 4124,
-    "nombre": "Rakuten TV Top Movies",
-    "descripcion": "Rakuten TV Top Movies",
-    "categoria": "movies",
+    "pais": "España",
     "imagenUrl": "https://i.imgur.com/Meew6eX.png",
     "streamUrl": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
   },
   {
-    "id": 4125,
-    "nombre": "Revry Her",
-    "descripcion": "Revry Her",
-    "categoria": "movies",
-    "imagenUrl": "https://www.washingtonblade.com/content/files/2020/01/QUEER_STREAMING_SERVICE_ADOPTS-LGBT_TOKEN_FEATURED_WB_10012020-e1578680670538.jpeg",
-    "streamUrl": "https://linear-73.frequency.stream/mt/brightcove/73/hls/master/playlist.m3u8"
-  },
-  {
-    "id": 4126,
+    "id": 4123,
     "nombre": "Rotana Cinema KSA",
     "descripcion": "Rotana Cinema KSA",
     "categoria": "movies",
+    "pais": "Arabia Saudita",
     "imagenUrl": "https://i.imgur.com/pGgp38I.png",
     "streamUrl": "https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8"
   },
   {
-    "id": 4127,
+    "id": 4124,
     "nombre": "Runtime Espanol",
     "descripcion": "Runtime Espanol",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://i.imgur.com/OMQq19N.png",
     "streamUrl": "https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8"
   },
   {
-    "id": 4128,
+    "id": 4125,
     "nombre": "Russkiy Illusion",
     "descripcion": "Russkiy Illusion",
     "categoria": "movies",
+    "pais": "Rusia",
     "imagenUrl": "https://i.imgur.com/RlsqFN8.png",
     "streamUrl": "http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8"
   },
   {
-    "id": 4129,
+    "id": 4126,
     "nombre": "Russkiy roman",
     "descripcion": "Russkiy roman",
     "categoria": "movies",
+    "pais": "Rusia",
     "imagenUrl": "https://i.imgur.com/cQN0P2B.png",
     "streamUrl": "http://31.148.48.15/Russkiy_Roman_HD/index.m3u8"
   },
   {
-    "id": 4130,
+    "id": 4127,
     "nombre": "SL 1",
     "descripcion": "SL 1",
     "categoria": "movies",
+    "pais": "Irán",
     "imagenUrl": "https://i.imgur.com/n9cuM2W.jpg",
     "streamUrl": "https://slonehls.wns.live/hls/stream.m3u8"
   },
   {
-    "id": 4131,
+    "id": 4128,
     "nombre": "SL 2",
     "descripcion": "SL 2",
     "categoria": "movies",
+    "pais": "Irán",
     "imagenUrl": "https://i.imgur.com/BVuUx5R.jpg",
     "streamUrl": "https://sltwohls.wns.live/hls/stream.m3u8"
   },
   {
-    "id": 4132,
+    "id": 4129,
     "nombre": "Sony Canal Novelas",
     "descripcion": "Sony Canal Novelas",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://i.imgur.com/yijitpa.png",
     "streamUrl": "https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8"
   },
   {
-    "id": 4133,
+    "id": 4130,
     "nombre": "Star Cinema",
     "descripcion": "Star Cinema",
     "categoria": "movies",
+    "pais": "Rusia",
     "imagenUrl": "https://i.imgur.com/5sis895.png",
     "streamUrl": "http://s1.merlive.am/starsinema/index.m3u8"
   },
   {
-    "id": 4134,
+    "id": 4131,
     "nombre": "Sundance TV East",
     "descripcion": "Sundance TV East",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png",
     "streamUrl": "https://fl3.moveonjoy.com/SUNDANCE/index.m3u8"
   },
   {
-    "id": 4135,
+    "id": 4132,
     "nombre": "Superflix TV",
     "descripcion": "Superflix TV",
     "categoria": "entertainment",
+    "pais": "Brasil",
     "imagenUrl": "https://i.imgur.com/lvUbMen.png",
     "streamUrl": "https://streaming.cloudecast.com/hls/superflix/index.m3u8"
   },
   {
-    "id": 4136,
+    "id": 4133,
+    "nombre": "Tamasha",
+    "descripcion": "Tamasha",
+    "categoria": "movies",
+    "pais": "Irán",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/240px-IRIB_tamashaTV.svg.png",
+    "streamUrl": "https://lenz.splus.ir/PLTV/88888888/224/3221226879/index.m3u8"
+  },
+  {
+    "id": 4134,
     "nombre": "TVCARiB Cinema (720p) [Not 24/7]",
     "descripcion": "TVCARiB Cinema (720p) [Not 24/7]",
     "categoria": "movies",
+    "pais": "San Martín",
     "imagenUrl": "https://i.imgur.com/fvGlwKo.png",
     "streamUrl": "https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8"
   },
   {
-    "id": 4137,
+    "id": 4135,
     "nombre": "Victor Valley Movies (1080p) [Not 24/7]",
     "descripcion": "Victor Valley Movies (1080p) [Not 24/7]",
     "categoria": "movies",
+    "pais": "Estados Unidos",
     "imagenUrl": "https://i.imgur.com/zgiuNNj.png",
     "streamUrl": "https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8"
   },
   {
-    "id": 4138,
+    "id": 4136,
     "nombre": "ZB Cinema",
     "descripcion": "ZB Cinema",
     "categoria": "classic",
+    "pais": "India",
     "imagenUrl": "https://i.imgur.com/kUg6WSk.jpeg",
     "streamUrl": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8"
   },
   {
-    "id": 4139,
+    "id": 4137,
     "nombre": "Дом Кино Премиум HD",
     "descripcion": "Дом Кино Премиум HD",
     "categoria": "movies",
+    "pais": "Rusia",
     "imagenUrl": "https://i.imgur.com/rJpQtvK.png",
     "streamUrl": "http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8"
   },
   {
-    "id": 4140,
+    "id": 4138,
     "nombre": "Кинопоказ",
     "descripcion": "Кинопоказ",
     "categoria": "movies",
+    "pais": "Rusia",
     "imagenUrl": "https://i.imgur.com/nNjMyAq.png",
     "streamUrl": "http://31.148.48.15/Kinopokaz/index.m3u8"
   },
   {
-    "id": 4141,
+    "id": 4139,
     "nombre": "Русский Бестселлер",
     "descripcion": "Русский Бестселлер",
     "categoria": "movies",
+    "pais": "Rusia",
     "imagenUrl": "https://i.imgur.com/w0ZE9QJ.png",
     "streamUrl": "http://31.148.48.15/Russkiy_Bestseller/index.m3u8"
   }
