@@ -648,15 +648,6 @@
     "streamUrl": "http://rtmp.apa.tv/@pagroup!23.m3u8"
   },
   {
-    "id": 2078,
-    "nombre": "apart TV",
-    "descripcion": "apart TV",
-    "categoria": "business",
-    "pais": "Luxemburgo",
-    "imagenUrl": "https://i.imgur.com/IBcMIcZ.png",
-    "streamUrl": "https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8"
-  },
-  {
     "id": 2079,
     "nombre": "Aqjaiyq",
     "descripcion": "Aqjaiyq",
@@ -1069,15 +1060,6 @@
     "pais": "España",
     "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logotip_betev%C3%A9.svg/512px-Logotip_betev%C3%A9.svg.png",
     "streamUrl": "https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0"
-  },
-  {
-    "id": 2128,
-    "nombre": "BFM Business",
-    "descripcion": "BFM Business",
-    "categoria": "business",
-    "pais": "Francia",
-    "imagenUrl": "https://i.imgur.com/psqIHn4.png",
-    "streamUrl": "https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8"
   },
   {
     "id": 2129,
@@ -6129,15 +6111,6 @@
     "streamUrl": "https://live.neatv.gr:8888/hls/neatv.m3u8"
   },
   {
-    "id": 2711,
-    "nombre": "Negocios TV",
-    "descripcion": "Negocios TV",
-    "categoria": "business",
-    "pais": "España",
-    "imagenUrl": "https://www.negocios.com/wp-content/uploads/2024/05/logo-negocios-web-244x137px.png",
-    "streamUrl": "https://streaming013.gestec-video.com/hls/negociostv.m3u8"
-  },
-  {
     "id": 2712,
     "nombre": "Neox",
     "descripcion": "Neox",
@@ -10683,15 +10656,6 @@
     "streamUrl": "http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8"
   },
   {
-    "id": 3232,
-    "nombre": "Telewizja Biznesowa",
-    "descripcion": "Telewizja Biznesowa",
-    "categoria": "business",
-    "pais": "Polonia",
-    "imagenUrl": "https://i.imgur.com/XC7i7ZL.png",
-    "streamUrl": "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8"
-  },
-  {
     "id": 3233,
     "nombre": "Telewizja Jaslo",
     "descripcion": "Telewizja Jaslo",
@@ -11401,15 +11365,6 @@
     "pais": "España",
     "imagenUrl": "https://i.imgur.com/TjpjoOu.png",
     "streamUrl": "https://directo.tvferrol.es/tv.m3u8"
-  },
-  {
-    "id": 3312,
-    "nombre": "TV Finance",
-    "descripcion": "TV Finance",
-    "categoria": "business",
-    "pais": "Francia",
-    "imagenUrl": "https://i.imgur.com/G3qimo4.png",
-    "streamUrl": "https://strhlslb01.streamakaci.tv/str_tvfinance_tvfinance/str_tvfinance_multi/playlist.m3u8"
   },
   {
     "id": 3313,
