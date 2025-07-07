@@ -864,15 +864,6 @@
     "streamUrl": "https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8"
   },
   {
-    "id": 2101,
-    "nombre": "Auto Plus",
-    "descripcion": "Auto Plus",
-    "categoria": "auto",
-    "pais": "Rusia",
-    "imagenUrl": "https://i.imgur.com/sVc8cFt.png",
-    "streamUrl": "http://31.148.48.15/Avto_Plus/index.m3u8"
-  },
-  {
     "id": 2102,
     "nombre": "Avers",
     "descripcion": "Avers",
@@ -1294,33 +1285,6 @@
     "pais": "Países Bajos",
     "imagenUrl": "https://i.imgur.com/Eg3sgNb.png",
     "streamUrl": "https://01.tv.streaming.bredanu.nl/hls/stream.m3u8"
-  },
-  {
-    "id": 2153,
-    "nombre": "BRIDGE Classic",
-    "descripcion": "BRIDGE Classic",
-    "categoria": "classic",
-    "pais": "Rusia",
-    "imagenUrl": "https://i.imgur.com/JJTQq81.png",
-    "streamUrl": "http://31.148.48.15/Bridge_TV_Classic/index.m3u8"
-  },
-  {
-    "id": 2154,
-    "nombre": "BRIDGE Deluxe",
-    "descripcion": "BRIDGE Deluxe",
-    "categoria": "music",
-    "pais": "Rusia",
-    "imagenUrl": "https://i.imgur.com/EazL8w7.png",
-    "streamUrl": "http://31.148.48.15/Bridge_TV_HD/index.m3u8"
-  },
-  {
-    "id": 2155,
-    "nombre": "BRIDGE Hits",
-    "descripcion": "BRIDGE Hits",
-    "categoria": "music",
-    "pais": "Rusia",
-    "imagenUrl": "https://i.imgur.com/sIW9oR4.png",
-    "streamUrl": "http://31.148.48.15/Bridge_TV_Dance/index.m3u8"
   },
   {
     "id": 2156,
@@ -3024,24 +2988,6 @@
     "streamUrl": "http://dvrfl05.bozztv.com/gin-euronewsgeorgia/index.m3u8"
   },
   {
-    "id": 2347,
-    "nombre": "Europa Plus TV",
-    "descripcion": "Europa Plus TV",
-    "categoria": "music",
-    "pais": "Rusia",
-    "imagenUrl": "https://i.imgur.com/GLc4qrc.png",
-    "streamUrl": "http://31.148.48.15/Europa_Plus_HD/index.m3u8"
-  },
-  {
-    "id": 2348,
-    "nombre": "Evrokino",
-    "descripcion": "Evrokino",
-    "categoria": "movies",
-    "pais": "Rusia",
-    "imagenUrl": "https://i.imgur.com/8LPtPf6.png",
-    "streamUrl": "http://31.148.48.15/Evrokino/index.m3u8"
-  },
-  {
     "id": 2349,
     "nombre": "Evrokom",
     "descripcion": "Evrokom",
@@ -3231,15 +3177,6 @@
     "streamUrl": "https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8"
   },
   {
-    "id": 2370,
-    "nombre": "Feniks plus Kino",
-    "descripcion": "Feniks plus Kino",
-    "categoria": "movies",
-    "pais": "Rusia",
-    "imagenUrl": "https://i.imgur.com/S9OPMLE.png",
-    "streamUrl": "http://31.148.48.15/Feniks_plus_kino/index.m3u8"
-  },
-  {
     "id": 2371,
     "nombre": "Fibwi (1080p) [Not 24/7]",
     "descripcion": "Fibwi (1080p) [Not 24/7]",
@@ -3319,24 +3256,6 @@
     "pais": "Dinamarca",
     "imagenUrl": "https://i.imgur.com/RqQDUzX.png",
     "streamUrl": "https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8"
-  },
-  {
-    "id": 2380,
-    "nombre": "FoodTime",
-    "descripcion": "FoodTime",
-    "categoria": "cooking",
-    "pais": "Rusia",
-    "imagenUrl": "https://i.imgur.com/gxCYAwH.png",
-    "streamUrl": "http://31.148.48.15/Eda_Premium_HD/index.m3u8"
-  },
-  {
-    "id": 2381,
-    "nombre": "Football",
-    "descripcion": "Football",
-    "categoria": "sports",
-    "pais": "Rusia",
-    "imagenUrl": "https://i.imgur.com/pEuaZVx.png",
-    "streamUrl": "http://31.148.48.15/Futbol_HD/index.m3u8"
   },
   {
     "id": 2382,
