@@ -531,24 +531,6 @@
     "streamUrl": "http://vegafibratv.com:8085/AMC/index.m3u8"
   },
   {
-    "id": 2062,
-    "nombre": "Amedia 1",
-    "descripcion": "Amedia 1",
-    "categoria": "music",
-    "pais": "Rusia",
-    "imagenUrl": "https://i.imgur.com/2pAHdAi.png",
-    "streamUrl": "http://31.148.48.15/A1/index.m3u8"
-  },
-  {
-    "id": 2063,
-    "nombre": "Amedia 2",
-    "descripcion": "Amedia 2",
-    "categoria": "series",
-    "pais": "Rusia",
-    "imagenUrl": "https://i.imgur.com/NqHla2V.png",
-    "streamUrl": "http://31.148.48.15/A2/index.m3u8"
-  },
-  {
     "id": 2064,
     "nombre": "Anadolu Net TV",
     "descripcion": "Anadolu Net TV",
@@ -3654,15 +3636,6 @@
     "streamUrl": "https://testcam.go.ro:8080/hls/hd365.m3u8"
   },
   {
-    "id": 2426,
-    "nombre": "HDL",
-    "descripcion": "HDL",
-    "categoria": "documentary",
-    "pais": "Rusia",
-    "imagenUrl": "https://i.imgur.com/tKgmhxh.png",
-    "streamUrl": "http://31.148.48.15/HD_Life/index.m3u8"
-  },
-  {
     "id": 2427,
     "nombre": "Hell's Kitchen",
     "descripcion": "Hell's Kitchen",
@@ -3906,15 +3879,6 @@
     "streamUrl": "https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8"
   },
   {
-    "id": 2454,
-    "nombre": "Illusion+",
-    "descripcion": "Illusion+",
-    "categoria": "movies",
-    "pais": "Rusia",
-    "imagenUrl": "https://i.imgur.com/9GvuHQ5.png",
-    "streamUrl": "http://31.148.48.15/Illusion_plus/index.m3u8"
-  },
-  {
     "id": 2455,
     "nombre": "ILTV",
     "descripcion": "ILTV",
@@ -3967,15 +3931,6 @@
     "pais": "Rumania",
     "imagenUrl": "https://i.imgur.com/G5mNdpE.png",
     "streamUrl": "https://online.tvimpact.live/hls/impact_tv.m3u8"
-  },
-  {
-    "id": 2461,
-    "nombre": "India",
-    "descripcion": "India",
-    "categoria": "entertainment",
-    "pais": "Rusia",
-    "imagenUrl": "https://i.imgur.com/xDVcDOc.png",
-    "streamUrl": "http://31.148.48.15/Zee_TV_Russia/index.m3u8"
   },
   {
     "id": 2462,
@@ -4689,15 +4644,6 @@
     "streamUrl": "https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8"
   },
   {
-    "id": 2541,
-    "nombre": "Kukhnya TV",
-    "descripcion": "Kukhnya TV",
-    "categoria": "cooking",
-    "pais": "Rusia",
-    "imagenUrl": "https://i.imgur.com/7jxZnuS.png",
-    "streamUrl": "http://31.148.48.15/Kuhnya_TV/index.m3u8"
-  },
-  {
     "id": 2542,
     "nombre": "Kulinar TV Show",
     "descripcion": "Kulinar TV Show",
@@ -4750,15 +4696,6 @@
     "pais": "Portugal",
     "imagenUrl": "https://i.imgur.com/xdAW0D5.png",
     "streamUrl": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8"
-  },
-  {
-    "id": 2548,
-    "nombre": "KVN TV",
-    "descripcion": "KVN TV",
-    "categoria": "comedy",
-    "pais": "Rusia",
-    "imagenUrl": "https://i.imgur.com/Vw3LFLX.png",
-    "streamUrl": "http://31.148.48.15/KVN_TV/index.m3u8"
   },
   {
     "id": 2549,
@@ -6496,15 +6433,6 @@
     "pais": "Turquía",
     "imagenUrl": "https://i.imgur.com/02cDIBi.png",
     "streamUrl": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8"
-  },
-  {
-    "id": 2745,
-    "nombre": "o2tv",
-    "descripcion": "o2tv",
-    "categoria": "music",
-    "pais": "Rusia",
-    "imagenUrl": "https://i.imgur.com/CM6z7fA.png",
-    "streamUrl": "http://31.148.48.15/O2_HD/index.m3u8"
   },
   {
     "id": 2746,
@@ -9153,15 +9081,6 @@
     "streamUrl": "http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8"
   },
   {
-    "id": 3044,
-    "nombre": "Russkiy roman",
-    "descripcion": "Russkiy roman",
-    "categoria": "movies",
-    "pais": "Rusia",
-    "imagenUrl": "https://i.imgur.com/cQN0P2B.png",
-    "streamUrl": "http://31.148.48.15/Russkiy_Roman_HD/index.m3u8"
-  },
-  {
     "id": 3045,
     "nombre": "RÚV 2",
     "descripcion": "RÚV 2",
@@ -10008,15 +9927,6 @@
     "streamUrl": "https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8"
   },
   {
-    "id": 3139,
-    "nombre": "STS kids",
-    "descripcion": "STS kids",
-    "categoria": "kids",
-    "pais": "Rusia",
-    "imagenUrl": "https://i.imgur.com/o9kLpAL.png",
-    "streamUrl": "http://31.148.48.15/STS_Kids_HD/index.m3u8"
-  },
-  {
     "id": 3140,
     "nombre": "STS Love",
     "descripcion": "STS Love",
@@ -10368,15 +10278,6 @@
     "streamUrl": "https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8"
   },
   {
-    "id": 3180,
-    "nombre": "Teatr",
-    "descripcion": "Teatr",
-    "categoria": "culture",
-    "pais": "Rusia",
-    "imagenUrl": "https://i.imgur.com/nc2ijCH.png",
-    "streamUrl": "http://31.148.48.15/Sochi_HD/index.m3u8"
-  },
-  {
     "id": 3181,
     "nombre": "Teatro TV",
     "descripcion": "Teatro TV",
@@ -10699,15 +10600,6 @@
     "pais": "Italia",
     "imagenUrl": "https://tvtvtv.ru/icons/telepace_trento.png",
     "streamUrl": "https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8"
-  },
-  {
-    "id": 3217,
-    "nombre": "Teleputeshestviya",
-    "descripcion": "Teleputeshestviya",
-    "categoria": "travel",
-    "pais": "Rusia",
-    "imagenUrl": "https://i.imgur.com/eXJm1n3.png",
-    "streamUrl": "http://31.148.48.15/Teleputeshestviya/index.m3u8"
   },
   {
     "id": 3218,
@@ -11826,15 +11718,6 @@
     "streamUrl": "http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8"
   },
   {
-    "id": 3344,
-    "nombre": "TV XXI",
-    "descripcion": "TV XXI",
-    "categoria": "undefined",
-    "pais": "Letonia",
-    "imagenUrl": "https://i.imgur.com/Fja4bWt.png",
-    "streamUrl": "http://31.148.48.15/TV_XXI/index.m3u8"
-  },
-  {
     "id": 3345,
     "nombre": "TV Yes Italia",
     "descripcion": "TV Yes Italia",
@@ -12175,15 +12058,6 @@
     "pais": "Italia",
     "imagenUrl": "https://i.imgur.com/olJIJ7c.png",
     "streamUrl": "https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8"
-  },
-  {
-    "id": 3383,
-    "nombre": "Unikum",
-    "descripcion": "Unikum",
-    "categoria": "undefined",
-    "pais": "Rusia",
-    "imagenUrl": "https://i.imgur.com/kSJZjDL.png",
-    "streamUrl": "http://31.148.48.15/Detskiy/index.m3u8"
   },
   {
     "id": 3384,
@@ -12825,15 +12699,6 @@
     "streamUrl": "https://89ec2d15e090480bb419d940b8793b9c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ZeeWorld-1/playlist.m3u8"
   },
   {
-    "id": 3455,
-    "nombre": "Zhivaya Planeta",
-    "descripcion": "Zhivaya Planeta",
-    "categoria": "undefined",
-    "pais": "Rusia",
-    "imagenUrl": "https://i.imgur.com/onNv1tM.png",
-    "streamUrl": "http://31.148.48.15/Zhivaya_Planeta/index.m3u8"
-  },
-  {
     "id": 3456,
     "nombre": "Zjarr TV (720p) [Not 24/7]",
     "descripcion": "Zjarr TV (720p) [Not 24/7]",
@@ -12976,15 +12841,6 @@
     "pais": "Rusia",
     "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/512px-Tvrain.svg.png",
     "streamUrl": "https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8"
-  },
-  {
-    "id": 3480,
-    "nombre": "Дом Кино Премиум HD",
-    "descripcion": "Дом Кино Премиум HD",
-    "categoria": "movies",
-    "pais": "Rusia",
-    "imagenUrl": "https://i.imgur.com/rJpQtvK.png",
-    "streamUrl": "http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8"
   },
   {
     "id": 3481,
@@ -13239,15 +13095,6 @@
     "streamUrl": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8"
   },
   {
-    "id": 3524,
-    "nombre": "Поехали!",
-    "descripcion": "Поехали!",
-    "categoria": "entertainment",
-    "pais": "Rusia",
-    "imagenUrl": "https://i.imgur.com/mxsBZaC.png",
-    "streamUrl": "http://31.148.48.15/Poehali/index.m3u8"
-  },
-  {
     "id": 3525,
     "nombre": "Прима",
     "descripcion": "Прима",
@@ -13318,15 +13165,6 @@
     "pais": "Rusia",
     "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png",
     "streamUrl": "https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f"
-  },
-  {
-    "id": 3533,
-    "nombre": "Русский Бестселлер",
-    "descripcion": "Русский Бестселлер",
-    "categoria": "movies",
-    "pais": "Rusia",
-    "imagenUrl": "https://i.imgur.com/w0ZE9QJ.png",
-    "streamUrl": "http://31.148.48.15/Russkiy_Bestseller/index.m3u8"
   },
   {
     "id": 3534,
