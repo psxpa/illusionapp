@@ -6390,15 +6390,6 @@
     "streamUrl": "https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live"
   },
   {
-    "id": 2716,
-    "nombre": "Nickelodeon",
-    "descripcion": "Nickelodeon",
-    "categoria": "kids",
-    "pais": "Rusia",
-    "imagenUrl": "https://i.imgur.com/w8iE8dV.png",
-    "streamUrl": "http://31.148.48.15/Nickelodeon/index.m3u8"
-  },
-  {
     "id": 2717,
     "nombre": "Nickelodeon (Spain)",
     "descripcion": "Nickelodeon (Spain)",
@@ -6604,15 +6595,6 @@
     "pais": "Turquía",
     "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/300px-NTV_%28Turkey%29_logo.svg.png",
     "streamUrl": "https://dogus-live.daioncdn.net/ntv/ntv.m3u8"
-  },
-  {
-    "id": 2740,
-    "nombre": "NTV IC Kakanj",
-    "descripcion": "NTV IC Kakanj",
-    "categoria": "general",
-    "pais": "Bosnia y Herzegovina",
-    "imagenUrl": "https://i.imgur.com/EtaHm2P.png",
-    "streamUrl": "https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8"
   },
   {
     "id": 2741,
