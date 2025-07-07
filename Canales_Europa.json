@@ -765,24 +765,6 @@
     "streamUrl": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
   },
   {
-    "id": 2093,
-    "nombre": "Assen TV",
-    "descripcion": "Assen TV",
-    "categoria": "general",
-    "pais": "Países Bajos",
-    "imagenUrl": "https://i.imgur.com/upik15D.png",
-    "streamUrl": "https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8&output=playlist.m3u8&protocol=https&service=webdav&type=live"
-  },
-  {
-    "id": 2094,
-    "nombre": "AT5",
-    "descripcion": "AT5",
-    "categoria": "general",
-    "pais": "Países Bajos",
-    "imagenUrl": "https://i.imgur.com/iAiSlEL.png",
-    "streamUrl": "https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live"
-  },
-  {
     "id": 2095,
     "nombre": "Atomic Academy TV",
     "descripcion": "Atomic Academy TV",
@@ -2419,33 +2401,6 @@
     "pais": "Hungría",
     "imagenUrl": "https://i.imgur.com/YSpqmSO.png",
     "streamUrl": "http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8"
-  },
-  {
-    "id": 2290,
-    "nombre": "DTV Den Bosch",
-    "descripcion": "DTV Den Bosch",
-    "categoria": "general",
-    "pais": "Países Bajos",
-    "imagenUrl": "https://i.imgur.com/aFBNbsy.png",
-    "streamUrl": "https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv2&output=playlist.m3u8&protocol=https&service=wowza&type=live"
-  },
-  {
-    "id": 2291,
-    "nombre": "DTV Maashorst",
-    "descripcion": "DTV Maashorst",
-    "categoria": "general",
-    "pais": "Países Bajos",
-    "imagenUrl": "https://i.imgur.com/5WaCCAC.png",
-    "streamUrl": "https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv3&output=playlist.m3u8&protocol=https&service=wowza&type=live"
-  },
-  {
-    "id": 2292,
-    "nombre": "DTV Oss & Bernheze",
-    "descripcion": "DTV Oss & Bernheze",
-    "categoria": "general",
-    "pais": "Países Bajos",
-    "imagenUrl": "https://i.imgur.com/JL1f9Tx.png",
-    "streamUrl": "https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv1&output=playlist.m3u8&protocol=https&service=wowza&type=live"
   },
   {
     "id": 2293,
@@ -5427,15 +5382,6 @@
     "streamUrl": "https://cdn8.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/FNTV-CHANNEL_CDN77/index.m3u8"
   },
   {
-    "id": 2635,
-    "nombre": "MC TV",
-    "descripcion": "MC TV",
-    "categoria": "entertainment",
-    "pais": "Alemania",
-    "imagenUrl": "https://upload.wikimedia.org/wikipedia/tr/c/ca/MC_TV_logosu.png",
-    "streamUrl": "https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live"
-  },
-  {
     "id": 2636,
     "nombre": "MDF.1",
     "descripcion": "MDF.1",
@@ -6136,15 +6082,6 @@
     "pais": "Albania",
     "imagenUrl": "https://i.imgur.com/eG33jue.png",
     "streamUrl": "https://tv.balkanweb.com/news24/livestream/playlist.m3u8"
-  },
-  {
-    "id": 2715,
-    "nombre": "NH Niews",
-    "descripcion": "NH Niews",
-    "categoria": "news",
-    "pais": "Países Bajos",
-    "imagenUrl": "https://i.imgur.com/SPkK4md.png",
-    "streamUrl": "https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live"
   },
   {
     "id": 2717,
@@ -7306,33 +7243,6 @@
     "pais": "Rusia",
     "imagenUrl": "https://i.imgur.com/4KiYSln.png",
     "streamUrl": "http://178.217.72.66:8080/pobeda/index.m3u8"
-  },
-  {
-    "id": 2848,
-    "nombre": "Podium.TV 2 (1080p) [Not 24/7]",
-    "descripcion": "Podium.TV 2 (1080p) [Not 24/7]",
-    "categoria": "undefined",
-    "pais": "Países Bajos",
-    "imagenUrl": "https://i.imgur.com/bAhMhuz.jpg",
-    "streamUrl": "https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC2&output=playlist.m3u8&service=wowza&type=live"
-  },
-  {
-    "id": 2849,
-    "nombre": "Podium.TV 3 (1080p) [Not 24/7]",
-    "descripcion": "Podium.TV 3 (1080p) [Not 24/7]",
-    "categoria": "undefined",
-    "pais": "Países Bajos",
-    "imagenUrl": "https://i.imgur.com/bAhMhuz.jpg",
-    "streamUrl": "https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC3&output=playlist.m3u8&service=wowza&type=live"
-  },
-  {
-    "id": 2850,
-    "nombre": "Podium.TV (1080p) [Not 24/7]",
-    "descripcion": "Podium.TV (1080p) [Not 24/7]",
-    "categoria": "undefined",
-    "pais": "Países Bajos",
-    "imagenUrl": "https://i.imgur.com/bAhMhuz.jpg",
-    "streamUrl": "https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC1&output=playlist.m3u8&service=wowza&type=live"
   },
   {
     "id": 2851,
@@ -11871,15 +11781,6 @@
     "streamUrl": "http://gargoyle.tomkow.pl/hls/tvt.m3u8"
   },
   {
-    "id": 3370,
-    "nombre": "Tweede Kamer: Actualiteitenkanaal (1080p) [Not 24/7]",
-    "descripcion": "Tweede Kamer: Actualiteitenkanaal (1080p) [Not 24/7]",
-    "categoria": "legislative",
-    "pais": "Países Bajos",
-    "imagenUrl": "https://i.imgur.com/X9fezZ8.png",
-    "streamUrl": "https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&subtitles=live&keyframes=1"
-  },
-  {
     "id": 3371,
     "nombre": "Tweede Kamer: Aletta Jacobszaal (1080p) [Not 24/7]",
     "descripcion": "Tweede Kamer: Aletta Jacobszaal (1080p) [Not 24/7]",
@@ -12390,7 +12291,7 @@
     "categoria": "general",
     "pais": "Países Bajos",
     "imagenUrl": "https://i.imgur.com/4XCwuob.png",
-    "streamUrl": "https://takeoff.jetstre.am/?account=weeff&file=weeffradio&output=playlist.m3u8&protocol=https&service=wowza&type=live"
+    "streamUrl": "https://takeoff.jetstre.am/?account=weeff&file=weeffradio&output=playlist.m3u8&protocol=http&service=wowza&type=live"
   },
   {
     "id": 3429,
