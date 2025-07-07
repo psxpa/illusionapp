@@ -12291,7 +12291,7 @@
     "categoria": "general",
     "pais": "Países Bajos",
     "imagenUrl": "https://i.imgur.com/4XCwuob.png",
-    "streamUrl": "https://takeoff.jetstre.am/?account=weeff&file=weeffradio&output=playlist.m3u8&protocol=http&service=wowza&type=live"
+    "streamUrl": "https://takeoff.jetstre.am/?account=weeff&file=weefftv&type=live&service=wowza&protocol=https&output=playlist.m3u8"
   },
   {
     "id": 3429,
