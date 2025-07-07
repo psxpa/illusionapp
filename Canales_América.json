@@ -144,15 +144,6 @@
     "streamUrl": "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8"
   },
   {
-    "id": 17,
-    "nombre": "13 Kids",
-    "descripcion": "13 Kids",
-    "categoria": "kids",
-    "pais": "Chile",
-    "imagenUrl": "https://i.imgur.com/8WJUbSD.png",
-    "streamUrl": "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8"
-  },
-  {
     "id": 18,
     "nombre": "13Max Televisión",
     "descripcion": "13Max Televisión",
@@ -3877,15 +3868,6 @@
     "pais": "Estados Unidos",
     "imagenUrl": "https://i.imgur.com/U6cu5Ms.png",
     "streamUrl": "https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8"
-  },
-  {
-    "id": 432,
-    "nombre": "Christian Youth Channel (CYC)",
-    "descripcion": "Christian Youth Channel (CYC)",
-    "categoria": "kids",
-    "pais": "Estados Unidos",
-    "imagenUrl": "https://i.imgur.com/61eV77C.png",
-    "streamUrl": "http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8"
   },
   {
     "id": 433,
