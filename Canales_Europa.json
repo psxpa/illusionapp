@@ -387,15 +387,6 @@
     "streamUrl": "https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8"
   },
   {
-    "id": 2044,
-    "nombre": "Al Jazeera Balkans",
-    "descripcion": "Al Jazeera Balkans",
-    "categoria": "news",
-    "pais": "Bosnia y Herzegovina",
-    "imagenUrl": "https://i.imgur.com/vMzCr8O.png",
-    "streamUrl": "https://live-hls-apps-ajb-v3-fa.getaj.net/AJB/index.m3u8"
-  },
-  {
     "id": 2045,
     "nombre": "Alanya Posta TV",
     "descripcion": "Alanya Posta TV",
@@ -1204,15 +1195,6 @@
     "pais": "Grecia",
     "imagenUrl": "https://i.imgur.com/C9CormG.png",
     "streamUrl": "https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8"
-  },
-  {
-    "id": 2138,
-    "nombre": "BN TV",
-    "descripcion": "BN TV",
-    "categoria": "undefined",
-    "pais": "Bosnia y Herzegovina",
-    "imagenUrl": "https://i.imgur.com/DUBvfWb.png",
-    "streamUrl": "https://rtvbn.tv:8080/live/index.m3u8"
   },
   {
     "id": 2139,
@@ -5571,15 +5553,6 @@
     "streamUrl": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8"
   },
   {
-    "id": 2627,
-    "nombre": "María+Visión Medjugorje",
-    "descripcion": "María+Visión Medjugorje",
-    "categoria": "religious",
-    "pais": "Bosnia y Herzegovina",
-    "imagenUrl": "https://i.imgur.com/xUOspBx.png",
-    "streamUrl": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8"
-  },
-  {
     "id": 2628,
     "nombre": "Markiza Klasik",
     "descripcion": "Markiza Klasik",
@@ -9045,15 +9018,6 @@
     "streamUrl": "https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8"
   },
   {
-    "id": 3017,
-    "nombre": "RTV Herceg-Bosne (576p) [Not 24/7]",
-    "descripcion": "RTV Herceg-Bosne (576p) [Not 24/7]",
-    "categoria": "general",
-    "pais": "Bosnia y Herzegovina",
-    "imagenUrl": "https://i.imgur.com/6FNL8Iv.png",
-    "streamUrl": "https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8"
-  },
-  {
     "id": 3018,
     "nombre": "RTV Islam",
     "descripcion": "RTV Islam",
@@ -9241,15 +9205,6 @@
     "pais": "Países Bajos",
     "imagenUrl": "https://i.imgur.com/002YXP6.png",
     "streamUrl": "https://media.rtvwesterwolde.nl/hls/live/index.m3u8"
-  },
-  {
-    "id": 3039,
-    "nombre": "RTV Zenica",
-    "descripcion": "RTV Zenica",
-    "categoria": "undefined",
-    "pais": "Bosnia y Herzegovina",
-    "imagenUrl": "https://i.imgur.com/TKUaflB.png",
-    "streamUrl": "https://stream.rtvze.ba/live/123/123.m3u8"
   },
   {
     "id": 3040,
@@ -10242,15 +10197,6 @@
     "streamUrl": "http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8"
   },
   {
-    "id": 3150,
-    "nombre": "Super TV Media",
-    "descripcion": "Super TV Media",
-    "categoria": "general",
-    "pais": "Bosnia y Herzegovina",
-    "imagenUrl": "https://i.imgur.com/XYWgd3E.png",
-    "streamUrl": "https://mirtv.club/live/mirtv/index.m3u8"
-  },
-  {
     "id": 3151,
     "nombre": "Super!",
     "descripcion": "Super!",
@@ -10960,24 +10906,6 @@
     "pais": "Eslovaquia",
     "imagenUrl": "https://i.imgur.com/Z7URrp1.png",
     "streamUrl": "http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8"
-  },
-  {
-    "id": 3230,
-    "nombre": "Televizija 5",
-    "descripcion": "Televizija 5",
-    "categoria": "undefined",
-    "pais": "Bosnia y Herzegovina",
-    "imagenUrl": "https://i.imgur.com/znpvJys.png",
-    "streamUrl": "https://balkanmedia.dynu.net/hls/tv5web.m3u8"
-  },
-  {
-    "id": 3231,
-    "nombre": "Televizija M",
-    "descripcion": "Televizija M",
-    "categoria": "general",
-    "pais": "Bosnia y Herzegovina",
-    "imagenUrl": "https://i.imgur.com/jT95ZEI.png",
-    "streamUrl": "https://live.tv-m.net/hls/stream.m3u8"
   },
   {
     "id": 3232,
