@@ -12285,15 +12285,6 @@
     "streamUrl": "https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8"
   },
   {
-    "id": 3428,
-    "nombre": "WEEFF TV",
-    "descripcion": "WEEFF TV",
-    "categoria": "general",
-    "pais": "Países Bajos",
-    "imagenUrl": "https://i.imgur.com/4XCwuob.png",
-    "streamUrl": "https://takeoff.jetstre.am/?account=weeff&file=weefftv&type=live&service=wowza&protocol=https&output=playlist.m3u8"
-  },
-  {
     "id": 3429,
     "nombre": "WeertFM TV",
     "descripcion": "WeertFM TV",
