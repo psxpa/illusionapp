@@ -9069,7 +9069,7 @@
     "categoria": "music",
     "pais": "Países Bajos",
     "imagenUrl": "https://i.vimeocdn.com/portrait/31947989_640x640",
-    "streamUrl": "https://salto-streams.nl/hls/sotv1.m3u8"
+    "streamUrl": "https://live.salto.nl/hls/sotv1_high.m3u8?hls_ctx=65n70290"
   },
   {
     "id": 3059,
