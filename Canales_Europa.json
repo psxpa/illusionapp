@@ -9756,15 +9756,6 @@
     "streamUrl": "https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8"
   },
   {
-    "id": 3136,
-    "nombre": "Streek TV (720p) [Not 24/7]",
-    "descripcion": "Streek TV (720p) [Not 24/7]",
-    "categoria": "undefined",
-    "pais": "Países Bajos",
-    "imagenUrl": "https://i.imgur.com/48lkh57.png",
-    "streamUrl": "http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8"
-  },
-  {
     "id": 3137,
     "nombre": "Strongman",
     "descripcion": "Strongman",
