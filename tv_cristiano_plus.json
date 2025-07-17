@@ -512,13 +512,6 @@
           "streamUrl": "https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/us-east-1/734546207001/profile_0/chunklist.m3u8"
         },
         {
-          "name": "MOVIE FE",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/Qi98A7u.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w1370182466.m3u8"
-        },
-        {
           "name": "PLANETA CREACION",
           "active": true,
           "imageUrl": "https://i.imgur.com/E6TKSqe.jpeg",
@@ -937,6 +930,13 @@
           "imageUrl": "https://imgur.com/LDpp9WX.jpeg",
           "isIframe": false,
           "streamUrl": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8"
+        },
+        {
+          "name": "EXTREMA ADORACION TV",
+          "active": true,
+          "imageUrl": "https://imgur.com/bmK1h9h.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://584097344c1f0.streamlock.net/1769/stream/playlist.m3u8"
         }
       ]
     },
