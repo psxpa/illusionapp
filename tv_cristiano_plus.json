@@ -937,6 +937,55 @@
           "imageUrl": "https://imgur.com/bmK1h9h.jpeg",
           "isIframe": false,
           "streamUrl": "https://584097344c1f0.streamlock.net/1769/stream/playlist.m3u8"
+        },
+        {
+          "name": "MARANATHA 911 TV",
+          "active": true,
+          "imageUrl": "https://imgur.com/3zi8WhX.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8"
+        },
+        {
+          "name": "CANDELITA 7 TV",
+          "active": true,
+          "imageUrl": "https://imgur.com/3ptzIwY.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://6110f70ea8d0e.streamlock.net/1689/1689/playlist.m3u8"
+        },
+        {
+          "name": "XTO KIDS",
+          "active": true,
+          "imageUrl": "https://imgur.com/iRN8wfN.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://a1network.net/webstream/xtokids.__ch.m3u8"
+        },
+        {
+          "name": "XTO TV",
+          "active": true,
+          "imageUrl": "https://imgur.com/J2rpziW.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://a1network.net/webstream/xtotv.__ch.m3u8"  
+        },
+        {
+          "name": "MESIAS TV",
+          "active": true,
+          "imageUrl": "https://imgur.com/4tvNx1j.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://a1network.net:443/webstream/Mesiastv.__ch.m3u8"
+        },
+        {
+          "name": "VIDA RTV PLUS",
+          "active": true,
+          "imageUrl": "https://imgur.com/uz8eP6f.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8"
+        },
+        {
+          "name": "TV FE",
+          "active": true,
+          "imageUrl": "https://imgur.com/AspiUlR.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://vdopanel.jlahozconsulting.com/p/3662/hybrid/play.m3u8"
         }
       ]
     },
