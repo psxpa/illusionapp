@@ -94,7 +94,7 @@ jobs:
         import sys
         
         try:
-            with open('Json_canales_tv.json', 'r', encoding='utf-8') as f:
+            with open('tv_cristiano_plus.json', 'r', encoding='utf-8') as f:
                 data = json.load(f)
             
             required_keys = ['version', 'languages', 'lastUpdate']
