@@ -897,6 +897,13 @@
           "streamUrl": "https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8"
         },
         {
+          "name": "HOPE CHANNEL",
+          "active": true,
+          "imageUrl": "https://imgur.com/hh7H5w3.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://jstre.am/live/jsl:EC0Mq0i6HJU.m3u8"
+        },
+        {
           "name": "TV FE",
           "active": true,
           "imageUrl": "https://imgur.com/AspiUlR.jpeg",
@@ -1073,6 +1080,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
