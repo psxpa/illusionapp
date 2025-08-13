@@ -7,7 +7,7 @@
           "name": "3ABN Kids",
           "active": true,
           "imageUrl": "https://i.imgur.com/jiP38J1.jpeg",
-          "isIframe": true,
+          "isIframe": false,
           "streamUrl": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
         },
         {
@@ -65,13 +65,6 @@
           "imageUrl": "https://i.imgur.com/GtsZRtY.jpeg",
           "isIframe": false,
           "streamUrl": "https://live.mdc.akamaized.net/hls/live/revelationtv.stream_aac/chunklist_w2110203393.m3u8"
-        },
-        {
-          "name": "FAMILY FRIENDLY",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/4jVLh2M.jpeg",
-          "isIframe": true,
-          "streamUrl": "https://www.lightcast.com/embed/player.php?&id=51429&type=live"
         },
         {
           "name": "SUPER CHANNEL",
@@ -144,13 +137,6 @@
           "streamUrl": "https://stream.eleden.com/livegntv/ngrp:livegntv_all/chunklist_w358586918_b2267136.m3u8"
         },
         {
-          "name": "CTN LIFESTYLE",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/bXzLxuq.jpeg",
-          "isIframe": true,
-          "streamUrl": "https://www.lightcast.com/embed/player.php?&id=55513&type=live"
-        },
-        {
           "name": "3ABN PRAISE HIM",
           "active": true,
           "imageUrl": "https://i.imgur.com/QxCT1Xz.jpeg",
@@ -165,25 +151,11 @@
           "streamUrl": "https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream_1250_20240909T112307.m3u8"
         },
         {
-          "name": "DAYSTAR",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/rjVWG8c.jpeg",
-          "isIframe": true,
-          "streamUrl": "https://www.lightcast.com/embed/player.php?id=37099&type=live&multiBitrate=1"
-        },
-        {
           "name": "THE DOVE TV",
           "active": true,
           "imageUrl": "https://i.imgur.com/XAxbEoW.jpeg",
           "isIframe": false,
           "streamUrl": "https://rrsatrtmp.tulix.tv/thedove/thedove.smil/chunklist_w881381721_b2500000.m3u8"
-        },
-        {
-          "name": "HOPE CHANNEL INT",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/QdILQbD.jpeg",
-          "isIframe": true,
-          "streamUrl": "https://jstre.am/embed/jsl:cZXINbwrFj6ZOkg2ShIY"
         },
         {
           "name": "AMAZING DISCOVERIES AD",
@@ -228,32 +200,11 @@
           "streamUrl": "https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/chunklist.m3u8"
         },
         {
-          "name": "GOD TV AFRICA",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/ZAKRhiF.jpeg",
-          "isIframe": true,
-          "streamUrl": "https://www.lightcast.com/embed/player.php?responsive=1&skinColor=000000&autoPlay=1&playlistPos=inside&playlistSize=350&tvButtonID=lightcast&id=50861&type=live&appId=5282&from_site=WebApp&site=webapp&autoStart=0&skipPreviewPlayer=1"
-        },
-        {
-          "name": "HOPE CHANNEL AFRICA",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/NyZ1GRf.jpeg",
-          "isIframe": true,
-          "streamUrl": "https://jstre.am/embed/jsl:i1onRBELcGVPNLdTGs3f"
-        },
-        {
           "name": "MISSION TV",
           "active": true,
           "imageUrl": "https://i.imgur.com/Uj9edAm.jpeg",
           "isIframe": false,
           "streamUrl": "https://6096a9cf11ae5.streamlock.net:1943/live/missiontv_720p/chunklist_w1171385503.m3u8"
-        },
-        {
-          "name": "TBN",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/FxqxX8X.jpeg",
-          "isIframe": true,
-          "streamUrl": "https://www.livehdtv.com/yayin/?kanal=350&yayin=&guvenlik=$2y$10$qEHEoImoh5I4eTQzKsr0N.sxJANExnyZ6mbMshT1pRjsGpYq16wIe"
         },
         {
           "name": "PTL TV NETWORK",
@@ -291,13 +242,6 @@
           "streamUrl": "https://app.viloud.tv/hls/channel/711fd3f3a4728449889ee22ba72958ff.m3u8"
         },
         {
-          "name": "WLMB",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/VWNRZ31.jpeg",
-          "isIframe": true,
-          "streamUrl": "https://www-wlmb-com.filesusr.com/html/ba7a6c_76817783543e003b7546fffea20bd2f7.html"
-        },
-        {
           "name": "ABN BIBLES MOVIES",
           "active": true,
           "imageUrl": "https://i.imgur.com/e5obGnu.jpeg",
@@ -305,25 +249,11 @@
           "streamUrl": "https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8"
         },
         {
-          "name": "CORNERSTONE TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/lLZyUwL.jpeg",
-          "isIframe": true,
-          "streamUrl": "https://c.themediacdn.com/embed/media/Wds3pI/iobd0rFsA0g/ixLVvXs4X4r_5"
-        },
-        {
           "name": "SUM TV",
           "active": true,
           "imageUrl": "https://i.imgur.com/Xkr9yA4.jpeg",
           "isIframe": false,
           "streamUrl": "https://bozztv.com/uni10rtmp/ssstv1-cdn/smil:ssstv1web.smil/playlist.m3u8"
-        },
-        {
-          "name": "ISN NETWORK",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/zYEMuYq.jpeg",
-          "isIframe": true,
-          "streamUrl": "https://players.brightcove.net/6057940587001/default_default/index.html?videoId=6066990457001"
         },
         {
           "name": "LIFE CBN",
@@ -575,13 +505,6 @@
           "streamUrl": "https://2nbyj587d53k-hls-live.5centscdn.com/13/597b5bed7fd3f225bcaa5c4a0cdc3ff6.sdp/chunks.m3u8"
         },
         {
-          "name": "HOPE CHANNEL",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/hh7H5w3.jpeg",
-          "isIframe": true,
-          "streamUrl": "https://app.jetstream.studio/livestream/embed/jsl:umb9869epxtpkBzU7rim"
-        },
-        {
           "name": "PURUWA TV",
           "active": true,
           "imageUrl": "https://i.imgur.com/qnW058j.jpeg",
@@ -741,13 +664,6 @@
           "imageUrl": "https://i.imgur.com/V8bWSP0.jpeg",
           "isIframe": false,
           "streamUrl": "https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8"
-        },
-        {
-          "name": "LGD TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/NVVmW6R.jpeg",
-          "isIframe": true,
-          "streamUrl": "https://streamtv.intervenhosting.net/hybrid-stream-video-widget/iglesial"
         },
         {
           "name": "RHEMA TV",
@@ -1048,13 +964,6 @@
           "streamUrl": "https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8"
         },
         {
-          "name": "IURD TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/rk2DRmr.jpeg",
-          "isIframe": true,
-          "streamUrl": "https://iframe.dacast.com/live/24b61c472d976075ed46ad1eb530e6ae/fdc85437d7631afb59fe3767dcc464dd"
-        },
-        {
           "name": "TV MÃO AMIGA",
           "active": true,
           "imageUrl": "https://i.imgur.com/jep0P2K.jpeg",
@@ -1164,6 +1073,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
