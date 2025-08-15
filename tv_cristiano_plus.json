@@ -925,6 +925,13 @@
           "streamUrl": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8"
         },
         {
+          "name": "HISPANTV",
+          "active": true,
+          "imageUrl": "https://imgur.com/TJAds8A.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://live.presstv.ir/hls/hispantv_5_482/index.m3u8"
+        },
+        {
           "name": "TV FE",
           "active": true,
           "imageUrl": "https://imgur.com/AspiUlR.jpeg",
@@ -1101,6 +1108,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
