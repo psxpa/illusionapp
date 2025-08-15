@@ -897,13 +897,6 @@
           "streamUrl": "https://a1network.net/webstream/xtotv.__ch.m3u8"  
         },
         {
-          "name": "MESIAS TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/4tvNx1j.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://a1network.net:443/webstream/Mesiastv.__ch.m3u8"
-        },
-        {
           "name": "VIDA RTV PLUS",
           "active": true,
           "imageUrl": "https://imgur.com/uz8eP6f.jpeg",
@@ -1108,6 +1101,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
