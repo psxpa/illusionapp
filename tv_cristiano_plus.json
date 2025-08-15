@@ -960,6 +960,13 @@
           "streamUrl": "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8"
         },
         {
+          "name": "FRANCE 24 ESPAÑOL",
+          "active": true,
+          "imageUrl": "https://imgur.com/DT9kscy.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8"
+        },
+        {
           "name": "TV FE",
           "active": true,
           "imageUrl": "https://imgur.com/AspiUlR.jpeg",
@@ -1143,6 +1150,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
