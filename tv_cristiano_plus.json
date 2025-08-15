@@ -277,6 +277,27 @@
           "streamUrl": "https://cdn-us-dca.b-cdn.net/hcorg_33O0ldvawCD/s/jsl_0sUSK6VA7GT/gkcbC/720p/main.m3u8"
         },
         {
+          "name": "ABC ME",
+          "active": true,
+          "imageUrl": "https://imgur.com/MZowlPe.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://c.mjh.nz/abc-me.m3u8"
+        },
+        {
+          "name": "CLASSIC ARTS SHOWCASE",
+          "active": true,
+          "imageUrl": "https://imgur.com/HqRl5sG.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8"
+        }, 
+        {
+          "name": "DERRY TV",
+          "active": true,
+          "imageUrl": "https://imgur.com/1ZmxyYY.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+        }, 
+        {
           "name": "BET GOSPEL",
           "active": true,
           "imageUrl": "https://imgur.com/vUBbfvg.jpeg",
@@ -932,6 +953,13 @@
           "streamUrl": "https://live.presstv.ir/hls/hispantv_5_482/index.m3u8"
         },
         {
+          "name": "RT ESPAÑOL",
+          "active": true,
+          "imageUrl": "https://imgur.com/5l6XoNq.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8"
+        },
+        {
           "name": "TV FE",
           "active": true,
           "imageUrl": "https://imgur.com/AspiUlR.jpeg",
@@ -1115,6 +1143,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
