@@ -827,13 +827,6 @@
           "streamUrl": "https://canal.mediaserver.com.co/live/oracionconson.m3u8?hls_ctx=wg9rr749"
         },
         {
-          "name": "NUBEH TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/684R4wQ.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL"
-        },
-        {
           "name": "EMANUEL7 TV",
           "active": true,
           "imageUrl": "https://i.imgur.com/xuMuKiS.jpeg",
@@ -1007,13 +1000,6 @@
           "imageUrl": "https://imgur.com/sYCrnEG.jpeg",
           "isIframe": false,
           "streamUrl": "https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8"
-        }, 
-        {
-          "name": "TV FE",
-          "active": true,
-          "imageUrl": "https://imgur.com/AspiUlR.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://vdopanel.jlahozconsulting.com/p/3662/hybrid/play.m3u8"
         }
       ]
     },
@@ -1199,6 +1185,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
