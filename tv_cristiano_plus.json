@@ -305,6 +305,20 @@
           "streamUrl": "https://fl3.moveonjoy.com/BBC_WORLD_NEWS/tracks-v1a1/mono.ts.m3u8"
         }, 
         {
+          "name": "BBC EARTH",
+          "active": true,
+          "imageUrl": "https://imgur.com/LsX8MDf.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8"
+        }, 
+        {
+          "name": "PBS KIDS",
+          "active": true,
+          "imageUrl": "https://imgur.com/MoLsz5R.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8"
+        }, 
+        {
           "name": "BET GOSPEL",
           "active": true,
           "imageUrl": "https://imgur.com/vUBbfvg.jpeg",
@@ -1153,6 +1167,13 @@
           "streamUrl": "https://canaleducacao-stream.ebc.com.br/index.m3u8"
         },
         {
+          "name": "TV LIFE AMÉRICA",
+          "active": true,
+          "imageUrl": "https://imgur.com/Z0zVmfP.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8"
+        },
+        {
           "name": "TV AVIVANDO NAÇÕES",
           "active": true,
           "imageUrl": "https://i.imgur.com/Xmr0L7g.jpeg",
@@ -1164,6 +1185,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
