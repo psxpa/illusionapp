@@ -277,13 +277,6 @@
           "streamUrl": "https://cdn-us-dca.b-cdn.net/hcorg_33O0ldvawCD/s/jsl_0sUSK6VA7GT/gkcbC/720p/main.m3u8"
         },
         {
-          "name": "ABC ME",
-          "active": true,
-          "imageUrl": "https://imgur.com/MZowlPe.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://c.mjh.nz/abc-me.m3u8"
-        },
-        {
           "name": "CLASSIC ARTS SHOWCASE",
           "active": true,
           "imageUrl": "https://imgur.com/HqRl5sG.jpeg",
@@ -1185,6 +1178,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
