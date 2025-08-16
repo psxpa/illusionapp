@@ -974,6 +974,13 @@
           "streamUrl": "https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8"
         },
         {
+          "name": "XTREMA ANIMAL TV",
+          "active": true,
+          "imageUrl": "https://imgur.com/KhrWMcf.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8"
+        },
+        {
           "name": "TV FE",
           "active": true,
           "imageUrl": "https://imgur.com/AspiUlR.jpeg",
@@ -1157,6 +1164,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
