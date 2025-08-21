@@ -326,13 +326,6 @@
           "streamUrl": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
         }, 
         {
-          "name": "KETCHUP TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/rSFaYDE.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://stream.ads.ottera.tv/cl/250821d2j83jmc0ri761fruo0g/1280x720_3071200_0_f.m3u8?i=475_13171"
-        }, 
-        {
           "name": "MIRACLE CHANNEL",
           "active": true,
           "imageUrl": "https://imgur.com/PVqGAUQ.jpeg",
@@ -1199,6 +1192,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
