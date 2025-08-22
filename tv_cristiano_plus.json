@@ -351,6 +351,13 @@
           "streamUrl": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8"
         },
         {
+          "name": "EJTV",
+          "active": true,
+          "imageUrl": "https://i.imgur.com/J8nfnAg.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://livecdn.enlace.plus/ejtv/smil:ejtv-hd.smil/chunklist_b2752000_sleng.m3u8"
+        },       
+        {
           "name": "MUJERES DE FE",
           "active": true,
           "imageUrl": "https://i.imgur.com/bSmJpQu.jpeg",
@@ -1178,6 +1185,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
