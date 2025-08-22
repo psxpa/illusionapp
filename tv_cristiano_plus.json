@@ -799,7 +799,7 @@
           "streamUrl": "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8"
         },
         {
-          "name": "CTI INTERNACIONAL",
+          "name": "CTNI INTERNACIONAL",
           "active": true,
           "imageUrl": "https://i.imgur.com/FKdBJZ0.jpeg",
           "isIframe": false,
@@ -811,13 +811,6 @@
           "imageUrl": "https://i.imgur.com/Z81EDjt.jpeg",
           "isIframe": false,
           "streamUrl": "https://serversv.com:8080/hls/tvcret.m3u8"
-        },
-        {
-          "name": "UNCIÓN 24",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/jtOCuSf.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://59a564764e2b6.streamlock.net/uncion24/Uncion24/playlist.m3u8"
         },
         {
           "name": "ALCANCE TV",
@@ -1192,6 +1185,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
