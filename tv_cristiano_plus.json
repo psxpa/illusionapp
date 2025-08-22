@@ -932,6 +932,13 @@
           "streamUrl": "https://canadaremar2.todostreaming.es/live/argentina-web.m3u8"
         },
         {
+          "name": "CCI TV",
+          "active": true,
+          "imageUrl": "https://imgur.com/LoDz7pQ.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://livestream.mediacci.com/ccitv/tracks-v1a1/mono.ts.m3u8"
+        },
+        {
           "name": "DW EN ESPAÑOL",
           "active": true,
           "imageUrl": "https://imgur.com/1WIysNr.jpeg",
@@ -1164,6 +1171,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
