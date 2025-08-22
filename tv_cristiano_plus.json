@@ -754,7 +754,7 @@
           "active": true,
           "imageUrl": "https://i.imgur.com/CJI5sxA.jpeg",
           "isIframe": false,
-          "streamUrl": "https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8"
+          "streamUrl": "https://cloudvideo.servers10.com:8081/8152/index.m3u8"
         },
         {
           "name": "CIELO TV",
@@ -1157,6 +1157,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
