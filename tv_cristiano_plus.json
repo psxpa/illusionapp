@@ -967,6 +967,13 @@
           "streamUrl": "https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8"
         },
         {
+          "name": "CGTN EN ESPAÑOL",
+          "active": true,
+          "imageUrl": "https://imgur.com/MdnddTz.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8"
+        },
+        {
           "name": "DUCK TV",
           "active": true,
           "imageUrl": "https://imgur.com/sYCrnEG.jpeg",
@@ -1157,6 +1164,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
