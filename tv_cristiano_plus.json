@@ -346,7 +346,7 @@
         {
           "name": "ENLACE",
           "active": true,
-          "imageUrl": "https://i.imgur.com/J8nfnAg.jpeg",
+          "imageUrl": "https://i.imgur.com/qCxreI9.jpeg",
           "isIframe": false,
           "streamUrl": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8"
         },
@@ -1185,6 +1185,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
