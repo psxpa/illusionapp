@@ -603,13 +603,6 @@
           "streamUrl": "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8"
         },
         {
-          "name": "LA ROCA TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/hlkTwf2.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://cp.panelchs.com:1936/8118/8118/playlist.m3u8"
-        },
-        {
           "name": "CHOLUTECA TV",
           "active": true,
           "imageUrl": "https://i.imgur.com/DBr2BfD.jpeg",
@@ -1178,6 +1171,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
