@@ -806,13 +806,6 @@
           "streamUrl": "https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8"
         },
         {
-          "name": "TV CRET",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/Z81EDjt.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://serversv.com:8080/hls/tvcret.m3u8"
-        },
-        {
           "name": "ALCANCE TV",
           "active": true,
           "imageUrl": "https://i.imgur.com/5esqd3e.jpeg",
@@ -1185,6 +1178,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
