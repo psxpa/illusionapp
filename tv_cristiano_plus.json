@@ -981,6 +981,13 @@
           "streamUrl": "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8"
         },
         {
+          "name": "LOVE THE PLANET",
+          "active": true,
+          "imageUrl": "https://imgur.com/A7sjR6q.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/720p/index.m3u8"
+        },
+        {
           "name": "DUCK TV",
           "active": true,
           "imageUrl": "https://imgur.com/sYCrnEG.jpeg",
@@ -1171,6 +1178,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
