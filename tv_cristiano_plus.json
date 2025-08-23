@@ -1171,7 +1171,7 @@
           "active": true,
           "imageUrl": "https://imgur.com/cr4mW7X.jpeg",
           "isIframe": false,
-          "streamUrl": "https://cdn.live.br1.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8"
+          "streamUrl": "https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br"
         },
         {
           "name": "TV AVIVANDO NAÇÕES",
@@ -1185,6 +1185,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
