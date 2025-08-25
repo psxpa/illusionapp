@@ -284,6 +284,13 @@
           "streamUrl": "https://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8"
         },
         {
+          "name": "MIRACLE CHANNEL",
+          "active": true,
+          "imageUrl": "https://imgur.com/PVqGAUQ.jpeg",
+          "isIframe": false,
+          "streamUrl": "hhttps://video.corcoplus.com/mclive/_definst_/smil:miraclechannel.smil/chunklist_w1456392085_b3328000_sleng.m3u8"
+        },
+        {
           "name": "CLASSIC ARTS SHOWCASE",
           "active": true,
           "imageUrl": "https://imgur.com/HqRl5sG.jpeg",
@@ -333,11 +340,11 @@
           "streamUrl": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
         }, 
         {
-          "name": "MIRACLE CHANNEL",
+          "name": "BON APPÉTIT",
           "active": true,
-          "imageUrl": "https://imgur.com/PVqGAUQ.jpeg",
+          "imageUrl": "https://imgur.com/YSSCC4X.jpeg",
           "isIframe": false,
-          "streamUrl": "https://video.corcoplus.com/mclive/_definst_/smil:miraclechannel.smil/chunklist_w1456392085_b3328000_sleng.m3u8"
+          "streamUrl": "https://bonappetit-samsung.amagi.tv/720p-vtt/index.m3u8"
         }, 
         {
           "name": "WILD EARTH TV",
@@ -1199,6 +1206,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
