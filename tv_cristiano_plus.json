@@ -277,6 +277,13 @@
           "streamUrl": "https://cdn-us-dca.b-cdn.net/hcorg_33O0ldvawCD/s/jsl_0sUSK6VA7GT/gkcbC/720p/main.m3u8"
         },
         {
+          "name": "BET GOSPEL",
+          "active": true,
+          "imageUrl": "https://imgur.com/vUBbfvg.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8"
+        },
+        {
           "name": "CLASSIC ARTS SHOWCASE",
           "active": true,
           "imageUrl": "https://imgur.com/HqRl5sG.jpeg",
@@ -333,11 +340,11 @@
           "streamUrl": "https://video.corcoplus.com/mclive/_definst_/smil:miraclechannel.smil/chunklist_w1456392085_b3328000_sleng.m3u8"
         }, 
         {
-          "name": "BET GOSPEL",
+          "name": "WILD EARTH TV",
           "active": true,
-          "imageUrl": "https://imgur.com/vUBbfvg.jpeg",
+          "imageUrl": "https://imgur.com/ziHq7Ls.jpeg",
           "isIframe": false,
-          "streamUrl": "https://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8"
+          "streamUrl": "https://wildearth-plex.amagi.tv/masterR432p.m3u8"
         }
       ]
     },
@@ -1185,6 +1192,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
