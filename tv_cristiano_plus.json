@@ -1181,6 +1181,13 @@
           "streamUrl": "https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br"
         },
         {
+          "name": "CULTNE TV",
+          "active": true,
+          "imageUrl": "https://imgur.com/xWXrpsb.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/video_540960_p_0.m3u8"
+        },
+        {
           "name": "TV AVIVANDO NAÇÕES",
           "active": true,
           "imageUrl": "https://i.imgur.com/Xmr0L7g.jpeg",
@@ -1192,6 +1199,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
