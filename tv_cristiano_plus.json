@@ -347,6 +347,13 @@
           "streamUrl": "https://bonappetit-samsung.amagi.tv/720p-vtt/index.m3u8"
         }, 
         {
+          "name": "FRANCE 24 ENGLISH",
+          "active": true,
+          "imageUrl": "https://imgur.com/XQD1NCw.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://a-cdn.klowdtv.com/live2/france24_720p/chunks.m3u8"
+        }, 
+        {
           "name": "WILD EARTH TV",
           "active": true,
           "imageUrl": "https://imgur.com/ziHq7Ls.jpeg",
@@ -1220,6 +1227,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
