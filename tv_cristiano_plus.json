@@ -1017,7 +1017,7 @@
           "active": true,
           "imageUrl": "https://i.imgur.com/MDrH82w.jpeg",
           "isIframe": false,
-          "streamUrl": "https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8"
+          "streamUrl": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8"
         },
         {
           "name": "GOSPEL CARTOON",
@@ -1206,6 +1206,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
