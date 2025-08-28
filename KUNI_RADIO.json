@@ -1,7 +1,8 @@
 [
   {
-    "stationuuid": "3abn_praise_him_music_network_wlxm65",
+    "stationuuid": "3abn_praise_him_music_network_fiixn1",
     "name": "3ABN Praise Him Music Network",
+    "url": "",
     "url_resolved": "https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8",
     "favicon": "https://i.imgur.com/iBcqT8L.png",
     "tags": "music",
@@ -9,35 +10,39 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "7_radiovisione_dedtfe",
+    "stationuuid": "7_radiovisione_yrfg0h",
     "name": "7 RadioVisione",
+    "url": "",
     "url_resolved": "https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8",
     "favicon": "https://radio7note.com/img/favicon/android-icon-192x192.png",
-    "tags": "Dance",
+    "tags": "music",
     "country": "Unknown",
     "lastcheckok": 1
   },
   {
-    "stationuuid": "7_you_me_nm66ph",
+    "stationuuid": "7_you_me_mzsdu8",
     "name": "7 YOU & ME",
+    "url": "",
     "url_resolved": "https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8",
     "favicon": "https://i.imgur.com/Rte2K3x.png",
-    "tags": "Dance",
+    "tags": "music",
     "country": "Unknown",
     "lastcheckok": 1
   },
   {
-    "stationuuid": "9x_jalwa_qspqrj",
+    "stationuuid": "9x_jalwa_bszbit",
     "name": "9X Jalwa",
+    "url": "",
     "url_resolved": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8",
     "favicon": "https://i.imgur.com/qubgOi5.png",
-    "tags": "Dance",
+    "tags": "music",
     "country": "Unknown",
     "lastcheckok": 1
   },
   {
-    "stationuuid": "9xm_pz4vss",
+    "stationuuid": "9xm_li3fwh",
     "name": "9XM",
+    "url": "",
     "url_resolved": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8",
     "favicon": "https://i.imgur.com/F17QtN2.png",
     "tags": "music",
@@ -45,8 +50,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "13_festival_lsfg50",
+    "stationuuid": "13_festival_y8tc0u",
     "name": "13 Festival",
+    "url": "",
     "url_resolved": "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8",
     "favicon": "https://i.imgur.com/hTUe0Pw.png",
     "tags": "music",
@@ -54,8 +60,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "30a_music_bgnqvx",
+    "stationuuid": "30a_music_gon4ed",
     "name": "30A Music",
+    "url": "",
     "url_resolved": "https://30a-tv.com/music.m3u8",
     "favicon": "https://i.imgur.com/gNWg9tl.png",
     "tags": "music",
@@ -63,8 +70,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "51_radio_tv_480p_geoblocked_wcaubt",
+    "stationuuid": "51_radio_tv_480p_geoblocked_egry0e",
     "name": "51 Radio TV (480p) [Geo-blocked]",
+    "url": "",
     "url_resolved": "http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8",
     "favicon": "https://www.51news.it/images/loghi/logo_tv_radio_51news.png",
     "tags": "music",
@@ -72,8 +80,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "7080_tv_6rlddd",
+    "stationuuid": "7080_tv_jxjms2",
     "name": "70-80 TV",
+    "url": "",
     "url_resolved": "https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8",
     "favicon": "https://i.imgur.com/y4kNV3Q.png",
     "tags": "music",
@@ -81,8 +90,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "88_stereo_720p_not_247_jrr39b",
+    "stationuuid": "88_stereo_720p_not_247_jq0bir",
     "name": "88 Stereo (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
     "favicon": "https://i.imgur.com/i3YwORV.png",
     "tags": "music",
@@ -90,8 +100,19 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "a2i_music_720p_not_247_b18via",
+    "stationuuid": "981_pearl_fm_c77eo1",
+    "name": "98.1 Pearl FM",
+    "url": "",
+    "url_resolved": "https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8",
+    "favicon": "https://i.imgur.com/GY750xh.jpg",
+    "tags": "music",
+    "country": "Unknown",
+    "lastcheckok": 1
+  },
+  {
+    "stationuuid": "a2i_music_720p_not_247_foczom",
     "name": "A2i Music (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8",
     "favicon": "https://i.imgur.com/Fykhzxh.jpg",
     "tags": "music",
@@ -99,8 +120,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "abdulmajeed_abdullah_3iwu8i",
+    "stationuuid": "abdulmajeed_abdullah_lsn7gq",
     "name": "Abdulmajeed Abdullah",
+    "url": "",
     "url_resolved": "https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8",
     "favicon": "https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png",
     "tags": "music",
@@ -108,8 +130,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "activa_tv_gizsy4",
+    "stationuuid": "activa_tv_rem0ln",
     "name": "Activa TV",
+    "url": "",
     "url_resolved": "https://streamtv.mediasector.es/hls/activatv/index.m3u8",
     "favicon": "https://i.imgur.com/VCUZKiw.png",
     "tags": "music",
@@ -117,8 +140,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "acw_ug_tv_a8use7",
+    "stationuuid": "acw_ug_tv_ahllk9",
     "name": "ACW UG TV",
+    "url": "",
     "url_resolved": "https://live.acwugtv.com/hls/stream.m3u8",
     "favicon": "https://i.imgur.com/8pzEmcJ.jpeg",
     "tags": "music",
@@ -126,8 +150,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "ae_radio_tv_720p_not_247_2xy03e",
+    "stationuuid": "ae_radio_tv_720p_not_247_2qfi77",
     "name": "AE Radio TV (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8",
     "favicon": "https://i.imgur.com/425dj2i.jpeg",
     "tags": "music",
@@ -135,8 +160,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "afn_tv_5ok0p2",
+    "stationuuid": "afn_tv_vkzai1",
     "name": "AFN TV",
+    "url": "",
     "url_resolved": "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8",
     "favicon": "https://i.imgur.com/LctanF8.png",
     "tags": "music",
@@ -144,8 +170,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "afrobeats_d1r9xl",
+    "stationuuid": "afrobeats_dnh54a",
     "name": "Afrobeats",
+    "url": "",
     "url_resolved": "https://stream.ecable.tv/afrobeats/index.m3u8",
     "favicon": "https://i.imgur.com/232ndRK.png",
     "tags": "music",
@@ -153,8 +180,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "aghani_aghani_tv_1080p_not_247_kurgsc",
+    "stationuuid": "aghani_aghani_tv_1080p_not_247_mxxeb4",
     "name": "Aghani Aghani TV (1080p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8",
     "favicon": "https://i.imgur.com/o6HSfNg.png",
     "tags": "music",
@@ -162,8 +190,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "amc_4nh08g",
+    "stationuuid": "amc_mp1np3",
     "name": "AMC",
+    "url": "",
     "url_resolved": "https://amchls.wns.live/hls/stream.m3u8",
     "favicon": "https://i.imgur.com/yj8RNnG.png",
     "tags": "music",
@@ -171,8 +200,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "amedia_1_phupmj",
+    "stationuuid": "amedia_1_how13f",
     "name": "Amedia 1",
+    "url": "",
     "url_resolved": "http://31.148.48.15/A1/index.m3u8",
     "favicon": "https://i.imgur.com/2pAHdAi.png",
     "tags": "music",
@@ -180,8 +210,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "angienet_tv_sovgzx",
+    "stationuuid": "angienet_tv_5tzcyb",
     "name": "Angienet TV",
+    "url": "",
     "url_resolved": "https://servilive.com:3624/stream/play.m3u8",
     "favicon": "https://i.imgur.com/GCCriH4.png",
     "tags": "music",
@@ -189,8 +220,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "antenne_kaernten_6s0bdz",
+    "stationuuid": "antenne_kaernten_e0wnn8",
     "name": "Antenne Kaernten",
+    "url": "",
     "url_resolved": "https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8",
     "favicon": "https://i.imgur.com/nUKFDsb.jpeg",
     "tags": "music",
@@ -198,8 +230,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "antenne_steiermark_rqge45",
+    "stationuuid": "antenne_steiermark_16d1ko",
     "name": "Antenne Steiermark",
+    "url": "",
     "url_resolved": "https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8",
     "favicon": "https://i.imgur.com/qnappvd.jpeg",
     "tags": "music",
@@ -207,8 +240,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "arabica_tv_yirsb2",
+    "stationuuid": "arabica_tv_qyz8ae",
     "name": "Arabica TV",
+    "url": "",
     "url_resolved": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8",
     "favicon": "https://i.imgur.com/sTOoDy1.png",
     "tags": "music",
@@ -216,8 +250,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "area_809_el_original_qirs7j",
+    "stationuuid": "area_809_el_original_5k9fhf",
     "name": "Area 809 El Original",
+    "url": "",
     "url_resolved": "https://vdo.voxhdnet.com:3159/stream/play.m3u8",
     "favicon": "https://i.ibb.co/WkMfnGs/Channels4-profile-8.jpg",
     "tags": "music",
@@ -225,8 +260,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "atomic_academy_tv_mgpm99",
+    "stationuuid": "atomic_academy_tv_jusgk7",
     "name": "Atomic Academy TV",
+    "url": "",
     "url_resolved": "https://atomic.streamnet.ro/academia.m3u8",
     "favicon": "https://i.imgur.com/ZbrDIbZ.png",
     "tags": "music",
@@ -234,8 +270,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "atomic_tv_azc3xb",
+    "stationuuid": "atomic_tv_4p0w05",
     "name": "Atomic TV",
+    "url": "",
     "url_resolved": "https://atomic.streamnet.ro/atomictv.m3u8",
     "favicon": "https://i.imgur.com/O4uI0Uy.png",
     "tags": "music",
@@ -243,8 +280,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "avang_tv_89alqw",
+    "stationuuid": "avang_tv_et27ce",
     "name": "Avang TV",
+    "url": "",
     "url_resolved": "https://hls.avang.live/hls/stream.m3u8",
     "favicon": "https://i.imgur.com/3I1n7fO.png",
     "tags": "music",
@@ -252,8 +290,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "axs_tv_7rf73b",
+    "stationuuid": "axs_tv_8bdlhy",
     "name": "AXS TV",
+    "url": "",
     "url_resolved": "https://fl3.moveonjoy.com/Axs_TV/index.m3u8",
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/512px-AXS_TV_logo.svg.png",
     "tags": "music",
@@ -261,8 +300,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "azahares_radio_multimedia_s7nzky",
+    "stationuuid": "azahares_radio_multimedia_36ejvq",
     "name": "Azahares Radio Multimedia",
+    "url": "",
     "url_resolved": "https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8",
     "favicon": "https://i.imgur.com/g1BFoSs.png",
     "tags": "music",
@@ -270,8 +310,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "b4u_music_dv9sit",
+    "stationuuid": "b4u_music_3n6vem",
     "name": "B4U Music",
+    "url": "",
     "url_resolved": "https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8",
     "favicon": "https://i.imgur.com/KSxPLJA.png",
     "tags": "music",
@@ -279,8 +320,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "balle_balle_9vysb6",
+    "stationuuid": "balle_balle_p9bm4o",
     "name": "Balle Balle",
+    "url": "",
     "url_resolved": "https://mcncdndigital.com/balleballetv/index.m3u8",
     "favicon": "https://i.imgur.com/oxkkWH5.png",
     "tags": "music",
@@ -288,8 +330,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "baraza_tv_deep_house_0uvsd8",
+    "stationuuid": "baraza_tv_deep_house_tdji5i",
     "name": "Baraza TV Deep House",
+    "url": "",
     "url_resolved": "https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8",
     "favicon": "https://i.imgur.com/TZ1unwF.png",
     "tags": "music",
@@ -297,8 +340,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "baraza_tv_relaxing_2344eo",
+    "stationuuid": "baraza_tv_relaxing_c34arw",
     "name": "Baraza TV Relaxing",
+    "url": "",
     "url_resolved": "https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8",
     "favicon": "https://i.imgur.com/TZ1unwF.png",
     "tags": "music",
@@ -306,8 +350,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "barbud_music_yzo2vr",
+    "stationuuid": "barbud_music_nv2uw9",
     "name": "Barbud Music",
+    "url": "",
     "url_resolved": "https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolomusic.m3u8",
     "favicon": "https://i.imgur.com/jbbxu0g.png",
     "tags": "music",
@@ -315,8 +360,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "bettv_p827sk",
+    "stationuuid": "bettv_u55xg5",
     "name": "BE@TTV",
+    "url": "",
     "url_resolved": "https://tv.beatfm.nl/live.m3u8",
     "favicon": "https://i.imgur.com/egK33Dj.png",
     "tags": "music",
@@ -324,8 +370,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "beats_radio_ulsoub",
+    "stationuuid": "beats_radio_ns9xt6",
     "name": "Beats Radio",
+    "url": "",
     "url_resolved": "https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8",
     "favicon": "https://i.imgur.com/zkNUO5p.png",
     "tags": "music",
@@ -333,8 +380,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "bel_rtl_uuselz",
+    "stationuuid": "bel_rtl_18m841",
     "name": "Bel RTL",
+    "url": "",
     "url_resolved": "https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8",
     "favicon": "https://i.imgur.com/0DUprIW.png",
     "tags": "music",
@@ -342,8 +390,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "best_of_dance_tv_emferv",
+    "stationuuid": "best_of_dance_tv_y0gghi",
     "name": "Best of Dance TV",
+    "url": "",
     "url_resolved": "https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8",
     "favicon": "https://www.dancetv.net/img/icons/channels/DTlogo.jpg",
     "tags": "music",
@@ -351,8 +400,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "bibel_tv_musik_tsbzcg",
+    "stationuuid": "bibel_tv_musik_fe7nf9",
     "name": "Bibel TV Musik",
+    "url": "",
     "url_resolved": "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8",
     "favicon": "https://i.imgur.com/yIqOcP5.png",
     "tags": "music",
@@ -360,8 +410,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "boktv_720p_not_247_q8bbfw",
+    "stationuuid": "boktv_720p_not_247_taa9z7",
     "name": "BOKTV (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://livestream2.bokradio.co.za/hls/Bok5c.m3u8",
     "favicon": "https://i.imgur.com/mcNjuuO.png",
     "tags": "music",
@@ -369,8 +420,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "bravo_tv_kc201j",
+    "stationuuid": "bravo_tv_8vpdqk",
     "name": "Bravo! TV",
+    "url": "",
     "url_resolved": "https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8",
     "favicon": "https://i.imgur.com/FN2J9hv.png",
     "tags": "music",
@@ -378,8 +430,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "bridge_xd7re5",
+    "stationuuid": "bridge_ca1ins",
     "name": "BRIDGE",
+    "url": "",
     "url_resolved": "http://31.148.48.15/Bridge_TV/index.m3u8",
     "favicon": "https://i.imgur.com/qYObfrG.png",
     "tags": "music",
@@ -387,8 +440,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "bridge_classic_lz1p2l",
+    "stationuuid": "bridge_classic_imtq5e",
     "name": "BRIDGE Classic",
+    "url": "",
     "url_resolved": "http://31.148.48.15/Bridge_TV_Classic/index.m3u8",
     "favicon": "https://i.imgur.com/JJTQq81.png",
     "tags": "music",
@@ -396,8 +450,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "bridge_deluxe_naspuz",
+    "stationuuid": "bridge_deluxe_cx0a7z",
     "name": "BRIDGE Deluxe",
+    "url": "",
     "url_resolved": "http://31.148.48.15/Bridge_TV_HD/index.m3u8",
     "favicon": "https://i.imgur.com/EazL8w7.png",
     "tags": "music",
@@ -405,8 +460,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "bridge_hits_ssglez",
+    "stationuuid": "bridge_hits_ze4u9m",
     "name": "BRIDGE Hits",
+    "url": "",
     "url_resolved": "http://31.148.48.15/Bridge_TV_Dance/index.m3u8",
     "favicon": "https://i.imgur.com/sIW9oR4.png",
     "tags": "music",
@@ -414,8 +470,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "bta_tv_pst8uf",
+    "stationuuid": "bta_tv_r0o9gk",
     "name": "BTA TV",
+    "url": "",
     "url_resolved": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8",
     "favicon": "https://i.imgur.com/vygOosC.png",
     "tags": "music",
@@ -423,8 +480,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "cadena_elite_720p_not_247_phskqc",
+    "stationuuid": "cadena_elite_720p_not_247_oekp0o",
     "name": "Cadena Elite (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://cloudvideo.servers10.com:8081/8004/index.m3u8",
     "favicon": "https://i.imgur.com/3yeGDTP.png",
     "tags": "music",
@@ -432,8 +490,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "california_music_channel_720p__jeomv3",
+    "stationuuid": "california_music_channel_720p__kudgz1",
     "name": "California Music Channel (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8",
     "favicon": "https://i.imgur.com/L38mC6H.png",
     "tags": "music",
@@ -441,8 +500,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "cantina_tv_7bfwq1",
+    "stationuuid": "cantina_tv_hrftmt",
     "name": "Cantina TV",
+    "url": "",
     "url_resolved": "https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8",
     "favicon": "https://i.imgur.com/JWMk2fP.png",
     "tags": "music",
@@ -450,8 +510,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "ceacom_not_247_gw7e4r",
+    "stationuuid": "ceacom_not_247_kk3izw",
     "name": "Ceacom [Not 24/7]",
+    "url": "",
     "url_resolved": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
     "favicon": "https://i.imgur.com/hutdRfk.png",
     "tags": "music",
@@ -459,8 +520,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "city_tv_576p_not_247_y28z75",
+    "stationuuid": "city_tv_576p_not_247_36m8ac",
     "name": "City TV (576p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://tv.city.bg/play/tshls/citytv/index.m3u8",
     "favicon": "https://i.imgur.com/mFL452f.png",
     "tags": "music",
@@ -468,8 +530,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "clubbing_tv_france_pk7tze",
+    "stationuuid": "clubbing_tv_france_cz8ydx",
     "name": "Clubbing TV France",
+    "url": "",
     "url_resolved": "https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8",
     "favicon": "https://i.imgur.com/MyiA92q.png",
     "tags": "music",
@@ -477,8 +540,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "cmc_tv_nx9fam",
+    "stationuuid": "cmc_tv_q4shjg",
     "name": "CMC TV",
+    "url": "",
     "url_resolved": "https://stream.cmctv.hr:49998/cmc/live.m3u8",
     "favicon": "https://i.imgur.com/FCb7Ag2.png",
     "tags": "music",
@@ -486,8 +550,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "cmt_east_07tu4f",
+    "stationuuid": "cmt_east_2oy6tf",
     "name": "CMT East",
+    "url": "",
     "url_resolved": "https://fl3.moveonjoy.com/CMT/index.m3u8",
     "favicon": "https://i.imgur.com/S7DOpdY.png",
     "tags": "music",
@@ -495,8 +560,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "company_tv_5f7ckx",
+    "stationuuid": "company_tv_npvz7w",
     "name": "Company TV",
+    "url": "",
     "url_resolved": "https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8",
     "favicon": "https://i.imgur.com/ccdwsWj.png",
     "tags": "music",
@@ -504,8 +570,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "conecta_tv_f0gwzv",
+    "stationuuid": "conecta_tv_chn3p3",
     "name": "Conecta TV",
+    "url": "",
     "url_resolved": "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8",
     "favicon": "https://i.imgur.com/qEk0QGa.png",
     "tags": "music",
@@ -513,8 +580,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "cool_fm_989_14kb5a",
+    "stationuuid": "cool_fm_989_hi6oo3",
     "name": "Cool FM 98.9",
+    "url": "",
     "url_resolved": "https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8",
     "favicon": "https://i.imgur.com/uGE6lZ2.png",
     "tags": "music",
@@ -522,8 +590,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "couleur_3_nacbzg",
+    "stationuuid": "couleur_3_lnztw1",
     "name": "Couleur 3",
+    "url": "",
     "url_resolved": "https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8",
     "favicon": "https://i.imgur.com/VOIwYYd.png",
     "tags": "music",
@@ -531,8 +600,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "d3_tv_uucbwt",
+    "stationuuid": "d3_tv_xwtsc3",
     "name": "D3 TV",
+    "url": "",
     "url_resolved": "https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8",
     "favicon": "https://i.imgur.com/uFEIBtB.png",
     "tags": "music",
@@ -540,8 +610,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "dance_fm_5u91lj",
+    "stationuuid": "dance_fm_sdc0n0",
     "name": "Dance FM",
+    "url": "",
     "url_resolved": "https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8",
     "favicon": "https://i2.paste.pics/ff3e1e1045a1968dcdbcda3824a94eb3.png",
     "tags": "music",
@@ -549,8 +620,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "dancetv_algorhythm_lclmp6",
+    "stationuuid": "dancetv_algorhythm_z4equh",
     "name": "DanceTV Algorhythm",
+    "url": "",
     "url_resolved": "https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8",
     "favicon": "https://www.dancetv.net/img/icons/channels/algorhythm.jpg",
     "tags": "music",
@@ -558,8 +630,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "dancetv_chill_af_0d2s5t",
+    "stationuuid": "dancetv_chill_af_siiyq5",
     "name": "DanceTV Chill AF",
+    "url": "",
     "url_resolved": "https://mbit1.worldcast.tv/dancetelevisioneight/multibit.m3u8",
     "favicon": "https://www.dancetv.net/img/icons/channels/chill-af.jpg",
     "tags": "music",
@@ -567,8 +640,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "dancetv_deep_house_district_4hj37z",
+    "stationuuid": "dancetv_deep_house_district_9lwlwv",
     "name": "DanceTV Deep House District",
+    "url": "",
     "url_resolved": "https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8",
     "favicon": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
     "tags": "music",
@@ -576,8 +650,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "dancetv_edm_mainstage_p1gt8j",
+    "stationuuid": "dancetv_edm_mainstage_fai6ny",
     "name": "DanceTV EDM Mainstage",
+    "url": "",
     "url_resolved": "https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8",
     "favicon": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
     "tags": "music",
@@ -585,8 +660,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "dancetv_house_floor_kub7e9",
+    "stationuuid": "dancetv_house_floor_vlfrdq",
     "name": "DanceTV House Floor",
+    "url": "",
     "url_resolved": "https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8",
     "favicon": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
     "tags": "music",
@@ -594,8 +670,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "dancetv_melodic_tech_zkykl5",
+    "stationuuid": "dancetv_melodic_tech_2f0hwv",
     "name": "DanceTV Melodic Tech",
+    "url": "",
     "url_resolved": "https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8",
     "favicon": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
     "tags": "music",
@@ -603,8 +680,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "dancetv_minimal_tech_ly35on",
+    "stationuuid": "dancetv_minimal_tech_qhdt8y",
     "name": "DanceTV Minimal Tech",
+    "url": "",
     "url_resolved": "https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8",
     "favicon": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
     "tags": "music",
@@ -612,8 +690,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "dancetv_techno_warehouse_ot9i2m",
+    "stationuuid": "dancetv_techno_warehouse_v7s5jv",
     "name": "DanceTV Techno Warehouse",
+    "url": "",
     "url_resolved": "https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8",
     "favicon": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
     "tags": "music",
@@ -621,8 +700,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "dasding_908_ygaocg",
+    "stationuuid": "dasding_908_c39non",
     "name": "DASDING 90.8",
+    "url": "",
     "url_resolved": "https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8",
     "favicon": "https://i.imgur.com/BmklHs8.png",
     "tags": "music",
@@ -630,8 +710,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "dbm_tv_8yon68",
+    "stationuuid": "dbm_tv_g7uqfj",
     "name": "DBM TV",
+    "url": "",
     "url_resolved": "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8",
     "favicon": "https://i.imgur.com/ab6p2SW.png",
     "tags": "music",
@@ -639,8 +720,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "deephouse_district_ln0w6q",
+    "stationuuid": "deephouse_district_5s24jd",
     "name": "DeepHouse District",
+    "url": "",
     "url_resolved": "https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8",
     "favicon": "https://i.imgur.com/IV2Qvc0.png",
     "tags": "music",
@@ -648,8 +730,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "deluxe_dance_30vb49",
+    "stationuuid": "deluxe_dance_tvj10q",
     "name": "Deluxe Dance",
+    "url": "",
     "url_resolved": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8",
     "favicon": "https://i.imgur.com/Qu7t15Y.png",
     "tags": "music",
@@ -657,8 +740,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "deluxe_music_xbj4th",
+    "stationuuid": "deluxe_music_623hov",
     "name": "Deluxe Music",
+    "url": "",
     "url_resolved": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8",
     "favicon": "https://i.imgur.com/HimuPPb.png",
     "tags": "music",
@@ -666,8 +750,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "deluxe_rap_dxl9nk",
+    "stationuuid": "deluxe_rap_116i2s",
     "name": "Deluxe Rap",
+    "url": "",
     "url_resolved": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8",
     "favicon": "https://i.imgur.com/s3h67hx.png",
     "tags": "music",
@@ -675,8 +760,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "dhoom_music_7xjm7a",
+    "stationuuid": "dhoom_music_g4orzt",
     "name": "Dhoom Music",
+    "url": "",
     "url_resolved": "https://cdn-1.pishow.tv/live/1456/master.m3u8",
     "favicon": "https://i.imgur.com/ai9gpjy.png",
     "tags": "music",
@@ -684,8 +770,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "dijlah_tarab_hxev88",
+    "stationuuid": "dijlah_tarab_v05cci",
     "name": "Dijlah Tarab",
+    "url": "",
     "url_resolved": "https://ghaasiflu.online/tarab/index.m3u8",
     "favicon": "https://i.imgur.com/UJqDWVB.png",
     "tags": "music",
@@ -693,8 +780,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "dismar_radio_tv_kmmks9",
+    "stationuuid": "dismar_radio_tv_n35ykn",
     "name": "Dismar Radio TV",
+    "url": "",
     "url_resolved": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
     "favicon": "https://i.imgur.com/KOuxdMD.png",
     "tags": "music",
@@ -702,8 +790,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "dm_sat_y6xx2u",
+    "stationuuid": "dm_sat_s2kigu",
     "name": "DM Sat",
+    "url": "",
     "url_resolved": "https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8",
     "favicon": "https://i.imgur.com/LdeA1Cn.png",
     "tags": "music",
@@ -711,8 +800,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "dmf_1080p_not_247_fwthpi",
+    "stationuuid": "dmf_1080p_not_247_p405hi",
     "name": "DMF (1080p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8",
     "favicon": "https://i.imgur.com/sJaBU7X.jpeg",
     "tags": "music",
@@ -720,8 +810,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "dstv_614p_not_247_dngjd4",
+    "stationuuid": "dstv_614p_not_247_rpzhq5",
     "name": "DSTV (614p) [Not 24/7]",
+    "url": "",
     "url_resolved": "http://46.249.95.140:8081/hls/data.m3u8",
     "favicon": "https://i.imgur.com/mGFVwkB.png",
     "tags": "music",
@@ -729,8 +820,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "ebs_musika_equlr0",
+    "stationuuid": "ebs_musika_6t3gi9",
     "name": "EBS Musika",
+    "url": "",
     "url_resolved": "https://rpn.bozztv.com/ebstv/ebsmusika/index.m3u8",
     "favicon": "https://i.imgur.com/lSpplhD.png",
     "tags": "music",
@@ -738,8 +830,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "ecua_stereo_radio_tv_vetfwz",
+    "stationuuid": "ecua_stereo_radio_tv_zvwzn0",
     "name": "Ecua Stereo Radio TV",
+    "url": "",
     "url_resolved": "https://video.misistemareseller.com/ecuastereotv/ecuastereotv/playlist.m3u8",
     "favicon": "https://i.imgur.com/tnFZY5O.png",
     "tags": "music",
@@ -747,8 +840,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "el_radio_9090_fm_tnbavf",
+    "stationuuid": "el_radio_9090_fm_0nfj7k",
     "name": "El Radio 9090 FM",
+    "url": "",
     "url_resolved": "https://9090video.mobtada.com/hls/stream.m3u8",
     "favicon": "https://www.9090.fm/images/logo.png",
     "tags": "music",
@@ -756,8 +850,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "energeek_radio_x9lz14",
+    "stationuuid": "energeek_radio_jjhyc7",
     "name": "EnerGeek Radio",
+    "url": "",
     "url_resolved": "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH",
     "favicon": "https://i.imgur.com/euaoN1A.png",
     "tags": "music",
@@ -765,8 +860,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "eska_hity_na_czasie_3qer8p",
+    "stationuuid": "eska_hity_na_czasie_tgjki3",
     "name": "Eska Hity na Czasie",
+    "url": "",
     "url_resolved": "https://s-pl-01.mediatool.tv/playout/espl-abr/index.m3u8",
     "favicon": "https://cdn.glp.smcloud.net/t/landing_page/file/e9cF1_Eska.png/Eska.png",
     "tags": "music",
@@ -774,8 +870,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "eska_rock_dobrze_rockuje_3zg99q",
+    "stationuuid": "eska_rock_dobrze_rockuje_i5d80l",
     "name": "Eska Rock Dobrze Rockuje",
+    "url": "",
     "url_resolved": "https://s-pl-01.mediatool.tv/playout/erpl-abr/index.m3u8",
     "favicon": "https://i.imgur.com/3hrxvdG.png",
     "tags": "music",
@@ -783,8 +880,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "euro_indie_music_chart_tv_76sl4m",
+    "stationuuid": "euro_indie_music_chart_tv_13bny6",
     "name": "Euro Indie Music Chart TV",
+    "url": "",
     "url_resolved": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8",
     "favicon": "https://i.imgur.com/lF0iofX.png",
     "tags": "music",
@@ -792,8 +890,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "europa_plus_tv_71vun8",
+    "stationuuid": "europa_plus_tv_yirhyv",
     "name": "Europa Plus TV",
+    "url": "",
     "url_resolved": "http://31.148.48.15/Europa_Plus_HD/index.m3u8",
     "favicon": "https://i.imgur.com/GLc4qrc.png",
     "tags": "music",
@@ -801,8 +900,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "extra_tv_j2daw5",
+    "stationuuid": "extra_tv_k109j2",
     "name": "Extra TV",
+    "url": "",
     "url_resolved": "https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8",
     "favicon": "https://i.imgur.com/5edYPBO.png",
     "tags": "music",
@@ -810,8 +910,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "fabulosa_estreo_1005_fm_d47cte",
+    "stationuuid": "fabulosa_estreo_1005_fm_xv95xe",
     "name": "Fabulosa Estéreo 100.5 FM",
+    "url": "",
     "url_resolved": "https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8",
     "favicon": "https://i.imgur.com/YFmzkOp.png",
     "tags": "music",
@@ -819,8 +920,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "fairuz_43awo8",
+    "stationuuid": "fairuz_yq0fa8",
     "name": "Fairuz",
+    "url": "",
     "url_resolved": "https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8",
     "favicon": "https://shahid.mbc.net/mediaObject/f809d51c-e83d-43c9-8236-78731c2216ad?type=png",
     "tags": "music",
@@ -828,8 +930,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "falastini_tv_rssm70",
+    "stationuuid": "falastini_tv_iaqge7",
     "name": "Falastini TV",
+    "url": "",
     "url_resolved": "https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8",
     "favicon": "https://i.imgur.com/6B3Cims.png",
     "tags": "music",
@@ -837,8 +940,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "famatv_1080p_not_247_6w1lcr",
+    "stationuuid": "famatv_1080p_not_247_sjbo7t",
     "name": "Famatv (1080p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8",
     "favicon": "https://i.ibb.co/tMmRp18/Fama-TV-cor-whitebg-hotizontal.jpg",
     "tags": "music",
@@ -846,8 +950,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "farra_play_720p_not_247_64ndht",
+    "stationuuid": "farra_play_720p_not_247_fnd4zj",
     "name": "Farra Play (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "http://159.203.148.226/live/farra.m3u8",
     "favicon": "https://i.imgur.com/bXWzstH.png",
     "tags": "music",
@@ -855,8 +960,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "finest_tv_288p_not_247_bs16yj",
+    "stationuuid": "finest_tv_288p_not_247_pwoq4g",
     "name": "Finest TV (288p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://media.finest.tv/hls/live.m3u8",
     "favicon": "https://i.imgur.com/1uoP10V.png",
     "tags": "music",
@@ -864,8 +970,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "fm_italia_rq7j24",
+    "stationuuid": "fm_italia_ap68xu",
     "name": "FM ITALIA",
+    "url": "",
     "url_resolved": "https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8",
     "favicon": "https://i.imgur.com/54CO2u9.png",
     "tags": "music",
@@ -873,8 +980,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "fm_mundo_n3emxh",
+    "stationuuid": "fm_mundo_86pn5e",
     "name": "FM Mundo",
+    "url": "",
     "url_resolved": "https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8",
     "favicon": "https://i.imgur.com/1nNnYQO.png",
     "tags": "music",
@@ -882,8 +990,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "folk_klub_mh7bfn",
+    "stationuuid": "folk_klub_5fyfp4",
     "name": "Folk Klub",
+    "url": "",
     "url_resolved": "http://tv1.intv.mk:1935/live2/folkklub/index.m3u8",
     "favicon": "https://i.imgur.com/Seq7Od7.png",
     "tags": "music",
@@ -891,8 +1000,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "frecuencia_musical_tv_not_247_q0ja8j",
+    "stationuuid": "frecuencia_musical_tv_not_247_e8puqf",
     "name": "Frecuencia Musical TV [Not 24/7]",
+    "url": "",
     "url_resolved": "https://s2.tvdatta.com:3307/hybrid/play.m3u8",
     "favicon": "https://i.imgur.com/vPxvbVv.png",
     "tags": "music",
@@ -900,8 +1010,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "fuego_tv_720p_not_247_vpmqd9",
+    "stationuuid": "fuego_tv_720p_not_247_176ylb",
     "name": "Fuego TV (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8",
     "favicon": "https://i.imgur.com/T9vWjeB.png",
     "tags": "music",
@@ -909,8 +1020,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "fusion_tv_tnzct9",
+    "stationuuid": "fusion_tv_dav88w",
     "name": "FUSION TV",
+    "url": "",
     "url_resolved": "https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8",
     "favicon": "https://i.imgur.com/WMrYEgH.png",
     "tags": "music",
@@ -918,8 +1030,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "gigant_fm_odmhf5",
+    "stationuuid": "gigant_fm_3vk79f",
     "name": "Gigant FM",
+    "url": "",
     "url_resolved": "https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8",
     "favicon": "https://i.imgur.com/LwEHfjD.png",
     "tags": "music",
@@ -927,8 +1040,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "gmtv_gk80x9",
+    "stationuuid": "gmtv_vri0m6",
     "name": "GMTV",
+    "url": "",
     "url_resolved": "https://livechannel.mdc.akamaized.net/stitch/livechannel/1341/master1400000.m3u8;session=live_stream_1341",
     "favicon": "https://i.imgur.com/GJYb8c8.png",
     "tags": "music",
@@ -936,8 +1050,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "go_tv_ncsf3r",
+    "stationuuid": "go_tv_5eoejd",
     "name": "GO TV",
+    "url": "",
     "url_resolved": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
     "favicon": "https://i.ibb.co/jkvYVyz/Captura.png",
     "tags": "music",
@@ -945,8 +1060,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "gugaktv__d7zhvf",
+    "stationuuid": "gugaktv__rttdh5",
     "name": "GugakTV 국악방송",
+    "url": "",
     "url_resolved": "https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8",
     "favicon": "https://i.imgur.com/Ey7Htm8.png",
     "tags": "music",
@@ -954,8 +1070,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "hidance_cabin3",
+    "stationuuid": "hidance_ftdv5m",
     "name": "HiDance",
+    "url": "",
     "url_resolved": "https://s-pl-01.mediatool.tv/playout/hdpl-abr/index.m3u8",
     "favicon": "https://cdn.glp.smcloud.net/t/landing_page/file/JgA8I_HiDance.png/HiDance.png",
     "tags": "music",
@@ -963,8 +1080,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "high_vision_hqqfbj",
+    "stationuuid": "high_vision_j2mfvm",
     "name": "High Vision",
+    "url": "",
     "url_resolved": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8",
     "favicon": "https://i.imgur.com/zhCgoru.png",
     "tags": "music",
@@ -972,8 +1090,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "himusic_di90mg",
+    "stationuuid": "himusic_uuxci9",
     "name": "HiMusic",
+    "url": "",
     "url_resolved": "https://s-pl-01.mediatool.tv/playout/hmpl-abr/index.m3u8",
     "favicon": "https://cdn.glp.smcloud.net/t/landing_page/file/k6LS5_HiMusic.png/HiMusic.png",
     "tags": "music",
@@ -981,8 +1100,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "hit_tv_0b92vb",
+    "stationuuid": "hit_tv_ygm7ks",
     "name": "Hit Tv",
+    "url": "",
     "url_resolved": "http://185.189.225.149/HitTV/index.m3u8",
     "favicon": "https://i0.wp.com/audiovisual451.com/wp-content/uploads/HIT-TV.jpg?resize=300%2C236&ssl=1",
     "tags": "music",
@@ -990,8 +1110,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "hitradio_3_720p_not_247_2ahk9i",
+    "stationuuid": "hitradio_3_720p_not_247_c9ofwq",
     "name": "Hitradio Ö3 (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8",
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/512px-Hitradio_%C3%963.svg.png",
     "tags": "music",
@@ -999,8 +1120,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "hmi_promz_news_6f6h4g",
+    "stationuuid": "hmi_promz_news_wli3f6",
     "name": "HMI PROMZ NEWS",
+    "url": "",
     "url_resolved": "https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8",
     "favicon": "https://i.imgur.com/gwPaw3v.png",
     "tags": "music",
@@ -1008,8 +1130,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "htv_ifswtb",
+    "stationuuid": "htv_54uo0q",
     "name": "HTV",
+    "url": "",
     "url_resolved": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8",
     "favicon": "https://i.imgur.com/NlKFNHS.png",
     "tags": "music",
@@ -1017,8 +1140,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "hype_visual_radio_l3yd3a",
+    "stationuuid": "hype_visual_radio_8se4vl",
     "name": "Hype Visual Radio",
+    "url": "",
     "url_resolved": "https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8",
     "favicon": "https://cdn.onlineradiobox.com/img/fblogo/1/97371.v21.png",
     "tags": "music",
@@ -1026,8 +1150,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "identit_tl_carabes_vf7loj",
+    "stationuuid": "identit_tl_carabes_n9izsc",
     "name": "Identité Télé Caraïbes",
+    "url": "",
     "url_resolved": "https://vdo2.pro-fhi.net:3769/stream/play.m3u8",
     "favicon": "https://i.imgur.com/Atsf6Cd.png",
     "tags": "music",
@@ -1035,8 +1160,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "iheartradio_90s_y4mb96",
+    "stationuuid": "iheartradio_90s_zfpq0u",
     "name": "iHeartRadio 90s",
+    "url": "",
     "url_resolved": "https://iheart-iheart90s-1-us.xumo.wurl.tv/playlist.m3u8",
     "favicon": "https://i.imgur.com/Vo09eBa.png",
     "tags": "music",
@@ -1044,8 +1170,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "impact_tv_dance_9tmylq",
+    "stationuuid": "impact_tv_dance_jhbchx",
     "name": "Impact TV Dance",
+    "url": "",
     "url_resolved": "https://online.tvimpact.live/hls/dancetv.m3u8",
     "favicon": "https://i.imgur.com/G5mNdpE.png",
     "tags": "music",
@@ -1053,8 +1180,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "impact_tv_manele_8xfh5d",
+    "stationuuid": "impact_tv_manele_cgt59q",
     "name": "Impact TV Manele",
+    "url": "",
     "url_resolved": "https://online.tvimpact.live/hls/impact_tv.m3u8",
     "favicon": "https://i.imgur.com/G5mNdpE.png",
     "tags": "music",
@@ -1062,8 +1190,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "infinita_tv_x6msjj",
+    "stationuuid": "infinita_tv_b5f235",
     "name": "Infinita TV",
+    "url": "",
     "url_resolved": "https://s2.tvdatta.com:3753/hybrid/play.m3u8",
     "favicon": "https://i.imgur.com/1nHxdkR.png",
     "tags": "music",
@@ -1071,8 +1200,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "intv_australia_1lpygz",
+    "stationuuid": "intv_australia_dn397d",
     "name": "INTV Australia",
+    "url": "",
     "url_resolved": "http://tv1.intv.mk:1935/live/intv/index.m3u8",
     "favicon": "https://i.imgur.com/1nJl0Pv.png",
     "tags": "music",
@@ -1080,8 +1210,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "iq_channel_8zpfwl",
+    "stationuuid": "iq_channel_schw5o",
     "name": "IQ Channel",
+    "url": "",
     "url_resolved": "https://rtmp.info/iqtv/envivo/playlist.m3u8",
     "favicon": "https://i.imgur.com/hwuaomt.png",
     "tags": "music",
@@ -1089,8 +1220,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "isai_aruvi_zc20yo",
+    "stationuuid": "isai_aruvi_qmxbi7",
     "name": "Isai Aruvi",
+    "url": "",
     "url_resolved": "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8",
     "favicon": "https://i.imgur.com/yO18FLo.png",
     "tags": "music",
@@ -1098,8 +1230,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "isango_tv_480p_not_247_ul0v0r",
+    "stationuuid": "isango_tv_480p_not_247_epexol",
     "name": "Isango TV (480p) [Not 24/7]",
+    "url": "",
     "url_resolved": "http://80.241.215.175:1935/isangostar/isangostar/playlist.m3u8",
     "favicon": "https://i.imgur.com/EfsHaMQ.png",
     "tags": "music",
@@ -1107,8 +1240,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "itv_persian_music_hyu935",
+    "stationuuid": "itv_persian_music_myk5he",
     "name": "ITV Persian Music",
+    "url": "",
     "url_resolved": "https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8",
     "favicon": "https://i.ibb.co/pvLQmQK7/itv.png",
     "tags": "music",
@@ -1116,8 +1250,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "ivoire_channel_0bkccd",
+    "stationuuid": "ivoire_channel_byn5k1",
     "name": "Ivoire Channel",
+    "url": "",
     "url_resolved": "https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8",
     "favicon": "https://i.imgur.com/gKbNqQv.png",
     "tags": "music",
@@ -1125,8 +1260,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "jeka_muzzik_dzmil5",
+    "stationuuid": "jeka_muzzik_zcbqel",
     "name": "J.E.K.A. Muzzik",
+    "url": "",
     "url_resolved": "https://muzzik-live.morescreens.com/mts-4/playlist.m3u8",
     "favicon": "https://i.imgur.com/5Y5NAEF.png",
     "tags": "music",
@@ -1134,8 +1270,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "joe_fm_720p_not_247_yoi6lo",
+    "stationuuid": "joe_fm_720p_not_247_riyru6",
     "name": "Joe FM (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8",
     "favicon": "https://i.ibb.co/k9KJWzN/320px-Joe-radio-logo-2016-svg.png",
     "tags": "music",
@@ -1143,8 +1280,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "joomusic_zgu3u7",
+    "stationuuid": "joomusic_3d717u",
     "name": "JooMusic",
+    "url": "",
     "url_resolved": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
     "favicon": "https://i.imgur.com/KHuKQQL.png",
     "tags": "music",
@@ -1152,8 +1290,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "jordan_songs_d6ht1t",
+    "stationuuid": "jordan_songs_zjdhbv",
     "name": "Jordan Songs",
+    "url": "",
     "url_resolved": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8",
     "favicon": "https://i.imgur.com/1DE7Gmw.png",
     "tags": "music",
@@ -1161,8 +1300,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "jrtv_jrviradio_bmhdhx",
+    "stationuuid": "jrtv_jrviradio_271y4u",
     "name": "JRTV Järviradio",
+    "url": "",
     "url_resolved": "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8",
     "favicon": "https://jarviradio.fi/jrtv2/wp-content/uploads/2022/01/jrtv1.jpg",
     "tags": "music",
@@ -1170,8 +1310,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "juice_tv_1080p_not_247_bd5yka",
+    "stationuuid": "juice_tv_1080p_not_247_4akjix",
     "name": "Juice TV (1080p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://juicex.nz/hls/mystream.m3u8",
     "favicon": "https://i.imgur.com/WaaaW0w.png",
     "tags": "music",
@@ -1179,8 +1320,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "kayhan_tv_v3kbtn",
+    "stationuuid": "kayhan_tv_merbix",
     "name": "Kayhan TV",
+    "url": "",
     "url_resolved": "https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8",
     "favicon": "https://i.imgur.com/2MDjU7x.png",
     "tags": "music",
@@ -1188,8 +1330,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "kiss_kiss_napoli_tv_cevlsl",
+    "stationuuid": "kiss_kiss_napoli_tv_cxnld1",
     "name": "Kiss Kiss Napoli TV",
+    "url": "",
     "url_resolved": "https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8",
     "favicon": "https://i.imgur.com/RsGiBwE.png",
     "tags": "music",
@@ -1197,8 +1340,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "kiss_kiss_tv_8yy33k",
+    "stationuuid": "kiss_kiss_tv_aa33l4",
     "name": "Kiss Kiss TV",
+    "url": "",
     "url_resolved": "https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8",
     "favicon": "https://i.imgur.com/ja6c2YZ.png",
     "tags": "music",
@@ -1206,8 +1350,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "kiss_tv_6kjtfg",
+    "stationuuid": "kiss_tv_ate5uz",
     "name": "Kiss TV",
+    "url": "",
     "url_resolved": "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8",
     "favicon": "https://i.imgur.com/NKfVymH.png",
     "tags": "music",
@@ -1215,8 +1360,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "klape_i_tambure_tv_5tmpgt",
+    "stationuuid": "klape_i_tambure_tv_lcrw95",
     "name": "Klape i Tambure TV",
+    "url": "",
     "url_resolved": "https://stream.cmctv.hr:49998/kit/live.m3u8",
     "favicon": "https://i.imgur.com/sKj3dgc.png",
     "tags": "music",
@@ -1224,8 +1370,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "kral_pop_tv_6dzjhs",
+    "stationuuid": "kral_pop_tv_0ldnjk",
     "name": "KRAL Pop TV",
+    "url": "",
     "url_resolved": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8",
     "favicon": "https://i.imgur.com/ch365lh.png",
     "tags": "music",
@@ -1233,8 +1380,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "kronehit_c6113v",
+    "stationuuid": "kronehit_jcxk2d",
     "name": "Kronehit",
+    "url": "",
     "url_resolved": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
     "favicon": "https://i.imgur.com/dQJQv1X.png",
     "tags": "music",
@@ -1242,8 +1390,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "kurdmax_music_i4esye",
+    "stationuuid": "kurdmax_music_gel3mo",
     "name": "KurdMax Music",
+    "url": "",
     "url_resolved": "https://6476e46b58f91.streamlock.net/music/livestream/playlist.m3u8",
     "favicon": "https://i.imgur.com/otnIdEu.png",
     "tags": "music",
@@ -1251,8 +1400,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "kuriakos_music_y8ry0h",
+    "stationuuid": "kuriakos_music_kiqhbd",
     "name": "Kuriakos Music",
+    "url": "",
     "url_resolved": "http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8",
     "favicon": "https://i.imgur.com/Zl40NYi.jpg",
     "tags": "music",
@@ -1260,8 +1410,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "la_hermandad_salsera_1080p_not_8bm86e",
+    "stationuuid": "la_hermandad_salsera_1080p_not_wuwd7h",
     "name": "La Hermandad Salsera (1080p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8",
     "favicon": "https://i.imgur.com/7Wlt6bc.png",
     "tags": "music",
@@ -1269,8 +1420,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "la_mega_mundial_x001nv",
+    "stationuuid": "la_mega_mundial_5kk8hq",
     "name": "La Mega Mundial",
+    "url": "",
     "url_resolved": "https://server40.servistreaming.com:3477/stream/play.m3u8",
     "favicon": "https://i.imgur.com/UdMsgkt.png",
     "tags": "music",
@@ -1278,8 +1430,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "la_mia_tv_720p_geoblocked_q269hm",
+    "stationuuid": "la_mia_tv_720p_geoblocked_fbppcd",
     "name": "LA MIA TV (720p) [Geo-blocked]",
+    "url": "",
     "url_resolved": "https://ss2.tvrdomi.com:1936/lamiatv/lamiatv/playlist.m3u8",
     "favicon": "https://i.imgur.com/XIwTM1h.png",
     "tags": "music",
@@ -1287,8 +1440,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "la_perla_radio_tv_720p_not_247_ocpoik",
+    "stationuuid": "la_perla_radio_tv_720p_not_247_80tduy",
     "name": "La Perla Radio TV (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://eu1.servers10.com:8081/8068/index.m3u8",
     "favicon": "https://i.imgur.com/8wDMgmB.jpg",
     "tags": "music",
@@ -1296,8 +1450,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "la_que_buena_atlanta_ivel0p",
+    "stationuuid": "la_que_buena_atlanta_mipk8a",
     "name": "La Que Buena Atlanta",
+    "url": "",
     "url_resolved": "https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8",
     "favicon": "https://iili.io/JysD2a4.png",
     "tags": "music",
@@ -1305,8 +1460,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "la_top_1029_ukxp65",
+    "stationuuid": "la_top_1029_0itrcm",
     "name": "La Top 102.9",
+    "url": "",
     "url_resolved": "https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8",
     "favicon": "https://i.imgur.com/ZqwLPag.jpg",
     "tags": "music",
@@ -1314,8 +1470,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "la_top_1077_cac7v1",
+    "stationuuid": "la_top_1077_0bj792",
     "name": "La Top 107.7",
+    "url": "",
     "url_resolved": "https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8",
     "favicon": "https://i.imgur.com/vgHhh1W.jpg",
     "tags": "music",
@@ -1323,8 +1480,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "la_voz_del_tropico_480p_geoblo_9cz1gb",
+    "stationuuid": "la_voz_del_tropico_480p_geoblo_6f8lre",
     "name": "La Voz del Tropico (480p) [Geo-blocked]",
+    "url": "",
     "url_resolved": "https://ss2.tvrdomi.com:1936/lavozdeltropico/lavozdeltropico/playlist.m3u8",
     "favicon": "https://i.imgur.com/DKDFpHt.png",
     "tags": "music",
@@ -1332,8 +1490,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "la_voz_grupera_tv_jb52n4",
+    "stationuuid": "la_voz_grupera_tv_u72c7n",
     "name": "La Voz Grupera TV",
+    "url": "",
     "url_resolved": "https://cloudvideo.servers10.com:8081/8128/index.m3u8",
     "favicon": "https://i.imgur.com/Ku1CEeb.png",
     "tags": "music",
@@ -1341,8 +1500,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "lax_dj02sr",
+    "stationuuid": "lax_i2sye8",
     "name": "La-X",
+    "url": "",
     "url_resolved": "https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8",
     "favicon": "https://i.imgur.com/i2GnQTq.png",
     "tags": "music",
@@ -1350,8 +1510,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "latin_zone_tv_qogklj",
+    "stationuuid": "latin_zone_tv_8wxzey",
     "name": "Latin Zone TV",
+    "url": "",
     "url_resolved": "https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8",
     "favicon": "https://i.imgur.com/duEDsne.png",
     "tags": "music",
@@ -1359,8 +1520,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "lausitzwelle_517uou",
+    "stationuuid": "lausitzwelle_2jobxv",
     "name": "Lausitzwelle",
+    "url": "",
     "url_resolved": "https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=",
     "favicon": "https://i.imgur.com/4kYF4bK.png",
     "tags": "music",
@@ -1368,8 +1530,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "lingkar_tv_r7q70w",
+    "stationuuid": "lingkar_tv_1i01nb",
     "name": "Lingkar TV",
+    "url": "",
     "url_resolved": "https://lingkartv.my.id/hls/lingkartv.m3u8",
     "favicon": "https://lingkartv.com/assets/img/logo-square.png",
     "tags": "music",
@@ -1377,8 +1540,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "liratv_cpsrcl",
+    "stationuuid": "liratv_285421",
     "name": "LiraTV",
+    "url": "",
     "url_resolved": "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8",
     "favicon": "https://i.imgur.com/hBswXYZ.png",
     "tags": "music",
@@ -1386,8 +1550,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "littoral_fm_eb212k",
+    "stationuuid": "littoral_fm_e3jpkm",
     "name": "Littoral FM",
+    "url": "",
     "url_resolved": "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8",
     "favicon": "https://i.imgur.com/DCZKAQ1.png",
     "tags": "music",
@@ -1395,8 +1560,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "live99fm_45xulj",
+    "stationuuid": "live99fm_y5c1vf",
     "name": "Live99FM",
+    "url": "",
     "url_resolved": "https://media.streambrothers.com:1936/8014/8014/playlist.m3u8",
     "favicon": "https://i.imgur.com/U43UrQT.png",
     "tags": "music",
@@ -1404,8 +1570,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "lobo_tv_huy9ny",
+    "stationuuid": "lobo_tv_022zb2",
     "name": "Lobo TV",
+    "url": "",
     "url_resolved": "https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8",
     "favicon": "https://i.imgur.com/3fA50RJ.png",
     "tags": "music",
@@ -1413,8 +1580,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "look_thoong_tv_720p_not_247_2mm0c6",
+    "stationuuid": "look_thoong_tv_720p_not_247_8to92p",
     "name": "Look Thoong TV (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8",
     "favicon": "https://i.imgur.com/eT7iE34.png",
     "tags": "music",
@@ -1422,8 +1590,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "luna_estreo_1064_fm_720p_not_2_5rr0yr",
+    "stationuuid": "luna_estreo_1064_fm_720p_not_2_xlp6ke",
     "name": "Luna Estéreo 106.4 FM (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8",
     "favicon": "https://i.imgur.com/cESeD6R.png",
     "tags": "music",
@@ -1431,8 +1600,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "m2_r38l1i",
+    "stationuuid": "m2_71evjm",
     "name": "M2",
+    "url": "",
     "url_resolved": "https://live.m2.tv/hls3/stream.m3u8",
     "favicon": "https://i.imgur.com/AfcBWCg.png",
     "tags": "music",
@@ -1440,8 +1610,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "m2o_tv_3gkook",
+    "stationuuid": "m2o_tv_ur56y6",
     "name": "m2o TV",
+    "url": "",
     "url_resolved": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8",
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/512px-Radio_m2o_-_Logo_2019.svg.png",
     "tags": "music",
@@ -1449,8 +1620,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "m_wupq8v",
+    "stationuuid": "m_q6od02",
     "name": "M+",
+    "url": "",
     "url_resolved": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/master.m3u8",
     "favicon": "https://i.imgur.com/Ho8N310.png",
     "tags": "music",
@@ -1458,8 +1630,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "m1_4bfn6u",
+    "stationuuid": "m1_jlcwmk",
     "name": "M-1",
+    "url": "",
     "url_resolved": "https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8",
     "favicon": "https://i.ibb.co/gb4NmNHT/M1-2025.png",
     "tags": "music",
@@ -1467,8 +1640,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "madras_fm_tv_h3rv48",
+    "stationuuid": "madras_fm_tv_ja362e",
     "name": "Madras FM TV",
+    "url": "",
     "url_resolved": "https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8",
     "favicon": "https://i.imgur.com/spGg1CZ.png",
     "tags": "music",
@@ -1476,8 +1650,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "magic_tv_68j8o7",
+    "stationuuid": "magic_tv_lp3jyl",
     "name": "Magic TV",
+    "url": "",
     "url_resolved": "https://bss1.neterra.tv/magictv/magictv.m3u8",
     "favicon": "https://i.imgur.com/n7bcrrp.png",
     "tags": "music",
@@ -1485,8 +1660,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "magic_tv_ep77ed",
+    "stationuuid": "magic_tv_pbu4we",
     "name": "Magic TV",
+    "url": "",
     "url_resolved": "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8",
     "favicon": "https://i.imgur.com/9izrr4d.png",
     "tags": "music",
@@ -1494,8 +1670,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "majid_al_mohandis_jc7ep0",
+    "stationuuid": "majid_al_mohandis_lpa7yb",
     "name": "Majid Al Mohandis",
+    "url": "",
     "url_resolved": "https://shls-live-mood-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8",
     "favicon": "https://i.discogs.com/Fk9Bm8gTYJYeVXIJKX-EOGmYQ90sVQPtkIW5ZK4fydo/rs:fit/g:sm/q:90/h:372/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2OTY4/MzMtMTU2ODk0NjI5/MC01Njk2LmpwZWc.jpeg",
     "tags": "music",
@@ -1503,8 +1680,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "makao_tv_3sd4zu",
+    "stationuuid": "makao_tv_h7dcfo",
     "name": "Makao TV",
+    "url": "",
     "url_resolved": "https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8",
     "favicon": "https://i.imgur.com/asD5y7i.png",
     "tags": "music",
@@ -1512,8 +1690,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "marina_tv_isb372",
+    "stationuuid": "marina_tv_hrtck5",
     "name": "Marina TV",
+    "url": "",
     "url_resolved": "https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8",
     "favicon": "https://i.imgur.com/F2PzEaw.png",
     "tags": "music",
@@ -1521,8 +1700,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "ms_fm_959_kk0rs5",
+    "stationuuid": "ms_fm_959_8o377o",
     "name": "Más FM 95.9",
+    "url": "",
     "url_resolved": "https://vivo.solumedia.com:19360/masfm/masfm.m3u8",
     "favicon": "https://i.imgur.com/TJ4gWQM.png",
     "tags": "music",
@@ -1530,8 +1710,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "masmusica_fm_r3rfq1",
+    "stationuuid": "masmusica_fm_itl0tl",
     "name": "MasMusica FM",
+    "url": "",
     "url_resolved": "https://movil.ejeserver.com/live/masmusica.m3u8",
     "favicon": "https://i.imgur.com/tCg7owd.png",
     "tags": "music",
@@ -1539,8 +1720,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "mastiii_mwatu6",
+    "stationuuid": "mastiii_obvfhk",
     "name": "Mastiii",
+    "url": "",
     "url_resolved": "https://sablive-ddpb.akamaized.net/mastii/playlist.m3u8",
     "favicon": "https://i.imgur.com/lxgXHx4.png",
     "tags": "music",
@@ -1548,8 +1730,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "mbc_fm_mh4qbj",
+    "stationuuid": "mbc_fm_l2bsge",
     "name": "MBC FM",
+    "url": "",
     "url_resolved": "https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8",
     "favicon": "https://i.imgur.com/lF8UxvR.png",
     "tags": "music",
@@ -1557,8 +1740,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "mbc_loud_4xhlgp",
+    "stationuuid": "mbc_loud_fb4v9x",
     "name": "MBC Loud",
+    "url": "",
     "url_resolved": "https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8",
     "favicon": "https://i.imgur.com/mptwwLs.png",
     "tags": "music",
@@ -1566,8 +1750,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "med_muzik_xqulmb",
+    "stationuuid": "med_muzik_r4n2hu",
     "name": "Med Muzik",
+    "url": "",
     "url_resolved": "http://54.36.110.140/live3/live3.m3u8",
     "favicon": "https://i.imgur.com/gtUFmCD.png",
     "tags": "music",
@@ -1575,8 +1760,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "metropole_77hat4",
+    "stationuuid": "metropole_al7ciq",
     "name": "Metropole",
+    "url": "",
     "url_resolved": "https://dvrfl03.bozztv.com/hdirect/hdirect-telemetrolple2/index.m3u8",
     "favicon": "https://i.imgur.com/Ei1Su4V.png",
     "tags": "music",
@@ -1584,8 +1770,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "metropoli_medios_tv_x2qf15",
+    "stationuuid": "metropoli_medios_tv_uzqiw2",
     "name": "Metropoli Medios TV",
+    "url": "",
     "url_resolved": "https://eu1.servers10.com:8081/8214/index.m3u8",
     "favicon": "https://i.imgur.com/yID5T2S.jpg",
     "tags": "music",
@@ -1593,8 +1780,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "miel_tv_720p_not_247_2i9y4u",
+    "stationuuid": "miel_tv_720p_not_247_yz15mf",
     "name": "Miel TV (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8",
     "favicon": "https://i.imgur.com/dPSFrCs.png",
     "tags": "music",
@@ -1602,8 +1790,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "millenium_109_fm_720p_not_247_vqu6oj",
+    "stationuuid": "millenium_109_fm_720p_not_247_vtpjd5",
     "name": "Millenium 109 FM (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8",
     "favicon": "https://i.imgur.com/sfNL6Bv.png",
     "tags": "music",
@@ -1611,8 +1800,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "mk_tunes_720p_not_247_jvomef",
+    "stationuuid": "mk_tunes_720p_not_247_akpllu",
     "name": "MK Tunes (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://cdn-3.pishow.tv/live/433/master.m3u8",
     "favicon": "https://i.imgur.com/6SUnfuM.png",
     "tags": "music",
@@ -1620,8 +1810,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "mntv_music_srb7lt",
+    "stationuuid": "mntv_music_y5ya2z",
     "name": "MNTV Music",
+    "url": "",
     "url_resolved": "https://mntv.livebox.co.in/musichls/live.m3u8",
     "favicon": "https://i.ibb.co/NynvtQm/1-210414213-U60-L.jpg",
     "tags": "music",
@@ -1629,8 +1820,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "mohammed_abdo_jmk8np",
+    "stationuuid": "mohammed_abdo_sug59a",
     "name": "Mohammed Abdo",
+    "url": "",
     "url_resolved": "https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8",
     "favicon": "https://assets.mbcmood.com/channels/1720184012Mohammed%20Abdo%20banner.png",
     "tags": "music",
@@ -1638,8 +1830,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "moinesti_tv_wuneul",
+    "stationuuid": "moinesti_tv_8bqljg",
     "name": "Moinesti TV",
+    "url": "",
     "url_resolved": "https://flus.moinestifm.ro/ro.moinesti/index.m3u8",
     "favicon": "https://i.imgur.com/MjS7LCr.png",
     "tags": "music",
@@ -1647,8 +1840,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "mosaique_fm_62shh7",
+    "stationuuid": "mosaique_fm_j0r6wz",
     "name": "Mosaique FM",
+    "url": "",
     "url_resolved": "https://cdn.live.easybroadcast.io/abr_corp/63_mosaique-fm_rn56tgl/playlist_dvr.m3u8",
     "favicon": "https://i.imgur.com/GDUykah.png",
     "tags": "music",
@@ -1656,8 +1850,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "mtv_classic_6zm9va",
+    "stationuuid": "mtv_classic_5z62wj",
     "name": "MTV Classic",
+    "url": "",
     "url_resolved": "https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8",
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png",
     "tags": "music",
@@ -1665,8 +1860,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "mtv_hits_europe_330hyj",
+    "stationuuid": "mtv_hits_europe_95e1gm",
     "name": "MTV Hits Europe",
+    "url": "",
     "url_resolved": "http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test",
     "favicon": "https://i.imgur.com/zNscEST.png",
     "tags": "music",
@@ -1674,8 +1870,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "mtv_live_bvgwbl",
+    "stationuuid": "mtv_live_a7ne2j",
     "name": "MTV Live",
+    "url": "",
     "url_resolved": "https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8",
     "favicon": "https://i.imgur.com/3UByLqb.png",
     "tags": "music",
@@ -1683,8 +1880,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "mun2tv_x12kv9",
+    "stationuuid": "mun2tv_frali8",
     "name": "Mun2TV",
+    "url": "",
     "url_resolved": "https://vdo2.streamgato.us:3144/live/mund2tvlive.m3u8",
     "favicon": "https://i.imgur.com/e38DNzI.png",
     "tags": "music",
@@ -1692,8 +1890,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "music_india_720p_not_247_e2gtet",
+    "stationuuid": "music_india_720p_not_247_qia86g",
     "name": "Music India (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://cdn-2.pishow.tv/live/226/master.m3u8",
     "favicon": "https://i.imgur.com/kXTCYqg.png",
     "tags": "music",
@@ -1701,8 +1900,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "muzangala_tv_9a8bbc",
+    "stationuuid": "muzangala_tv_uhdao6",
     "name": "Muzangala TV",
+    "url": "",
     "url_resolved": "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8",
     "favicon": "https://i.imgur.com/fBeaJoS.png",
     "tags": "music",
@@ -1710,8 +1910,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "muzzik_cqwbo5",
+    "stationuuid": "muzzik_9icr0o",
     "name": "MUZZIK",
+    "url": "",
     "url_resolved": "https://muzzik-live.morescreens.com/mts-6/playlist.m3u8",
     "favicon": "https://i.imgur.com/9dz8MsD.png",
     "tags": "music",
@@ -1719,8 +1920,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "muzzik_electro_pp0p8y",
+    "stationuuid": "muzzik_electro_97tgb6",
     "name": "Muzzik ELECTRO",
+    "url": "",
     "url_resolved": "https://muzzik-live.morescreens.com/mts-9/playlist.m3u8",
     "favicon": "https://i.imgur.com/9dz8MsD.png",
     "tags": "music",
@@ -1728,8 +1930,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "muzzik_flashback_i7neo1",
+    "stationuuid": "muzzik_flashback_vckunc",
     "name": "Muzzik FLASHBACK",
+    "url": "",
     "url_resolved": "https://muzzik-live.morescreens.com/mts-8/playlist.m3u8",
     "favicon": "https://i.imgur.com/9dz8MsD.png",
     "tags": "music",
@@ -1737,8 +1940,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "muzzik_moba_z3om4g",
+    "stationuuid": "muzzik_moba_dnme7s",
     "name": "Muzzik MOBA",
+    "url": "",
     "url_resolved": "https://muzzik-live.morescreens.com/mts-2/playlist.m3u8",
     "favicon": "https://i.imgur.com/9dz8MsD.png",
     "tags": "music",
@@ -1746,8 +1950,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "muzzik_pop_star_0q22l4",
+    "stationuuid": "muzzik_pop_star_5lg86o",
     "name": "Muzzik POP STAR",
+    "url": "",
     "url_resolved": "https://muzzik-live.morescreens.com/mts-3/playlist.m3u8",
     "favicon": "https://i.imgur.com/E9ha9Or.png",
     "tags": "music",
@@ -1755,8 +1960,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "muzzik_sense_r2uom6",
+    "stationuuid": "muzzik_sense_irlcvx",
     "name": "Muzzik SENSE",
+    "url": "",
     "url_resolved": "https://muzzik-live.morescreens.com/mts-7/playlist.m3u8",
     "favicon": "https://i.imgur.com/9dz8MsD.png",
     "tags": "music",
@@ -1764,8 +1970,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "muzzik_tiktak_b2cne1",
+    "stationuuid": "muzzik_tiktak_2m3e2s",
     "name": "Muzzik TIKTAK",
+    "url": "",
     "url_resolved": "https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8",
     "favicon": "https://i.imgur.com/9dz8MsD.png",
     "tags": "music",
@@ -1773,8 +1980,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "muzzik_zz_tv_bnf7ur",
+    "stationuuid": "muzzik_zz_tv_6cm6x5",
     "name": "Muzzik ZZ TV",
+    "url": "",
     "url_resolved": "https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8",
     "favicon": "https://i.imgur.com/9dz8MsD.png",
     "tags": "music",
@@ -1782,8 +1990,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "muzzone_7l73z0",
+    "stationuuid": "muzzone_yrh9vo",
     "name": "MuzzOne",
+    "url": "",
     "url_resolved": "https://hls.live.31kz.adapto.kz/muzzone/index.m3u8",
     "favicon": "https://i.imgur.com/nHVABXh.png",
     "tags": "music",
@@ -1791,8 +2000,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "navahang_tv_jjie5l",
+    "stationuuid": "navahang_tv_acimjo",
     "name": "Navahang TV",
+    "url": "",
     "url_resolved": "https://hls.navahang.live/hls/stream.m3u8",
     "favicon": "https://i.imgur.com/YteKXJy.png",
     "tags": "music",
@@ -1800,8 +2010,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "new_kpop_k5sdpk",
+    "stationuuid": "new_kpop_ztj6e2",
     "name": "NEW K-POP",
+    "url": "",
     "url_resolved": "https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8",
     "favicon": "https://i.imgur.com/B7ILXMc.png",
     "tags": "music",
@@ -1809,8 +2020,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "next_hd_jtxays",
+    "stationuuid": "next_hd_on3ko7",
     "name": "Next HD",
+    "url": "",
     "url_resolved": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
     "favicon": "https://i.imgur.com/c2rF3SS.png",
     "tags": "music",
@@ -1818,8 +2030,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "nick_music_5k1qwq",
+    "stationuuid": "nick_music_5h2icx",
     "name": "Nick Music",
+    "url": "",
     "url_resolved": "https://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8",
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png",
     "tags": "music",
@@ -1827,8 +2040,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "nidae_alislam_radio_te19e6",
+    "stationuuid": "nidae_alislam_radio_cbvhj0",
     "name": "Nidae AlIslam Radio",
+    "url": "",
     "url_resolved": "https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8",
     "favicon": "https://i.imgur.com/laEk64E.png",
     "tags": "music",
@@ -1836,8 +2050,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "nogoumfmtv_672p_not_247_7exvpg",
+    "stationuuid": "nogoumfmtv_672p_not_247_iepe5r",
     "name": "NogoumFMTV (672p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://nogoumtv.nrpstream.com/hls/stream.m3u8",
     "favicon": "https://i.imgur.com/krp3kgv.png",
     "tags": "music",
@@ -1845,8 +2060,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "now_rock_69h6sr",
+    "stationuuid": "now_rock_hyr579",
     "name": "NOW Rock",
+    "url": "",
     "url_resolved": "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8",
     "favicon": "https://i.imgur.com/GuM4GnX.png",
     "tags": "music",
@@ -1854,8 +2070,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "now_tv_1023fm_edmonton_13pu4f",
+    "stationuuid": "now_tv_1023fm_edmonton_ycl10u",
     "name": "Now TV 102.3FM Edmonton",
+    "url": "",
     "url_resolved": "https://videostream.jpbgdigital.com/NOWTV.m3u8",
     "favicon": "https://i.imgur.com/sF2g7KE.png",
     "tags": "music",
@@ -1863,8 +2080,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "nrg_91_720p_not_247_6rqkuv",
+    "stationuuid": "nrg_91_720p_not_247_6av3dl",
     "name": "NRG 91 (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "http://tv.nrg91.gr:1935/onweb/live/master.m3u8",
     "favicon": "https://i.imgur.com/1Zl1OJ5.png",
     "tags": "music",
@@ -1872,8 +2090,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "nrg_tv_78kc1d",
+    "stationuuid": "nrg_tv_npbami",
     "name": "NRG TV",
+    "url": "",
     "url_resolved": "https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8",
     "favicon": "https://i.imgur.com/1Zl1OJ5.png",
     "tags": "music",
@@ -1881,8 +2100,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "number_1_ask_7eoaxb",
+    "stationuuid": "number_1_ask_v9wi17",
     "name": "Number 1 Ask",
+    "url": "",
     "url_resolved": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8",
     "favicon": "https://i.imgur.com/slwbux7.png",
     "tags": "music",
@@ -1890,8 +2110,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "number_1_damar_wo3wei",
+    "stationuuid": "number_1_damar_tm87yo",
     "name": "Number 1 Damar",
+    "url": "",
     "url_resolved": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8",
     "favicon": "https://i.imgur.com/rYtbAGZ.png",
     "tags": "music",
@@ -1899,8 +2120,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "number_1_dance_c53yue",
+    "stationuuid": "number_1_dance_19nhja",
     "name": "Number 1 Dance",
+    "url": "",
     "url_resolved": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8",
     "favicon": "https://i.imgur.com/ZM4PSyq.png",
     "tags": "music",
@@ -1908,8 +2130,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "number_1_tv_kctzyv",
+    "stationuuid": "number_1_tv_akebvw",
     "name": "Number 1 TV",
+    "url": "",
     "url_resolved": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8",
     "favicon": "https://i.imgur.com/02cDIBi.png",
     "tags": "music",
@@ -1917,8 +2140,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "ko_ymwaks",
+    "stationuuid": "ko_amb282",
     "name": "Óčko",
+    "url": "",
     "url_resolved": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8",
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/512px-%C3%93%C4%8Dko_logo_2012.png",
     "tags": "music",
@@ -1926,8 +2150,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "ko_expres_h89328",
+    "stationuuid": "ko_expres_bfrjr3",
     "name": "Óčko Expres",
+    "url": "",
     "url_resolved": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8",
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/512px-%C3%93%C4%8Dko_Expres_logo.png",
     "tags": "music",
@@ -1935,8 +2160,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "ko_gold_hfv75p",
+    "stationuuid": "ko_gold_azi9l9",
     "name": "Óčko Gold",
+    "url": "",
     "url_resolved": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8",
     "favicon": "https://i.imgur.com/nrWNyLc.jpg",
     "tags": "music",
@@ -1944,8 +2170,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "on_fm_g7j2g8",
+    "stationuuid": "on_fm_rj0pxv",
     "name": "ON FM",
+    "url": "",
     "url_resolved": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8",
     "favicon": "https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png",
     "tags": "music",
@@ -1953,8 +2180,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "onda_15_tv_uewl7z",
+    "stationuuid": "onda_15_tv_5xdd22",
     "name": "Onda 15 TV",
+    "url": "",
     "url_resolved": "https://cloudvideo.servers10.com:8081/8034/index.m3u8",
     "favicon": "https://i.imgur.com/mUrZz9O.png",
     "tags": "music",
@@ -1962,8 +2190,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "onda_valencia_9jcrh0",
+    "stationuuid": "onda_valencia_qocbmi",
     "name": "Onda Valencia",
+    "url": "",
     "url_resolved": "https://cloudvideo.servers10.com:8081/8116/index.m3u8",
     "favicon": "https://i.imgur.com/6HxLUQd.png",
     "tags": "music",
@@ -1971,8 +2200,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "ondambiental_tv_3chdme",
+    "stationuuid": "ondambiental_tv_2uxmrj",
     "name": "Ondambiental TV",
+    "url": "",
     "url_resolved": "https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8",
     "favicon": "https://i.imgur.com/u5804Au.jpg",
     "tags": "music",
@@ -1980,8 +2210,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "one_tv_icisil",
+    "stationuuid": "one_tv_zagrf0",
     "name": "One TV",
+    "url": "",
     "url_resolved": "https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8",
     "favicon": "https://i.imgur.com/O4DuR9G.png",
     "tags": "music",
@@ -1989,8 +2220,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "onefm_720p_not_247_2x56zf",
+    "stationuuid": "onefm_720p_not_247_q37vbk",
     "name": "OneFM (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8",
     "favicon": "https://imgur.com/O4DuR9G",
     "tags": "music",
@@ -1998,8 +2230,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "orange_bangla_tv_spdrh7",
+    "stationuuid": "orange_bangla_tv_2uh0md",
     "name": "Orange Bangla TV",
+    "url": "",
     "url_resolved": "https://cdn-4.pishow.tv/live/1499/master.m3u8",
     "favicon": "https://i.imgur.com/wjSaHj5.png",
     "tags": "music",
@@ -2007,8 +2240,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "oxigeno_tv_360p_not_247_2nlk8c",
+    "stationuuid": "oxigeno_tv_360p_not_247_wrg5nc",
     "name": "Oxigeno TV (360p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8",
     "favicon": "https://i.imgur.com/n3PweBQ.png",
     "tags": "music",
@@ -2016,8 +2250,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "p2m_tv_z55qrp",
+    "stationuuid": "p2m_tv_vfens3",
     "name": "P2M TV",
+    "url": "",
     "url_resolved": "https://vdo2.pro-fhi.net:3207/stream/play.m3u8",
     "favicon": "https://i.imgur.com/TrecSeG.png",
     "tags": "music",
@@ -2025,8 +2260,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "panik_tv_3uy2dr",
+    "stationuuid": "panik_tv_e28es5",
     "name": "Panik TV",
+    "url": "",
     "url_resolved": "https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8",
     "favicon": "https://i.imgur.com/13C3CPr.png",
     "tags": "music",
@@ -2034,8 +2270,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "panorama_fm_44u976",
+    "stationuuid": "panorama_fm_d6hpcu",
     "name": "Panorama FM",
+    "url": "",
     "url_resolved": "https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8",
     "favicon": "https://i.imgur.com/JkDD3bK.png",
     "tags": "music",
@@ -2043,8 +2280,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "pequeradio_720p_not_247_x0gwvn",
+    "stationuuid": "pequeradio_720p_not_247_p78kcz",
     "name": "Pequeradio (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8",
     "favicon": "https://i.imgur.com/BNqZwxS.png",
     "tags": "music",
@@ -2052,8 +2290,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "persiana_4kurd_ows0mk",
+    "stationuuid": "persiana_4kurd_aprlxb",
     "name": "Persiana 4Kurd",
+    "url": "",
     "url_resolved": "https://4kuhls.persiana.live/hls/stream.m3u8",
     "favicon": "https://i.imgur.com/xy7W0wD.png",
     "tags": "music",
@@ -2061,8 +2300,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "persiana_music_tkt8kn",
+    "stationuuid": "persiana_music_z8mfdx",
     "name": "Persiana Music",
+    "url": "",
     "url_resolved": "https://musichls.persiana.live/hls/stream.m3u8",
     "favicon": "https://i.imgur.com/SHxxi5I.png",
     "tags": "music",
@@ -2070,8 +2310,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "persiana_nostalgia_q1ir66",
+    "stationuuid": "persiana_nostalgia_acofcq",
     "name": "Persiana Nostalgia",
+    "url": "",
     "url_resolved": "https://noshls.persiana.live/hls/stream.m3u8",
     "favicon": "https://i.imgur.com/SWO9CKA.png",
     "tags": "music",
@@ -2079,8 +2320,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "persiana_rap_beu8zd",
+    "stationuuid": "persiana_rap_hvdtm1",
     "name": "Persiana Rap",
+    "url": "",
     "url_resolved": "https://raphls.persiana.live/hls/stream.m3u8",
     "favicon": "https://i.ibb.co/ThGc7d5/Persiana-Rap.png",
     "tags": "music",
@@ -2088,8 +2330,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "persiana_sonnati_ermbs9",
+    "stationuuid": "persiana_sonnati_kfjswl",
     "name": "Persiana Sonnati",
+    "url": "",
     "url_resolved": "https://sonhls.persiana.live/hls/stream.m3u8",
     "favicon": "https://i.imgur.com/yqq5PlP.png",
     "tags": "music",
@@ -2097,8 +2340,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "planet_1009_fm_ho11xq",
+    "stationuuid": "planet_1009_fm_d79dck",
     "name": "Planet 100.9 FM",
+    "url": "",
     "url_resolved": "https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8",
     "favicon": "https://i.imgur.com/8ZIBs8l.png",
     "tags": "music",
@@ -2106,8 +2350,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "play_tv_480p_not_247_6ae00n",
+    "stationuuid": "play_tv_480p_not_247_mbit0n",
     "name": "Play TV (480p) [Not 24/7]",
+    "url": "",
     "url_resolved": "http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8",
     "favicon": "https://i.imgur.com/JWFOYuD.png",
     "tags": "music",
@@ -2115,8 +2360,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "pmc_royale_cv1iut",
+    "stationuuid": "pmc_royale_kz4mit",
     "name": "PMC Royale",
+    "url": "",
     "url_resolved": "https://pmcrohls.wns.live/hls/stream.m3u8",
     "favicon": "https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png",
     "tags": "music",
@@ -2124,8 +2370,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "pop_world_tv_766p3b",
+    "stationuuid": "pop_world_tv_c6erx0",
     "name": "POP World TV",
+    "url": "",
     "url_resolved": "https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8",
     "favicon": "https://i.imgur.com/LQB6G3s.jpg",
     "tags": "music",
@@ -2133,8 +2380,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "power_1017_fm_3r0h73",
+    "stationuuid": "power_1017_fm_c3xpy8",
     "name": "Power 101.7 FM",
+    "url": "",
     "url_resolved": "https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8",
     "favicon": "https://i.imgur.com/bkQrXjB.png",
     "tags": "music",
@@ -2142,8 +2390,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "power_dance_qleusk",
+    "stationuuid": "power_dance_95po02",
     "name": "Power Dance",
+    "url": "",
     "url_resolved": "https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8",
     "favicon": "https://i.imgur.com/QpPteBO.png",
     "tags": "music",
@@ -2151,8 +2400,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "power_hit_radio_0lfuo1",
+    "stationuuid": "power_hit_radio_dv0epl",
     "name": "Power Hit Radio",
+    "url": "",
     "url_resolved": "https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDczNDU2NjEsInBhdGgiOiIvbGl2ZS9lZHMvUFdSX0xUVV9MaXZlL0dPM19MSVZFX0hMUy8iLCJzaXAiOiI3Mi4xMS4xNTcuMTEyIiwiZGV2aWNlX2lkIjoiMCIsInNlc3Npb25faWQiOiIwIiwiY2xpZW50X2lkIjoiMCJ9.oHc5wUgwNPQ-4P7wJy_WvWQh0muFg9Lprhc4STS3cUHi0FI4tAKGdZOOeE-dOhVBHKFUYETmoXSMrrVHOeLC3g",
     "favicon": "https://i.imgur.com/GOlQbfC.png",
     "tags": "music",
@@ -2160,8 +2410,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "power_love_c4bwzf",
+    "stationuuid": "power_love_91pzsm",
     "name": "Power Love",
+    "url": "",
     "url_resolved": "https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8",
     "favicon": "https://i.imgur.com/0RzUswR.png",
     "tags": "music",
@@ -2169,8 +2420,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "power_trk_akustik_2aegkj",
+    "stationuuid": "power_trk_akustik_njdvag",
     "name": "Power Türk Akustik",
+    "url": "",
     "url_resolved": "https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8",
     "favicon": "https://i.imgur.com/driabBO.png",
     "tags": "music",
@@ -2178,8 +2430,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "power_trk_slow_udwbub",
+    "stationuuid": "power_trk_slow_uufh6c",
     "name": "Power Türk Slow",
+    "url": "",
     "url_resolved": "https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8",
     "favicon": "https://i.imgur.com/tQSoQXW.png",
     "tags": "music",
@@ -2187,8 +2440,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "power_trk_taptaze_4oy18z",
+    "stationuuid": "power_trk_taptaze_2coial",
     "name": "Power Türk Taptaze",
+    "url": "",
     "url_resolved": "https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8",
     "favicon": "https://i.imgur.com/a5nW3HU.png",
     "tags": "music",
@@ -2196,8 +2450,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "pridetv_latam_yaw7w0",
+    "stationuuid": "pridetv_latam_gndav3",
     "name": "PRIDEtv LATAM",
+    "url": "",
     "url_resolved": "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH",
     "favicon": "https://neotv.cl/img/pridetv-512.png",
     "tags": "music",
@@ -2205,8 +2460,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "public_music_720p_not_247_v9slfi",
+    "stationuuid": "public_music_720p_not_247_dp3oa5",
     "name": "Public Music (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://cdn-3.pishow.tv/live/441/master.m3u8",
     "favicon": "https://i.imgur.com/0xS5lNT.png",
     "tags": "music",
@@ -2214,8 +2470,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "qmusic_belgium_kuwxup",
+    "stationuuid": "qmusic_belgium_14be9l",
     "name": "Q-Music (Belgium)",
+    "url": "",
     "url_resolved": "https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8",
     "favicon": "https://i.imgur.com/VX5e9Xt.png",
     "tags": "music",
@@ -2223,8 +2480,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "qmusic_netherlands_gf6bkh",
+    "stationuuid": "qmusic_netherlands_ph08k7",
     "name": "Qmusic (Netherlands)",
+    "url": "",
     "url_resolved": "https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8",
     "favicon": "https://i.imgur.com/fMTuqDu.png",
     "tags": "music",
@@ -2232,8 +2490,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "qwest_tv_hhy66d",
+    "stationuuid": "qwest_tv_l5xmkq",
     "name": "Qwest TV",
+    "url": "",
     "url_resolved": "https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8",
     "favicon": "https://i.imgur.com/DjgNNHK.png",
     "tags": "music",
@@ -2241,8 +2500,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "rabeh_saqer_lkfyxl",
+    "stationuuid": "rabeh_saqer_ntf2jb",
     "name": "Rabeh Saqer",
+    "url": "",
     "url_resolved": "https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8",
     "favicon": "https://shahid.mbc.net/mediaObject/b98b0635-c8ed-4a7c-9efa-5856e278f54b?type=png",
     "tags": "music",
@@ -2250,8 +2510,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "radio_alegria_985_fm_w95yym",
+    "stationuuid": "radio_alegria_985_fm_xrii60",
     "name": "Radio Alegria 98.5 FM",
+    "url": "",
     "url_resolved": "https://video.compuwebecuador.com:3880/stream/play.m3u8",
     "favicon": "https://i.imgur.com/N00aS3x.png",
     "tags": "music",
@@ -2259,8 +2520,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "radio_bonita_1067_uiciz9",
+    "stationuuid": "radio_bonita_1067_pchgsr",
     "name": "Radio Bonita 106.7",
+    "url": "",
     "url_resolved": "https://cloudvideo.servers10.com:8081/8154/index.m3u8",
     "favicon": "https://i.imgur.com/IvZtqyz.png",
     "tags": "music",
@@ -2268,8 +2530,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "radio_carnaval_tv_720p_not_247_sfwrgf",
+    "stationuuid": "radio_carnaval_tv_720p_not_247_39nxcu",
     "name": "Radio Carnaval TV (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://eu1.servers10.com:8081/8116/index.m3u8",
     "favicon": "https://i.imgur.com/cdpbkSo.png",
     "tags": "music",
@@ -2277,8 +2540,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "radio_conexion_web_tv_vzarob",
+    "stationuuid": "radio_conexion_web_tv_8i15uz",
     "name": "Radio Conexion Web TV",
+    "url": "",
     "url_resolved": "https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8",
     "favicon": "https://i.imgur.com/pXS38zo.png",
     "tags": "music",
@@ -2286,8 +2550,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "radio_contact_7m0ecq",
+    "stationuuid": "radio_contact_tu80md",
     "name": "Radio Contact",
+    "url": "",
     "url_resolved": "https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8",
     "favicon": "https://i.imgur.com/32mmGvB.png",
     "tags": "music",
@@ -2295,8 +2560,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "radio_cuenca_estreo_wz2a7o",
+    "stationuuid": "radio_cuenca_estreo_vslkp8",
     "name": "Radio Cuenca Estéreo",
+    "url": "",
     "url_resolved": "https://eu1.servers10.com:8081/8074/index.m3u8",
     "favicon": "https://i.imgur.com/qZzSOeU.png",
     "tags": "music",
@@ -2304,8 +2570,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "radio_discount_tv_54ktli",
+    "stationuuid": "radio_discount_tv_nbk0pv",
     "name": "RADIO DISCOunt TV",
+    "url": "",
     "url_resolved": "https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8",
     "favicon": "https://i.imgur.com/ScNYMmx.png",
     "tags": "music",
@@ -2313,8 +2580,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "radio_fantstica_989_fm_1f6s6d",
+    "stationuuid": "radio_fantstica_989_fm_j8p2p1",
     "name": "Radio Fantástica 98.9 FM",
+    "url": "",
     "url_resolved": "http://190.107.232.9:8082/livestream/stream.m3u8",
     "favicon": "https://i.imgur.com/mpcIbrH.jpg",
     "tags": "music",
@@ -2322,8 +2590,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "radio_hit_fm_tv_roo68v",
+    "stationuuid": "radio_hit_fm_tv_f8v8jo",
     "name": "Radio Hit FM TV",
+    "url": "",
     "url_resolved": "https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8",
     "favicon": "https://i.imgur.com/gP2OT4S.png",
     "tags": "music",
@@ -2331,8 +2600,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "radio_ideal_1047_fm_la_esperan_f6j87o",
+    "stationuuid": "radio_ideal_1047_fm_la_esperan_ubvyol",
     "name": "Radio Ideal 104.7 FM (La Esperanza) (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://www.idealfm104-7.com/hls/0/stream.m3u8",
     "favicon": "https://i.imgur.com/chPfoOs.png",
     "tags": "music",
@@ -2340,8 +2610,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "radio_imagen_1051_fm_720p_not__26fqs2",
+    "stationuuid": "radio_imagen_1051_fm_720p_not__5iapdn",
     "name": "Radio Imagen 105.1 FM (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://streaming.imagenfm105-1.com/hls/stream.m3u8",
     "favicon": "https://i.ibb.co/C9zjz9p/343159606-190989583743350-3489987129696505785-n.jpg",
     "tags": "music",
@@ -2349,8 +2620,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "radio_italia_trend_qnbonz",
+    "stationuuid": "radio_italia_trend_vrx03k",
     "name": "Radio Italia Trend",
+    "url": "",
     "url_resolved": "https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8",
     "favicon": "https://i.imgur.com/HNrKqGM.png",
     "tags": "music",
@@ -2358,8 +2630,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "radio_javan_tv_9ie812",
+    "stationuuid": "radio_javan_tv_mkcmc7",
     "name": "Radio Javan TV",
+    "url": "",
     "url_resolved": "https://rjtvhls.wns.live/hls/stream.m3u8",
     "favicon": "https://i.imgur.com/a1zuW2C.png",
     "tags": "music",
@@ -2367,8 +2640,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "radio_jnd_b6pxem",
+    "stationuuid": "radio_jnd_4s982i",
     "name": "Radio JND",
+    "url": "",
     "url_resolved": "https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8",
     "favicon": "https://i.imgur.com/nyVlZeL.png",
     "tags": "music",
@@ -2376,8 +2650,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "radio_karolina_tv_dtbftv",
+    "stationuuid": "radio_karolina_tv_03qck2",
     "name": "Radio Karolina TV",
+    "url": "",
     "url_resolved": "https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8",
     "favicon": "https://i.imgur.com/g2HpLX1.png",
     "tags": "music",
@@ -2385,8 +2660,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "radio_lola_720p_not_247_h8vn0v",
+    "stationuuid": "radio_lola_720p_not_247_i0kjk7",
     "name": "Radio Lola (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8",
     "favicon": "https://i.imgur.com/41eE8fl.png",
     "tags": "music",
@@ -2394,8 +2670,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "radio_master_88ws89",
+    "stationuuid": "radio_master_500uvf",
     "name": "Radio Master",
+    "url": "",
     "url_resolved": "https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8",
     "favicon": "https://i.imgur.com/AUoxyzP.png",
     "tags": "music",
@@ -2403,8 +2680,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "radio_onda_digital_c0qpf0",
+    "stationuuid": "radio_onda_digital_0vu229",
     "name": "Radio Onda Digital",
+    "url": "",
     "url_resolved": "https://v4.tustreaming.cl/radioondadigitaltv/index.m3u8",
     "favicon": "https://i.imgur.com/Lid5RTv.png",
     "tags": "music",
@@ -2412,8 +2690,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "radio_piter_pan_tv_720p_not_24_r4jps7",
+    "stationuuid": "radio_piter_pan_tv_720p_not_24_qrvndg",
     "name": "Radio Piter Pan TV (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8",
     "favicon": "https://i.imgur.com/hbqVWV4.png",
     "tags": "music",
@@ -2421,8 +2700,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "radio_realpolitik_g4axts",
+    "stationuuid": "radio_realpolitik_00v1lr",
     "name": "Radio Realpolitik",
+    "url": "",
     "url_resolved": "https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8",
     "favicon": "https://i.imgur.com/L9KCdTX.png",
     "tags": "music",
@@ -2430,8 +2710,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "radio_reforma_se_oye_9jc4ur",
+    "stationuuid": "radio_reforma_se_oye_xe78ct",
     "name": "Radio Reforma Se Oye",
+    "url": "",
     "url_resolved": "https://www.streaming507.net:19360/mevo2/mevo2.m3u8",
     "favicon": "https://i.imgur.com/TVoTQBX.png",
     "tags": "music",
@@ -2439,8 +2720,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "radio_tl_hit_v5muzq",
+    "stationuuid": "radio_tl_hit_6nxjiu",
     "name": "Radio Télé Hit",
+    "url": "",
     "url_resolved": "https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8",
     "favicon": "https://i.ibb.co/Gt2QDgf/cropped-transparent2-103x70.png",
     "tags": "music",
@@ -2448,8 +2730,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "radio_tropical_tarapoto_480p_n_6vzad6",
+    "stationuuid": "radio_tropical_tarapoto_480p_n_l6eijj",
     "name": "Radio Tropical Tarapoto (480p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
     "favicon": "https://i.imgur.com/TBPVOBI.png",
     "tags": "music",
@@ -2457,8 +2740,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "radio_tv_sal_one_m82yc5",
+    "stationuuid": "radio_tv_sal_one_kcd4ju",
     "name": "Radio TV Sal One",
+    "url": "",
     "url_resolved": "https://lon.rtsp.me/r3ZnG6WN2HIRxPARhAirIQ/1713628621/hls/9QdykDAy.m3u8",
     "favicon": "https://i.imgur.com/pCz7ifY.jpg",
     "tags": "music",
@@ -2466,8 +2750,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "radio_tv_tendencias_1080p_not__z79qgy",
+    "stationuuid": "radio_tv_tendencias_1080p_not__fd7xqp",
     "name": "Radio TV Tendencias (1080p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://s1.tvdatta.com:3950/multi_web/play.m3u8",
     "favicon": "https://i.imgur.com/tsdrrV9.png",
     "tags": "music",
@@ -2475,8 +2760,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "radio_weser_tv_bremen_lm3fpj",
+    "stationuuid": "radio_weser_tv_bremen_o9h519",
     "name": "Radio Weser TV Bremen",
+    "url": "",
     "url_resolved": "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8",
     "favicon": "https://i.imgur.com/9pvCYaA.png",
     "tags": "music",
@@ -2484,8 +2770,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "rararadio_8xjs39",
+    "stationuuid": "rararadio_ef67mx",
     "name": "Rararadio",
+    "url": "",
     "url_resolved": "https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8",
     "favicon": "https://i.imgur.com/vTpfxUG.png",
     "tags": "music",
@@ -2493,8 +2780,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "rashid_almajed_mlsney",
+    "stationuuid": "rashid_almajed_de4dfj",
     "name": "Rashid AlMajed",
+    "url": "",
     "url_resolved": "https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8",
     "favicon": "https://assets.mbcmood.com/channels/1720177618Rashid%20AlMajed.webp",
     "tags": "music",
@@ -2502,8 +2790,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "retro_music_television_b5oy8f",
+    "stationuuid": "retro_music_television_zr7ozp",
     "name": "Retro Music Television",
+    "url": "",
     "url_resolved": "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
     "favicon": "https://i.imgur.com/pyOjdZs.png",
     "tags": "music",
@@ -2511,8 +2800,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "reyali_t87hl0",
+    "stationuuid": "reyali_qfoex6",
     "name": "Reyali",
+    "url": "",
     "url_resolved": "https://eu1.servers10.com:8081/8090/index.m3u8",
     "favicon": "https://i.imgur.com/YmFjnsF.png",
     "tags": "music",
@@ -2520,8 +2810,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "rfptv_a2un58",
+    "stationuuid": "rfptv_yxj549",
     "name": "RFPtv",
+    "url": "",
     "url_resolved": "https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8",
     "favicon": "https://i.imgur.com/I60nQuR.png",
     "tags": "music",
@@ -2529,8 +2820,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "rht_guadeloupe_zr2r8y",
+    "stationuuid": "rht_guadeloupe_n3lecg",
     "name": "RHT Guadeloupe",
+    "url": "",
     "url_resolved": "https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8",
     "favicon": "https://i.imgur.com/hQ0Q6nE.png",
     "tags": "music",
@@ -2538,8 +2830,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "rock_tv_5jn21n",
+    "stationuuid": "rock_tv_hqjhxd",
     "name": "Rock TV",
+    "url": "",
     "url_resolved": "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8",
     "favicon": "https://i.imgur.com/VB88A5V.png",
     "tags": "music",
@@ -2547,8 +2840,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "rti_la_3_1080p_not_247_v7h67x",
+    "stationuuid": "rti_la_3_1080p_not_247_58yjgj",
     "name": "RTI La 3 (1080p) [Not 24/7]",
+    "url": "",
     "url_resolved": "http://69.64.57.208/la3/index.m3u8",
     "favicon": "https://i.imgur.com/HdNshgF.png",
     "tags": "music",
@@ -2556,8 +2850,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "rtl_gold_1vqblj",
+    "stationuuid": "rtl_gold_yypw8e",
     "name": "RTL Gold",
+    "url": "",
     "url_resolved": "https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8",
     "favicon": "https://i.imgur.com/LzHQoUv.png",
     "tags": "music",
@@ -2565,8 +2860,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "rtl_today_radio_2appgf",
+    "stationuuid": "rtl_today_radio_mpifoe",
     "name": "RTL Today Radio",
+    "url": "",
     "url_resolved": "https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8",
     "favicon": "https://i.imgur.com/O1c6wpt.png",
     "tags": "music",
@@ -2574,8 +2870,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "rtv_vida_hc091p",
+    "stationuuid": "rtv_vida_og6lul",
     "name": "RTV Vida",
+    "url": "",
     "url_resolved": "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8",
     "favicon": "https://i.imgur.com/EqUfEAh.png",
     "tags": "music",
@@ -2583,8 +2880,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "ru_tv_abdeso",
+    "stationuuid": "ru_tv_wua6zb",
     "name": "RU TV",
+    "url": "",
     "url_resolved": "https://hls-03-video.webcaramba.com/rutv/live.m3u8",
     "favicon": "https://i.imgur.com/Z7HUU7V.png",
     "tags": "music",
@@ -2592,8 +2890,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "salsa_gorda_television_480p_no_1mdz26",
+    "stationuuid": "salsa_gorda_television_480p_no_28f347",
     "name": "Salsa Gorda Television (480p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8",
     "favicon": "https://i.imgur.com/3IhYd7G.jpg",
     "tags": "music",
@@ -2601,8 +2900,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "salto_brasa_music_r1z6id",
+    "stationuuid": "salto_brasa_music_gu8t81",
     "name": "Salto Brasa Music",
+    "url": "",
     "url_resolved": "https://salto-streams.nl/hls/sotv1.m3u8",
     "favicon": "https://i.vimeocdn.com/portrait/31947989_640x640",
     "tags": "music",
@@ -2610,8 +2910,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "sana_plus_1080p_not_247_wvw85r",
+    "stationuuid": "sana_plus_1080p_not_247_c16wfz",
     "name": "Sana Plus (1080p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://galaxyott.live/hls/sanaplus.m3u8",
     "favicon": "https://i.imgur.com/N6tKUZv.png",
     "tags": "music",
@@ -2619,8 +2920,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "sayhi_kh6qwt",
+    "stationuuid": "sayhi_4tpiwy",
     "name": "SAYHi",
+    "url": "",
     "url_resolved": "https://s-pl-01.mediatool.tv/playout/shpl-abr/index.m3u8",
     "favicon": "https://i.imgur.com/xR151dE.png",
     "tags": "music",
@@ -2628,8 +2930,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "showbox_pl77mr",
+    "stationuuid": "showbox_kywqzh",
     "name": "ShowBox",
+    "url": "",
     "url_resolved": "https://epiconvh.akamaized.net/live/showbox/master.m3u8",
     "favicon": "https://i.imgur.com/Zm4Fhah.png",
     "tags": "music",
@@ -2637,8 +2940,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "siembra_tv_i548r8",
+    "stationuuid": "siembra_tv_mvy0lh",
     "name": "Siembra TV",
+    "url": "",
     "url_resolved": "https://streamunoapp.com:3809/live/siembratvlive.m3u8",
     "favicon": "https://www.vivalivetv.com/public/files/shows/0/1/3226-294x165-FFFFFF.jpg",
     "tags": "music",
@@ -2646,8 +2950,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "sky_folk_tv_720p_not_247_f1xk8d",
+    "stationuuid": "sky_folk_tv_720p_not_247_vqmdyx",
     "name": "Sky Folk TV (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://eu.live.skyfolk.mk/live.m3u8",
     "favicon": "https://i.imgur.com/ya5xpUL.png",
     "tags": "music",
@@ -2655,8 +2960,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "slager_muzika_j56qsj",
+    "stationuuid": "slager_muzika_dqse4f",
     "name": "Slager Muzika",
+    "url": "",
     "url_resolved": "https://stream-23.mazana.tv/slagrmuzika.m3u8s",
     "favicon": "https://i.imgur.com/hKdXwrW.png",
     "tags": "music",
@@ -2664,8 +2970,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "slager_original_1mbs66",
+    "stationuuid": "slager_original_jcm0gp",
     "name": "Slager Original",
+    "url": "",
     "url_resolved": "https://stream-13.mazana.tv/slagroriginal.m3u8s",
     "favicon": "https://i.imgur.com/0YjeWcq.png",
     "tags": "music",
@@ -2673,8 +2980,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "sol_msica_t7zbkj",
+    "stationuuid": "sol_msica_kbgivz",
     "name": "Sol Música",
+    "url": "",
     "url_resolved": "https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8",
     "favicon": "https://i.imgur.com/rbJrmPw.png",
     "tags": "music",
@@ -2682,8 +2990,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "solobilalo_wb5c8e",
+    "stationuuid": "solobilalo_u84fpa",
     "name": "SoloBáilalo",
+    "url": "",
     "url_resolved": "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
     "favicon": "https://i.imgur.com/SImJE7c.png",
     "tags": "music",
@@ -2691,8 +3000,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "songtv_armenia_ey69ox",
+    "stationuuid": "songtv_armenia_oo9l6h",
     "name": "SONGTV Armenia",
+    "url": "",
     "url_resolved": "https://songtv.hls.iptvdc.com/web-armenia/index.m3u8",
     "favicon": "https://i.imgur.com/nM7LbmV.png",
     "tags": "music",
@@ -2700,8 +3010,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "songtv_russia_udjtnp",
+    "stationuuid": "songtv_russia_orof84",
     "name": "SONGTV Russia",
+    "url": "",
     "url_resolved": "https://songtv.hls.iptvdc.com/web-russia/index.m3u8",
     "favicon": "https://i.imgur.com/nM7LbmV.png",
     "tags": "music",
@@ -2709,8 +3020,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "soy_plancha_tv_2if2ht",
+    "stationuuid": "soy_plancha_tv_ycqdr1",
     "name": "SOY Plancha TV",
+    "url": "",
     "url_resolved": "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8",
     "favicon": "https://i.ibb.co/P4kpMgk/1689344714578.jpg",
     "tags": "music",
@@ -2718,8 +3030,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "spirit_tv_720p_not_247_qche3a",
+    "stationuuid": "spirit_tv_720p_not_247_jqidj4",
     "name": "Spirit TV (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8",
     "favicon": "https://i.imgur.com/yCp6vXz.png",
     "tags": "music",
@@ -2727,8 +3040,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "star_101_fm_knut_guam_not_247_wk68iy",
+    "stationuuid": "star_101_fm_knut_guam_not_247_khcfqe",
     "name": "Star 101 FM (KNUT Guam) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8",
     "favicon": "https://star101.gu/images/fb_icon.jpg",
     "tags": "music",
@@ -2736,8 +3050,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "steelbird_music_720p_not_247_083kmp",
+    "stationuuid": "steelbird_music_720p_not_247_3lzv6n",
     "name": "Steelbird Music (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8",
     "favicon": "https://i.imgur.com/Egijzx3.png",
     "tags": "music",
@@ -2745,8 +3060,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "stingray_classic_rock_68fmou",
+    "stationuuid": "stingray_classic_rock_r5i4qd",
     "name": "Stingray Classic Rock",
+    "url": "",
     "url_resolved": "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8",
     "favicon": "https://i.imgur.com/FBgu8yB.png",
     "tags": "music",
@@ -2754,8 +3070,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "stingray_classica_fvtjio",
+    "stationuuid": "stingray_classica_54z86o",
     "name": "Stingray Classica",
+    "url": "",
     "url_resolved": "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8",
     "favicon": "https://i.imgur.com/nh1k5RC.png",
     "tags": "music",
@@ -2763,8 +3080,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "stingray_easy_listening_r0rlfx",
+    "stationuuid": "stingray_easy_listening_l42u4a",
     "name": "Stingray Easy Listening",
+    "url": "",
     "url_resolved": "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8",
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png",
     "tags": "music",
@@ -2772,8 +3090,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "stingray_flashback_70s_f78mvz",
+    "stationuuid": "stingray_flashback_70s_xmugsu",
     "name": "Stingray Flashback 70s",
+    "url": "",
     "url_resolved": "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8",
     "favicon": "https://i.imgur.com/jf5C9QF.png",
     "tags": "music",
@@ -2781,8 +3100,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "stingray_hit_list_tfgxk0",
+    "stationuuid": "stingray_hit_list_ne778p",
     "name": "Stingray Hit List",
+    "url": "",
     "url_resolved": "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8",
     "favicon": "https://i.imgur.com/lgpIwId.png",
     "tags": "music",
@@ -2790,8 +3110,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "stingray_holiday_hits_apzoeh",
+    "stationuuid": "stingray_holiday_hits_9iseo8",
     "name": "Stingray Holiday Hits",
+    "url": "",
     "url_resolved": "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8",
     "favicon": "https://i.imgur.com/4xVVKH8.png",
     "tags": "music",
@@ -2799,8 +3120,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "stingray_hot_country_ixhze0",
+    "stationuuid": "stingray_hot_country_ygvznl",
     "name": "Stingray Hot Country",
+    "url": "",
     "url_resolved": "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8",
     "favicon": "https://i.imgur.com/PZhxyIT.png",
     "tags": "music",
@@ -2808,8 +3130,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "stingray_karaoke_um12vs",
+    "stationuuid": "stingray_karaoke_v0ayf0",
     "name": "Stingray Karaoke",
+    "url": "",
     "url_resolved": "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8",
     "favicon": "https://i.imgur.com/9TLTLS3.png",
     "tags": "music",
@@ -2817,8 +3140,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "stingray_nothin_but_90s_e0gj12",
+    "stationuuid": "stingray_nothin_but_90s_e21nrd",
     "name": "Stingray Nothin' But 90s",
+    "url": "",
     "url_resolved": "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8",
     "favicon": "https://i.imgur.com/Tq3I0po.png",
     "tags": "music",
@@ -2826,8 +3150,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "stingray_pop_adult_vsd6f5",
+    "stationuuid": "stingray_pop_adult_jr8829",
     "name": "Stingray Pop Adult",
+    "url": "",
     "url_resolved": "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8",
     "favicon": "https://i.imgur.com/H2ugC9L.png",
     "tags": "music",
@@ -2835,8 +3160,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "stingray_remember_the_80s_5fq10v",
+    "stationuuid": "stingray_remember_the_80s_4h1u00",
     "name": "Stingray Remember the 80s",
+    "url": "",
     "url_resolved": "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8",
     "favicon": "https://i.imgur.com/6E3wYrb.png",
     "tags": "music",
@@ -2844,8 +3170,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "stingray_rock_alternative_61rnwl",
+    "stationuuid": "stingray_rock_alternative_wbmasd",
     "name": "Stingray Rock Alternative",
+    "url": "",
     "url_resolved": "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8",
     "favicon": "https://i.imgur.com/mt8ulVX.png",
     "tags": "music",
@@ -2853,8 +3180,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "stingray_romance_latino_hf1xh3",
+    "stationuuid": "stingray_romance_latino_c11vca",
     "name": "Stingray Romance Latino",
+    "url": "",
     "url_resolved": "https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8",
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png",
     "tags": "music",
@@ -2862,8 +3190,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "stingray_smooth_jazz_7pykzd",
+    "stationuuid": "stingray_smooth_jazz_15jdnt",
     "name": "Stingray Smooth Jazz",
+    "url": "",
     "url_resolved": "https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8",
     "favicon": "https://i.imgur.com/h1DsOzH.png",
     "tags": "music",
@@ -2871,8 +3200,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "stingray_soul_storm_qebahr",
+    "stationuuid": "stingray_soul_storm_mofgsn",
     "name": "Stingray Soul Storm",
+    "url": "",
     "url_resolved": "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8",
     "favicon": "https://i.imgur.com/dU1KC3f.png",
     "tags": "music",
@@ -2880,8 +3210,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "stingray_the_spa_38fqx6",
+    "stationuuid": "stingray_the_spa_g1qlo2",
     "name": "Stingray The Spa",
+    "url": "",
     "url_resolved": "https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8",
     "favicon": "https://i.imgur.com/ywAN923.png",
     "tags": "music",
@@ -2889,8 +3220,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "stingray_todays_kpop_ygsvl1",
+    "stationuuid": "stingray_todays_kpop_2yb0jo",
     "name": "Stingray Today's KPOP",
+    "url": "",
     "url_resolved": "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8",
     "favicon": "https://i.imgur.com/mMbntB5.png",
     "tags": "music",
@@ -2898,8 +3230,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "stingray_todays_latin_pop_vu7r98",
+    "stationuuid": "stingray_todays_latin_pop_1kkiz4",
     "name": "Stingray Today's Latin Pop",
+    "url": "",
     "url_resolved": "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8",
     "favicon": "https://i.imgur.com/Os3kRRP.png",
     "tags": "music",
@@ -2907,8 +3240,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "stingray_urban_beat_v35k22",
+    "stationuuid": "stingray_urban_beat_fed0ey",
     "name": "Stingray Urban Beat",
+    "url": "",
     "url_resolved": "https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8",
     "favicon": "https://i.imgur.com/Os3kRRP.png",
     "tags": "music",
@@ -2916,8 +3250,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "stryk_tv_9jeknt",
+    "stationuuid": "stryk_tv_8cbeus",
     "name": "Stryk TV",
+    "url": "",
     "url_resolved": "https://fffffff110156200.tvustream.com:8298/ryfy.m3u8",
     "favicon": "https://i.imgur.com/rKkHhkX.png",
     "tags": "music",
@@ -2925,8 +3260,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "stz_telebista_glmecc",
+    "stationuuid": "stz_telebista_g743s8",
     "name": "STZ Telebista",
+    "url": "",
     "url_resolved": "https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8",
     "favicon": "https://i.imgur.com/rFQuAEv.png",
     "tags": "music",
@@ -2934,8 +3270,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "sper_q_panam_jj3rp3",
+    "stationuuid": "sper_q_panam_j882zt",
     "name": "Súper Q Panamá",
+    "url": "",
     "url_resolved": "https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8",
     "favicon": "https://i.imgur.com/ocTnqi7.png",
     "tags": "music",
@@ -2943,8 +3280,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "super_tv_05qyeg",
+    "stationuuid": "super_tv_ng80ao",
     "name": "Super TV",
+    "url": "",
     "url_resolved": "http://iptv.supertv.ro:8000/play/a001/index.m3u8",
     "favicon": "https://i.imgur.com/pzxUE0O.png",
     "tags": "music",
@@ -2952,8 +3290,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "t2_tv_edqkdl",
+    "stationuuid": "t2_tv_jd3yps",
     "name": "T2 TV",
+    "url": "",
     "url_resolved": "https://t2hls.wns.live/hls/stream.m3u8",
     "favicon": "https://i.imgur.com/Wu8MBb7.png",
     "tags": "music",
@@ -2961,8 +3300,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "tarab_iz5eyf",
+    "stationuuid": "tarab_9ryjyb",
     "name": "Tarab",
+    "url": "",
     "url_resolved": "https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8",
     "favicon": "https://assets.mbcmood.com/channels/1738059679TARAB_Logo.png",
     "tags": "music",
@@ -2970,8 +3310,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "tarang_music_hdr6ek",
+    "stationuuid": "tarang_music_1iupc2",
     "name": "Tarang Music",
+    "url": "",
     "url_resolved": "https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8",
     "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Tarang_Miusic.tif/lossless-page1-512px-Tarang_Miusic.tif.png",
     "tags": "music",
@@ -2979,8 +3320,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "tdi_radio_tv_d0189j",
+    "stationuuid": "tdi_radio_tv_jwa2k3",
     "name": "TDI Radio TV",
+    "url": "",
     "url_resolved": "https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8",
     "favicon": "https://i.imgur.com/POdTmaD.png",
     "tags": "music",
@@ -2988,8 +3330,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "telerumba_tv_720p_not_247_z57kx5",
+    "stationuuid": "telerumba_tv_720p_not_247_8dtf7c",
     "name": "Telerumba TV (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://inliveserver.com:1936/18506/18506/playlist.m3u8",
     "favicon": "https://www.vivalivetv.com/public/files/shows/0/1/3649-294x165-FFFFFF.jpg",
     "tags": "music",
@@ -2997,8 +3340,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "televisora_de_oriente_xj3pbo",
+    "stationuuid": "televisora_de_oriente_fu1unu",
     "name": "Televisora de Oriente",
+    "url": "",
     "url_resolved": "https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8",
     "favicon": "https://i.imgur.com/wFC6Xxq.png",
     "tags": "music",
@@ -3006,8 +3350,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "the_retro_channel_2ec5vq",
+    "stationuuid": "the_retro_channel_07xuc4",
     "name": "The Retro Channel",
+    "url": "",
     "url_resolved": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
     "favicon": "https://i.imgur.com/t3i1HtE.jpg",
     "tags": "music",
@@ -3015,8 +3360,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "the_voice_tv_r1av0h",
+    "stationuuid": "the_voice_tv_c0eyir",
     "name": "The Voice TV",
+    "url": "",
     "url_resolved": "https://bss1.neterra.tv/thevoice/thevoice.m3u8",
     "favicon": "https://i.imgur.com/OoJSmoj.png",
     "tags": "music",
@@ -3024,8 +3370,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "tiankov_folk_ucyufd",
+    "stationuuid": "tiankov_folk_mk62cz",
     "name": "Tiankov Folk",
+    "url": "",
     "url_resolved": "https://streamer103.neterra.tv/tiankov-folk/live.m3u8",
     "favicon": "https://i.imgur.com/VKY4q64.png",
     "tags": "music",
@@ -3033,8 +3380,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "tiankov_orient_folk_oxg3r6",
+    "stationuuid": "tiankov_orient_folk_u8ll9h",
     "name": "Tiankov Orient Folk",
+    "url": "",
     "url_resolved": "https://streamer103.neterra.tv/tiankov-orient/live.m3u8",
     "favicon": "https://i.imgur.com/33LexyP.png",
     "tags": "music",
@@ -3042,8 +3390,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "tma_uycnmi",
+    "stationuuid": "tma_j1zyby",
     "name": "TMA",
+    "url": "",
     "url_resolved": "http://hls.tmacaraibes.com/live/index.m3u8",
     "favicon": "https://i.imgur.com/1iOAl2j.png",
     "tags": "music",
@@ -3051,8 +3400,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "topestrada_tv_rm4xh6",
+    "stationuuid": "topestrada_tv_a11xrr",
     "name": "TopEstrada TV",
+    "url": "",
     "url_resolved": "http://live.topestrada.com/live/topestrada/playlist.m3u8",
     "favicon": "https://i.imgur.com/0Dh1FJZ.png",
     "tags": "music",
@@ -3060,8 +3410,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "trace_hits_h4l0ec",
+    "stationuuid": "trace_hits_q6oeq3",
     "name": "Trace Hits",
+    "url": "",
     "url_resolved": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8",
     "favicon": "https://i.imgur.com/Vvxz6KX.png",
     "tags": "music",
@@ -3069,8 +3420,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "tropi_q_997_fm_d5ywms",
+    "stationuuid": "tropi_q_997_fm_5k4cbg",
     "name": "Tropi Q 99.7 FM",
+    "url": "",
     "url_resolved": "https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8",
     "favicon": "https://i.imgur.com/5rPdHhb.png",
     "tags": "music",
@@ -3078,8 +3430,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "tropical_music_tv_cl5fm5",
+    "stationuuid": "tropical_music_tv_6rhsc5",
     "name": "Tropical Music TV",
+    "url": "",
     "url_resolved": "https://59a564764e2b6.streamlock.net/vallenato/tropical/playlist.m3u8",
     "favicon": "https://i.imgur.com/h48pwLn.png",
     "tags": "music",
@@ -3087,8 +3440,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "tu_msica_hd_2srn0u",
+    "stationuuid": "tu_msica_hd_8bzgpf",
     "name": "Tu Música HD",
+    "url": "",
     "url_resolved": "https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8",
     "favicon": "https://i.imgur.com/HnjUjog.png",
     "tags": "music",
@@ -3096,8 +3450,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "turbo_mix_radio_tv_360p_not_24_jx1n1h",
+    "stationuuid": "turbo_mix_radio_tv_360p_not_24_lxx2p1",
     "name": "Turbo Mix Radio TV (360p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8",
     "favicon": "https://i.imgur.com/AsdBQa3.png",
     "tags": "music",
@@ -3105,8 +3460,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "tv_cidade_84luck",
+    "stationuuid": "tv_cidade_owq5r8",
     "name": "TV Cidade",
+    "url": "",
     "url_resolved": "https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8",
     "favicon": "https://i.imgur.com/gmSu21X.jpg",
     "tags": "music",
@@ -3114,8 +3470,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "tvs_music_network_d3fo17",
+    "stationuuid": "tvs_music_network_jrrrbf",
     "name": "TVS Music Network",
+    "url": "",
     "url_resolved": "https://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8",
     "favicon": "https://i.imgur.com/pXOyNEy.png",
     "tags": "music",
@@ -3123,8 +3480,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "tvuno_n5qlzd",
+    "stationuuid": "tvuno_tsvcol",
     "name": "TVUNO",
+    "url": "",
     "url_resolved": "https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8",
     "favicon": "https://i.imgur.com/dht94P4.png",
     "tags": "music",
@@ -3132,8 +3490,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "urbano_tv_zwsmn3",
+    "stationuuid": "urbano_tv_20puvf",
     "name": "Urbano TV",
+    "url": "",
     "url_resolved": "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8",
     "favicon": "https://i.imgur.com/KVVU9PI.png",
     "tags": "music",
@@ -3141,8 +3500,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "v2beat_720p_not_247_kr3h65",
+    "stationuuid": "v2beat_720p_not_247_q4p5k2",
     "name": "V2BEAT (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://abr.de1se01.v2beat.live/playlist.m3u8",
     "favicon": "https://i.imgur.com/PXGqyLn.png",
     "tags": "music",
@@ -3150,8 +3510,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "v_classic_tv_gbv7ir",
+    "stationuuid": "v_classic_tv_ww0ylk",
     "name": "V Classic TV",
+    "url": "",
     "url_resolved": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8",
     "favicon": "https://i.imgur.com/WIACJSy.png",
     "tags": "music",
@@ -3159,8 +3520,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "vaanavil_tv_7tp3q6",
+    "stationuuid": "vaanavil_tv_3yuhnv",
     "name": "Vaanavil TV",
+    "url": "",
     "url_resolved": "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8",
     "favicon": "https://i.imgur.com/etr1k08.png",
     "tags": "music",
@@ -3168,17 +3530,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "vallenato_internacional_720p_n_lsd4p4",
-    "name": "Vallenato Internacional (720p) [Not 24/7]",
-    "url_resolved": "https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8",
-    "favicon": "https://i.imgur.com/rVKroNW.png",
-    "tags": "music",
-    "country": "Unknown",
-    "lastcheckok": 1
-  },
-  {
-    "stationuuid": "vam_vids_more_b47ysh",
+    "stationuuid": "vam_vids_more_mgq3ah",
     "name": "VAM Vid's & More",
+    "url": "",
     "url_resolved": "https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8",
     "favicon": "https://i.imgur.com/CD1PffA.png",
     "tags": "music",
@@ -3186,8 +3540,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "vepaco_tv_ykueg6",
+    "stationuuid": "vepaco_tv_oltoxc",
     "name": "Vepaco TV",
+    "url": "",
     "url_resolved": "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8",
     "favicon": "https://i.imgur.com/0bqJksL.png",
     "tags": "music",
@@ -3195,8 +3550,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "vevo_latino_6oc6xy",
+    "stationuuid": "vevo_latino_zh5gcz",
     "name": "Vevo Latino",
+    "url": "",
     "url_resolved": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8",
     "favicon": "https://i.imgur.com/D7SwmuB.png",
     "tags": "music",
@@ -3204,8 +3560,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "vevo_pop_fw3mc0",
+    "stationuuid": "vevo_pop_t0qbqt",
     "name": "Vevo Pop",
+    "url": "",
     "url_resolved": "https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8",
     "favicon": "https://i.imgur.com/dZHktKR.png",
     "tags": "music",
@@ -3213,8 +3570,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "vh1_east_4jkfte",
+    "stationuuid": "vh1_east_o64yix",
     "name": "VH1 East",
+    "url": "",
     "url_resolved": "https://fl3.moveonjoy.com/VH1/index.m3u8",
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png",
     "tags": "music",
@@ -3222,8 +3580,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "video_tour_channel_480p_not_24_9vxry8",
+    "stationuuid": "video_tour_channel_480p_not_24_gg6gw5",
     "name": "Video Tour Channel (480p) [Not 24/7]",
+    "url": "",
     "url_resolved": "http://k4.usastreams.com/videotour/videotour/playlist.m3u8",
     "favicon": "https://i.imgur.com/zEi8eMC.png",
     "tags": "music",
@@ -3231,8 +3590,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "vintage_music_heyc8g",
+    "stationuuid": "vintage_music_700g7l",
     "name": "Vintage Music",
+    "url": "",
     "url_resolved": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
     "favicon": "https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png",
     "tags": "music",
@@ -3240,8 +3600,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "visin_televisin_4wanbb",
+    "stationuuid": "visin_televisin_zayj28",
     "name": "Visión Televisión",
+    "url": "",
     "url_resolved": "https://cloudvideo.servers10.com:8081/8016/index.m3u8",
     "favicon": "https://i.imgur.com/HV5tgcM.png",
     "tags": "music",
@@ -3249,8 +3610,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "vm_latino_720p_not_247_q2k4j7",
+    "stationuuid": "vm_latino_720p_not_247_yo2xyi",
     "name": "VM Latino (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
     "favicon": "https://i.imgur.com/Dvo1b82.png",
     "tags": "music",
@@ -3258,8 +3620,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "voiceover_radio_tv_tyb4ko",
+    "stationuuid": "voiceover_radio_tv_ew4se6",
     "name": "VoiceOver Radio TV",
+    "url": "",
     "url_resolved": "https://cloudvideo.servers10.com:8081/8198/index.m3u8",
     "favicon": "https://i.imgur.com/HzGs1Eh.png",
     "tags": "music",
@@ -3267,8 +3630,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "volksmusik_tv_dcpmws",
+    "stationuuid": "volksmusik_tv_lpl7oa",
     "name": "Volksmusik TV",
+    "url": "",
     "url_resolved": "https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8",
     "favicon": "https://i.imgur.com/EsWuCJ3.png",
     "tags": "music",
@@ -3276,8 +3640,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "vos_y_tv_720p_not_247_fg5b48",
+    "stationuuid": "vos_y_tv_720p_not_247_vaeg4m",
     "name": "Vos y TV (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8",
     "favicon": "https://i.imgur.com/294FDCB.png",
     "tags": "music",
@@ -3285,8 +3650,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "vox_w_rytmie_hitow_rxwoyf",
+    "stationuuid": "vox_w_rytmie_hitow_hew1e4",
     "name": "Vox w Rytmie Hitow",
+    "url": "",
     "url_resolved": "https://s-pl-01.mediatool.tv/playout/vxpl-abr/index.m3u8",
     "favicon": "https://i.imgur.com/uWLsiOq.png",
     "tags": "music",
@@ -3294,8 +3660,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "wanasah_vszr9e",
+    "stationuuid": "wanasah_v2yujv",
     "name": "Wanasah",
+    "url": "",
     "url_resolved": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8",
     "favicon": "https://i.imgur.com/nLtiXNf.png",
     "tags": "music",
@@ -3303,8 +3670,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "worldwide_muzzik_e8gvi3",
+    "stationuuid": "worldwide_muzzik_hoqkn9",
     "name": "Worldwide Muzzik",
+    "url": "",
     "url_resolved": "https://muzzik-live.morescreens.com/mts-5/playlist.m3u8",
     "favicon": "https://i.imgur.com/tEzppGC.png",
     "tags": "music",
@@ -3312,8 +3680,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "wvculp_concord_university_radi_xdlxwr",
+    "stationuuid": "wvculp_concord_university_radi_6bivos",
     "name": "WVCU-LP Concord University Radio The Cure 97.7",
+    "url": "",
     "url_resolved": "https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8",
     "favicon": "https://upload.wikimedia.org/wikipedia/en/0/0f/WVCU-LP_2015.PNG",
     "tags": "music",
@@ -3321,8 +3690,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "x_level_media_q9mfrj",
+    "stationuuid": "x_level_media_rmfnjy",
     "name": "X Level Media",
+    "url": "",
     "url_resolved": "https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8",
     "favicon": "https://i.imgur.com/BGwQdQW.jpeg",
     "tags": "music",
@@ -3330,8 +3700,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "xite_720p_not_247_lb5t8a",
+    "stationuuid": "xite_720p_not_247_66lu8a",
     "name": "XITE (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8",
     "favicon": "https://i.imgur.com/jxuwGRi.png",
     "tags": "music",
@@ -3339,8 +3710,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "xptv1_vvmi8t",
+    "stationuuid": "xptv1_uvsq6c",
     "name": "XPTV1",
+    "url": "",
     "url_resolved": "https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8",
     "favicon": "https://i.imgur.com/Ty7GkoN.png",
     "tags": "music",
@@ -3348,8 +3720,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "ylex_studio_live_opq0nl",
+    "stationuuid": "ylex_studio_live_he9mq4",
     "name": "YleX Studio Live",
+    "url": "",
     "url_resolved": "https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8",
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/YleX.svg/450px-YleX.svg.png",
     "tags": "music",
@@ -3357,8 +3730,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "zb_music_xqw35l",
+    "stationuuid": "zb_music_g66o2m",
     "name": "ZB Music",
+    "url": "",
     "url_resolved": "https://server.zillarbarta.com/zbmusic/index.m3u8",
     "favicon": "https://i.imgur.com/k1nb8u1.jpeg",
     "tags": "music",
@@ -3366,8 +3740,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "_404p_geoblocked_ytsbjh",
+    "stationuuid": "_404p_geoblocked_hofwgt",
     "name": "Жар Птица (404p) [Geo-blocked]",
+    "url": "",
     "url_resolved": "http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8",
     "favicon": "https://i.imgur.com/19R470V.png",
     "tags": "music",
@@ -3375,8 +3750,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "__06aaxa",
+    "stationuuid": "__9a90vt",
     "name": "Муз союз",
+    "url": "",
     "url_resolved": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8",
     "favicon": "https://i.imgur.com/Puk1Bhx.png",
     "tags": "music",
@@ -3384,8 +3760,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "_1_international_not_247_xf7kaf",
+    "stationuuid": "_1_international_not_247_7iddyt",
     "name": "Музыка 1 International [Not 24/7]",
+    "url": "",
     "url_resolved": "https://kino-1.catcast.tv/content/37745/index.m3u8",
     "favicon": "https://i.imgur.com/DIKe5vA.png",
     "tags": "music",
@@ -3393,8 +3770,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "_international_not_247_ftihv0",
+    "stationuuid": "_international_not_247_d0jcub",
     "name": "Музыка Кино International [Not 24/7]",
+    "url": "",
     "url_resolved": "https://kino-1.catcast.tv/content/37739/index.m3u8",
     "favicon": "https://i.imgur.com/2SG0Swa.png",
     "tags": "music",
@@ -3402,8 +3780,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "__nlvpjg",
+    "stationuuid": "__x3sh6d",
     "name": "Музыка Первого",
+    "url": "",
     "url_resolved": "http://31.148.48.15/Muzika_Pervogo/index.m3u8",
     "favicon": "https://i.imgur.com/U0vKj3P.png",
     "tags": "music",
@@ -3411,8 +3790,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "2_tbt2pj",
+    "stationuuid": "2_ytvo2x",
     "name": "о2тв",
+    "url": "",
     "url_resolved": "http://31.148.48.15/O2_HD/index.m3u8",
     "favicon": "https://i.imgur.com/CM6z7fA.png",
     "tags": "music",
@@ -3420,8 +3800,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "_720p_not_247_d765po",
+    "stationuuid": "_720p_not_247_kgxvy5",
     "name": "Радио Шансон (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8",
     "favicon": "https://i.imgur.com/lbqM3K2.png",
     "tags": "music",
@@ -3429,8 +3810,9 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "_fm_720p_not_247_9bhdd9",
+    "stationuuid": "_fm_720p_not_247_ztv4em",
     "name": "Страна FM (720p) [Not 24/7]",
+    "url": "",
     "url_resolved": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
     "favicon": "https://i.imgur.com/WsPlKJJ.png",
     "tags": "music",
