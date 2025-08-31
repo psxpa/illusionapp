@@ -3800,16 +3800,6 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "Hosanna",
-    "name": "Hosanna Capital",
-    "url": "",
-    "url_resolved": "https://radios.host-pa.com:8044/stream",
-    "favicon": "https://i.imgur.com/QTs3eSf.jpeg",
-    "tags": "religion",
-    "country": "Panama",
-    "lastcheckok": 1
-  },
-  {
     "stationuuid": "_720p_not_247_y0jzb5",
     "name": "Радио Шансон (720p) [Not 24/7]",
     "url": "",
@@ -3820,13 +3810,13 @@
     "lastcheckok": 1
   },
   {
-    "stationuuid": "_fm_720p_not_247_g8bwh9",
-    "name": "Страна FM (720p) [Not 24/7]",
+    "stationuuid": "Hosanna",
+    "name": "Hosanna Capital",
     "url": "",
-    "url_resolved": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
-    "favicon": "https://i.imgur.com/WsPlKJJ.png",
-    "tags": "music",
-    "country": "Video",
+    "url_resolved": "https://radios.host-pa.com:8044/stream",
+    "favicon": "https://i.imgur.com/QTs3eSf.jpeg",
+    "tags": "religion",
+    "country": "Panama",
     "lastcheckok": 1
   }
 ]
