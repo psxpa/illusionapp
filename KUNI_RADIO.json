@@ -3818,5 +3818,35 @@
     "tags": "religion",
     "country": "Panama",
     "lastcheckok": 1
-  }
+  },
+  {
+    "stationuuid": "Romantica",
+    "name": "Romantica Estereo",
+    "url": "",
+    "url_resolved": "https://c3.radioboss.fm:18305/stream",
+    "favicon": "https://i.imgur.com/JbanZR2.jpeg",
+    "tags": "Romantica",
+    "country": "Panama",
+    "lastcheckok": 1
+  },
+  {
+    "stationuuid": "Amor",
+    "name": "Radio Amor Panama",
+    "url": "",
+    "url_resolved": "https://stream.zeno.fm/y2u27kg5138uv",
+    "favicon": "https://i.imgur.com/rFRoXGE.jpeg",
+    "tags": "Romantica",
+    "country": "Panama",
+    "lastcheckok": 1
+  },
+  {
+    "stationuuid": "Mixes",
+    "name": "Mixes Azuero Radio Panama",
+    "url": "",
+    "url_resolved": "https://stream.zeno.fm/zpft5vns4tzuv",
+    "favicon": "https://i.imgur.com/emXywLq.jpeg",
+    "tags": "Variedad",
+    "country": "Panama",
+    "lastcheckok": 1
+  } 
 ]
