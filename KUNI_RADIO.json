@@ -3848,5 +3848,15 @@
     "tags": "Variedad",
     "country": "Panama",
     "lastcheckok": 1
+  },
+  {
+    "stationuuid": "Okey",
+    "name": "Okey 96.3 FM",
+    "url": "",
+    "url_resolved": "https://www.streaming507.net:8100/stream",
+    "favicon": "https://i.imgur.com/wDu1qss.jpeg",
+    "tags": "Variedad",
+    "country": "Panama",
+    "lastcheckok": 1
   } 
 ]
