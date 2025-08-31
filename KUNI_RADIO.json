@@ -3858,5 +3858,15 @@
     "tags": "Variedad",
     "country": "Panama",
     "lastcheckok": 1
+  }, 
+   {
+    "stationuuid": "Reforma",
+    "name": "Radio Reforma se oye",
+    "url": "",
+    "url_resolved": "https://www.streaming507.net:8072/stream",
+    "favicon": "https://i.imgur.com/UIFxCEQ.jpeg",
+    "tags": "Variedad",
+    "country": "Panama",
+    "lastcheckok": 1
   } 
 ]
