@@ -3800,6 +3800,16 @@
     "lastcheckok": 1
   },
   {
+    "stationuuid": "Hosanna",
+    "name": "Hosanna Capital",
+    "url": "",
+    "url_resolved": "https://radios.host-pa.com:8044/stream",
+    "favicon": "//cdn.onlineradiobox.com/img/l/6/33566.v7.png",
+    "tags": "religion",
+    "country": "Panama",
+    "lastcheckok": 1
+  },
+  {
     "stationuuid": "_720p_not_247_y0jzb5",
     "name": "Радио Шансон (720p) [Not 24/7]",
     "url": "",
