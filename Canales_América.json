@@ -693,6 +693,15 @@
     "streamUrl": "https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8"
   },
   {
+    "id": 79,
+    "nombre": "MyTime Movie Network español",
+    "descripcion": "MyTime Movie Network español",
+    "categoria": "movies",
+    "pais": "Mexico",
+    "imagenUrl": "https://i.imgur.com/pw4NZK1.png",
+    "streamUrl": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8"
+  },
+  {
     "id": 89,
     "nombre": "ABC News New York NY (WABC-TV)",
     "descripcion": "ABC News New York NY (WABC-TV)",
