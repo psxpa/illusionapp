@@ -298,11 +298,11 @@
           "streamUrl": "https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8"
         }, 
         {
-          "name": "DERRY TV",
+          "name": "OVATION TV",
           "active": true,
-          "imageUrl": "https://imgur.com/1ZmxyYY.jpeg",
+          "imageUrl": "https://imgur.com/ooZklM1.jpeg",
           "isIframe": false,
-          "streamUrl": "https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+          "streamUrl": "https://fl3.moveonjoy.com/Ovation/tracks-v1a1/mono.ts.m3u8"
         }, 
         {
           "name": "BBC NEWS NORTH AMERICA",
@@ -1234,6 +1234,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
