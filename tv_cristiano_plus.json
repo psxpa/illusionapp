@@ -284,13 +284,6 @@
           "streamUrl": "https://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8"
         },
         {
-          "name": "MIRACLE CHANNEL",
-          "active": true,
-          "imageUrl": "https://imgur.com/PVqGAUQ.jpeg",
-          "isIframe": false,
-          "streamUrl": "hhttps://video.corcoplus.com/mclive/_definst_/smil:miraclechannel.smil/chunklist_w1456392085_b3328000_sleng.m3u8"
-        },
-        {
           "name": "CLASSIC ARTS SHOWCASE",
           "active": true,
           "imageUrl": "https://imgur.com/HqRl5sG.jpeg",
@@ -1234,6 +1227,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
