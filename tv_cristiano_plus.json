@@ -967,6 +967,13 @@
           "streamUrl": "https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8"
         },
         {
+          "name": "NCTV",
+          "active": true,
+          "imageUrl": "https://imgur.com/WzWdDNP.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8?PlaylistM3UCL"
+        },
+        {
           "name": "DW EN ESPAÑOL",
           "active": true,
           "imageUrl": "https://imgur.com/1WIysNr.jpeg",
@@ -1234,6 +1241,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
