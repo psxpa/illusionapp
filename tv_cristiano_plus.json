@@ -995,6 +995,13 @@
           "streamUrl": "https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8"
         },
         {
+          "name": "EURONEWS EN ESPAÑOL",
+          "active": true,
+          "imageUrl": "https://imgur.com/lDiDok1.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/9c848615-ba8b-4df4-b64d-5172c21daaac/5.m3u8"
+        },
+        {
           "name": "XTREMA ANIMAL TV",
           "active": true,
           "imageUrl": "https://imgur.com/KhrWMcf.jpeg",
@@ -1227,6 +1234,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
