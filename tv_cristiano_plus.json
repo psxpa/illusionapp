@@ -1209,6 +1209,13 @@
           "streamUrl": "https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
         },
         {
+          "name": "TV AVIVANDO NAÇÕES",
+          "active": true,
+          "imageUrl": "https://i.imgur.com/Xmr0L7g.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8"
+        },
+        {
           "name": "Canal Educação",
           "active": true,
           "imageUrl": "https://imgur.com/xWel9zi.jpeg",
@@ -1237,17 +1244,18 @@
           "streamUrl": "https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/video_540960_p_0.m3u8"
         },
         {
-          "name": "TV AVIVANDO NAÇÕES",
+          "name": "RECORD NEWS",
           "active": true,
-          "imageUrl": "https://i.imgur.com/Xmr0L7g.jpeg",
+          "imageUrl": "https://imgur.com/5cQLJHP.jpeg",
           "isIframe": false,
-          "streamUrl": "https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8"
+          "streamUrl": "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8"
         }
       ]
     }
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
