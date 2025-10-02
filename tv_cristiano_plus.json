@@ -1174,13 +1174,6 @@
           "streamUrl": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w533034979.m3u8"
         },
         {
-          "name": "GOSPEL MUSIC TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/RCzVYXk.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://stmv1.srvif.com/gmusic/gmusic/chunklist_w833263224.m3u8"
-        },
-        {
           "name": "MANÁ IGREJA",
           "active": true,
           "imageUrl": "https://i.imgur.com/yEEeChB.jpeg",
@@ -1255,6 +1248,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
