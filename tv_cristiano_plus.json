@@ -1209,13 +1209,6 @@
           "streamUrl": "https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8"
         },
         {
-          "name": "KURIAKOS TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/jZPMuI7.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8"
-        },
-        {
           "name": "Canal Educação",
           "active": true,
           "imageUrl": "https://imgur.com/xWel9zi.jpeg",
@@ -1255,6 +1248,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
