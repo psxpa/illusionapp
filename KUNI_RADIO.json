@@ -3820,6 +3820,16 @@
     "lastcheckok": 1
   },
   {
+    "stationuuid": "Fe",
+    "name": "Stereo Fe",
+    "url": "",
+    "url_resolved": "hhttps://www.streaming507.net:8016/stream",
+    "favicon": "https://imgur.com/mdCT9qk.jpeg",
+    "tags": "religion",
+    "country": "Panama",
+    "lastcheckok": 1
+  },
+  {
     "stationuuid": "Romantica",
     "name": "Romantica Estereo",
     "url": "",
