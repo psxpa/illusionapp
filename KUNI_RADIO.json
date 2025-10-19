@@ -59,7 +59,7 @@
     "country": "Panama",
     "lastcheckok": 1
   }, 
-   {
+  {
     "stationuuid": "Reforma",
     "name": "Radio Reforma se oye",
     "url": "",
@@ -68,8 +68,8 @@
     "tags": "Variedad",
     "country": "Panama",
     "lastcheckok": 1
-   },
-    {
+  },
+   {
     "stationuuid": "Ky",
     "name": "La Ky 92.5 FM",
     "url": "",
@@ -78,8 +78,8 @@
     "tags": "Variedad",
     "country": "Panama",
     "lastcheckok": 1
-   },
-    {
+  },
+   {
     "stationuuid": "106",
     "name": "Salsa 106",
     "url": "",
@@ -88,5 +88,145 @@
     "tags": "Salsa",
     "country": "Panama",
     "lastcheckok": 1
-   } 
+  },
+   {
+    "stationuuid": "Oasis",
+    "name": "Oasis De Santidad",
+    "url": "",
+    "url_resolved": "https://vox.nexlive.io:20010/stream",
+    "favicon": "https://imgur.com/SB0FFB9.jpeg",
+    "tags": "Religión",
+    "country": "Panama",
+    "lastcheckok": 1
+  },
+   {
+    "stationuuid": "Decadas",
+    "name": "Decadas Solo Baladas",
+    "url": "",
+    "url_resolved": "https://stream.zeno.fm/5t7f63sd0rhvv",
+    "favicon": "https://imgur.com/4xh5XG9.jpeg",
+    "tags": "Romantica",
+    "country": "Panama",
+    "lastcheckok": 1
+  },
+   {
+    "stationuuid": "Super",
+    "name": "Super Q FM",
+    "url": "",
+    "url_resolved": "https://sqserver.superqpanama.net:8005/superqpanama",
+    "favicon": "https://imgur.com/rG5JYpA.jpeg",
+    "tags": "Variado",
+    "country": "Panama",
+    "lastcheckok": 1
+  },
+   {
+    "stationuuid": "Chiriquí",
+    "name": "Radio Chiriquí",
+    "url": "",
+    "url_resolved": "https://stream.zeno.fm/jdakxvgm30ptv",
+    "favicon": "https://imgur.com/VcWFms4.jpeg",
+    "tags": "Variado",
+    "country": "Panama",
+    "lastcheckok": 1
+  },
+   {
+    "stationuuid": "Hit",
+    "name": "Panama Hit Radio",
+    "url": "",
+    "url_resolved": "https://www.streaming507.net:8024/stream",
+    "favicon": "https://imgur.com/dDiJSGU.jpeg",
+    "tags": "variado",
+    "country": "Panama",
+    "lastcheckok": 1 
+  },
+   {
+    "stationuuid": "Nun",
+    "name": "Dj. NuN Radio",
+    "url": "",
+    "url_resolved": "https://servidor17.brlogic.com:7946/live",
+    "favicon": "https://imgur.com/Mg9AXyV.jpeg",
+    "tags": "Salsa",
+    "country": "Panama",
+    "lastcheckok": 1 
+  }, 
+   {
+    "stationuuid": "Marbella",
+    "name": "Marbella Stereo",
+    "url": "",
+    "url_resolved": "https://sonic.host-live.com/8318/stream",
+    "favicon": "https://imgur.com/BB7ge4u.jpeg",
+    "tags": "Salsa",
+    "country": "Panama",
+    "lastcheckok": 1 
+ },
+  {
+    "stationuuid": "La X",
+    "name": "La X",
+    "url": "",
+    "url_resolved": "https://stream.zeno.fm/nvpr0uec8e9uv",
+    "favicon": "https://imgur.com/xgg0ZXA.jpeg",
+    "tags": "Variado",
+    "country": "Panama",
+    "lastcheckok": 1 
+ }, 
+  {
+    "stationuuid": "Urban",
+    "name": "Urban Mix Live",
+    "url": "",
+    "url_resolved": "hhttps://c24.radioboss.fm:18041/stream",
+    "favicon": "https://imgur.com/vY1Wcom.jpeg",
+    "tags": "Variado",
+    "country": "Panama",
+    "lastcheckok": 1 
+ }, 
+  {
+    "stationuuid": "Hola",
+    "name": "Hola Panama",
+    "url": "",
+    "url_resolved": "https://www.streaming507.net:8124/stream",
+    "favicon": "https://imgur.com/seufCTi.jpeg",
+    "tags": "Variado",
+    "country": "Panama",
+    "lastcheckok": 1 
+ },
+  {
+    "stationuuid": "HIT",
+    "name": "HIT FM",
+    "url": "",
+    "url_resolved": "https://laradiossl.online:10429",
+    "favicon": "https://imgur.com/RMRVq8t.jpeg",
+    "tags": "Pop, top40",
+    "country": "Panama",
+    "lastcheckok": 1 
+ },
+  {
+    "stationuuid": "Fiesta",
+    "name": "Radio Fiesta Panamá",
+    "url": "",
+    "url_resolved": "https://stream.zeno.fm/0f5t0xf68f8uv",
+    "favicon": "https://imgur.com/BXgquzV.jpeg",
+    "tags": "Ranchera, salsa, merengue",
+    "country": "Panama",
+    "lastcheckok": 1 
+ },
+  {
+    "stationuuid": "Radio",
+    "name": "Radio Panama",
+    "url": "",
+    "url_resolved": "https://streaming.radiopanama.com.pa/stream",
+    "favicon": "https://imgur.com/IAtSi1E.jpeg",
+    "tags": "Variado",
+    "country": "Panama",
+    "lastcheckok": 1 
+ },
+  {
+    "stationuuid": "Tropical",
+    "name": "Clima Tropical",
+    "url": "",
+    "url_resolved": "https://a8.asurahosting.com:7410/radio.mp3",
+    "favicon": "https://imgur.com/S2V5l8W.jpeg",
+    "tags": "Salsa, merengue, bachata",
+    "country": "Panama",
+    "lastcheckok": 1 
+  } 
 ]
