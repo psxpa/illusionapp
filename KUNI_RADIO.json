@@ -78,5 +78,15 @@
     "tags": "Variedad",
     "country": "Panama",
     "lastcheckok": 1
+   },
+    {
+    "stationuuid": "106",
+    "name": "Salsa 106",
+    "url": "",
+    "url_resolved": "https://azura.panamastreaming.com/listen/salsa_106_radio/radio.mp3",
+    "favicon": "https://imgur.com/piCGLO7.jpeg",
+    "tags": "Salsa",
+    "country": "Panama",
+    "lastcheckok": 1
    } 
 ]
