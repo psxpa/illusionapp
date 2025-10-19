@@ -170,6 +170,16 @@
     "lastcheckok": 1 
  }, 
   {
+    "stationuuid": "Urban",
+    "name": "Urban Mix Live",
+    "url": "",
+    "url_resolved": "https://c24.radioboss.fm:18041/stream",
+    "favicon": "https://imgur.com/vY1Wcom.jpeg",
+    "tags": "Variado",
+    "country": "Panama",
+    "lastcheckok": 1 
+ }, 
+  {
     "stationuuid": "pma-507-unique",
     "name": "Hola Panama",
     "url": "",
