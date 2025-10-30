@@ -250,7 +250,7 @@
     "lastcheckok": 1 
  },
   {
-    "stationuuid": "Imperia",
+    "stationuuid": "Imperial",
     "name": "Imperial Muzik Fm",
     "url": "",
     "url_resolved": "https://a9.asurahosting.com:8360/radio.mp3",
@@ -258,5 +258,45 @@
     "tags": "rock, pop, 90s, 80s,  70s",
     "country": "Panama",
     "lastcheckok": 1 
+ },
+  {
+    "stationuuid": "Sonora",
+    "name": "Radio Sonora",
+    "url": "",
+    "url_resolved": "https://s30.myradiostream.com:20827/stream",
+    "favicon": "https://imgur.com/ig687U7.jpeg",
+    "tags": "típico",
+    "country": "Panama",
+    "lastcheckok": 1 
+ },
+  {
+    "stationuuid": "Adoración",
+    "name": "Radio Adoración Internacional",
+    "url": "",
+    "url_resolved": "https://studio20.radiolize.com/radio/8050/radio.mp3",
+    "favicon": "https://imgur.com/ig687U7.jpeg",
+    "tags": "Religión",
+    "country": "Panama",
+    "lastcheckok": 1  
+ },
+  {
+    "stationuuid": "Fusion",
+    "name": "Fusion Music",
+    "url": "",
+    "url_resolved": "https://stream.zeno.fm/idsj4jxw49ouv",
+    "favicon": "https://imgur.com/ig687U7.jpeg",
+    "tags": "Variedad",
+    "country": "Panama",
+    "lastcheckok": 1  
+ },
+  {
+    "stationuuid": "Infórmate",
+    "name": "Infórmate fm",
+    "url": "",
+    "url_resolved": "https://radios0790.vegamultimedioshn.com:8500",
+    "favicon": "https://imgur.com/ApHzAO1.jpeg",
+    "tags": "Variedad",
+    "country": "Panama",
+    "lastcheckok": 1  
   } 
 ]
