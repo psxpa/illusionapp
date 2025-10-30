@@ -228,5 +228,35 @@
     "tags": "Salsa, merengue, bachata",
     "country": "Panama",
     "lastcheckok": 1 
+ },
+  {
+    "stationuuid": "Box",
+    "name": "Music Box Panamá",
+    "url": "",
+    "url_resolved": "https://stream.zeno.fm/zkgxehtd0rhvv",
+    "favicon": "https://imgur.com/CA0JIL8.jpeg",
+    "tags": "Salsa, merengue, bachata",
+    "country": "Panama",
+    "lastcheckok": 1 
+ },
+  {
+    "stationuuid": "Pty",
+    "name": "Latin Music Pty",
+    "url": "",
+    "url_resolved": "https://c14.radioboss.fm:8381/stream",
+    "favicon": "https://imgur.com/rmOoyxt.jpeg",
+    "tags": "Latin",
+    "country": "Panama",
+    "lastcheckok": 1 
+ },
+  {
+    "stationuuid": "Imperia",
+    "name": "Imperial Muzik Fm",
+    "url": "",
+    "url_resolved": "https://a9.asurahosting.com:8360/radio.mp3",
+    "favicon": "https://imgur.com/LUQH4xi.jpeg",
+    "tags": "rock, pop, 90s, 80s,  70s",
+    "country": "Panama",
+    "lastcheckok": 1 
   } 
 ]
