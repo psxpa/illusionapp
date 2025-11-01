@@ -328,5 +328,15 @@
     "tags": "Variedad",
     "country": "Panama",
     "lastcheckok": 1 
+ },
+   {
+    "stationuuid": "Wakala",
+    "name": "Wakala Radio",
+    "url": "",
+    "url_resolved": "https://wakalaradio.radioca.st/stream",
+    "favicon": "https://imgur.com/K7tbm7C.jpeg",
+    "tags": "Variedad",
+    "country": "Panama",
+    "lastcheckok": 1 
   } 
 ]
