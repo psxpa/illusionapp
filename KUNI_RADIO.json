@@ -308,5 +308,15 @@
     "tags": "Religión",
     "country": "Panama",
     "lastcheckok": 1  
+ },
+  {
+    "stationuuid": "Chispa",
+    "name": "Chispa Stereo",
+    "url": "",
+    "url_resolved": "https://radios0790.vegamultimedioshn.com:8090/",
+    "favicon": "https://imgur.com/Md92aMm.jpeg",
+    "tags": "Variedad",
+    "country": "Panama",
+    "lastcheckok": 1 
   } 
 ]
