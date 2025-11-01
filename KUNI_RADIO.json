@@ -319,7 +319,7 @@
     "country": "Panama",
     "lastcheckok": 1 
  },
-   {
+  {
     "stationuuid": "Top",
     "name": "Top Radio",
     "url": "",
@@ -329,7 +329,7 @@
     "country": "Panama",
     "lastcheckok": 1 
  },
-   {
+  {
     "stationuuid": "Wakala",
     "name": "Wakala Radio",
     "url": "",
@@ -338,5 +338,15 @@
     "tags": "Variedad",
     "country": "Panama",
     "lastcheckok": 1 
-  } 
+ },
+  {
+    "stationuuid": "Ekis",
+    "name": "Ekis Radio",
+    "url": "",
+    "url_resolved": "https://servidor40.brlogic.com:7114/live",
+    "favicon": "https://imgur.com/wjUA8ww.jpeg",
+    "tags": "Variedad",
+    "country": "Panama",
+    "lastcheckok": 1 
+   } 
 ]
