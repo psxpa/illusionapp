@@ -300,16 +300,6 @@
     "lastcheckok": 1  
  },
   {
-    "stationuuid": "Hosanna",
-    "name": "Hosanna Carismática",
-    "url": "",
-    "url_resolved": "https://radios.host-pa.com:8002/;stream.mp3",
-    "favicon": "https://imgur.com/a6yRPND.jpeg",
-    "tags": "Religión",
-    "country": "Panama",
-    "lastcheckok": 1  
- },
-  {
     "stationuuid": "Chispa",
     "name": "Chispa Stereo",
     "url": "",
