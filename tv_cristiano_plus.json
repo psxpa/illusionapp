@@ -1063,6 +1063,13 @@
           "imageUrl": "https://imgur.com/l1DA0ga.jpeg",
           "isIframe": false,
           "streamUrl": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8"
+       },
+        {
+          "name": "IDEAS EN 5 MINUTOS",
+          "active": true,
+          "imageUrl": "https://imgur.com/afD1vRy.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8"
         }
       ]
     },
@@ -1262,6 +1269,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
