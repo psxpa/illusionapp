@@ -1070,6 +1070,13 @@
           "imageUrl": "https://imgur.com/afD1vRy.jpeg",
           "isIframe": false,
           "streamUrl": "https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8"
+       },
+        {
+          "name": "BCN GOSPEL CHANNEL",
+          "active": true,
+          "imageUrl": "https://imgur.com/aRQ5B4v.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8"
         }
       ]
     },
@@ -1269,6 +1276,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
