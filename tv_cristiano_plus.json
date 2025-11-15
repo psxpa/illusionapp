@@ -281,7 +281,7 @@
           "active": true,
           "imageUrl": "https://imgur.com/vUBbfvg.jpeg",
           "isIframe": false,
-          "streamUrl": "https://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8"
+          "streamUrl": "https://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8"
         },
         {
           "name": "CLASSIC ARTS SHOWCASE",
@@ -1276,6 +1276,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
