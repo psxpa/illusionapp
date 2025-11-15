@@ -64,7 +64,7 @@
           "active": true,
           "imageUrl": "https://i.imgur.com/GtsZRtY.jpeg",
           "isIframe": false,
-          "streamUrl": "https://live.mdc.akamaized.net/hls/live/revelationtv.stream_aac/chunklist_w2110203393.m3u8"
+          "streamUrl": "https://stream.mdc.akamaized.net/live/ngrp:revelationtvhd.stream_web/playlist.m3u8"
         },
         {
           "name": "SUPER CHANNEL",
@@ -1276,6 +1276,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
