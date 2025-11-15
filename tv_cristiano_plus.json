@@ -32,7 +32,7 @@
           "streamUrl": "https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8"
         },
         {
-          "name": "CBN News",
+          "name": " News",
           "active": true,
           "imageUrl": "https://i.imgur.com/dA2oJol.jpeg",
           "isIframe": false,
@@ -43,7 +43,7 @@
           "active": true,
           "imageUrl": "https://i.imgur.com/WB2pWmF.jpeg",
           "isIframe": false,
-          "streamUrl": "https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/us-east-1/734546207001/profile_1/chunklist.m3u8"
+          "streamUrl": "https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8"
         },
         {
           "name": "TBN PACIFIC",
@@ -1276,6 +1276,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
