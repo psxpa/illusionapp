@@ -551,7 +551,7 @@
           "active": true,
           "imageUrl": "https://i.imgur.com/2ewK5oz.jpeg",
           "isIframe": false,
-          "streamUrl": "https://streamer1.streamhost.org/salive/logosdirectaH/chunklist_w74203226.m3u8"
+          "streamUrl": "https://streamer1.streamhost.org/salive/logosH/playlist.m3u8"
         },
         {
           "name": "LOGOS SALUD TV",
@@ -1276,6 +1276,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
