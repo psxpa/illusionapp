@@ -1,0 +1,890 @@
+[
+  {
+    "id": 300,
+    "nombre": "Fox Sports 1",
+    "descripcion": "Fox Sports 1",
+    "categoria": "undefined",
+    "imagenUrl": "",
+    "streamUrl": "https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8"
+  },
+  {
+    "id": 301,
+    "nombre": "MAV TV",
+    "descripcion": "MAV TV",
+    "categoria": "undefined",
+    "imagenUrl": "",
+    "streamUrl": "https://fl1.moveonjoy.com/MAV_TV/index.m3u8"
+  },
+  {
+    "id": 302,
+    "nombre": "ACCN",
+    "descripcion": "ACCN",
+    "categoria": "sports",
+    "imagenUrl": "https://i.imgur.com/TpCkbkT.png",
+    "streamUrl": "https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8"
+  },
+  {
+    "id": 303,
+    "nombre": "AMC East",
+    "descripcion": "AMC East",
+    "categoria": "movies",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8"
+  },
+  {
+    "id": 304,
+    "nombre": "Antenna TV",
+    "descripcion": "Antenna TV",
+    "categoria": "entertainment",
+    "imagenUrl": "https://i.imgur.com/ocs2DeU.png",
+    "streamUrl": "https://fl1.moveonjoy.com/Antenna_TV/index.m3u8"
+  },
+  {
+    "id": 305,
+    "nombre": "Aspire",
+    "descripcion": "Aspire",
+    "categoria": "entertainment",
+    "imagenUrl": "https://i.imgur.com/TOM5qO6.png",
+    "streamUrl": "https://fl1.moveonjoy.com/Aspire/index.m3u8"
+  },
+  {
+    "id": 306,
+    "nombre": "AXS TV",
+    "descripcion": "AXS TV",
+    "categoria": "music",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/512px-AXS_TV_logo.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/Axs_TV/index.m3u8"
+  },
+  {
+    "id": 307,
+    "nombre": "beIN Sports USA",
+    "descripcion": "beIN Sports USA",
+    "categoria": "sports",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/512px-Bein_Sports_Logo.svg.png",
+    "streamUrl": "http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8"
+  },
+  {
+    "id": 308,
+    "nombre": "BET East",
+    "descripcion": "BET East",
+    "categoria": "undefined",
+    "imagenUrl": "https://i.imgur.com/copIbc9.png",
+    "streamUrl": "https://fl1.moveonjoy.com/BET_EAST/index.m3u8"
+  },
+  {
+    "id": 309,
+    "nombre": "BET Gospel",
+    "descripcion": "BET Gospel",
+    "categoria": "religious",
+    "imagenUrl": "https://i.imgur.com/jbOkq8C.png",
+    "streamUrl": "https://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8"
+  },
+  {
+    "id": 310,
+    "nombre": "BET Her East",
+    "descripcion": "BET Her East",
+    "categoria": "entertainment",
+    "imagenUrl": "https://i.imgur.com/oafsrlo.png",
+    "streamUrl": "https://fl1.moveonjoy.com/BET_HER/index.m3u8"
+  },
+  {
+    "id": 311,
+    "nombre": "BET Jams",
+    "descripcion": "BET Jams",
+    "categoria": "undefined",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/BET_Jams_2021.png/512px-BET_Jams_2021.png",
+    "streamUrl": "https://fl1.moveonjoy.com/BET_Jams/index.m3u8"
+  },
+  {
+    "id": 312,
+    "nombre": "BET Soul",
+    "descripcion": "BET Soul",
+    "categoria": "undefined",
+    "imagenUrl": "https://i.imgur.com/VeuTWUb.png",
+    "streamUrl": "https://fl1.moveonjoy.com/BET_SOUL/index.m3u8"
+  },
+  {
+    "id": 313,
+    "nombre": "Big Ten Network",
+    "descripcion": "Big Ten Network",
+    "categoria": "undefined",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/512px-Big_Ten_Network_Logo.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8"
+  },
+  {
+    "id": 315,
+    "nombre": "Bravo East",
+    "descripcion": "Bravo East",
+    "categoria": "undefined",
+    "imagenUrl": "https://i.imgur.com/JmTIRLF.png",
+    "streamUrl": "https://fl1.moveonjoy.com/BRAVO/index.m3u8"
+  },
+  {
+    "id": 316,
+    "nombre": "Buzzr",
+    "descripcion": "Buzzr",
+    "categoria": "entertainment",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/Buzzr/index.m3u8"
+  },
+  {
+    "id": 317,
+    "nombre": "CBS East",
+    "descripcion": "CBS East",
+    "categoria": "general",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/CBS_News/index.m3u8"
+  },
+  {
+    "id": 318,
+    "nombre": "CBS Sports Network USA",
+    "descripcion": "CBS Sports Network USA",
+    "categoria": "sports",
+    "imagenUrl": "https://i.imgur.com/A8CnA8g.png",
+    "streamUrl": "https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8"
+  },
+  {
+    "id": 320,
+    "nombre": "Cleo TV",
+    "descripcion": "Cleo TV",
+    "categoria": "lifestyle",
+    "imagenUrl": "https://i.imgur.com/US0T6DC.png",
+    "streamUrl": "https://fl1.moveonjoy.com/Cleo_TV/index.m3u8"
+  },
+  {
+    "id": 321,
+    "nombre": "CMT East",
+    "descripcion": "CMT East",
+    "categoria": "music",
+    "imagenUrl": "https://i.imgur.com/S7DOpdY.png",
+    "streamUrl": "https://fl1.moveonjoy.com/CMT/index.m3u8"
+  },
+  {
+    "id": 322,
+    "nombre": "CNBC",
+    "descripcion": "CNBC",
+    "categoria": "business",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/CNBC/index.m3u8"
+  },
+  {
+    "id": 323,
+    "nombre": "CNBC World",
+    "descripcion": "CNBC World",
+    "categoria": "business",
+    "imagenUrl": "https://zap2it.tmsimg.com/h3/NowShowing/26849/s26849_ll_h15_ab.png?w=512",
+    "streamUrl": "https://fl1.moveonjoy.com/CNBC_World/index.m3u8"
+  },
+  {
+    "id": 324,
+    "nombre": "Comedy TV",
+    "descripcion": "Comedy TV",
+    "categoria": "comedy",
+    "imagenUrl": "https://i.imgur.com/KLfXnba.png",
+    "streamUrl": "https://fl1.moveonjoy.com/Comedy_TV/index.m3u8"
+  },
+  {
+    "id": 325,
+    "nombre": "Cozi TV",
+    "descripcion": "Cozi TV",
+    "categoria": "entertainment",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/512px-Cozi_TV_logo.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/COZI_TV/index.m3u8"
+  },
+  {
+    "id": 326,
+    "nombre": "Crave 1",
+    "descripcion": "Crave 1",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/ZkRQ0r1.png",
+    "streamUrl": "https://fl1.moveonjoy.com/CRAVE_1/index.m3u8"
+  },
+  {
+    "id": 327,
+    "nombre": "Crave 2",
+    "descripcion": "Crave 2",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/e1qJ5Bp.png",
+    "streamUrl": "https://fl1.moveonjoy.com/CRAVE_2/index.m3u8"
+  },
+  {
+    "id": 328,
+    "nombre": "Crave 3",
+    "descripcion": "Crave 3",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/kOi0Adn.png",
+    "streamUrl": "https://fl1.moveonjoy.com/CRAVE_3/index.m3u8"
+  },
+  {
+    "id": 329,
+    "nombre": "Crave 4",
+    "descripcion": "Crave 4",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/MyH3Q2p.png",
+    "streamUrl": "https://fl1.moveonjoy.com/CRAVE_4/index.m3u8"
+  },
+  {
+    "id": 330,
+    "nombre": "Crime + Investigation",
+    "descripcion": "Crime + Investigation",
+    "categoria": "entertainment",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg",
+    "streamUrl": "https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8"
+  },
+  {
+    "id": 331,
+    "nombre": "C-SPAN",
+    "descripcion": "C-SPAN",
+    "categoria": "legislative",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/512px-C-SPAN_Logo_%282019%29.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/C-SPAN/index.m3u8"
+  },
+  {
+    "id": 333,
+    "nombre": "CVM TV",
+    "descripcion": "CVM TV",
+    "categoria": "general",
+    "imagenUrl": "https://i.imgur.com/14wfq26.png",
+    "streamUrl": "https://fl1.moveonjoy.com/CVM_TV_CARIBBEAN/index.m3u8"
+  },
+  {
+    "id": 334,
+    "nombre": "Disney Junior East",
+    "descripcion": "Disney Junior East",
+    "categoria": "kids",
+    "imagenUrl": "https://i.postimg.cc/KvRqrLg2/disneyjunior.png",
+    "streamUrl": "https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8"
+  },
+  {
+    "id": 335,
+    "nombre": "Disney XD",
+    "descripcion": "Disney XD",
+    "categoria": "kids",
+    "imagenUrl": "https://i.postimg.cc/MKNssTyj/disneyxd.png",
+    "streamUrl": "http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8"
+  },
+  {
+    "id": 336,
+    "nombre": "E! East",
+    "descripcion": "E! East",
+    "categoria": "entertainment",
+    "imagenUrl": "https://i.imgur.com/TWFDkap.png",
+    "streamUrl": "https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8"
+  },
+  {
+    "id": 337,
+    "nombre": "ESPNews",
+    "descripcion": "ESPNews",
+    "categoria": "news",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8"
+  },
+  {
+    "id": 338,
+    "nombre": "ESPN U",
+    "descripcion": "ESPN U",
+    "categoria": "sports",
+    "imagenUrl": "https://i.imgur.com/HiBrysh.png",
+    "streamUrl": "https://fl1.moveonjoy.com/ESPN_U/index.m3u8"
+  },
+  {
+    "id": 339,
+    "nombre": "FanDuel Sports Network",
+    "descripcion": "FanDuel Sports Network",
+    "categoria": "sports",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/330px-FanDuel_Sports_Network_logo.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/PAC_12/index.m3u8"
+  },
+  {
+    "id": 340,
+    "nombre": "Fox Soul",
+    "descripcion": "Fox Soul",
+    "categoria": "culture",
+    "imagenUrl": "https://i.imgur.com/YIamDGn.png",
+    "streamUrl": "https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8"
+  },
+  {
+    "id": 341,
+    "nombre": "Fuse East",
+    "descripcion": "Fuse East",
+    "categoria": "entertainment",
+    "imagenUrl": "https://i.postimg.cc/gkhMThGb/fuse.png",
+    "streamUrl": "https://fl1.moveonjoy.com/FUSE/index.m3u8"
+  },
+  {
+    "id": 342,
+    "nombre": "FX East",
+    "descripcion": "FX East",
+    "categoria": "entertainment",
+    "imagenUrl": "https://i.postimg.cc/263GFb0J/fx.png",
+    "streamUrl": "https://fl1.moveonjoy.com/FX/index.m3u8"
+  },
+  {
+    "id": 343,
+    "nombre": "FXM East",
+    "descripcion": "FXM East",
+    "categoria": "movies",
+    "imagenUrl": "https://i.postimg.cc/j27hBV04/fxm.png",
+    "streamUrl": "https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8"
+  },
+  {
+    "id": 344,
+    "nombre": "FXX East",
+    "descripcion": "FXX East",
+    "categoria": "entertainment",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/FXX/index.m3u8"
+  },
+  {
+    "id": 345,
+    "nombre": "FYI East",
+    "descripcion": "FYI East",
+    "categoria": "lifestyle",
+    "imagenUrl": "https://i.imgur.com/PggQk7F.png",
+    "streamUrl": "https://fl1.moveonjoy.com/FYI/index.m3u8"
+  },
+  {
+    "id": 346,
+    "nombre": "GetTV",
+    "descripcion": "GetTV",
+    "categoria": "entertainment",
+    "imagenUrl": "https://i.imgur.com/evOWORd.png",
+    "streamUrl": "https://fl1.moveonjoy.com/GET_TV/index.m3u8"
+  },
+  {
+    "id": 347,
+    "nombre": "Golf Channel",
+    "descripcion": "Golf Channel",
+    "categoria": "sports",
+    "imagenUrl": "https://i.imgur.com/Lgux6Ik.png",
+    "streamUrl": "https://fl1.moveonjoy.com/GOLF/index.m3u8"
+  },
+  {
+    "id": 348,
+    "nombre": "Hallmark Channel East",
+    "descripcion": "Hallmark Channel East",
+    "categoria": "family",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8"
+  },
+  {
+    "id": 349,
+    "nombre": "Hallmark Drama",
+    "descripcion": "Hallmark Drama",
+    "categoria": "series",
+    "imagenUrl": "",
+    "streamUrl": "https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8"
+  },
+  {
+    "id": 351,
+    "nombre": "History",
+    "descripcion": "History",
+    "categoria": "documentary",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/history_channel/index.m3u8"
+  },
+  {
+    "id": 352,
+    "nombre": "INSP",
+    "descripcion": "INSP",
+    "categoria": "entertainment",
+    "imagenUrl": "https://i.imgur.com/YgOC51j.png",
+    "streamUrl": "https://fl1.moveonjoy.com/INSP/index.m3u8"
+  },
+  {
+    "id": 353,
+    "nombre": "ION TV East",
+    "descripcion": "ION TV East",
+    "categoria": "entertainment",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/ION_TV/index.m3u8"
+  },
+  {
+    "id": 354,
+    "nombre": "Lifetime East",
+    "descripcion": "Lifetime East",
+    "categoria": "entertainment",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/LIFETIME/index.m3u8"
+  },
+  {
+    "id": 355,
+    "nombre": "Lifetime Movies East",
+    "descripcion": "Lifetime Movies East",
+    "categoria": "movies",
+    "imagenUrl": "https://i.postimg.cc/RZGmYyTt/lifetimemovies.png",
+    "streamUrl": "https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8"
+  },
+  {
+    "id": 356,
+    "nombre": "MeTV",
+    "descripcion": "MeTV",
+    "categoria": "entertainment",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/ME_TV/index.m3u8"
+  },
+  {
+    "id": 357,
+    "nombre": "MGM+ East",
+    "descripcion": "MGM+ East",
+    "categoria": "movies",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/512px-MGM%2B_logo.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/EPIX/index.m3u8"
+  },
+  {
+    "id": 358,
+    "nombre": "MGM+ Marquee",
+    "descripcion": "MGM+ Marquee",
+    "categoria": "movies",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/512px-MGM%2B_Marquee_2023.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8"
+  },
+  {
+    "id": 359,
+    "nombre": "Military History",
+    "descripcion": "Military History",
+    "categoria": "documentary",
+    "imagenUrl": "https://i.imgur.com/S1SnpoA.png",
+    "streamUrl": "https://fl1.moveonjoy.com/Military_History/index.m3u8"
+  },
+  {
+    "id": 360,
+    "nombre": "MLB Network",
+    "descripcion": "MLB Network",
+    "categoria": "sports",
+    "imagenUrl": "https://i.imgur.com/sA5V39D.png",
+    "streamUrl": "https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8"
+  },
+  {
+    "id": 361,
+    "nombre": "MSG",
+    "descripcion": "MSG",
+    "categoria": "sports",
+    "imagenUrl": "https://i.imgur.com/SEQFh0P.png",
+    "streamUrl": "https://fl1.moveonjoy.com/MSG/index.m3u8"
+  },
+  {
+    "id": 362,
+    "nombre": "MTV2",
+    "descripcion": "MTV2",
+    "categoria": "entertainment",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/MTV_2/index.m3u8"
+  },
+  {
+    "id": 363,
+    "nombre": "MTV East",
+    "descripcion": "MTV East",
+    "categoria": "entertainment",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/MTV/index.m3u8"
+  },
+  {
+    "id": 364,
+    "nombre": "MTV Classic",
+    "descripcion": "MTV Classic",
+    "categoria": "music",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8"
+  },
+  {
+    "id": 365,
+    "nombre": "MTV Live",
+    "descripcion": "MTV Live",
+    "categoria": "music",
+    "imagenUrl": "https://i.imgur.com/3UByLqb.png",
+    "streamUrl": "https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8"
+  },
+  {
+    "id": 366,
+    "nombre": "Much",
+    "descripcion": "Much",
+    "categoria": "music",
+    "imagenUrl": "https://i.imgur.com/JjYki5V.png",
+    "streamUrl": "https://fl1.moveonjoy.com/MUCH/index.m3u8"
+  },
+  {
+    "id": 367,
+    "nombre": "National Geographic East",
+    "descripcion": "National Geographic East",
+    "categoria": "documentary",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/National_Geographic/index.m3u8"
+  },
+  {
+    "id": 368,
+    "nombre": "National Geographic Wild East",
+    "descripcion": "National Geographic Wild East",
+    "categoria": "documentary",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8"
+  },
+  {
+    "id": 369,
+    "nombre": "News Nation",
+    "descripcion": "News Nation",
+    "categoria": "news",
+    "imagenUrl": "https://zap2it.tmsimg.com/h3/NowShowing/91097/s91097_ll_h15_ae.png?w=512",
+    "streamUrl": "https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8"
+  },
+  {
+    "id": 370,
+    "nombre": "NFL Network",
+    "descripcion": "NFL Network",
+    "categoria": "sports",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8"
+  },
+  {
+    "id": 372,
+    "nombre": "Nick Jr. East",
+    "descripcion": "Nick Jr. East",
+    "categoria": "kids",
+    "imagenUrl": "https://i.imgur.com/KT4tdQs.png",
+    "streamUrl": "https://fl1.moveonjoy.com/NICK_JR/index.m3u8"
+  },
+  {
+    "id": 373,
+    "nombre": "Nick Music",
+    "descripcion": "Nick Music",
+    "categoria": "music",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8"
+  },
+  {
+    "id": 375,
+    "nombre": "Ovation",
+    "descripcion": "Ovation",
+    "categoria": "culture",
+    "imagenUrl": "https://i.imgur.com/A3o9gvc.png",
+    "streamUrl": "https://fl1.moveonjoy.com/Ovation/index.m3u8"
+  },
+  {
+    "id": 376,
+    "nombre": "Oxygen East",
+    "descripcion": "Oxygen East",
+    "categoria": "entertainment",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/512px-Oxygen_TV_%282017_Logo%29.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/OXYGEN/index.m3u8"
+  },
+  {
+    "id": 377,
+    "nombre": "Paramount Network East",
+    "descripcion": "Paramount Network East",
+    "categoria": "movies",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8"
+  },
+  {
+    "id": 378,
+    "nombre": "Pop TV",
+    "descripcion": "Pop TV",
+    "categoria": "entertainment",
+    "imagenUrl": "https://i.imgur.com/XySNnh0.png",
+    "streamUrl": "https://fl1.moveonjoy.com/Pop_TV/index.m3u8"
+  },
+  {
+    "id": 379,
+    "nombre": "Reelz",
+    "descripcion": "Reelz",
+    "categoria": "documentary",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/REELZ/index.m3u8"
+  },
+  {
+    "id": 380,
+    "nombre": "Revolt",
+    "descripcion": "Revolt",
+    "categoria": "undefined",
+    "imagenUrl": "https://i.postimg.cc/4xnH4Dx6/revolt.png",
+    "streamUrl": "https://fl1.moveonjoy.com/REVOLT/index.m3u8"
+  },
+  {
+    "id": 381,
+    "nombre": "Showtime 2 East",
+    "descripcion": "Showtime 2 East",
+    "categoria": "undefined",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8"
+  },
+  {
+    "id": 382,
+    "nombre": "Showtime East",
+    "descripcion": "Showtime East",
+    "categoria": "undefined",
+    "imagenUrl": "https://i.postimg.cc/4NFMSszc/showtime.png",
+    "streamUrl": "https://fl1.moveonjoy.com/SHOWTIME/index.m3u8"
+  },
+  {
+    "id": 383,
+    "nombre": "Showtime West",
+    "descripcion": "Showtime West",
+    "categoria": "undefined",
+    "imagenUrl": "https://i.postimg.cc/4NFMSszc/showtime.png",
+    "streamUrl": "https://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8"
+  },
+  {
+    "id": 384,
+    "nombre": "Showtime Next East",
+    "descripcion": "Showtime Next East",
+    "categoria": "undefined",
+    "imagenUrl": "https://i.imgur.com/1Ak2MX2.png",
+    "streamUrl": "https://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8"
+  },
+  {
+    "id": 385,
+    "nombre": "Showtime Women East",
+    "descripcion": "Showtime Women East",
+    "categoria": "undefined",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8"
+  },
+  {
+    "id": 386,
+    "nombre": "Smithsonian Channel East",
+    "descripcion": "Smithsonian Channel East",
+    "categoria": "science",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png",
+    "streamUrl": "https://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8"
+  },
+  {
+    "id": 387,
+    "nombre": "Sony Channel",
+    "descripcion": "Sony Channel",
+    "categoria": "undefined",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png",
+    "streamUrl": "https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8"
+  },
+  {
+    "id": 388,
+    "nombre": "Sportsman Channel",
+    "descripcion": "Sportsman Channel",
+    "categoria": "sports",
+    "imagenUrl": "https://i.imgur.com/CXauv8M.png",
+    "streamUrl": "https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8"
+  },
+  {
+    "id": 389,
+    "nombre": "SportsNet New York",
+    "descripcion": "SportsNet New York",
+    "categoria": "sports",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/512px-SNY_logo.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/SNY/index.m3u8"
+  },
+  {
+    "id": 390,
+    "nombre": "Start TV",
+    "descripcion": "Start TV",
+    "categoria": "undefined",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/512px-Start_TV_logo.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/Start_Tv/index.m3u8"
+  },
+  {
+    "id": 391,
+    "nombre": "Starz East",
+    "descripcion": "Starz East",
+    "categoria": "undefined",
+    "imagenUrl": "https://i.imgur.com/N7oSm4d.png",
+    "streamUrl": "https://fl1.moveonjoy.com/STARZ/index.m3u8"
+  },
+  {
+    "id": 392,
+    "nombre": "Starz West",
+    "descripcion": "Starz West",
+    "categoria": "undefined",
+    "imagenUrl": "https://i.imgur.com/N7oSm4d.png",
+    "streamUrl": "https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8"
+  },
+  {
+    "id": 393,
+    "nombre": "Starz Encore Classic East",
+    "descripcion": "Starz Encore Classic East",
+    "categoria": "classic",
+    "imagenUrl": "https://i.imgur.com/L6GjoS4.png",
+    "streamUrl": "https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8"
+  },
+  {
+    "id": 394,
+    "nombre": "Stories by AMC",
+    "descripcion": "Stories by AMC",
+    "categoria": "entertainment",
+    "imagenUrl": "https://i.imgur.com/QJtwJoS.png",
+    "streamUrl": "http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8"
+  },
+  {
+    "id": 395,
+    "nombre": "Sundance TV East",
+    "descripcion": "Sundance TV East",
+    "categoria": "movies",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/SUNDANCE/index.m3u8"
+  },
+  {
+    "id": 396,
+    "nombre": "Syfy East",
+    "descripcion": "Syfy East",
+    "categoria": "undefined",
+    "imagenUrl": "https://i.imgur.com/4fMWhUE.png",
+    "streamUrl": "https://fl1.moveonjoy.com/SYFY/index.m3u8"
+  },
+  {
+    "id": 398,
+    "nombre": "The Cowboy Channel",
+    "descripcion": "The Cowboy Channel",
+    "categoria": "undefined",
+    "imagenUrl": "https://i.imgur.com/0F1c7x4.png",
+    "streamUrl": "https://fl1.moveonjoy.com/Cowboy_Channel/index.m3u8"
+  },
+  {
+    "id": 399,
+    "nombre": "TSN1",
+    "descripcion": "TSN1",
+    "categoria": "sports",
+    "imagenUrl": "https://i.imgur.com/eRFE0jZ.png",
+    "streamUrl": "https://fl1.moveonjoy.com/TSN_1/index.m3u8"
+  },
+  {
+    "id": 402,
+    "nombre": "TSN4",
+    "descripcion": "TSN4",
+    "categoria": "sports",
+    "imagenUrl": "https://i.imgur.com/qJyAWU8.png",
+    "streamUrl": "https://fl1.moveonjoy.com/TSN_4/index.m3u8"
+  },
+  {
+    "id": 403,
+    "nombre": "TSN5",
+    "descripcion": "TSN5",
+    "categoria": "sports",
+    "imagenUrl": "https://i.imgur.com/HEzHpzz.png",
+    "streamUrl": "https://fl1.moveonjoy.com/TSN_5/index.m3u8"
+  },
+  {
+    "id": 404,
+    "nombre": "TV Land",
+    "descripcion": "TV Land",
+    "categoria": "classic",
+    "imagenUrl": "https://i.imgur.com/VNNS4mF.png",
+    "streamUrl": "https://fl1.moveonjoy.com/TV_LAND/index.m3u8"
+  },
+  {
+    "id": 405,
+    "nombre": "TV One",
+    "descripcion": "TV One",
+    "categoria": "undefined",
+    "imagenUrl": "https://i.imgur.com/tthm8Q5.png",
+    "streamUrl": "https://fl1.moveonjoy.com/TV_ONE/index.m3u8"
+  },
+  {
+    "id": 406,
+    "nombre": "USA Network",
+    "descripcion": "USA Network",
+    "categoria": "undefined",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png",
+    "streamUrl": "http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8"
+  },
+  {
+    "id": 407,
+    "nombre": "VH1 East",
+    "descripcion": "VH1 East",
+    "categoria": "music",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/VH1/index.m3u8"
+  },
+  {
+    "id": 408,
+    "nombre": "CBS Chicago WBBM-DT1",
+    "descripcion": "CBS Chicago WBBM-DT1",
+    "categoria": "undefined",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/IL_Chicago_CBS/index.m3u8"
+  },
+  {
+    "id": 409,
+    "nombre": "WFLA-DT1",
+    "descripcion": "WFLA-DT1",
+    "categoria": "undefined",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8"
+  },
+  {
+    "id": 410,
+    "nombre": "WFLX-DT1",
+    "descripcion": "WFLX-DT1",
+    "categoria": "undefined",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8"
+  },
+  {
+    "id": 411,
+    "nombre": "WFTS-DT1",
+    "descripcion": "WFTS-DT1",
+    "categoria": "news",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+    "streamUrl": "https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8"
+  },
+  {
+    "id": 412,
+    "nombre": "Willow",
+    "descripcion": "Willow",
+    "categoria": "undefined",
+    "imagenUrl": "https://i.imgur.com/v7nSm7M.png",
+    "streamUrl": "https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8"
+  },
+  {
+    "id": 413,
+    "nombre": "WKCF-DT1",
+    "descripcion": "WKCF-DT1",
+    "categoria": "undefined",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/512px-The_CW_2024.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/CW_ORLANDO/index.m3u8"
+  },
+  {
+    "id": 414,
+    "nombre": "ABC Chicago WLS-DT1",
+    "descripcion": "ABC Chicago WLS-DT1",
+    "categoria": "undefined",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+    "streamUrl": "https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8"
+  },
+  {
+    "id": 415,
+    "nombre": "NBC Chicago WMAQ-DT1",
+    "descripcion": "NBC Chicago WMAQ-DT1",
+    "categoria": "undefined",
+    "imagenUrl": "https://i.imgur.com/wblxisu.png",
+    "streamUrl": "https://fl1.moveonjoy.com/IL_Chicago_NBC/index.m3u8"
+  },
+  {
+    "id": 416,
+    "nombre": "W Network",
+    "descripcion": "W Network",
+    "categoria": "undefined",
+    "imagenUrl": "https://i.imgur.com/t7XdBh8.png",
+    "streamUrl": "https://fl1.moveonjoy.com/W_NETWORK/index.m3u8"
+  },
+  {
+    "id": 417,
+    "nombre": "WPEC-DT1",
+    "descripcion": "WPEC-DT1",
+    "categoria": "undefined",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8"
+  },
+  {
+    "id": 418,
+    "nombre": "WTOG-DT1",
+    "descripcion": "WTOG-DT1",
+    "categoria": "undefined",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WTOG_Tampa_Bay_44_2023.svg/1024px-WTOG_Tampa_Bay_44_2023.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/FL_Tampa_CW44/index.m3u8"
+  },
+  {
+    "id": 420,
+    "nombre": "Yes Network",
+    "descripcion": "Yes Network",
+    "categoria": "undefined",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/330px-YES_Network_logo.svg.png",
+    "streamUrl": "https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8"
+  }
+]
