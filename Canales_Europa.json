@@ -3384,15 +3384,6 @@
     "streamUrl": "https://linear-861.frequency.stream/dist/lg-uk/861/hls/master/playlist.m3u8"
   },
   {
-    "id": 2407,
-    "nombre": "Grjngo",
-    "descripcion": "Grjngo",
-    "categoria": "undefined",
-    "pais": "Polonia",
-    "imagenUrl": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/22c730ab-2e9f-47dc-b35a-ad8c081fec40-width200-quality90.jpeg",
-    "streamUrl": "https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/playlist.m3u8"
-  },
-  {
     "id": 2408,
     "nombre": "Groovy TV",
     "descripcion": "Groovy TV",
@@ -3526,15 +3517,6 @@
     "pais": "Alemania",
     "imagenUrl": "https://i.imgur.com/oMIygVf.png",
     "streamUrl": "https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8"
-  },
-  {
-    "id": 2423,
-    "nombre": "Hard Knocks Fighting Championship",
-    "descripcion": "Hard Knocks Fighting Championship",
-    "categoria": "undefined",
-    "pais": "Polonia",
-    "imagenUrl": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/13b0a6c7-4307-4c8d-9fc4-df2a4f8e8b38-hard-knocks-fighting-1602077398-width200-quality90.jpeg",
-    "streamUrl": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2ee2b8d4-acc4-4296-9dc8-66f1ffd0fff8/5.m3u8"
   },
   {
     "id": 2424,
