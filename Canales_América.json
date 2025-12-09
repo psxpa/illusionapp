@@ -3825,24 +3825,6 @@
     "streamUrl": "https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8"
   },
   {
-    "id": 437,
-    "nombre": "Cine Sony",
-    "descripcion": "Cine Sony",
-    "categoria": "movies",
-    "pais": "Estados Unidos",
-    "imagenUrl": "https://i.imgur.com/bZWoDTg.png",
-    "streamUrl": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8"
-  },
-  {
-    "id": 438,
-    "nombre": "Cinecanal",
-    "descripcion": "Cinecanal",
-    "categoria": "movies",
-    "pais": "Estados Unidos",
-    "imagenUrl": "https://comteco.com.bo/img/upload/canales/qvJQXi.png",
-    "streamUrl": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8"
-  },
-  {
     "id": 439,
     "nombre": "CineLife",
     "descripcion": "CineLife",
@@ -14821,33 +14803,6 @@
     "pais": "Argentina",
     "imagenUrl": "https://i.imgur.com/TLaausJ.png",
     "streamUrl": "https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8"
-  },
-  {
-    "id": 1659,
-    "nombre": "Vevo Latino",
-    "descripcion": "Vevo Latino",
-    "categoria": "music",
-    "pais": "Estados Unidos",
-    "imagenUrl": "https://i.imgur.com/D7SwmuB.png",
-    "streamUrl": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8"
-  },
-  {
-    "id": 1660,
-    "nombre": "Vevo Pop",
-    "descripcion": "Vevo Pop",
-    "categoria": "music",
-    "pais": "Estados Unidos",
-    "imagenUrl": "https://i.imgur.com/dZHktKR.png",
-    "streamUrl": "https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8"
-  },
-  {
-    "id": 1661,
-    "nombre": "VH1 East",
-    "descripcion": "VH1 East",
-    "categoria": "music",
-    "pais": "Estados Unidos",
-    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png",
-    "streamUrl": "https://fl3.moveonjoy.com/VH1/index.m3u8"
   },
   {
     "id": 1662,
