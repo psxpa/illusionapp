@@ -491,13 +491,6 @@
           "streamUrl": "https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/chunklist_w1414581741_b778000.m3u8"
         },
         {
-          "name": "FAV TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/gkK5jOC.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://video.misistemareseller.com:19360/minfavtv/minfavtv.m3u8"
-        },
-        {
           "name": "AMOR I VIDA TV",
           "active": true,
           "imageUrl": "https://i.imgur.com/AnnioKN.jpeg",
@@ -1023,6 +1016,20 @@
           "streamUrl": "https://live-server.mivideo.pro:8081/sublimegraciatv/tracks-v1a1/mono.m3u8"
         },
         {
+          "name": "PRESENCIA TV",
+          "active": true,
+          "imageUrl": "https://imgur.com/SzUfrgJ.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://live20.bozztv.com/akamaissh101/ssh101/mitvenvivo/chunks.m3u8"
+        },
+        {
+          "name": "PRESENCIA KIDS TV",
+          "active": true,
+          "imageUrl": "https://imgur.com/aL7Foqc.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://live20.bozztv.com/akamaissh101/ssh101/kidsenvivo/chunks.m3u8"
+        },
+        {
           "name": "DW EN ESPAÑOL",
           "active": true,
           "imageUrl": "https://imgur.com/1WIysNr.jpeg",
@@ -1311,6 +1318,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
