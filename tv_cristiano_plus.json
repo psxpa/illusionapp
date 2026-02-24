@@ -284,11 +284,32 @@
           "streamUrl": "https://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8"
         },
         {
-          "name": "CLASSIC ARTS SHOWCASE",
+          "name": "GOSPEL TRUTH",
           "active": true,
-          "imageUrl": "https://imgur.com/HqRl5sG.jpeg",
+          "imageUrl": "https://imgur.com/DVU5ZwV.jpeg",
           "isIframe": false,
-          "streamUrl": "https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8"
+          "streamUrl": "https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/live.m3u8"
+        }, 
+        {
+          "name": "VICTORY CHANNEL",
+          "active": true,
+          "imageUrl": "https://imgur.com/To9nWfa.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://content-z.uplynk.com/channel/ea37a0934a0749fe80f493b402ce5908.m3u8"
+        }, 
+        {
+          "name": "BIBLE DISCOVERY",
+          "active": true,
+          "imageUrl": "https://imgur.com/ufl1bWp.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://2-fss-2.streamhoster.com/pl_138/amlst:200226-1452410/playlist.m3u8"
+        }, 
+        {
+          "name": "TBN",
+          "active": true,
+          "imageUrl": "https://imgur.com/JZTNinK.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://d2irko5f9gt1c5.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-publica/6b1d0f23-61b6-4637-82be-595458a18f05/4.m3u8 "
         }, 
         {
           "name": "BBC NEWS NORTH AMERICA",
@@ -1290,6 +1311,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
