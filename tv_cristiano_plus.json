@@ -148,7 +148,7 @@
           "active": true,
           "imageUrl": "https://i.imgur.com/uQTAclM.jpeg",
           "isIframe": false,
-          "streamUrl": "https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream_1250_20240909T112307.m3u8"
+          "streamUrl": "https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8"
         },
         {
           "name": "THE DOVE TV",
@@ -1346,6 +1346,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
