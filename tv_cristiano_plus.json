@@ -335,7 +335,7 @@
         {
           "name": "BLUE MOUNTAIN",
           "active": true,
-          "imageUrl": "https://imgur.com/ezWY4Kh.jpeg",
+          "imageUrl": "https://imgur.com/AI9rDGJ.jpeg",
           "isIframe": false,
           "streamUrl": "https://hls-live-stream-gc.cdn01.net/mpegts/232076_1279000/fMIUD-igjWI-P1MyUpsa0Q/1772137748/media_mpegts_0.m3u8"
         }, 
@@ -1346,6 +1346,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
