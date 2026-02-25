@@ -235,13 +235,6 @@
           "streamUrl": "https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/chunklist.m3u8"
         },
         {
-          "name": "LIFESTYLE TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/CHJbFLK.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://app.viloud.tv/hls/channel/711fd3f3a4728449889ee22ba72958ff.m3u8"
-        },
-        {
           "name": "ABN BIBLES MOVIES",
           "active": true,
           "imageUrl": "https://i.imgur.com/e5obGnu.jpeg",
@@ -1346,6 +1339,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
