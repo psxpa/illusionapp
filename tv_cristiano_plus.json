@@ -326,6 +326,13 @@
           "streamUrl": "https://uni01rtmp.tulix.tv/watc57-2/watc57-2/chunklist_w164100435.m3u8"
         }, 
         {
+          "name": "WORLD HARVEST",
+          "active": true,
+          "imageUrl": "https://imgur.com/51uQyf9.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8"
+        }, 
+        {
           "name": "BBC NEWS NORTH AMERICA",
           "active": true,
           "imageUrl": "https://imgur.com/EprnjLb.jpeg",
@@ -1332,6 +1339,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
