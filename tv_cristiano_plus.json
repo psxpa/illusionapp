@@ -277,11 +277,11 @@
           "streamUrl": "https://cdn-us-dca.b-cdn.net/hcorg_33O0ldvawCD/s/jsl_0sUSK6VA7GT/gkcbC/720p/main.m3u8"
         },
         {
-          "name": "BET GOSPEL",
+          "name": "TCT",
           "active": true,
-          "imageUrl": "https://imgur.com/vUBbfvg.jpeg",
+          "imageUrl": "https://imgur.com/S98lSuz.jpeg",
           "isIframe": false,
-          "streamUrl": "https://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8"
+          "streamUrl": "https://cdn.jwplayer.com/live/broadcast/frRD2nUK.m3u8?"
         },
         {
           "name": "GOSPEL TRUTH",
@@ -1318,6 +1318,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
