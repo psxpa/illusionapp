@@ -617,13 +617,6 @@
           "streamUrl": "https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8"
         },
         {
-          "name": "SOLDADITOS DE JESUS",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/Fpbg1fW.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://2nbyj587d53k-hls-live.5centscdn.com/13/597b5bed7fd3f225bcaa5c4a0cdc3ff6.sdp/chunks.m3u8"
-        },
-        {
           "name": "PURUWA TV",
           "active": true,
           "imageUrl": "https://i.imgur.com/qnW058j.jpeg",
@@ -1339,6 +1332,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
