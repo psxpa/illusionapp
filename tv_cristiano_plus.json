@@ -361,6 +361,13 @@
           "streamUrl": "https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8"
         }, 
         {
+          "name": "AKC TV",
+          "active": true,
+          "imageUrl": "https://imgur.com/S3hRAkC.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8"
+        }, 
+        {
           "name": "DW ENGLISH",
           "active": true,
           "imageUrl": "https://imgur.com/9XOEwZ4.jpeg",
@@ -1339,6 +1346,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
