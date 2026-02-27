@@ -326,6 +326,13 @@
           "streamUrl": "https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8"
         }, 
         {
+          "name": "GOOD NEWS TV",
+          "active": true,
+          "imageUrl": "https://imgur.com/2KTi9u9.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8"
+        }, 
+        {
           "name": "BBC NEWS NORTH AMERICA",
           "active": true,
           "imageUrl": "https://imgur.com/EprnjLb.jpeg",
@@ -1332,6 +1339,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
