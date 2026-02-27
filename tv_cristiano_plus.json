@@ -1046,7 +1046,7 @@
         {
           "name": "FAMILY TV",
           "active": true,
-          "imageUrl": "https://imgur.com/L72ML6b.jpeg",
+          "imageUrl": "https://imgur.com/xnISI47.jpeg",
           "isIframe": false,
           "streamUrl": "https://tv.webmedialive.com/familytv/live/playlist.m3u8"
         },
@@ -1339,6 +1339,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
