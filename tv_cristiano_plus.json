@@ -41,7 +41,7 @@
         {
           "name": "CBN Family",
           "active": true,
-          "imageUrl": "https://i.imgur.com/WB2pWmF.jpeg",
+          "imageUrl": "https://imgur.com/nEnFaaT.jpeg",
           "isIframe": false,
           "streamUrl": "https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk5NTg4MTEyIn0.LYfIeObmX4AEStY_xCnPZwMJHXgOAPFMTKfztq-9F8U/playlist-hls.m3u8"
         },
@@ -62,7 +62,7 @@
         {
           "name": "Revelation TV",
           "active": true,
-          "imageUrl": "https://i.imgur.com/GtsZRtY.jpeg",
+          "imageUrl": "https://imgur.com/0Yy6XNM.jpeg",
           "isIframe": false,
           "streamUrl": "https://stream.mdc.akamaized.net/live/ngrp:revelationtvhd.stream_web/playlist.m3u8"
         },
@@ -244,7 +244,7 @@
         {
           "name": "SUM TV",
           "active": true,
-          "imageUrl": "https://i.imgur.com/Xkr9yA4.jpeg",
+          "imageUrl": "https://imgur.com/KrIwtUF.jpeg",
           "isIframe": false,
           "streamUrl": "https://bozztv.com/uni10rtmp/ssstv1-cdn/smil:ssstv1web.smil/playlist.m3u8"
         },
@@ -279,7 +279,7 @@
         {
           "name": "GOSPEL TRUTH",
           "active": true,
-          "imageUrl": "https://imgur.com/DVU5ZwV.jpeg",
+          "imageUrl": "https://imgur.com/EFCWSGv.jpeg",
           "isIframe": false,
           "streamUrl": "https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/live.m3u8"
         }, 
@@ -307,7 +307,7 @@
         {
           "name": "WATCH TV 57",
           "active": true,
-          "imageUrl": "https://imgur.com/UXJ5HBu.jpeg",
+          "imageUrl": "https://imgur.com/IdrDZKX.jpeg",
           "isIframe": false,
           "streamUrl": "https://uni01rtmp.tulix.tv/watc57/watc57/chunklist_w1126647898.m3u8"
         }, 
@@ -349,7 +349,7 @@
         {
           "name": "PBS KIDS",
           "active": true,
-          "imageUrl": "https://imgur.com/MoLsz5R.jpeg",
+          "imageUrl": "https://imgur.com/7v3RXcu.jpeg",
           "isIframe": false,
           "streamUrl": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8"
         }, 
@@ -363,7 +363,7 @@
         {
           "name": "DW ENGLISH",
           "active": true,
-          "imageUrl": "https://imgur.com/1WIysNr.jpeg",
+          "imageUrl": "https://imgur.com/9XOEwZ4.jpeg",
           "isIframe": false,
           "streamUrl": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
         }, 
@@ -405,7 +405,7 @@
         {
           "name": "AL JAZEERA",
           "active": true,
-          "imageUrl": "https://imgur.com/8poyBiJ.jpeg",
+          "imageUrl": "https://imgur.com/SHvEOBP.jpeg",
           "isIframe": false,
           "streamUrl": "https://live-hls-web-aje-gcp.thehlive.com/AJE/02.m3u8"
         },
@@ -1339,6 +1339,7 @@
   },
   "lastUpdate": "2025-05-31"
 }
+
 
 
 
