@@ -1147,27 +1147,34 @@
           "imageUrl": "https://imgur.com/sYCrnEG.jpeg",
           "isIframe": false,
           "streamUrl": "https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8"
-       },
+        },
         {
           "name": "CANAL 24 HORAS",
           "active": true,
           "imageUrl": "https://imgur.com/l1DA0ga.jpeg",
           "isIframe": false,
           "streamUrl": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8"
-       },
+        },
         {
           "name": "IDEAS EN 5 MINUTOS",
           "active": true,
           "imageUrl": "https://imgur.com/afD1vRy.jpeg",
           "isIframe": false,
           "streamUrl": "https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8"
-       },
+        },
         {
           "name": "BCN GOSPEL CHANNEL",
           "active": true,
           "imageUrl": "https://imgur.com/v8aS3x0.jpeg",
           "isIframe": false,
           "streamUrl": "https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8"
+        },
+        {
+          "name": "CINE WESTERN",
+          "active": true,
+          "imageUrl": "https://imgur.com/f1ghPty.jpeg",
+          "isIframe": false,
+          "streamUrl": "https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ES2300005G7"
         }
       ]
     },
