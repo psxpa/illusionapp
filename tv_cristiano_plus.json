@@ -302,7 +302,7 @@
           "active": true,
           "imageUrl": "https://imgur.com/JZTNinK.jpeg",
           "isIframe": false,
-          "streamUrl": "https://d2irko5f9gt1c5.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-publica/6b1d0f23-61b6-4637-82be-595458a18f05/4.m3u8"
+          "streamUrl": "https://d2irko5f9gt1c5.cloudfront.net/10008/99991708/hls/playlist.m3u8?ads.xumo_channelId=99991708&ads.csid=xumo_web_TrinityBroadcastingNetwork_ssai&ads._fw_app_bundle=web.xumo.com&ads.ifa_type=&ads.did=08d172a7-77d0-4cf1-9b3f-18ad60bfbc39&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_app_store_url=&ads._fw_content_category=&ads.xumo_contentName=TrinityBroadcastingNetwork&ads.xumo_providerName=&ads._fw_content_language=en&ads.assetId=&ads._fw_content_genre=&ads.xumo_providerId=&ads._fw_content_rating=&ads.channelId=99991708&ads.xumo_platform=web&ads.site_id=22453"
         }, 
         {
           "name": "WATCH TV 57",
