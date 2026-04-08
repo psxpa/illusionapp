@@ -1,1425 +1,1354 @@
-{
-  "version": "1.1",
-  "languages": {
-    "en": {
-      "channels": [
-        {
-          "name": "3ABN Kids",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/jiP38J1.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
-        },
-        {
-          "name": "Spirit TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/anmNhtA.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8"
-        },
-        {
-          "name": "NRBTV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/pzQHK5r.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/tracks-v1a1/mono.m3u8"
-        },
-        {
-          "name": "3ABN",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/Ulu6IBc.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8"
-        },
-        {
-          "name": "CBN News",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/dA2oJol.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8"
-        },
-        {
-          "name": "CBN Family",
-          "active": true,
-          "imageUrl": "https://imgur.com/nEnFaaT.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk5NTg4MTEyIn0.LYfIeObmX4AEStY_xCnPZwMJHXgOAPFMTKfztq-9F8U/playlist-hls.m3u8"
-        },
-        {
-          "name": "TBN PACIFIC",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/RlmEw6o.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/TBNPacificTV/live/playlist.m3u8?"
-        },
-        {
-          "name": "Better Health TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/khzl5QT.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://rpn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8"
-        },
-        {
-          "name": "Revelation TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/0Yy6XNM.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://stream.mdc.akamaized.net/live/ngrp:revelationtvhd.stream_web/playlist.m3u8"
-        },
-        {
-          "name": "SUPER CHANNEL",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/syYLevF.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://632c1f303ef2e.streamlock.net/live/live/playlist.m3u8"
-        },
-        {
-          "name": "BETTER NATURE TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/370b4RW.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://rpn.bozztv.com/betterlife/betternature/betternature/index.m3u8"
-        },
-        {
-          "name": "LIGTHSOURCE TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/pGGpx6O.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://lstv.swncdn.com/live/master.m3u8"
-        },
-        {
-          "name": "GBN",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/v22lhYF.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://cdn3.wowza.com/5/Ny9jK1A1Q3h4N1VZ/live/myStream/playlist.m3u8"
-        },
-        {
-          "name": "HIS CHANNEL",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/h4xW8gU.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://www1.hischannel.com/liveedge/smil:hls.smil/playlist.m3u8"
-        },
-        {
-          "name": "GOD TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/NAEbR0r.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://hlsb-us.god.tv/GODTV/USA-720.m3u8"
-        },
-        {
-          "name": "GOOD LIFE 45",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/e7mXf1s.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://2-fss-2.streamhoster.com/pl_118/201450-1248872-1/chunklist.m3u8"
-        },
-        {
-          "name": "PRAISE TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/QXRIOfc.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://f-tx-edge-87.christianworldmedia.com/PraiseTVNetwork/mp4:PraiseTVNetwork/chunklist_w1435669934.m3u8"
-        },
-        {
-          "name": "ONE PLACE TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/UPHxK28.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://optv.swncdn.com/live/master.m3u8"
-        },
-        {
-          "name": "GOOD NEWS TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/f4212xH.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://stream.eleden.com/livegntv/ngrp:livegntv_all/chunklist_w358586918_b2267136.m3u8"
-        },
-        {
-          "name": "3ABN PRAISE HIM",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/QxCT1Xz.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8"
-        },
-        {
-          "name": "SMART LIFE STYLE",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/uQTAclM.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8"
-        },
-        {
-          "name": "THE DOVE TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/XAxbEoW.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://thedovetv.bozztv.com/thedovetv/thedovetv/index.m3u8"
-        },
-        {
-          "name": "AMAZING DISCOVERIES AD",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/Ximy5Cw.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://bozztv.com/amazingd/amazingdtv-srt/index.m3u8"
-        },
-        {
-          "name": "FIRST LIGHT",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/ERzmjEu.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://rpn.bozztv.com/firstlight/firstlight/firstlight.smil/playlist.m3u8"
-        },
-        {
-          "name": "DARE TO DREAM NETWORK",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/LrNQq7D.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8"
-        },
-        {
-          "name": "3ABN PROCLAIM NETWORK",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/RaiZhH9.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8"
-        },
-        {
-          "name": "GLC TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/aQR5cwz.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/chunklist.m3u8"
-        },
-        {
-          "name": "END TIMES TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/bmnQ1na.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/chunklist.m3u8"
-        },
-        {
-          "name": "MISSION TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/Uj9edAm.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://6096a9cf11ae5.streamlock.net:1943/live/missiontv_720p/chunklist_w1171385503.m3u8"
-        },
-        {
-          "name": "PTL TV NETWORK",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/CSUFX2d.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://storage.sardius.media/archives/-KyMV-J0vDqnClcSXs8p/events/site_1a4721d3BA/playlist.m3u8"
-        },
-        {
-          "name": "QUO VADIS TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/AiBM67H.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8"
-        },
-        {
-          "name": "GOSPEL TRUTH TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/vEAKHLB.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest/live_5.m3u8?rendition=1080&session_id=f0fcaa5a-0b1a-8acb-004d-a773a74544cf"
-        },
-        {
-          "name": "LIFE CBN",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/sWp7umF.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/chunklist.m3u8"
-        },
-        {
-          "name": "ABN BIBLES MOVIES",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/e5obGnu.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8"
-        },
-        {
-          "name": "SUM TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/KrIwtUF.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://bozztv.com/uni10rtmp/ssstv1-cdn/smil:ssstv1web.smil/playlist.m3u8"
-        },
-        {
-          "name": "LIFE CBN",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/XJO8gbi.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://lifetv.edgetomesh.co.za/hls/0/stream.m3u8"
-        },
-        {
-          "name": "KQSL",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/VEFHIRs.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://tgn2.bozztv.com/kqsltv/kqsltv/kqsltv/playlist.m3u8"
-        },
-        {
-          "name": "HOPE CHANNEL NORTH AMERICA",
-          "active": true,
-          "imageUrl": "https://imgur.com/QdILQbD.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://cdn-us-dca.b-cdn.net/hcorg_33O0ldvawCD/s/jsl_0sUSK6VA7GT/gkcbC/720p/main.m3u8"
-        },
-        {
-          "name": "TCT",
-          "active": true,
-          "imageUrl": "https://imgur.com/S98lSuz.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://cdn.jwplayer.com/live/broadcast/frRD2nUK.m3u8?"
-        },
-        {
-          "name": "GOSPEL TRUTH",
-          "active": true,
-          "imageUrl": "https://imgur.com/EFCWSGv.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/live.m3u8"
-        }, 
-        {
-          "name": "VICTORY CHANNEL",
-          "active": true,
-          "imageUrl": "https://imgur.com/To9nWfa.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://content-z.uplynk.com/channel/ea37a0934a0749fe80f493b402ce5908.m3u8"
-        }, 
-        {
-          "name": "BIBLE DISCOVERY",
-          "active": true,
-          "imageUrl": "https://imgur.com/ufl1bWp.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://2-fss-2.streamhoster.com/pl_138/amlst:200226-1452410/playlist.m3u8"
-        }, 
-        {
-          "name": "TBN",
-          "active": true,
-          "imageUrl": "https://imgur.com/JZTNinK.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://d2irko5f9gt1c5.cloudfront.net/10008/99991708/hls/playlist.m3u8?ads.xumo_channelId=99991708&ads.csid=xumo_web_TrinityBroadcastingNetwork_ssai&ads._fw_app_bundle=web.xumo.com&ads.ifa_type=&ads.did=08d172a7-77d0-4cf1-9b3f-18ad60bfbc39&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_app_store_url=&ads._fw_content_category=&ads.xumo_contentName=TrinityBroadcastingNetwork&ads.xumo_providerName=&ads._fw_content_language=en&ads.assetId=&ads._fw_content_genre=&ads.xumo_providerId=&ads._fw_content_rating=&ads.channelId=99991708&ads.xumo_platform=web&ads.site_id=22453"
-        }, 
-        {
-          "name": "WATCH TV 57",
-          "active": true,
-          "imageUrl": "https://imgur.com/IdrDZKX.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://uni01rtmp.tulix.tv/watc57/watc57/chunklist_w1126647898.m3u8"
-        }, 
-        {
-          "name": "THE POINT TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/4gu2yn8.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://uni01rtmp.tulix.tv/watc57-2/watc57-2/chunklist_w164100435.m3u8"
-        }, 
-        {
-          "name": "WORLD HARVEST",
-          "active": true,
-          "imageUrl": "https://imgur.com/51uQyf9.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8"
-        }, 
-        {
-          "name": "GOOD NEWS TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/2KTi9u9.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8"
-        }, 
-        {
-          "name": "GRACE NETWORK",
-          "active": true,
-          "imageUrl": "https://imgur.com/nhQ5yPU.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://livecdn.live247stream.com/grace/tv/playlist.m3u8"
-        }, 
-        {
-          "name": "BBC NEWS NORTH AMERICA",
-          "active": true,
-          "imageUrl": "https://imgur.com/EprnjLb.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8"
-        }, 
-        {
-          "name": "BBC EARTH",
-          "active": true,
-          "imageUrl": "https://imgur.com/LsX8MDf.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8"
-        }, 
-        {
-          "name": "PBS KIDS",
-          "active": true,
-          "imageUrl": "https://imgur.com/7v3RXcu.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8"
-        }, 
-        {
-          "name": "DUCK TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/sYCrnEG.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8"
-        }, 
-        {
-          "name": "AKC TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/S3hRAkC.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8"
-        }, 
-        {
-          "name": "DW ENGLISH",
-          "active": true,
-          "imageUrl": "https://imgur.com/9XOEwZ4.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
-        }, 
-        {
-          "name": "BON APPÉTIT",
-          "active": true,
-          "imageUrl": "https://imgur.com/YSSCC4X.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://bonappetit-samsung.amagi.tv/720p-vtt/index.m3u8"
-        }, 
-        {
-          "name": "FRANCE 24 ENGLISH",
-          "active": true,
-          "imageUrl": "https://imgur.com/wCrX4ZB.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://a-cdn.klowdtv.com/live2/france24_720p/chunks.m3u8"
-        }, 
-        {
-          "name": "RT ENGLISH",
-          "active": true,
-          "imageUrl": "https://imgur.com/5l6XoNq.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8"
-        },
-        {
-          "name": "EURONEWS ENGLISH",
-          "active": true,
-          "imageUrl": "https://imgur.com/lDiDok1.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8"
-        },
-         {
-          "name": "TRT WORLD",
-          "active": true,
-          "imageUrl": "https://imgur.com/SCYwlTo.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://tv-trtworld.medya.trt.com.tr/master_720.m3u8"
-        },
-        {
-          "name": "AL JAZEERA",
-          "active": true,
-          "imageUrl": "https://imgur.com/SHvEOBP.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://live-hls-web-aje-gcp.thehlive.com/AJE/02.m3u8"
-        },
-        {
-          "name": "CGTN ENGLISH",
-          "active": true,
-          "imageUrl": "https://imgur.com/anHMXfB.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://english-livebkali.cgtn.com/live/encgtn_1.m3u8"
-        },
-        {
-          "name": "WILD EARTH TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/ziHq7Ls.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://wildearth-plex.amagi.tv/masterR432p.m3u8"
-        },
-        {
-          "name": "ADVENTURE EARTH",
-          "active": true,
-          "imageUrl": "https://imgur.com/HyYoGii.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8"
-        },
-        {
-          "name": "AUTENTIC HISTORY",
-          "active": true,
-          "imageUrl": "https://imgur.com/uNxPXRY.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://autentic-autentichistory-1-gb.lg.wurl.tv/playlist.m3u8"
-        },
-        {
-          "name": "BBC DINOS 24/7",
-          "active": true,
-          "imageUrl": "https://imgur.com/HmPHf9E.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://amg00793-amg00793c35-lg-us-6412.playouts.now.amagi.tv/playlist.m3u8"
-        },
-        {
-          "name": "WESTERN MOVIES",
-          "active": true,
-          "imageUrl": "https://imgur.com/D0U1msL.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8"
-        }
-      ]
-    },
-    "es": {
-      "channels": [
-        {
-          "name": "ENLACE",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/qCxreI9.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8"
-        },
-        {
-          "name": "EJTV",
-          "active": true,
-          "imageUrl": "https://imgur.com/J8nfnAg.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://livecdn.enlace.plus/ejtv/smil:ejtv-hd.smil/chunklist_b2752000_sleng.m3u8"
-        },       
-        {
-          "name": "MUJERES DE FE",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/bSmJpQu.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://livecdn.enlace.plus/mujeresdefe/smil:mujeresdefe-hd.smil/chunklist_b2752000_sleng.m3u8"
-        },
-        {
-          "name": "ALIENTO VISIÓN",
-          "active": true,
-          "imageUrl": "https://imgur.com/qzrEjeV.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/chunklist_w819351358.m3u8"
-        },
-        {
-          "name": "DIOS HD",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/xsIg129.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://s.emisoras.tv:8081/diostevetv/tracks-v1a1/mono.m3u8"
-        },
-        {
-          "name": "HOSANNA VISIÓN",
-          "active": true,
-          "imageUrl": "https://imgur.com/P8WElgt.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8"
-        },
-        {
-          "name": "EXTREMA TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/CN4qjQz.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8"
-        },
-        {
-          "name": "CANAL LUZ TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/CB4bLmM.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://g1.mc-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p/index.m3u8"
-        },
-        {
-          "name": "SOLIDARIA TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/GBTZGp0.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8"
-        },
-        {
-          "name": "3ABN LATINO",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/pq7DCGP.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8"
-        },
-        {
-          "name": "SUBLIME GRACIA TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/dG48nvT.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8"
-        },
-        {
-          "name": "SALVACIÓN TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/Og1YAP6.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/chunklist_w1414581741_b778000.m3u8"
-        },
-        {
-          "name": "AMOR I VIDA TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/AnnioKN.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://5bf8041cb3fed.streamlock.net/MiAmoriVidaTV/MiAmoriVidaTV/chunklist_w773046049.m3u8"
-        },
-        {
-          "name": "MASTER VIDEO TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/m2LhPnp.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://6110f70ea8d0e.streamlock.net:443/222/222/playlist.m3u8"
-        },
-        {
-          "name": "TEVE VIDA",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/vLaSkVy.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/chunklist_w803214994.m3u8"
-        },
-        {
-          "name": "CDM TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/cuGgMs8.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8"
-        },
-        {
-          "name": "VIDAR TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/CiW4wdB.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8"
-        },
-        {
-          "name": "ADVENIR TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/mfJ14R5.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w449301221.m3u8"
-        },
-        {
-          "name": "CBN ESPAÑOL",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/wAiD0GU.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U/playlist-hls.m3u8"
-        },
-        {
-          "name": "PLANETA CREACION",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/E6TKSqe.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://livecdn.enlace.plus/planetacreacion/smil:planetacreacion-hd.smil/chunklist_b2752000_sleng.m3u8"
-        },
-        {
-          "name": "DIOS KIDS",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/vbzDVeV.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/mono.m3u8"
-        },
-        {
-          "name": "CANAL 27",
-          "active": true,
-          "imageUrl": "https://imgur.com/IAj34Ev.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://ch1-c27.duin.dev/hls/stream.m3u8"
-        },
-        {
-          "name": "UNIVERSO TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/2yoNz8S.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/chunklist_w1268964785.m3u8"
-        },
-        {
-          "name": "LOGOS TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/2ewK5oz.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://streamer1.streamhost.org/salive/logosH/playlist.m3u8"
-        },
-        {
-          "name": "LOGOS SALUD TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/hBDbxEY.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://streamer1.streamhost.org/salive/logossaludH/chunklist_w711489103.m3u8"
-        },
-        {
-          "name": "LOGOS KIDS TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/lxKI7UR.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w66332916.m3u8"
-        },
-        {
-          "name": "LLBN LATINO",
-          "active": true,
-          "imageUrl": "https://imgur.com/Xsgk02y.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8"
-        },
-        {
-          "name": "PURUWA TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/qnW058j.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w1915376831.m3u8"
-        },
-        {
-          "name": "TV  CRET",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/5GB2zaV.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://serversv.com:8080/hls/tvcret.m3u8"
-        },
-        {
-          "name": "TELEVIDA TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/aapjmHr.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://tls-cl.cdnz.cl/televida/live/playlist.m3u8"
-        },
-        {
-          "name": "LOS EVANGELIOS",
-          "active": true,
-          "imageUrl": "https://imgur.com/stkWq3p.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://livecdn.enlace.plus/evangelios/smil:evangelios-hd.smil/chunklist_b2752000_sleng.m3u8"
-        },
-        {
-          "name": "GRACIA TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/c52us71.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://v4.tustreaming.cl/graciatv/tracks-v1a1/mono.m3u8"
-        },
-        {
-          "name": "AMIGOS TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/NzkMAsq.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8"
-        },
-        {
-          "name": "CHOLUTECA TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/DBr2BfD.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://s.emisoras.tv:8081/cholutecatv/index.m3u8"
-        },
-        {
-          "name": "FRECUENCIA F TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/uNbAB7q.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://tv.frecuenciaf.com/live/envivo_720p2628kbs/index.m3u8"
-        },
-        {
-          "name": "JEHOVA TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/h4kx0Sy.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://cp.panelchs.com:1936/8006/8006/playlist.m3u8"
-        },
-        {
-          "name": "AVIVAMIENTO TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/CXxJmOi.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://s2.abntelevision.com:443/avivamientoabr/stream/playlist.m3u8"
-        },
-        {
-          "name": "BETHEL TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/Bhxqy9w.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8"
-        },
-        {
-          "name": "ALCANCE TV SIN FRONTERAS",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/5Ex1sb9.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8"
-        },
-        {
-          "name": "CANAL 30 TV BETHEL",
-          "active": true,
-          "imageUrl": "https://imgur.com/vUIwxw6.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://s.emisoras.tv:8081/canal30tvbethel/tracks-v1a1/mono.m3u8"
-        },
-        {
-          "name": "TELEFAMILIA",
-          "active": true,
-          "imageUrl": "https://imgur.com/b5Dk1Br.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8"
-        },
-        {
-          "name": "SOLIDARIA TV BOLIVIA",
-          "active": true,
-          "imageUrl": "https://imgur.com/Tm7m6zT.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://canadaremar2.todostreaming.es/live/bolivia-stream.m3u8"
-        },
-        {
-          "name": "JOSUE TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/regoyUS.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8"
-        },
-        {
-          "name": "PENIEL BIBLIA ABIERTA",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/NvUdiju.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://s.emisoras.tv:8081/penielbibliaabierta/tracks-v1a1/mono.m3u8"
-        },
-        {
-          "name": "PENIEL K&Y",
-          "active": true,
-          "imageUrl": "https://imgur.com/rT9CDmh.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://s.emisoras.tv:8081/penielkids/tracks-v1a1/mono.m3u8"
-        },
-        {
-          "name": "PENIEL MUSICAL",
-          "active": true,
-          "imageUrl": "https://imgur.com/gK27dop.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://s.emisoras.tv:8081/penielmusical/tracks-v1a1/mono.m3u8"
-        },
-        {
-          "name": "REFORMA TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/hidn3Yp.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8"
-        },
-        {
-          "name": "TNE TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/kDjZ5si.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://v2.tustreaming.cl/tnetv/tracks-v1a1/mono.m3u8"
-        },
-        {
-          "name": "RADIO MENSAJE TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/o6zluaH.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://eu1.servers10.com:8081/8230/index.m3u8"
-        },
-        {
-          "name": "SUM TV LATINO",
-          "active": true,
-          "imageUrl": "https://imgur.com/ClBxzE7.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8"
-        },
-        {
-          "name": "RHEMA TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/MobQyrg.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://5e85d90130e77.streamlock.net:443/6006/6006/playlist.m3u8"
-        },
-        {
-          "name": "TABER TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/j3QTXVu.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://5fc584f3f19c9.streamlock.net:443/tabertv/videotabertv/playlist.m3u8"
-        },
-        {
-          "name": "DNJ TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/TPEbrlC.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8"
-        },
-        {
-          "name": "EL CAMINO TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/YDmeaTl.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8"
-        },
-        {
-          "name": "KSCE VIDA CRISTIANA",
-          "active": true,
-          "imageUrl": "https://imgur.com/oxYy7fS.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8"
-        },
-        {
-          "name": "LUZ NACIENTE TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/4GtUaGT.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://streeming.protoscr.com:3858/live/streeminglive.m3u8"
-        },
-        {
-          "name": "CRISTIANA TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/CJI5sxA.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://cloudvideo.servers10.com:8081/8152/index.m3u8"
-        },
-        {
-          "name": "CIELO TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/yoxkhk5.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8"
-        },
-        {
-          "name": "TV 45 3ABN NICARAGUA",
-          "active": true,
-          "imageUrl": "https://imgur.com/ZahBzQF.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://hdbox.chunklistv.com/live?stream=3abn-nicaragua"
-        },
-        {
-          "name": "VC MEDIOS",
-          "active": true,
-          "imageUrl": "https://imgur.com/N3Ngfcx.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8"
-        },
-        {
-          "name": "CTNI INTERNACIONAL",
-          "active": true,
-          "imageUrl": "https://imgur.com/8IqXH7Y.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8"
-        },
-        {
-          "name": "ALCANCE TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/5esqd3e.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/chunklist_w255416074.m3u8"
-        },
-        {
-          "name": "ORACION CON SON",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/KU16Px1.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://canal.mediaserver.com.co/live/oracionconson.m3u8?hls_ctx=wg9rr749"
-        },
-        {
-          "name": "EMANUEL7 TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/NwMynrI.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://stmv6.voxtvhd.com.br/emanueltv/emanueltv/playlist.m3u8"
-        },
-        {
-          "name": "NGRADIO TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/4seVj4L.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://67acccf130420.streamlock.net:443/ngradiotv/ngradiotv/playlist.m3u8"
-        },
-        {
-          "name": "TELEBENDICION",
-          "active": true,
-          "imageUrl": "https://imgur.com/0XouvXu.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/playlist.m3u8"
-        },
-        {
-          "name": "RCC TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/BFHtWuQ.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://rds3gen.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?k=69ab4b2ec5a91c99eb4d2e4985e12f8d2bb49ac560724b903d637b919081239e&exp=1747276958"
-        },
-        {
-          "name": "CELESTIAL TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/VdtcFHh.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://vs20.live.opencaster.com/celestialtv_1123cf08/index.m3u8"
-        },
-        {
-          "name": "ESCÚCHAME TV RADIO",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/1jKIWEh.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://Stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8"
-        },
-        {
-          "name": "CINE DIOS",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/SRo9Uod.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://canal.mediaserver.com.co/live/cinedios.m3u8"
-        },
-        {
-          "name": "ASOMAVISION",
-          "active": true,
-          "imageUrl": "https://imgur.com/XIAxGrd.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://asomatv.cloud-ip.cc/livestream/stream.m3u8"
-        },
-        {
-          "name": "EL SEMBRADOR TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/8oaXN4C.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://583ed2f226ac2.streamlock.net/181/stream/playlist.m3u8"
-        },
-        {
-          "name": "EXTREMA KIDS",
-          "active": true,
-          "imageUrl": "https://imgur.com/z3KVOae.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8"
-        },
-        {
-          "name": "EXTREMA ADORACION TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/3ckhZlO.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://584097344c1f0.streamlock.net/1769/stream/playlist.m3u8"
-        },
-        {
-          "name": "MARANATHA 911 TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/3zi8WhX.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8"
-        },
-        {
-          "name": "XTO KIDS",
-          "active": true,
-          "imageUrl": "https://imgur.com/iRN8wfN.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://a1network.net/webstream/xtokids.__ch.m3u8"
-        },
-        {
-          "name": "XTO TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/J2rpziW.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://a1network.net/webstream/xtotv.__ch.m3u8"  
-        },
-        {
-          "name": "VIDA RTV PLUS",
-          "active": true,
-          "imageUrl": "https://imgur.com/uz8eP6f.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8"
-        },
-        {
-          "name": "HOPE CHANNEL",
-          "active": true,
-          "imageUrl": "https://imgur.com/hh7H5w3.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://jstre.am/live/jsl:EC0Mq0i6HJU.m3u8"
-        },
-        {
-          "name": "TV LEÓN TRIBU DE JUDÁ",
-          "active": true,
-          "imageUrl": "https://imgur.com/0SxO3bS.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8"
-        },
-        {
-          "name": "SOLIDARIA TV ARGENTINA",
-          "active": true,
-          "imageUrl": "https://imgur.com/hGn48eC.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://canadaremar2.todostreaming.es/live/argentina-web.m3u8"
-        },
-        {
-          "name": "CCI TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/LoDz7pQ.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://livestream.mediacci.com/ccitv/tracks-v1a1/mono.ts.m3u8"
-        },
-        {
-          "name": "CRISTO VISION CANAL 31",
-          "active": true,
-          "imageUrl": "https://imgur.com/nT9s2SG.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8"
-        },
-        {
-          "name": "NCTV",
-          "active": true,
-          "imageUrl": "https://imgur.com/WzWdDNP.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8?PlaylistM3UCL"
-        },
-        {
-          "name": "EBENEZER NETWORK",
-          "active": true,
-          "imageUrl": "https://imgur.com/WoXYjjj.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://v1.videoale.com:1935/ebetv/ebetv/playlist.m3u8"
-        },
-        {
-          "name": "SUBLIME GRACIA",
-          "active": true,
-          "imageUrl": "https://imgur.com/S427HGc.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://live-server.mivideo.pro:8081/sublimegraciatv/tracks-v1a1/mono.m3u8"
-        },
-        {
-          "name": "PRESENCIA TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/SzUfrgJ.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://live20.bozztv.com/akamaissh101/ssh101/mitvenvivo/chunks.m3u8"
-        },
-        {
-          "name": "PRESENCIA KIDS TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/aL7Foqc.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://live20.bozztv.com/akamaissh101/ssh101/kidsenvivo/chunks.m3u8"
-        },
-        {
-          "name": "NG CHANNEL",
-          "active": true,
-          "imageUrl": "https://imgur.com/YfCA10J.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://vdochile.com:3222/live/ngchalive.m3u8"
-        },
-        {
-          "name": "EGM CHANNEL",
-          "active": true,
-          "imageUrl": "https://imgur.com/Xi3ozQ7.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://vdochile.com:3922/live/egm20live.m3u8"
-        },
-        {
-          "name": "FAMILY TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/cHrkVa0.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://tv.webmedialive.com/familytv/live/playlist.m3u8"
-        },
-        {
-          "name": "DW EN ESPAÑOL",
-          "active": true,
-          "imageUrl": "https://imgur.com/9XOEwZ4.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8"
-        },
-        {
-          "name": "HISPANTV",
-          "active": true,
-          "imageUrl": "https://imgur.com/TJAds8A.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://live.presstv.ir/hls/hispantv_5_482/index.m3u8"
-        },
-        {
-          "name": "RT ESPAÑOL",
-          "active": true,
-          "imageUrl": "https://imgur.com/5l6XoNq.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8"
-        },
-        {
-          "name": "FRANCE 24 ESPAÑOL",
-          "active": true,
-          "imageUrl": "https://imgur.com/GDzdDsx.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8"
-        },
-        {
-          "name": "EURONEWS EN ESPAÑOL",
-          "active": true,
-          "imageUrl": "https://imgur.com/lDiDok1.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://9ca5d68b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1NwYW5pc2hfSExT/playlist.m3u8"
-        },
-        {
-          "name": "XTREMA ANIMAL TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/KhrWMcf.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://stmv2.voxtvhd.com.br/xpherewild/xpherewild/playlist.m3u8"
-        },
-        {
-          "name": "CGTN EN ESPAÑOL",
-          "active": true,
-          "imageUrl": "https://imgur.com/MdnddTz.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8"
-        },
-        {
-          "name": "LOVE THE PLANET",
-          "active": true,
-          "imageUrl": "https://imgur.com/A7sjR6q.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/720p/index.m3u8"
-        },
-        {
-          "name": "NATURE TIME",
-          "active": true,
-          "imageUrl": "https://imgur.com/vGMdGO2.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8"
-        },
-        {
-          "name": "DUCK TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/sYCrnEG.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8"
-        },
-        {
-          "name": "CANAL 24 HORAS",
-          "active": true,
-          "imageUrl": "https://imgur.com/l1DA0ga.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8"
-        },
-        {
-          "name": "IDEAS EN 5 MINUTOS",
-          "active": true,
-          "imageUrl": "https://imgur.com/afD1vRy.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8"
-        },
-        {
-          "name": "BCN GOSPEL CHANNEL",
-          "active": true,
-          "imageUrl": "https://imgur.com/v8aS3x0.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8"
-        },
-        {
-          "name": "CINE WESTERN",
-          "active": true,
-          "imageUrl": "https://imgur.com/f1ghPty.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ES2300005G7"
-        }
-      ]
-    },
-    "pt": {
-      "channels": [
-        {
-          "name": "GOSPEL MOVIE TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/MDrH82w.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8"
-        },
-        {
-          "name": "GOSPEL CARTOON",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/8Uc6aCX.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8"
-        },
-        {
-          "name": "TV ADORANDO JESUS",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/ydpjGos.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://stmv1.srvif.com/tvadorando/tvadorando/playlist.m3u8"
-        },
-        {
-          "name": "TV GIDEÕES",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/HBNvy84.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://tv01.zas.media:1936/gideoes/gideoes/playlist.m3u8"
-        },
-        {
-          "name": "TV MANA BRASIL",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/3pkvHEj.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist_w590993603_b3048000_sleng.m3u8"
-        },
-        {
-          "name": "TV EL SHADAI SALVADOR",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/r3gKNlV.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://stmv1.voxtvhd.com.br/8000/8000/playlist.m3u8?"
-        },
-        {
-          "name": "TV ADORADOR GOPSPEL",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/8aS4PAR.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://stmv1.voxtvhd.com.br/tvadoradorgospel/tvadoradorgospel/playlist.m3u8"
-        },
-        {
-          "name": "MINISTERIO INFANTIL TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/2cFrmt9.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8"
-        },
-        {
-          "name": "TV MÃO AMIGA",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/jep0P2K.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://tv02.zas.media:1936/redemaoamiga/redemaoamiga/playlist.m3u8"
-        },
-        {
-          "name": "REDE MAIS FAMILIA TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/JVJrZRk.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8"
-        },
-        {
-          "name": "REDE SUPER",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/Bw0eDrq.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8"
-        },
-        {
-          "name": "KURIAKOS KIDS",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/lcTG9xB.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://w2.manasat.com:443/kkids/smil:kkids.smil/playlist.m3u8"
-        },
-        {
-          "name": "CINE KURIAKOS",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/eZ4wTZL.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://w2.manasat.com:443/kcine/smil:kcine.smil/playlist.m3u8"
-        },
-        {
-          "name": "TV NOVO TEMPO",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/ED5IKjP.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8"
-        },
-        {
-          "name": "WAY TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/MmoXIW6.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://stream-36723.castr.net/5d714f6a0bd97874e36f14e4/live_057ee4605c1711efbd4135c4457c726c/tracks-v3a1/rewind-3600.ts.m3u8"
-        },
-        {
-          "name": "TV VIDAS",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/xJ7WBar.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://stmv1.srvstm.com/edvaldo7467/edvaldo7467/chunklist_w1811546379.m3u8"
-        },
-        {
-          "name": "FONTE TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/qG700pT.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w533034979.m3u8"
-        },
-        {
-          "name": "MANÁ IGREJA",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/yEEeChB.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8"
-        },
-        {
-          "name": "TV OURO NEGRO",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/fcUj3ho.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://stmv1.srvstm.com/diegodemenezes3156/diegodemenezes3156/chunklist.m3u8"
-        },
-        {
-          "name": "RIT TV",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/Z6jcWGf.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://acesso.ecast.site:3648/live/ritlive.m3u8"
-        },
-        {
-          "name": "REDE GOSPEL",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/JFYL1Bp.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
-        },
-        {
-          "name": "TV AVIVANDO NAÇÕES",
-          "active": true,
-          "imageUrl": "https://i.imgur.com/Xmr0L7g.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8"
-        },
-        {
-          "name": "BOAS NOVAS",
-          "active": true,
-          "imageUrl": "https://imgur.com/YnKOW2q.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
-        },
-        {
-          "name": "DESPERTAR TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/yWxZ3eU.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://cdn.live.br1.jmvstream.com/webtv/pejexypz/playlist/playlist.m3u8"
-        },
-        {
-          "name": "Canal Educação",
-          "active": true,
-          "imageUrl": "https://imgur.com/xWel9zi.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://canaleducacao-stream.ebc.com.br/index.m3u8"
-        },
-        {
-          "name": "TV LIFE AMÉRICA",
-          "active": true,
-          "imageUrl": "https://imgur.com/Z0zVmfP.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8"
-        },
-        {
-          "name": "TV CULTURA",
-          "active": true,
-          "imageUrl": "https://imgur.com/cr4mW7X.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br"
-        },
-        {
-          "name": "CULTNE TV",
-          "active": true,
-          "imageUrl": "https://imgur.com/xWXrpsb.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/video_540960_p_0.m3u8"
-        },
-        {
-          "name": "RECORD NEWS",
-          "active": true,
-          "imageUrl": "https://imgur.com/5cQLJHP.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8"
-        },
-        {
-          "name": "JP NEWS",
-          "active": true,
-          "imageUrl": "https://imgur.com/Fq4yvJo.jpeg",
-          "isIframe": false,
-          "streamUrl": "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8"
-        }
-      ]
-    }
+[
+  {
+    "id": 300,
+    "nombre": "A&E Crime 360",
+    "descripcion": "A&E Crime 360",
+    "categoria": "true crime",
+    "imagenUrl": "https://i.imgur.com/qCxreI9.jpeg",
+    "streamUrl": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8"
   },
-  "lastUpdate": "2026-04-01"
-}
+  {
+    "id": 301,
+    "nombre": "ABC News Live",
+    "descripcion": "ABC News Live",
+    "categoria": "national news",
+    "imagenUrl": "ttps://imgur.com/9XOEwZ4.jpeg",
+    "streamUrl": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8"
+  },
+  {
+    "id": 302,
+    "nombre": "ACCDN",
+    "descripcion": "ACCDN",
+    "categoria": "sports on now",
+    "imagenUrl": "https://imgur.com/GDzdDsx.jpeg",
+    "streamUrl": "https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8"
+  },
+  {
+    "id": 303,
+    "nombre": "Alien Nation by DUST",
+    "descripcion": "Alien Nation by DUST",
+    "categoria": "sci-fi & supernatural",
+    "imagenUrl": "https://imgur.com/lDiDok1.jpeg",
+    "streamUrl": "https://9ca5d68b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1NwYW5pc2hfSExT/playlist.m3u8"
+  },
+  {
+    "id": 304,
+    "nombre": "LOVE THE PLANET",
+    "descripcion": "Always Funny",
+    "categoria": "comedy",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/Q9E1tHDtcu4ngQ==/e8f543f1-3086-4896-a76e-20e86b782bd3/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/720p/index.m3u8"
+  },
+  {
+    "id": 305,
+    "nombre": "CINE WESTERN",
+    "descripcion": "America's Test Kitchen",
+    "categoria": "good eats",
+    "imagenUrl": "https://imgur.com/f1ghPty.jpeg",
+    "streamUrl": "https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ES2300005G7"
+  },
+  {
+    "id": 306,
+    "nombre": "Anger Management",
+    "descripcion": "Anger Management",
+    "categoria": "comedy",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/-046fZgdcWy63w==/c327b06a-5844-429b-a4e1-36717181c962/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/d02b962b-a87d-4205-9e8e-9993ce4133fc/playlist.m3u8"
+  },
+  {
+    "id": 307,
+    "nombre": "Antiques Road Trip",
+    "descripcion": "Antiques Road Trip",
+    "categoria": "lifestyle",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/6CrV3UnGHxlXsg==/3ef7a392-9280-41c8-a8ca-a2a47f83c1d2/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/994b51f6-77bc-4b0f-8dae-89ac99278d1c/playlist.m3u8"
+  },
+  {
+    "id": 308,
+    "nombre": "Are We There Yet",
+    "descripcion": "Are We There Yet",
+    "categoria": "comedy",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/145vfQrEt43fmg==/620cc48a-a6d9-439e-8b38-f857a4ab2630/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/07831268-bf32-40d9-9c08-0ee6df28cbed/playlist.m3u8"
+  },
+  {
+    "id": 309,
+    "nombre": "At the Movies",
+    "descripcion": "At the Movies",
+    "categoria": "movie channels",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/WBQM-1_BtqNwuQ==/fa937ce5-3630-46c4-bdd6-e48132ffdd50/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/c24f15d1-f67e-4534-bfde-76b9a1b74360/playlist.m3u8"
+  },
+  {
+    "id": 310,
+    "nombre": "Ax Men",
+    "descripcion": "Ax Men",
+    "categoria": "reality",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/TO2yewVVnQ_I_Q==/279f34be-8b5c-42a1-a7df-e04f01e95693/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/b1fdb228-c169-48b3-b6a3-8dee2dd91839/playlist.m3u8"
+  },
+  {
+    "id": 311,
+    "nombre": "Baywatch",
+    "descripcion": "Baywatch",
+    "categoria": "classic tv",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/oVhSYhUwR7Oc0w==/68173373-ff90-45ee-bf4d-d33e0f863770/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/83955a5d-baa8-42a6-aa9c-e1fcc0aab891/playlist.m3u8"
+  },
+  {
+    "id": 312,
+    "nombre": "BBC Earth",
+    "descripcion": "BBC Earth",
+    "categoria": "science & nature",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/FgYXmM6oI193Bw==/630f09e9-a354-4d28-a952-2f5c75e09815/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/88810cb1-e91e-4f19-870b-513ffc9a39cb/playlist.m3u8"
+  },
+  {
+    "id": 313,
+    "nombre": "beIN Sports XTRA",
+    "descripcion": "beIN Sports XTRA",
+    "categoria": "sports on now",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/pFDC-NCUwTOAhQ==/937ec9ac-b4bd-4c16-863b-75dc816129d7/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/2fd3d156-b63c-47c8-9d04-5961ddd9cee8/playlist.m3u8"
+  },
+  {
+    "id": 314,
+    "nombre": "beIN Sports XTRA En Español",
+    "descripcion": "beIN Sports XTRA En Español",
+    "categoria": "español",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/ktnXB23ysVjauw==/8968101d-cc65-48c7-a102-0a6a46ca55db/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/6cd31e43-d255-4ab4-b065-7f28bd541047/playlist.m3u8"
+  },
+  {
+    "id": 315,
+    "nombre": "Big 12 Studios",
+    "descripcion": "Big 12 Studios",
+    "categoria": "sports on now",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/3DjU0OuCUDF5kg==/eace1598-de1c-499a-8005-405d5cb5adb5/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/57a9f9ac-881b-4786-bb9e-77259eaed1b6/playlist.m3u8"
+  },
+  {
+    "id": 316,
+    "nombre": "Bloomberg Originals",
+    "descripcion": "Bloomberg Originals",
+    "categoria": "business news",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/ttUV_o1MiFKnFQ==/0536c907-af63-40b6-a8d7-62c190492c5a/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/2d0569a6-6f5c-4d03-b418-3853cf9edc25/playlist.m3u8"
+  },
+  {
+    "id": 317,
+    "nombre": "Bloomberg TV+",
+    "descripcion": "Bloomberg TV+",
+    "categoria": "business news",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/Y-vFFHuAXASLSg==/fde25048-c7d2-4bfb-b744-06755f42d915/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18edfa1360c6/playlist.m3u8"
+  },
+  {
+    "id": 318,
+    "nombre": "Bounce XL",
+    "descripcion": "Bounce XL",
+    "categoria": "black entertainment",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/OXywER_EqefLrA==/c5316804-bd82-46f4-81a4-289a8333cd71/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/80fc3952-4bca-490f-8819-96d1427a992c/playlist.m3u8"
+  },
+  {
+    "id": 319,
+    "nombre": "BritBox Mysteries",
+    "descripcion": "BritBox Mysteries",
+    "categoria": "mystery",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/zgRYzKPlYH59GA==/7d5c01ed-fb34-40c8-8c25-a56895e550f0/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/3ce83511-4f77-491d-ae2d-94f9c5dad672/playlist.m3u8"
+  },
+  {
+    "id": 320,
+    "nombre": "BUZZR",
+    "descripcion": "BUZZR",
+    "categoria": "games & competition",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/805RyWN414Qj2w==/078ff1ec-e958-4672-bf6b-6cad68c21b41/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/fbd43d6e-6370-4220-9ec8-3e435b5b574b/playlist.m3u8"
+  },
+  {
+    "id": 321,
+    "nombre": "CBC News",
+    "descripcion": "CBC News",
+    "categoria": "global news",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/LXRAZJAoCk0umQ==/4de90f79-d72c-4016-a740-93916a615dc2/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/08b1a540-5618-46ce-b6e2-c0dfd1e8786f/playlist.m3u8"
+  },
+  {
+    "id": 322,
+    "nombre": "CBS 6 Richmond WTVR",
+    "descripcion": "CBS 6 Richmond WTVR",
+    "categoria": "local news",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/IdCiTFLY55nWtw==/572073ab-5145-412f-b9d0-6711c73ab661/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/41feddbe-795f-4294-bb8c-32fcb26a7d54/playlist.m3u8"
+  },
+  {
+    "id": 323,
+    "nombre": "Chasing Criminals",
+    "descripcion": "Chasing Criminals",
+    "categoria": "true crime",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/wQYVnzkrog4aKg==/9f0a41fe-3e4d-44cf-ab49-e27914cdd8c1/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/2bbace1f-ef14-4f1d-84f3-4fa07e4cf498/playlist.m3u8"
+  },
+  {
+    "id": 324,
+    "nombre": "Cheaters",
+    "descripcion": "Cheaters",
+    "categoria": "reality",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/6-ZFZ3E9rETkfg==/1a61481a-60fa-4294-9d23-f097b7773866/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/152a88d7-c93b-4f2d-a120-1ab4b35a9a8e/playlist.m3u8"
+  },
+  {
+    "id": 325,
+    "nombre": "Cheddar",
+    "descripcion": "Cheddar",
+    "categoria": "national news",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/5vyFL402sm6PCw==/4975eac2-9902-4ac5-8036-f28a6d9979a0/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/424b524e-1d18-43ba-b806-fc5321f03958/playlist.m3u8"
+  },
+  {
+    "id": 326,
+    "nombre": "Cine EstrellaTV",
+    "descripcion": "Cine EstrellaTV",
+    "categoria": "español",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/aZgcD8MONyszjg==/f19b2e05-e9f9-402a-89bb-955a1559d984/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/3900e8be-5992-4e76-9d58-9f858bee83a2/playlist.m3u8"
+  },
+  {
+    "id": 327,
+    "nombre": "CINEVAULT",
+    "descripcion": "CINEVAULT",
+    "categoria": "movie channels",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/xqvBlof6eLBabw==/a5324ff4-3c3b-472f-b6e3-10d6e6e479c6/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/6386e065-6010-4fd3-b438-407dbb63eb23/playlist.m3u8"
+  },
+  {
+    "id": 328,
+    "nombre": "CINEVAULT: Classics",
+    "descripcion": "CINEVAULT: Classics",
+    "categoria": "movie channels",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/q7g7q3voB_2YBg==/07448ddf-973b-4340-8779-32376a973248/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/29a5146e-2130-4f40-9418-9f66295689ae/playlist.m3u8"
+  },
+  {
+    "id": 329,
+    "nombre": "CINEVAULT: Westerns",
+    "descripcion": "CINEVAULT: Westerns",
+    "categoria": "movie channels",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/szG5bJac-gw89Q==/bda0dfca-9c16-4b67-8930-324a4b7a0dbd/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/a753ad71-b253-4962-8121-dccdd87b8470/playlist.m3u8"
+  },
+  {
+    "id": 330,
+    "nombre": "Classic Cinema",
+    "descripcion": "Classic Cinema",
+    "categoria": "movie channels",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/A2dZdOVEvtP0LQ==/0e4ed995-2f32-48bb-a0f5-c0082c66f37e/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/c9a11be6-98bc-4a1b-a8f0-6236bffa7286/playlist.m3u8"
+  },
+  {
+    "id": 331,
+    "nombre": "Classic Doctor Who",
+    "descripcion": "Classic Doctor Who",
+    "categoria": "sci-fi & supernatural",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/1HVhk0CS1rxY-Q==/2d6dbfc0-0fca-4d2c-abcc-bce692499401/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/2bff0b10-6665-46f2-b205-bb384129c6c1/playlist.m3u8"
+  },
+  {
+    "id": 332,
+    "nombre": "Cold Case Files",
+    "descripcion": "Cold Case Files",
+    "categoria": "true crime",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/pE0CUSSK3twy-A==/1741bc33-42d6-4044-8584-c7875bba243c/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/22e85147-dbbf-4e68-8f53-6d6169cd40c4/playlist.m3u8"
+  },
+  {
+    "id": 333,
+    "nombre": "Comedy Dynamics",
+    "descripcion": "Comedy Dynamics",
+    "categoria": "comedy",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/TaWw2pvzBtKrLA==/bcc2221d-8150-4301-8c6b-98504d781641/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/f35167dd-e5c5-4ab4-8741-85e9bfcb0192/playlist.m3u8"
+  },
+  {
+    "id": 334,
+    "nombre": "Cosmos",
+    "descripcion": "Cosmos",
+    "categoria": "science & nature",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/rkXoT2h0enjHxg==/163c14b1-79c1-491d-a66f-5e04a17e061f/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/e4bf224c-cfad-4ce8-8479-de3568398770/playlist.m3u8"
+  },
+  {
+    "id": 335,
+    "nombre": "Court TV",
+    "descripcion": "Court TV",
+    "categoria": "reality",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/YIq2jr1bUlLbSg==/c2033d61-8138-4bed-abdc-9e512b797080/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/a0044921-4b6f-4e55-bf67-d51471db8b3f/playlist.m3u8"
+  },
+  {
+    "id": 336,
+    "nombre": "Crime Cults Killers",
+    "descripcion": "Crime Cults Killers",
+    "categoria": "true crime",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/NWfJl0bvW721vw==/12e83781-4ab1-491a-826e-8b968c78ec32/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/0b476028-34aa-48e8-babe-5b7172babbb7/playlist.m3u8"
+  },
+  {
+    "id": 337,
+    "nombre": "Crime Scenes",
+    "descripcion": "Crime Scenes",
+    "categoria": "true crime",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/9BAKIgHExOv3Pw==/4f7b9117-d773-4dbc-a9e2-4bb77bae1126/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/f825d887-cd89-4520-9960-699bb3ef076d/playlist.m3u8"
+  },
+  {
+    "id": 338,
+    "nombre": "Crime ThrillHer",
+    "descripcion": "Crime ThrillHer",
+    "categoria": "true crime",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/ymq_yIvmy3wCnQ==/9d6112c8-c0fb-4179-aa34-4025c0153b14/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/aac5f9c2-8d56-4393-a72b-2ebd73dc1135/playlist.m3u8"
+  },
+  {
+    "id": 339,
+    "nombre": "Dance Moms",
+    "descripcion": "Dance Moms",
+    "categoria": "reality",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/YRFVWDVahtPYxQ==/35803cea-97e6-487c-9050-0171abf6c647/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/05dcc935-bb07-4c6d-a061-a9bf5fccc383/playlist.m3u8"
+  },
+  {
+    "id": 340,
+    "nombre": "Dateline 24/7",
+    "descripcion": "Dateline 24/7",
+    "categoria": "true crime",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/PfFhmB-5UPDrNw==/32d8bd46-4cc6-4f9b-8db3-694be23ed0e3/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/c33ee7ce-d9dc-41cd-8960-815637099a65/playlist.m3u8"
+  },
+  {
+    "id": 341,
+    "nombre": "DAZN Ringside",
+    "descripcion": "DAZN Ringside",
+    "categoria": "sports on now",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/7sn8bq9r5mKKlQ==/aa1f99f5-7a57-44a1-b031-b3a27eceab13/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/c92d028f-fd29-4925-9c4d-271bfe4262ec/playlist.m3u8"
+  },
+  {
+    "id": 342,
+    "nombre": "Deal or No Deal USA",
+    "descripcion": "Deal or No Deal USA",
+    "categoria": "games & competition",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/4n7t3rFIeOIn9w==/78811e2c-60c2-4e88-ac2b-c083848b67ce/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/7d2f308c-8fdb-4dc5-8736-3c293bdf5a65/playlist.m3u8"
+  },
+  {
+    "id": 343,
+    "nombre": "Deal Zone",
+    "descripcion": "Deal Zone",
+    "categoria": "reality",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/l4riT9F49dP2eQ==/982ab39c-a6a8-472b-9210-3b009956dee1/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/01ef20d5-307d-4c6a-9d16-a6f3df1addd3/playlist.m3u8"
+  },
+  {
+    "id": 344,
+    "nombre": "Def Jam",
+    "descripcion": "Def Jam",
+    "categoria": "pop culture",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/4lVDZh2p_O-K2g==/a95b393f-af18-4bb2-b5cd-bab323fd961f/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/979c72f9-6121-428b-a47c-4e251e8b7c63/playlist.m3u8"
+  },
+  {
+    "id": 345,
+    "nombre": "Dog the Bounty Hunter",
+    "descripcion": "Dog the Bounty Hunter",
+    "categoria": "reality",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/NhkSkf4JPn8YsA==/d81a47a9-92b7-403c-b65b-d4153a9ebefd/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/d6872865-27e6-4f9c-9e63-ced3057a741c/playlist.m3u8"
+  },
+  {
+    "id": 346,
+    "nombre": "Dr. G: Medical Examiner",
+    "descripcion": "Dr. G: Medical Examiner",
+    "categoria": "documentaries",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/L2ZNPcu09aWW3g==/eb9609d4-9dc0-4460-b61e-0b992ec14668/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/8df64995-7a1f-48d4-9a9d-e51bde5683f4/playlist.m3u8"
+  },
+  {
+    "id": 347,
+    "nombre": "Duck Dynasty",
+    "descripcion": "Duck Dynasty",
+    "categoria": "reality",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/QTimZMfrb5r7IA==/f2f4da49-e449-451e-a1e2-1abf11dcfcf9/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/f21508c8-437e-416c-b02f-340bc1a3da1a/playlist.m3u8"
+  },
+  {
+    "id": 348,
+    "nombre": "Ebony TV by Lionsgate",
+    "descripcion": "Ebony TV by Lionsgate",
+    "categoria": "black entertainment",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/LhylpibCK-OBTg==/2285b7cb-7f26-47e0-8bbf-5b9cae7d3f45/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/490b3e91-00d8-4637-a47b-47c05437c5e0/playlist.m3u8"
+  },
+  {
+    "id": 349,
+    "nombre": "Estrella Games",
+    "descripcion": "Estrella Games",
+    "categoria": "español",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/7q_iLPgksocg-Q==/24f67f95-6f5f-4db9-8e06-bd7227bcd1c9/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/1d55cb91-9acf-4617-9207-0ce792931cb4/playlist.m3u8"
+  },
+  {
+    "id": 350,
+    "nombre": "Estrella News",
+    "descripcion": "Estrella News",
+    "categoria": "español",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/5lwzo7BT_au5Nw==/6693c612-32f8-4e02-be56-0029a4576cb2/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/1c67c086-8938-4961-9b14-2546c4b9be0b/playlist.m3u8"
+  },
+  {
+    "id": 351,
+    "nombre": "EstrellaTV",
+    "descripcion": "EstrellaTV",
+    "categoria": "español",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/AdaMzu2yfHxQEw==/529ef58f-5297-4ba3-8373-cc5efdd68a65/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/b6e73af0-57f8-4691-9832-4b52d3f157ac/playlist.m3u8"
+  },
+  {
+    "id": 352,
+    "nombre": "Euronews",
+    "descripcion": "Euronews",
+    "categoria": "global news",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/R85W7qpShoJ77Q==/bac08913-5ae4-4e98-8a24-18f143bd6e25/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/c841471d-dc14-43fb-9ba5-c266e7edcce4/playlist.m3u8"
+  },
+  {
+    "id": 353,
+    "nombre": "Family Faves",
+    "descripcion": "Family Faves",
+    "categoria": "kids & family",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/97xH-Xj-ZVtn1A==/d989c21f-9244-4791-84c5-14af3db5758a/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/39524910-cb76-47bb-bd3b-1ab8676f0981/playlist.m3u8"
+  },
+  {
+    "id": 354,
+    "nombre": "Family Feud",
+    "descripcion": "Family Feud",
+    "categoria": "games & competition",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/zLKiqAi0J_bcrw==/d94cfde1-49a9-4a2b-ab4f-a2848db4a588/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/a6ee322b-f3d8-4adf-b203-240c2001a6fe/playlist.m3u8"
+  },
+  {
+    "id": 355,
+    "nombre": "Family Unscripted",
+    "descripcion": "Family Unscripted",
+    "categoria": "reality",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/fScebgMxe5tv5Q==/6ea6276d-0cdb-4348-a68f-5b6cc575c8cb/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/f451ef60-2bf2-4f54-8833-5e3495b7ea16/playlist.m3u8"
+  },
+  {
+    "id": 356,
+    "nombre": "FanDuel TV Extra",
+    "descripcion": "FanDuel TV Extra",
+    "categoria": "sports on now",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/ZVrB32uzaY88DA==/033a7701-c6ef-42be-a66e-b517d36a83e1/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/366917f6-e174-4b49-8c0c-1cee6b39aef5/playlist.m3u8"
+  },
+  {
+    "id": 357,
+    "nombre": "Fear Factor USA",
+    "descripcion": "Fear Factor USA",
+    "categoria": "games & competition",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/PW8NJ5Y8-uonLQ==/ae22b756-ab2a-4cb2-bb18-ce281b110449/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/dde54a14-3364-49f8-a1f2-4a56c7e9ebb2/playlist.m3u8"
+  },
+  {
+    "id": 358,
+    "nombre": "FilmRise Black TV",
+    "descripcion": "FilmRise Black TV",
+    "categoria": "black entertainment",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/7LXGiAd-ipmvTA==/d4f0575b-389c-47f7-83c8-ce2a262ee072/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/545f5f32-8308-4e19-85c2-b45c50ca7acf/playlist.m3u8"
+  },
+  {
+    "id": 359,
+    "nombre": "FilmRise Horror",
+    "descripcion": "FilmRise Horror",
+    "categoria": "horror",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/ZsdGmd6KFwGj0w==/954da076-c0e7-4560-9d3a-87f4bcfd3bf3/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/617d4f8d-bf47-41cf-9fe4-808763b07118/playlist.m3u8"
+  },
+  {
+    "id": 360,
+    "nombre": "FilmRise True Crime",
+    "descripcion": "FilmRise True Crime",
+    "categoria": "true crime",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/6mXixL0-R07gAA==/83aa1731-c6a7-42d6-b797-1d2210b665ec/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/c3b718eb-41c4-44c6-be17-09bd160e9d5a/playlist.m3u8"
+  },
+  {
+    "id": 361,
+    "nombre": "Forensic Files",
+    "descripcion": "Forensic Files",
+    "categoria": "true crime",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/GTKfKnG2QHKZ8Q==/cede5a8f-240c-4790-bd37-e1e51583cd0c/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/09b0ad55-05ca-42e9-9538-348224b86dbf/playlist.m3u8"
+  },
+  {
+    "id": 362,
+    "nombre": "FOX LOCAL Los Angeles",
+    "descripcion": "FOX LOCAL Los Angeles",
+    "categoria": "local news",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/CE2atc8vPG0Unw==/0e73f3ca-3e7a-4fa9-82e2-cefdfb798fef/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/b54c2aa5-e243-480f-9384-bbf7bcbddaf1/playlist.m3u8"
+  },
+  {
+    "id": 363,
+    "nombre": "FOX LOCAL New York",
+    "descripcion": "FOX LOCAL New York",
+    "categoria": "local news",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/g-KBFbrM7rcbxQ==/c6c25ba1-c2fd-4e78-973f-3a220337f694/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/7d346182-3c47-4c64-b8d6-cca75b5c8cd7/playlist.m3u8"
+  },
+  {
+    "id": 364,
+    "nombre": "FOX LOCAL Washington DC",
+    "descripcion": "FOX LOCAL Washington DC",
+    "categoria": "local news",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/jwuZZ5FolzN2qw==/8c560c21-a9f7-41c7-82ad-df5674fb9692/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/8243cded-cf4c-489a-a5f1-6a2d1b68c3f8/playlist.m3u8"
+  },
+  {
+    "id": 365,
+    "nombre": "FOX SOUL",
+    "descripcion": "FOX SOUL",
+    "categoria": "black entertainment",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/FuDUf_O9rDdF4w==/bbbed8f2-f666-49ad-8288-03f049585e3d/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/99849dd6-1831-49d8-9cec-408d4e404445/playlist.m3u8"
+  },
+  {
+    "id": 366,
+    "nombre": "Fox Sports Extra",
+    "descripcion": "Fox Sports Extra",
+    "categoria": "español",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/BKBzWDRojggDxQ==/c2e45f1a-4b72-41fa-ac6c-4e402ca4d4f6/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8"
+  },
+  {
+    "id": 367,
+    "nombre": "FOX Sports on Tubi",
+    "descripcion": "FOX Sports on Tubi",
+    "categoria": "sports on now",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/QdomsJC-kJvpPQ==/69e052e9-4264-45cf-93f6-6218f998abc4/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8"
+  },
+  {
+    "id": 368,
+    "nombre": "FOX Weather",
+    "descripcion": "FOX Weather",
+    "categoria": "weather",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/ay2g5uBYZWXJrg==/ac3a8a9b-0068-488b-a5c6-380f373cc446/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/f1fd1442-62f5-4663-9049-c08c27f6d980/playlist.m3u8"
+  },
+  {
+    "id": 369,
+    "nombre": "Fubo Sports Network",
+    "descripcion": "Fubo Sports Network",
+    "categoria": "sports on now",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/aA4hxxCMZ6ghHA==/134cd1d6-d194-49e9-a057-076ea9c0947d/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/d8c035df-1076-4aa6-8628-da2ec80781f9/playlist.m3u8"
+  },
+  {
+    "id": 370,
+    "nombre": "Game Show Central",
+    "descripcion": "Game Show Central",
+    "categoria": "games & competition",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/RKa1amdHUHpnDw==/6f7f3b3f-a050-4254-82eb-2c705dab77a6/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/37d25c4d-ae6a-4182-a830-12e09479ad85/playlist.m3u8"
+  },
+  {
+    "id": 371,
+    "nombre": "Gardening with Monty Don",
+    "descripcion": "Gardening with Monty Don",
+    "categoria": "lifestyle",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/TxaQnAIfPWtxsg==/f92bd310-5477-49fd-a13b-b33bb79f629c/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/d91152d3-557b-4e9e-a7b9-73e0246f826d/playlist.m3u8"
+  },
+  {
+    "id": 372,
+    "nombre": "Generation Drama",
+    "descripcion": "Generation Drama",
+    "categoria": "tv dramas",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/RNwGj8ytg46XQA==/6e4b7a38-ccc1-4f1f-b4ce-626221c91a06/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/a8250c51-f628-4936-97cb-67a931d2d7d8/playlist.m3u8"
+  },
+  {
+    "id": 373,
+    "nombre": "Ghosts are Real",
+    "descripcion": "Ghosts are Real",
+    "categoria": "sci-fi & supernatural",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/mDKhp24vPvhlUw==/f0784641-0d22-4eb3-88a2-f2854aa235f9/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/0893a942-6252-4604-9e43-147c920a3250/playlist.m3u8"
+  },
+  {
+    "id": 374,
+    "nombre": "Gordon Ramsay",
+    "descripcion": "Gordon Ramsay",
+    "categoria": "good eats",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/8MsHilem4UvCjg==/f7eea1c7-409e-4abc-b6f3-1228bb7135d7/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/329f14a6-aa88-4a92-a7ee-6a44b8b1b96c/playlist.m3u8"
+  },
+  {
+    "id": 375,
+    "nombre": "Grit Xtra",
+    "descripcion": "Grit Xtra",
+    "categoria": "classic tv",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/HUDO7xAB_StCsA==/9ba330f3-9b7c-436d-9eb3-ca24daeaa59a/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/e83c161c-4949-499b-b2b6-195337c7fd18/playlist.m3u8"
+  },
+  {
+    "id": 376,
+    "nombre": "GV TV",
+    "descripcion": "GV TV",
+    "categoria": "lifestyle",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/HAvAuNEeeJ23qw==/5643edc3-434a-4b31-8363-b00c62011ad4/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/8b8e2623-a616-4d17-b711-c0f0d2da7aa7/playlist.m3u8"
+  },
+  {
+    "id": 377,
+    "nombre": "Hagerty",
+    "descripcion": "Hagerty",
+    "categoria": "lifestyle",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/3bcGoel-LyvOjA==/63cd15f5-1b92-44ec-aa48-da4c4f90fb8f/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/7d917d9c-66d1-4a15-a323-7ad001137c41/playlist.m3u8"
+  },
+  {
+    "id": 378,
+    "nombre": "HauntTV",
+    "descripcion": "HauntTV",
+    "categoria": "sci-fi & supernatural",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/06QjiMs6ry9yjA==/a9501720-74af-489c-993e-8c38c438e058/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/e1314865-409b-4349-87b8-550453f4e468/playlist.m3u8"
+  },
+  {
+    "id": 379,
+    "nombre": "HBO Boxing",
+    "descripcion": "HBO Boxing",
+    "categoria": "sports on now",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/HTbwLF5yCAdEMg==/85396ad7-4f62-4df1-a6a6-433b0e027106/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/9fe78734-1db2-49b4-af7b-3c89f5f256ad/playlist.m3u8"
+  },
+  {
+    "id": 380,
+    "nombre": "Hersphere",
+    "descripcion": "Hersphere",
+    "categoria": "classic tv",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/-_suTiXTwSzTOg==/2733aed8-2c07-4221-9669-061ef85c0df0/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/33df563a-88ee-46d9-9cc1-3459f2e90710/playlist.m3u8"
+  },
+  {
+    "id": 381,
+    "nombre": "Homeful",
+    "descripcion": "Homeful",
+    "categoria": "lifestyle",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/9PqOkD1C6J3w5w==/790ebde9-0938-4667-9664-62136298f868/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/f6b960bc-57bb-431f-8879-22bb076fbce6/playlist.m3u8"
+  },
+  {
+    "id": 382,
+    "nombre": "Horror by ALTER",
+    "descripcion": "Horror by ALTER",
+    "categoria": "horror",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/irSnS1Oql4l3pg==/f4523b29-6b4d-4b40-ae37-5ff4f79691c5/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/c12f35bf-6465-4e44-b5f7-04ec645689c7/playlist.m3u8"
+  },
+  {
+    "id": 383,
+    "nombre": "How To",
+    "descripcion": "How To",
+    "categoria": "lifestyle",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/hh3yYU0jZKTKWQ==/e7c157ef-0e36-4131-9218-f27076ce26f4/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/8ca40844-aba2-49f8-a58c-37e5597b170e/playlist.m3u8"
+  },
+  {
+    "id": 384,
+    "nombre": "Ice Road Truckers",
+    "descripcion": "Ice Road Truckers",
+    "categoria": "reality",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/euVyA_usYD36bg==/b1be6a58-aedd-4609-a961-1ab6c579d4f8/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/67b1276a-56fb-40ae-bb7b-51dfead73bc1/playlist.m3u8"
+  },
+  {
+    "id": 385,
+    "nombre": "In the Garage",
+    "descripcion": "In the Garage",
+    "categoria": "lifestyle",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/nsc_El-DZ9qhkA==/8ec6200b-cbe1-4e2b-9883-24a37f5f4ab7/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/2fe3d2d3-5dca-4da5-999f-4fcc54f4a34b/playlist.m3u8"
+  },
+  {
+    "id": 386,
+    "nombre": "ION",
+    "descripcion": "ION",
+    "categoria": "tv dramas",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/44L0PIfgTmwN8g==/d7bf80e8-e8bc-4883-9c2b-551d1d7ab80c/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/4ed608c9-863e-4ea5-91d1-27549ef1adda/playlist.m3u8"
+  },
+  {
+    "id": 387,
+    "nombre": "ION Mystery",
+    "descripcion": "ION Mystery",
+    "categoria": "mystery",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/0e6dyfopOhknOQ==/b74f76d9-1cd3-4ff8-861a-c4613ef3ca3e/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/f1a3d6ca-6a7e-453b-8e89-dc06a46c870c/playlist.m3u8"
+  },
+  {
+    "id": 388,
+    "nombre": "ION Plus",
+    "descripcion": "ION Plus",
+    "categoria": "tv dramas",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/kgPnfzyjJ7Ef4g==/979fd7e0-d2df-4c2b-90d0-af690c9405cb/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/2fd87230-572e-47ef-8bae-c282f99b174c/playlist.m3u8"
+  },
+  {
+    "id": 389,
+    "nombre": "Kartoon Channel!",
+    "descripcion": "Kartoon Channel!",
+    "categoria": "kids & family",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/Ack4AYWUtvd8Gw==/4258e598-4722-409b-8e3c-625f800ba9ba/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/ede882c2-43d6-4eca-9351-ea29e84dc217/playlist.m3u8"
+  },
+  {
+    "id": 390,
+    "nombre": "LiveNOW from FOX",
+    "descripcion": "LiveNOW from FOX",
+    "categoria": "national news",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/cAw_Vy70Jq8YoQ==/f71c682e-37f8-4719-aa89-546d1c4c8bfe/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/a576cd08-8cbc-43e2-a873-8647b363abcb/playlist.m3u8"
+  },
+  {
+    "id": 391,
+    "nombre": "Living with Evil",
+    "descripcion": "Living with Evil",
+    "categoria": "true crime",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/Gtc0EGbaaaEvzA==/e4f84ab2-4935-4063-ad29-cc852b91e3b7/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/963f4a88-fe30-44f7-ae20-09a08eeb7cf7/playlist.m3u8"
+  },
+  {
+    "id": 392,
+    "nombre": "Localish",
+    "descripcion": "Localish",
+    "categoria": "national news",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/MTYhDJTHDa_L9Q==/577b5b8e-307a-4535-a8fc-e18563a11950/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/ed84a986-071d-484d-b835-e6f0585bff83/playlist.m3u8"
+  },
+  {
+    "id": 393,
+    "nombre": "LOL! Network",
+    "descripcion": "LOL! Network",
+    "categoria": "comedy",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/x_rvSRytPq3i6A==/559dcbc7-ce1e-4b6e-8f21-ef614bf9efca/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/79965fb8-680b-4e32-aa2a-4e93851cb4e2/playlist.m3u8"
+  },
+  {
+    "id": 394,
+    "nombre": "Love & Desire",
+    "descripcion": "Love & Desire",
+    "categoria": "reality",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/8ESp0_kjC0rS0A==/566b6cbc-6c90-4e0c-8a8d-3f25a4b375c4/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/d25f9356-8a66-41fb-826d-3545848cfec8/playlist.m3u8"
+  },
+  {
+    "id": 395,
+    "nombre": "Love & Marriage",
+    "descripcion": "Love & Marriage",
+    "categoria": "reality",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/Fuxn83kmLxsFYw==/7b9a7209-d8b1-4c1e-9132-0407a473ed8f/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/550da437-5c67-44a3-a95e-a897fc7d6612/playlist.m3u8"
+  },
+  {
+    "id": 396,
+    "nombre": "Love Nature",
+    "descripcion": "Love Nature",
+    "categoria": "science & nature",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/vJproBq1EsozMw==/1c502e7b-e295-4f49-a248-cbe59b17d0f1/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/470abd8a-dea0-41a1-98bc-bf7f98671ab5/playlist.m3u8"
+  },
+  {
+    "id": 397,
+    "nombre": "Maverick Black Cinema",
+    "descripcion": "Maverick Black Cinema",
+    "categoria": "black entertainment",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/AgOeT1VSk4LO5g==/15ddd8ef-f96c-43eb-9640-673f573d4eeb/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/f266b19b-a2b7-4e81-af7d-97915077cff3/playlist.m3u8"
+  },
+  {
+    "id": 398,
+    "nombre": "Midsomer Murders",
+    "descripcion": "Midsomer Murders",
+    "categoria": "mystery",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/out8VdNya-rkZw==/34fa2e5d-6c68-4012-8c19-cc4afe6ad726/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/0ebfd814-cf17-4d01-a0e5-19f8df07cf68/playlist.m3u8"
+  },
+  {
+    "id": 399,
+    "nombre": "MLB",
+    "descripcion": "MLB",
+    "categoria": "sports on now",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/_665V4AxYSxlLA==/652d017f-fb2a-460e-a528-ee54cc6ed872/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/94ef022e-59ad-486a-81bb-f817613e3df1/playlist.m3u8"
+  },
+  {
+    "id": 400,
+    "nombre": "MotorTrend FAST TV",
+    "descripcion": "MotorTrend FAST TV",
+    "categoria": "reality",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/27Elei7FoHZCIw==/db233fc0-5e25-4078-977c-324669c03581/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8"
+  },
+  {
+    "id": 401,
+    "nombre": "MovieSphere",
+    "descripcion": "MovieSphere",
+    "categoria": "movie channels",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/-qf0HyYx16Zneg==/262557d9-a277-464c-b915-e200128f48a0/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/050aaad2-b60d-4525-9e2e-2465b85cfa43/playlist.m3u8"
+  },
+  {
+    "id": 402,
+    "nombre": "MrBeast",
+    "descripcion": "MrBeast",
+    "categoria": "pop culture",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/E6SaHrQioslH-g==/1cd9fa65-16d9-40e6-81c3-a81ce2663736/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/e8f55e68-0e26-44f2-afac-c132218b4ce9/playlist.m3u8"
+  },
+  {
+    "id": 403,
+    "nombre": "Mysterious Worlds",
+    "descripcion": "Mysterious Worlds",
+    "categoria": "sci-fi & supernatural",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/weH_uFv9I7eAlw==/686ca4a9-30ac-42d6-bdbf-70199f7912d9/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/8fa6f1c5-c602-426c-999d-8651180ca7ff/playlist.m3u8"
+  },
+  {
+    "id": 404,
+    "nombre": "Mystery Science Theater 3000",
+    "descripcion": "Mystery Science Theater 3000",
+    "categoria": "comedy",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/crRlar4nj5AluA==/62dc5afa-c235-41ae-904e-e77b6c93e93e/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/da2d381e-93a5-466c-8807-74e18bac08f1/playlist.m3u8"
+  },
+  {
+    "id": 405,
+    "nombre": "NASCAR",
+    "descripcion": "NASCAR",
+    "categoria": "sports on now",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/DoxbhLiGuekMbA==/7739dd1a-423d-4a56-92c7-d27129356eb0/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/3404f25c-24bd-4ced-9d72-f2b4d5f63c57/playlist.m3u8"
+  },
+  {
+    "id": 406,
+    "nombre": "Nash Bridges",
+    "descripcion": "Nash Bridges",
+    "categoria": "classic tv",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/jRjZ9d6c8zXLwg==/13cb369b-10c8-4017-82f6-3658ff67b899/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/597417af-5589-4e08-a432-2ac5034e0a71/playlist.m3u8"
+  },
+  {
+    "id": 407,
+    "nombre": "NBA FAST Channel",
+    "descripcion": "NBA FAST Channel",
+    "categoria": "sports on now",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/X64MlRvuEKn1ZQ==/7d258341-afc7-4022-acd4-ce330c6db573/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/553b8d5e-fd2a-4a61-bdfa-73b34c299d75/playlist.m3u8"
+  },
+  {
+    "id": 408,
+    "nombre": "NBC News NOW",
+    "descripcion": "NBC News NOW",
+    "categoria": "national news",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/SAA3cS-V06_Q3w==/dd770066-df10-4187-b8d5-c31d0b9c0a1f/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/df3e4d3f-fb37-4cf0-8bdb-ec9035d41d3b/playlist.m3u8"
+  },
+  {
+    "id": 409,
+    "nombre": "News 12 New York",
+    "descripcion": "News 12 New York",
+    "categoria": "local news",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/WBTHyRV-rcHRIg==/08fde41e-4252-484f-8b51-17124415b90c/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/3b3697be-6add-4564-abb1-9358014f2d3a/playlist.m3u8"
+  },
+  {
+    "id": 410,
+    "nombre": "NFL Channel",
+    "descripcion": "NFL Channel",
+    "categoria": "sports on now",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/SH4jUM0alBEcjw==/7bffc557-8e66-4b08-b279-55ece734e19f/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/222becf3-ff56-40cd-bca5-fbbafebe8b0d/playlist.m3u8"
+  },
+  {
+    "id": 411,
+    "nombre": "NHL",
+    "descripcion": "NHL",
+    "categoria": "sports on now",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/dCshytDQ2HKRow==/085bca04-c806-4a7f-bb0c-d38fe352f3e3/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/2cfb4368-6c7e-4075-bc1f-69f7141a8012/playlist.m3u8"
+  },
+  {
+    "id": 412,
+    "nombre": "NHRA TV",
+    "descripcion": "NHRA TV",
+    "categoria": "sports on now",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/CFFAOljNa3xxLg==/20c45879-2263-415e-8d68-2f5522c6ba81/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/2b55583d-cfa8-440b-8f38-a0aef9950f75/playlist.m3u8"
+  },
+  {
+    "id": 413,
+    "nombre": "Nikita",
+    "descripcion": "Nikita",
+    "categoria": "tv dramas",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/XgAOBC0Zv6egUA==/bf6f69f6-4495-4bc2-94f9-fd91877e36f0/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/69aad4c1-9bb9-49db-9b2a-f8b26a7c3582/playlist.m3u8"
+  },
+  {
+    "id": 414,
+    "nombre": "Nosey",
+    "descripcion": "Nosey",
+    "categoria": "reality",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/OlwIhGg4Q5ahzw==/22eaf49e-a2ad-4da4-afbd-66aedb72c78f/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/d0ca4057-94d2-44df-9277-fc715b261596/playlist.m3u8"
+  },
+  {
+    "id": 415,
+    "nombre": "OuterSphere",
+    "descripcion": "OuterSphere",
+    "categoria": "sci-fi & supernatural",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/nn7juGtf37zWFQ==/9d4070e4-10ea-42f7-8598-d56da77c07e0/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/ab6d635a-6d89-4228-93a6-c3a98980450c/playlist.m3u8"
+  },
+  {
+    "id": 416,
+    "nombre": "Outside",
+    "descripcion": "Outside",
+    "categoria": "sports on now",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/LaMBCxpEyHzL7Q==/ca066103-7f12-4fe3-a7b4-782918a9a7f2/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/e5155e67-1567-41c8-8964-8ef94f7633ff/playlist.m3u8"
+  },
+  {
+    "id": 417,
+    "nombre": "Paws & Claws",
+    "descripcion": "Paws & Claws",
+    "categoria": "science & nature",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/No1F3Z5OhrEhmQ==/9aa4b3ac-db29-4a50-9c78-973cdeb2bed6/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/29c0f72f-e546-4599-a7d5-ad1c2928d531/playlist.m3u8"
+  },
+  {
+    "id": 418,
+    "nombre": "PGA TOUR",
+    "descripcion": "PGA TOUR",
+    "categoria": "sports on now",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/EGd_xCiGQngB4Q==/168854e2-e698-4fee-8e2a-5e21c7b278c4/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/5efa4318-2569-4979-97b9-ad984427ba37/playlist.m3u8"
+  },
+  {
+    "id": 419,
+    "nombre": "PLL Network",
+    "descripcion": "PLL Network",
+    "categoria": "sports on now",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/j0b-4BUXJKvDYg==/c41d5617-9035-4146-bafa-be2d9de2968c/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/a85525c7-da51-4d48-87bc-d5de1e7ca02f/playlist.m3u8"
+  },
+  {
+    "id": 420,
+    "nombre": "PokerGO",
+    "descripcion": "PokerGO",
+    "categoria": "sports on now",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/Sux8P_pCFoYiMw==/3a6b2ab5-d20e-4b25-9231-65bc11c8b3c0/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/fe9537a5-c7cc-4a74-83df-4c6243922a70/playlist.m3u8"
+  },
+  {
+    "id": 421,
+    "nombre": "Real Madrid",
+    "descripcion": "Real Madrid",
+    "categoria": "sports on now",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/XQZv-YqIRLHe5Q==/4bb7bdf1-16ba-4d7c-b077-893f549c4022/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/5cfbe5af-a9c2-45cc-ade9-8e13e39fa2d0/playlist.m3u8"
+  },
+  {
+    "id": 422,
+    "nombre": "REELZ Famous & Infamous",
+    "descripcion": "REELZ Famous & Infamous",
+    "categoria": "pop culture",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/kqMJDobqh7FFxw==/942bdeac-9411-4562-a78c-5402d04711a7/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/6e2a5ee3-d2ea-44db-bc14-b4d3e85442c2/playlist.m3u8"
+  },
+  {
+    "id": 423,
+    "nombre": "Revolt Mixtape",
+    "descripcion": "Revolt Mixtape",
+    "categoria": "black entertainment",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/4B20EMNDD-lyNA==/42481df4-a22f-4a86-90db-db1f96840422/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/b7f36144-8c35-474a-8428-dbe9d1f8224c/playlist.m3u8"
+  },
+  {
+    "id": 424,
+    "nombre": "Scripps News",
+    "descripcion": "Scripps News",
+    "categoria": "national news",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/HlP19CQuIAuOFQ==/d7933070-b9eb-4ce4-9c59-9631dd5815be/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/95479c29-c997-4f1d-9feb-b5a4981504aa/playlist.m3u8"
+  },
+  {
+    "id": 425,
+    "nombre": "Silent Witness and New Tricks",
+    "descripcion": "Silent Witness and New Tricks",
+    "categoria": "mystery",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/qPCndKY47hw8Hg==/2601f920-7f1b-4a8f-a583-00b77ede189e/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/0dbee090-5f28-4184-8d79-95fe8756904b/playlist.m3u8"
+  },
+  {
+    "id": 426,
+    "nombre": "Stadium",
+    "descripcion": "Stadium",
+    "categoria": "sports on now",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/lFBkJXab6LGjCw==/ffec7159-bf94-4c51-9544-5162e5a57b2f/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/30fec756-4948-4ecb-98ae-2fda1cd0ee95/playlist.m3u8"
+  },
+  {
+    "id": 427,
+    "nombre": "Supermarket Sweep",
+    "descripcion": "Supermarket Sweep",
+    "categoria": "games & competition",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/SgvPUicxPJSW3w==/5a1c3037-9440-4644-a0fd-489d5554ff1c/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/fcbe451e-2271-4e64-8c4d-0ece86e0ac76/playlist.m3u8"
+  },
+  {
+    "id": 428,
+    "nombre": "Sweet Escapes",
+    "descripcion": "Sweet Escapes",
+    "categoria": "good eats",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/hOOLW28Lh8ilNA==/db730c00-68a8-4147-bbab-a07b081c3179/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/7b765297-03ed-4d4a-90d7-3879e776c938/playlist.m3u8"
+  },
+  {
+    "id": 429,
+    "nombre": "The Biggest Loser",
+    "descripcion": "The Biggest Loser",
+    "categoria": "games & competition",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/SmdEjm-gnSGTfQ==/d15c6bd1-7006-4386-beff-047dfe28d2d2/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/81fb64f1-6881-4ac0-b6d3-f663b4298b94/playlist.m3u8"
+  },
+  {
+    "id": 430,
+    "nombre": "The Bob Ross Channel",
+    "descripcion": "The Bob Ross Channel",
+    "categoria": "lifestyle",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/MNKfxuR8tSl4kw==/f5c01303-17e6-44a4-826e-d03be6b05d10/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/a79bf16e-b53d-434c-a5dc-b7d3ba647cdc/playlist.m3u8"
+  },
+  {
+    "id": 431,
+    "nombre": "The Breakfast Club on iHeartRadio",
+    "descripcion": "The Breakfast Club on iHeartRadio",
+    "categoria": "reality",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/aJMiL7C9b6KOFA==/fa2f8c60-0492-4a50-a92d-4a034e9f89f3/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/01eff731-e659-4011-9c28-bc1e7b0d8151/playlist.m3u8"
+  },
+  {
+    "id": 432,
+    "nombre": "The Carol Burnett Show",
+    "descripcion": "The Carol Burnett Show",
+    "categoria": "comedy",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/vsl9mu8sFd2vZA==/0de31780-db48-47ea-9279-955ddaa089b5/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/dbce464b-6541-43dd-a847-01f68b21b4ff/playlist.m3u8"
+  },
+  {
+    "id": 433,
+    "nombre": "The Conners",
+    "descripcion": "The Conners",
+    "categoria": "comedy",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/AyOfE8Hc25FUCg==/2519aeef-b530-4f17-b7e7-16dfce1f1bd0/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/2e2e56f4-7352-4d4f-80b5-f8a9c0c494ef/playlist.m3u8"
+  },
+  {
+    "id": 434,
+    "nombre": "The FBI",
+    "descripcion": "The FBI",
+    "categoria": "classic tv",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/MJ3G3pEnFICwhQ==/44ac2d3a-3a63-46f3-badb-fe3f8afa7600/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/0e9b3dc6-8b19-4854-b0d1-df85b9ffa282/playlist.m3u8"
+  },
+  {
+    "id": 435,
+    "nombre": "The FBI Files",
+    "descripcion": "The FBI Files",
+    "categoria": "true crime",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/yNk8CaPkC_sfAg==/56b0a95e-2750-408d-9059-2c4c170e7dca/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/97cfa140-886e-45a3-9030-b68acf48eef7/playlist.m3u8"
+  },
+  {
+    "id": 436,
+    "nombre": "The Jack Hanna Channel",
+    "descripcion": "The Jack Hanna Channel",
+    "categoria": "science & nature",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/5qAoREotoqn6Yg==/4151b64f-afe8-4eb0-9f5a-82865d67d89d/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/db531789-62a9-4855-9aed-02bd32dd58bc/playlist.m3u8"
+  },
+  {
+    "id": 437,
+    "nombre": "The Johnny Carson Show",
+    "descripcion": "The Johnny Carson Show",
+    "categoria": "comedy",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/RZtacPj-Ofpc6g==/c468221e-d75c-428a-bfaa-cdb5277c4c3b/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/196721fd-dabe-4799-8edc-d8e70f63eb31/playlist.m3u8"
+  },
+  {
+    "id": 438,
+    "nombre": "The Masked Singer",
+    "descripcion": "The Masked Singer",
+    "categoria": "games & competition",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/r5v1Bfy6wRbIBQ==/ff6398da-6988-4b07-85ed-d732eb70b6aa/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/0e38deb7-55a8-4ae3-a6a7-295b4fd8d0fc/playlist.m3u8"
+  },
+  {
+    "id": 439,
+    "nombre": "The Rifleman",
+    "descripcion": "The Rifleman",
+    "categoria": "classic tv",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/DOQgBnhhr4GJgw==/e80bdb91-a817-463c-84b6-f3e4be903428/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/99f15b5f-7ca1-4192-8399-de54b27a4e05/playlist.m3u8"
+  },
+  {
+    "id": 440,
+    "nombre": "theGrio",
+    "descripcion": "theGrio",
+    "categoria": "national news",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/vZzWno5NjFrM6w==/a9b7d587-ab4a-4d4d-bc0d-6f14da292f9f/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/872ed469-a2cf-41d6-a35c-726bec708189/playlist.m3u8"
+  },
+  {
+    "id": 441,
+    "nombre": "TMZ",
+    "descripcion": "TMZ",
+    "categoria": "pop culture",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/Pco25VeQ5mNv9Q==/ac6425fe-0808-4566-ba6a-066d22dc3829/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/13228e92-c0a2-4c7f-b3f5-a35148426238/playlist.m3u8"
+  },
+  {
+    "id": 442,
+    "nombre": "Today All Day",
+    "descripcion": "Today All Day",
+    "categoria": "national news",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/aNLZVZ3OZeNFIQ==/bf04720c-d113-4728-a69a-a0ebc800e7b3/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/d51de949-6ef0-4e1e-a370-4602eaf9f466/playlist.m3u8"
+  },
+  {
+    "id": 443,
+    "nombre": "Top Gear",
+    "descripcion": "Top Gear",
+    "categoria": "lifestyle",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/g_SN11NtWr_adw==/45d06aa3-8a80-4864-a7b0-25a606d26be3/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/6d84d716-66f1-4f2d-8978-d0a6b99500ed/playlist.m3u8"
+  },
+  {
+    "id": 444,
+    "nombre": "Top Rank Classics",
+    "descripcion": "Top Rank Classics",
+    "categoria": "sports on now",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/TyglNt0slET5Ow==/9ecc2de5-5b17-4d2e-a407-ced0d00af082/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/2a18fa03-db06-4f39-96c7-1751a3857698/playlist.m3u8"
+  },
+  {
+    "id": 445,
+    "nombre": "Torque",
+    "descripcion": "Torque",
+    "categoria": "reality",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/DkGOycFi4KAMlQ==/8c846b53-83bc-4c0b-a9c0-ff323c46c057/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/2a57c116-5540-439a-8703-8a20e21c6ea5/playlist.m3u8"
+  },
+  {
+    "id": 446,
+    "nombre": "Total Crime",
+    "descripcion": "Total Crime",
+    "categoria": "true crime",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/g-OH5ZVUG2WMlg==/7e8b8518-8447-4c08-9193-55efa2fff3bc/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/71fa1242-fb07-4d70-b30b-f4aaf76ddf2a/playlist.m3u8"
+  },
+  {
+    "id": 447,
+    "nombre": "Travel + Adventure",
+    "descripcion": "Travel + Adventure",
+    "categoria": "lifestyle",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/CYTNzlV6patUNA==/d2ad86e1-c1b3-4758-abec-a75aabd439d0/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/399519f7-b848-4c8e-aaac-884546a1d916/playlist.m3u8"
+  },
+  {
+    "id": 448,
+    "nombre": "TV One Crime & Justice",
+    "descripcion": "TV One Crime & Justice",
+    "categoria": "true crime",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/uVMSPfRWQO9U4Q==/bed0ab9e-637e-4b96-a808-ee8b748c563f/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/e584c8c3-a4c4-4281-afd7-999492abcc23/playlist.m3u8"
+  },
+  {
+    "id": 449,
+    "nombre": "UFC",
+    "descripcion": "UFC",
+    "categoria": "sports on now",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/lysgF2PEmQ0E0w==/a2adde61-ad0b-49bd-bf32-ec660546a380/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/dd6d627f-f0f8-48bb-b627-7f7c4fceec37/playlist.m3u8"
+  },
+  {
+    "id": 450,
+    "nombre": "Unique Lives",
+    "descripcion": "Unique Lives",
+    "categoria": "reality",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/G2-HT4Bu9SL06w==/a7d3ffc6-0efb-4136-9faf-1be405d7a9dd/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/5602f3d6-c62c-4109-8de7-b7d2434ab63b/playlist.m3u8"
+  },
+  {
+    "id": 451,
+    "nombre": "Unsolved Mysteries",
+    "descripcion": "Unsolved Mysteries",
+    "categoria": "true crime",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/5DVrF33Bfks10w==/864892f9-3ab0-4950-9f8b-189ec2d92c20/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/6ed45c26-d783-4e5c-8674-bc308291b2e7/playlist.m3u8"
+  },
+  {
+    "id": 452,
+    "nombre": "Untold Stories of the E.R.",
+    "descripcion": "Untold Stories of the E.R.",
+    "categoria": "documentaries",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/vUEzIMchDmmfWQ==/cdb009e8-90ea-4ef5-b12e-9395702b4a17/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/e135f994-9d0c-4128-a643-759705edf9c9/playlist.m3u8"
+  },
+  {
+    "id": 453,
+    "nombre": "UnXplained Zone",
+    "descripcion": "UnXplained Zone",
+    "categoria": "true crime",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/3q3b4FMNqdo_eQ==/dfdffa87-f1cf-4849-baab-6d55e3c3f3d6/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/b78ffdc7-9b64-43b2-aa6c-1e3d5e782048/playlist.m3u8"
+  },
+  {
+    "id": 454,
+    "nombre": "Very Boston WCVB",
+    "descripcion": "Very Boston WCVB",
+    "categoria": "local news",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/VGMbk0qWGrRw2Q==/8da5a668-c2a6-4e29-aebd-e1e0e02e06b6/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/d133d4a2-5013-4630-addf-b67c393d35ba/playlist.m3u8"
+  },
+  {
+    "id": 455,
+    "nombre": "Vice",
+    "descripcion": "Vice",
+    "categoria": "pop culture",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/WEg22QkWst3IjQ==/e9857bc6-ee9a-4823-b3ea-ab97d0a85143/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/16f9c4de-29fb-4c1b-b878-180b699a4e8a/playlist.m3u8"
+  },
+  {
+    "id": 456,
+    "nombre": "Wanted: Dead or Alive",
+    "descripcion": "Wanted: Dead or Alive",
+    "categoria": "classic tv",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/STMcZKpf8MyAMA==/5583c936-6239-4da3-b733-a9aaeebbc2fe/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/f4c47d84-a50e-4053-8fd5-827f2e62a401/playlist.m3u8"
+  },
+  {
+    "id": 457,
+    "nombre": "Watchlist",
+    "descripcion": "Watchlist",
+    "categoria": "tv dramas",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/zi--5VQF6X4ojQ==/3f255caf-ac21-456a-add4-31745babe3cb/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/b399c32f-0c5f-4609-a2f2-94a773397b44/playlist.m3u8"
+  },
+  {
+    "id": 458,
+    "nombre": "Waypoint TV",
+    "descripcion": "Waypoint TV",
+    "categoria": "lifestyle",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/j5_965C-CDR-0w==/4b2bb660-9424-45c9-ad67-9c7099f60cbf/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/d419b6d7-3ede-4ca6-9d7c-3f34b039f7ab/playlist.m3u8"
+  },
+  {
+    "id": 459,
+    "nombre": "WBAL Very Baltimore 11",
+    "descripcion": "WBAL Very Baltimore 11",
+    "categoria": "local news",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/az_Ve_cR-qSD9Q==/774c9b9e-6011-422f-b77b-8715b998c56d/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/86ece219-b5d8-478c-861a-76f58b9824da/playlist.m3u8"
+  },
+  {
+    "id": 460,
+    "nombre": "Welcome Home",
+    "descripcion": "Welcome Home",
+    "categoria": "lifestyle",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/4tVxJjWv-mtt6Q==/2f1fd1c5-7bdc-475f-841f-9a2a9f3ae75b/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/edb986fe-9600-4f83-8b6d-8593986f2f3a/playlist.m3u8"
+  },
+  {
+    "id": 461,
+    "nombre": "WGAL Very Lancaster 8",
+    "descripcion": "WGAL Very Lancaster 8",
+    "categoria": "local news",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/Y5IOPVHpwuWl-A==/04771d5a-5adf-4e6d-bbdc-d0815e36b5a3/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/983a4bbf-3ed1-49ff-a577-cf2039c72f4c/playlist.m3u8"
+  },
+  {
+    "id": 462,
+    "nombre": "Wipeout Xtra",
+    "descripcion": "Wipeout Xtra",
+    "categoria": "games & competition",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/mQtAXyEqZKAzWw==/991109c5-dce1-4eac-a23f-1d4713c52cbf/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/ea70dfb3-0a75-4ca1-9151-476fb43f6230/playlist.m3u8"
+  },
+  {
+    "id": 463,
+    "nombre": "WMAR 2 Baltimore",
+    "descripcion": "WMAR 2 Baltimore",
+    "categoria": "local news",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/0S7TySvmLTCQWA==/1ca1f944-34e3-4735-bf58-27af61762549/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/e6d38135-8231-40dc-8941-35df2190dfc4/playlist.m3u8"
+  },
+  {
+    "id": 464,
+    "nombre": "WMUR New Hampshire 9",
+    "descripcion": "WMUR New Hampshire 9",
+    "categoria": "local news",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/Uz8GwqS9fYvFgw==/08428b49-8dd0-446e-9b7b-c7aa1c824400/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/8852afd3-e359-4e34-a7b0-528fa09d057a/playlist.m3u8"
+  },
+  {
+    "id": 465,
+    "nombre": "Women's Sports Network",
+    "descripcion": "Women's Sports Network",
+    "categoria": "sports on now",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/Wk6C3cgdBqufEw==/4a1d8a18-5086-438b-9298-7381aee4cb83/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/d4c5e01e-75ff-4e1d-abb1-d240e3a3694a/playlist.m3u8"
+  },
+  {
+    "id": 466,
+    "nombre": "World's Most Evil Killers",
+    "descripcion": "World's Most Evil Killers",
+    "categoria": "true crime",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/zQ42RwC4hfA5jg==/0aa317c5-3f1c-4949-9e48-3f257c8293c4/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/45c470dd-eac5-45db-939a-8ad159d26ee3/playlist.m3u8"
+  },
+  {
+    "id": 467,
+    "nombre": "WUSA DC/MD/VA 9",
+    "descripcion": "WUSA DC/MD/VA 9",
+    "categoria": "local news",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/rfXKDWh9uqkgig==/16ed6354-f9fc-4b18-9f64-8c7ce0b786f8/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/ab1704f0-7075-4fe7-9263-b25af145e503/playlist.m3u8"
+  },
+  {
+    "id": 468,
+    "nombre": "Xplore",
+    "descripcion": "Xplore",
+    "categoria": "science & nature",
+    "imagenUrl": "https://canvas-lb.tubitv.com/opts/rHjNqeTfLE8Pow==/075f8826-fdc1-4007-aed3-abe290b90ff7/CHgQeDoFMS4xLjhAAQ==",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/f9eae274-e379-4d83-8a2b-bbb4c8f015aa/playlist.m3u8"
+  }
+]
