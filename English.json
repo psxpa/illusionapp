@@ -1,1122 +1,2690 @@
 [
   {
     "id": 300,
-    "nombre": "A&E Crime 360",
-    "descripcion": "A&E Crime 360",
-    "categoria": "true crime",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/ca2EvME4kxBv3g==/f96dfd36-d049-4c63-ae07-410f192f18b6/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ES4700001VS"
+    "nombre": "24 Hour Free Movies",
+    "descripcion": "24 Hour Free Movies",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/iSVnzR1.png",
+    "streamUrl": "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8"
   },
   {
     "id": 301,
-    "nombre": "ABC News Live",
-    "descripcion": "ABC News Live",
-    "categoria": "national news",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/sE__djfzPMUmUg==/a3419933-ef7c-435f-a963-10be102b0dcd/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8"
+    "nombre": "27 TwentySeven [Geo-blocked]",
+    "descripcion": "27 TwentySeven [Geo-blocked]",
+    "categoria": "movies",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/512px-Twentyseven_logo.svg.png",
+    "streamUrl": "https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8"
   },
   {
     "id": 302,
-    "nombre": "ACCDN",
-    "descripcion": "ACCDN",
-    "categoria": "sports on now",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/gAMYTgSLjunYyg==/8928da85-c7af-4da6-a0a1-9a32e3e5b2e8/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/f1e8b38c-7c04-4630-9d0d-7636d492c6d6/playlist.m3u8"
+    "nombre": "30A TV Classic Movies",
+    "descripcion": "30A TV Classic Movies",
+    "categoria": "movies",
+    "imagenUrl": "https://babaktv.com/wp-content/uploads/2023/09/30A-Classi-Movies.jpeg",
+    "streamUrl": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8"
   },
   {
     "id": 303,
-    "nombre": "Alien Nation by DUST",
-    "descripcion": "Alien Nation by DUST",
-    "categoria": "sci-fi & supernatural",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/njHJKBjzRWEHlw==/48090b52-3410-4b0e-a2b1-7386e9700c1c/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/89665105-448b-4e13-b89a-127f3eed0e45/playlist.m3u8"
+    "nombre": "70s Cinema",
+    "descripcion": "70s Cinema",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/mgXeEE4.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263252-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c57f1f3-2078-4f92-a4b5-6cd444220a70"
   },
   {
     "id": 304,
-    "nombre": "Always Funny",
-    "descripcion": "Always Funny",
-    "categoria": "comedy",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/Q9E1tHDtcu4ngQ==/e8f543f1-3086-4896-a76e-20e86b782bd3/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/6181c031-9a68-4206-b0e6-7655f96ab6bc/playlist.m3u8"
+    "nombre": "80s Rewind",
+    "descripcion": "80s Rewind",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/nkEeYfI.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263253-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b52c759c-a26c-4e65-828b-14277d6117e0"
   },
   {
     "id": 305,
-    "nombre": "America's Test Kitchen",
-    "descripcion": "America's Test Kitchen",
-    "categoria": "good eats",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/xavcKhvDE2kuIw==/9804e812-0cda-4c43-b18e-ed951546a0b6/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/c1bdcaaf-728a-4656-9763-f766ea7a12e0/playlist.m3u8"
+    "nombre": "90s Throwback",
+    "descripcion": "90s Throwback",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/KoGko6M.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265961-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f86833-3dd6-41ac-a9b8-4a4ec8873306"
   },
   {
     "id": 306,
-    "nombre": "Anger Management",
-    "descripcion": "Anger Management",
-    "categoria": "comedy",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/-046fZgdcWy63w==/c327b06a-5844-429b-a4e1-36717181c962/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/d02b962b-a87d-4205-9e8e-9993ce4133fc/playlist.m3u8"
+    "nombre": "312 Кино",
+    "descripcion": "312 Кино",
+    "categoria": "movies",
+    "imagenUrl": "https://i.ibb.co/3m9LrLj/k7gIibH.png",
+    "streamUrl": "http://176.126.166.43:1935/live/312kino/playlist.m3u8"
   },
   {
     "id": 307,
-    "nombre": "Antiques Road Trip",
-    "descripcion": "Antiques Road Trip",
-    "categoria": "lifestyle",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/6CrV3UnGHxlXsg==/3ef7a392-9280-41c8-a8ca-a2a47f83c1d2/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/994b51f6-77bc-4b0f-8dae-89ac99278d1c/playlist.m3u8"
+    "nombre": "&TV",
+    "descripcion": "&TV",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/32W50Y6.png",
+    "streamUrl": "https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8"
   },
   {
     "id": 308,
-    "nombre": "Are We There Yet",
-    "descripcion": "Are We There Yet",
-    "categoria": "comedy",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/145vfQrEt43fmg==/620cc48a-a6d9-439e-8b38-f857a4ab2630/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/07831268-bf32-40d9-9c08-0ee6df28cbed/playlist.m3u8"
+    "nombre": "@TV",
+    "descripcion": "@TV",
+    "categoria": "movies",
+    "imagenUrl": "https://files.catbox.moe/6rj9aw.jpg",
+    "streamUrl": "http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8"
   },
   {
     "id": 309,
-    "nombre": "At the Movies",
-    "descripcion": "At the Movies",
-    "categoria": "movie channels",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/WBQM-1_BtqNwuQ==/fa937ce5-3630-46c4-bdd6-e48132ffdd50/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/c24f15d1-f67e-4534-bfde-76b9a1b74360/playlist.m3u8"
+    "nombre": "ABN Bible Movies",
+    "descripcion": "ABN Bible Movies",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/NCqZdaL.png",
+    "streamUrl": "https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8"
   },
   {
     "id": 310,
-    "nombre": "Ax Men",
-    "descripcion": "Ax Men",
-    "categoria": "reality",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/TO2yewVVnQ_I_Q==/279f34be-8b5c-42a1-a7df-e04f01e95693/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/b1fdb228-c169-48b3-b6a3-8dee2dd91839/playlist.m3u8"
+    "nombre": "Abzy Dhakad",
+    "descripcion": "Abzy Dhakad",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/5ORC4tn.png",
+    "streamUrl": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8"
   },
   {
     "id": 311,
-    "nombre": "Baywatch",
-    "descripcion": "Baywatch",
-    "categoria": "classic tv",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/oVhSYhUwR7Oc0w==/68173373-ff90-45ee-bf4d-d33e0f863770/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/83955a5d-baa8-42a6-aa9c-e1fcc0aab891/playlist.m3u8"
+    "nombre": "Abzy Movies",
+    "descripcion": "Abzy Movies",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/LnVgKVF.png",
+    "streamUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8"
   },
   {
     "id": 312,
-    "nombre": "BBC Earth",
-    "descripcion": "BBC Earth",
-    "categoria": "science & nature",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/FgYXmM6oI193Bw==/630f09e9-a354-4d28-a952-2f5c75e09815/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/88810cb1-e91e-4f19-870b-513ffc9a39cb/playlist.m3u8"
+    "nombre": "Action 24",
+    "descripcion": "Action 24",
+    "categoria": "movies",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png",
+    "streamUrl": "http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8"
   },
   {
     "id": 313,
-    "nombre": "beIN Sports XTRA",
-    "descripcion": "beIN Sports XTRA",
-    "categoria": "sports on now",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/pFDC-NCUwTOAhQ==/937ec9ac-b4bd-4c16-863b-75dc816129d7/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/2fd3d156-b63c-47c8-9d04-5961ddd9cee8/playlist.m3u8"
+    "nombre": "Afghan Nobel Movies",
+    "descripcion": "Afghan Nobel Movies",
+    "categoria": "movies",
+    "imagenUrl": "https://i.ibb.co/zfdbVSm/logo-1.png",
+    "streamUrl": "https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8"
   },
   {
     "id": 314,
-    "nombre": "beIN Sports XTRA En Español",
-    "descripcion": "beIN Sports XTRA En Español",
-    "categoria": "español",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/ktnXB23ysVjauw==/8968101d-cc65-48c7-a102-0a6a46ca55db/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/6cd31e43-d255-4ab4-b065-7f28bd541047/playlist.m3u8"
+    "nombre": "Aflam",
+    "descripcion": "Aflam",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/cTLj7Yt.png",
+    "streamUrl": "https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8"
   },
   {
     "id": 315,
-    "nombre": "Big 12 Studios",
-    "descripcion": "Big 12 Studios",
-    "categoria": "sports on now",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/3DjU0OuCUDF5kg==/eace1598-de1c-499a-8005-405d5cb5adb5/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/57a9f9ac-881b-4786-bb9e-77259eaed1b6/playlist.m3u8"
+    "nombre": "Aflam TV",
+    "descripcion": "Aflam TV",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/XqQxO9J.png",
+    "streamUrl": "https://fl1002.bozztv.com/ga-aflamtv7/index.m3u8"
   },
   {
     "id": 316,
-    "nombre": "Bloomberg Originals",
-    "descripcion": "Bloomberg Originals",
-    "categoria": "business news",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/ttUV_o1MiFKnFQ==/0536c907-af63-40b6-a8d7-62c190492c5a/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/2d0569a6-6f5c-4d03-b418-3853cf9edc25/playlist.m3u8"
+    "nombre": "Afra Film",
+    "descripcion": "Afra Film",
+    "categoria": "movies",
+    "imagenUrl": "https://i.postimg.cc/vZWdM86g/afra-film.jpg",
+    "streamUrl": "https://afrafhls.wns.live/hls/stream.m3u8"
   },
   {
     "id": 317,
-    "nombre": "Bloomberg TV+",
-    "descripcion": "Bloomberg TV+",
-    "categoria": "business news",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/Y-vFFHuAXASLSg==/fde25048-c7d2-4bfb-b744-06755f42d915/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18edfa1360c6/playlist.m3u8"
+    "nombre": "Afriwood Blockbuster",
+    "descripcion": "Afriwood Blockbuster",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/aESdqiB.png",
+    "streamUrl": "https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8"
   },
   {
     "id": 318,
-    "nombre": "Bounce XL",
-    "descripcion": "Bounce XL",
-    "categoria": "black entertainment",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/OXywER_EqefLrA==/c5316804-bd82-46f4-81a4-289a8333cd71/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/80fc3952-4bca-490f-8819-96d1427a992c/playlist.m3u8"
+    "nombre": "Alfa Dramas (226p) [Not 24/7]",
+    "descripcion": "Alfa Dramas (226p) [Not 24/7]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/wnVEvRM.png",
+    "streamUrl": "https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8"
   },
   {
     "id": 319,
-    "nombre": "BritBox Mysteries",
-    "descripcion": "BritBox Mysteries",
-    "categoria": "mystery",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/zgRYzKPlYH59GA==/7d5c01ed-fb34-40c8-8c25-a56895e550f0/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/3ce83511-4f77-491d-ae2d-94f9c5dad672/playlist.m3u8"
+    "nombre": "Alterna TV",
+    "descripcion": "Alterna TV",
+    "categoria": "culture",
+    "imagenUrl": "https://alternatv.ar/alternatv.png",
+    "streamUrl": "https://alternatv.ar/stream/hls/live.m3u8"
   },
   {
     "id": 320,
-    "nombre": "BUZZR",
-    "descripcion": "BUZZR",
-    "categoria": "games & competition",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/805RyWN414Qj2w==/078ff1ec-e958-4672-bf6b-6cad68c21b41/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/fbd43d6e-6370-4220-9ec8-3e435b5b574b/playlist.m3u8"
+    "nombre": "AMC",
+    "descripcion": "AMC",
+    "categoria": "movies",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",
+    "streamUrl": "http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8"
   },
   {
     "id": 321,
-    "nombre": "CBC News",
-    "descripcion": "CBC News",
-    "categoria": "global news",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/LXRAZJAoCk0umQ==/4de90f79-d72c-4016-a740-93916a615dc2/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/08b1a540-5618-46ce-b6e2-c0dfd1e8786f/playlist.m3u8"
+    "nombre": "AMC East",
+    "descripcion": "AMC East",
+    "categoria": "movies",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",
+    "streamUrl": "https://fl4.moveonjoy.com/AMC_NETWORK/index.m3u8"
   },
   {
     "id": 322,
-    "nombre": "CBS 6 Richmond WTVR",
-    "descripcion": "CBS 6 Richmond WTVR",
-    "categoria": "local news",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/IdCiTFLY55nWtw==/572073ab-5145-412f-b9d0-6711c73ab661/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/41feddbe-795f-4294-bb8c-32fcb26a7d54/playlist.m3u8"
+    "nombre": "American Horrors",
+    "descripcion": "American Horrors",
+    "categoria": "movies",
+    "imagenUrl": "https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png",
+    "streamUrl": "http://107.167.7.162:8081/playlist/amhor/playlist.m3u8"
   },
   {
     "id": 323,
-    "nombre": "Chasing Criminals",
-    "descripcion": "Chasing Criminals",
-    "categoria": "true crime",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/wQYVnzkrog4aKg==/9f0a41fe-3e4d-44cf-ab49-e27914cdd8c1/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/2bbace1f-ef14-4f1d-84f3-4fa07e4cf498/playlist.m3u8"
+    "nombre": "Aurora Media Films",
+    "descripcion": "Aurora Media Films",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/DVC5w6H.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8"
+  },
+  {
+    "id": 324,
+    "nombre": "AXN Vietnam",
+    "descripcion": "AXN Vietnam",
+    "categoria": "movies",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png",
+    "streamUrl": "https://tv.ddns.vn/tv/axnhd/index.m3u8"
   },
   {
     "id": 325,
-    "nombre": "Cheddar",
-    "descripcion": "Cheddar",
-    "categoria": "national news",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/5vyFL402sm6PCw==/4975eac2-9902-4ac5-8036-f28a6d9979a0/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/424b524e-1d18-43ba-b806-fc5321f03958/playlist.m3u8"
+    "nombre": "B4U Bhojpuri",
+    "descripcion": "B4U Bhojpuri",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/NwOQUDp.png",
+    "streamUrl": "https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8"
   },
   {
     "id": 326,
-    "nombre": "Cine EstrellaTV",
-    "descripcion": "Cine EstrellaTV",
-    "categoria": "español",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/aZgcD8MONyszjg==/f19b2e05-e9f9-402a-89bb-955a1559d984/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/3900e8be-5992-4e76-9d58-9f858bee83a2/playlist.m3u8"
+    "nombre": "B4U Kadak (1080p) [Not 24/7]",
+    "descripcion": "B4U Kadak (1080p) [Not 24/7]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/CKLn0ft.png",
+    "streamUrl": "https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8"
+  },
+  {
+    "id": 327,
+    "nombre": "B4U Movies India",
+    "descripcion": "B4U Movies India",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/M9kMFJl.png",
+    "streamUrl": "https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8"
+  },
+  {
+    "id": 328,
+    "nombre": "B4U Plus",
+    "descripcion": "B4U Plus",
+    "categoria": "movies",
+    "imagenUrl": "https://i.postimg.cc/L4Cpy9qt/b4uplus.png",
+    "streamUrl": "http://183.89.246.119:8881/play/a08l/index.m3u8"
   },
   {
     "id": 329,
-    "nombre": "CINEVAULT: Westerns",
-    "descripcion": "CINEVAULT: Westerns",
-    "categoria": "movie channels",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/szG5bJac-gw89Q==/bda0dfca-9c16-4b67-8930-324a4b7a0dbd/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/a753ad71-b253-4962-8121-dccdd87b8470/playlist.m3u8"
+    "nombre": "Bhojpuri Cinema",
+    "descripcion": "Bhojpuri Cinema",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/ABxIO7r.jpg",
+    "streamUrl": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8"
   },
   {
     "id": 330,
-    "nombre": "Classic Cinema",
-    "descripcion": "Classic Cinema",
-    "categoria": "movie channels",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/A2dZdOVEvtP0LQ==/0e4ed995-2f32-48bb-a0f5-c0082c66f37e/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/c9a11be6-98bc-4a1b-a8f0-6236bffa7286/playlist.m3u8"
+    "nombre": "BIZ Cinema",
+    "descripcion": "BIZ Cinema",
+    "categoria": "movies",
+    "imagenUrl": "https://biztv.uz/static/media/biz-cinema.286b83dc.png",
+    "streamUrl": "https://st.biztv.uz/hls/c_hi/index.m3u8"
   },
   {
     "id": 331,
-    "nombre": "Classic Doctor Who",
-    "descripcion": "Classic Doctor Who",
-    "categoria": "sci-fi & supernatural",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/1HVhk0CS1rxY-Q==/2d6dbfc0-0fca-4d2c-abcc-bce692499401/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/2bff0b10-6665-46f2-b205-bb384129c6c1/playlist.m3u8"
+    "nombre": "Black Cinema",
+    "descripcion": "Black Cinema",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/FKBp987.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9"
   },
   {
     "id": 332,
-    "nombre": "Cold Case Files",
-    "descripcion": "Cold Case Files",
-    "categoria": "true crime",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/pE0CUSSK3twy-A==/1741bc33-42d6-4044-8584-c7875bba243c/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/22e85147-dbbf-4e68-8f53-6d6169cd40c4/playlist.m3u8"
+    "nombre": "Bloody Disgusting TV",
+    "descripcion": "Bloody Disgusting TV",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/cKEwuQc.png",
+    "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgus-cineverse/playlist.m3u8"
   },
   {
     "id": 333,
-    "nombre": "Comedy Dynamics",
-    "descripcion": "Comedy Dynamics",
-    "categoria": "comedy",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/TaWw2pvzBtKrLA==/bcc2221d-8150-4301-8c6b-98504d781641/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/f35167dd-e5c5-4ab4-8741-85e9bfcb0192/playlist.m3u8"
+    "nombre": "Bollywood Classic",
+    "descripcion": "Bollywood Classic",
+    "categoria": "classic",
+    "imagenUrl": "https://i.imgur.com/ugPo6ca.png",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8"
+  },
+  {
+    "id": 334,
+    "nombre": "Bollywood HD",
+    "descripcion": "Bollywood HD",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/scDKOLS.png",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8"
   },
   {
     "id": 335,
-    "nombre": "Court TV",
-    "descripcion": "Court TV",
-    "categoria": "reality",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/YIq2jr1bUlLbSg==/c2033d61-8138-4bed-abdc-9e512b797080/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/a0044921-4b6f-4e55-bf67-d51471db8b3f/playlist.m3u8"
+    "nombre": "Bom Cine",
+    "descripcion": "Bom Cine",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/65OX8Gj.png",
+    "streamUrl": "http://185.189.225.150:85/BOM/index.m3u8"
+  },
+  {
+    "id": 336,
+    "nombre": "Bravo Farsi TV",
+    "descripcion": "Bravo Farsi TV",
+    "categoria": "movies",
+    "imagenUrl": "https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg",
+    "streamUrl": "https://bravoohls.wns.live/hls/stream.m3u8"
   },
   {
     "id": 337,
-    "nombre": "Crime Scenes",
-    "descripcion": "Crime Scenes",
-    "categoria": "true crime",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/9BAKIgHExOv3Pw==/4f7b9117-d773-4dbc-a9e2-4bb77bae1126/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/f825d887-cd89-4520-9960-699bb3ef076d/playlist.m3u8"
+    "nombre": "Cafe Film",
+    "descripcion": "Cafe Film",
+    "categoria": "movies",
+    "imagenUrl": "https://i.postimg.cc/bJV7Ls4M/cafe-film.jpg",
+    "streamUrl": "https://cafefhls.wns.live/hls/stream.m3u8"
+  },
+  {
+    "id": 338,
+    "nombre": "Canal 2 Movies",
+    "descripcion": "Canal 2 Movies",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/WLqwk3t.png",
+    "streamUrl": "https://stream.ecable.tv/canal2m/tracks-v1a1/mono.m3u8"
   },
   {
     "id": 339,
-    "nombre": "Dance Moms",
-    "descripcion": "Dance Moms",
-    "categoria": "reality",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/YRFVWDVahtPYxQ==/35803cea-97e6-487c-9050-0171abf6c647/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/05dcc935-bb07-4c6d-a061-a9bf5fccc383/playlist.m3u8"
+    "nombre": "CCTV 第一剧场",
+    "descripcion": "CCTV 第一剧场",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/eFxD3hq.png",
+    "streamUrl": "http://117.161.133.51:81/gitv_live/G_DIYIJC-CQ/G_DIYIJC-CQ.m3u8?p=GITV"
   },
   {
     "id": 340,
-    "nombre": "Dateline 24/7",
-    "descripcion": "Dateline 24/7",
-    "categoria": "true crime",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/PfFhmB-5UPDrNw==/32d8bd46-4cc6-4f9b-8db3-694be23ed0e3/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/c33ee7ce-d9dc-41cd-8960-815637099a65/playlist.m3u8"
+    "nombre": "CCTV 风云剧场",
+    "descripcion": "CCTV 风云剧场",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/rEttkKm.png",
+    "streamUrl": "http://117.161.133.51:81/gitv_live/G_FENGYUNJC-CQ/G_FENGYUNJC-CQ.m3u8?p=GITV"
   },
   {
     "id": 341,
-    "nombre": "DAZN Ringside",
-    "descripcion": "DAZN Ringside",
-    "categoria": "sports on now",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/7sn8bq9r5mKKlQ==/aa1f99f5-7a57-44a1-b031-b3a27eceab13/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/c92d028f-fd29-4925-9c4d-271bfe4262ec/playlist.m3u8"
+    "nombre": "CHC Action",
+    "descripcion": "CHC Action",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/AuiVcyh.png",
+    "streamUrl": "http://180.213.174.225:9901/tsfile/live/1027_1.m3u8?authid=0&key=txiptv&playlive=1"
   },
   {
     "id": 342,
-    "nombre": "Deal or No Deal USA",
-    "descripcion": "Deal or No Deal USA",
-    "categoria": "games & competition",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/4n7t3rFIeOIn9w==/78811e2c-60c2-4e88-ac2b-c083848b67ce/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/7d2f308c-8fdb-4dc5-8736-3c293bdf5a65/playlist.m3u8"
+    "nombre": "Cine5",
+    "descripcion": "Cine5",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/AmcOAIY.png",
+    "streamUrl": "https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8"
+  },
+  {
+    "id": 343,
+    "nombre": "Cine 34 [Geo-blocked]",
+    "descripcion": "Cine 34 [Geo-blocked]",
+    "categoria": "movies",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/512px-Cine34_logo.svg.png",
+    "streamUrl": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8"
   },
   {
     "id": 344,
-    "nombre": "Def Jam",
-    "descripcion": "Def Jam",
-    "categoria": "pop culture",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/4lVDZh2p_O-K2g==/a95b393f-af18-4bb2-b5cd-bab323fd961f/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/979c72f9-6121-428b-a47c-4e251e8b7c63/playlist.m3u8"
+    "nombre": "Cine Adrenalina",
+    "descripcion": "Cine Adrenalina",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/njCKaMv.png",
+    "streamUrl": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId="
   },
   {
     "id": 345,
-    "nombre": "Dog the Bounty Hunter",
-    "descripcion": "Dog the Bounty Hunter",
-    "categoria": "reality",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/NhkSkf4JPn8YsA==/d81a47a9-92b7-403c-b65b-d4153a9ebefd/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/d6872865-27e6-4f9c-9e63-ced3057a741c/playlist.m3u8"
+    "nombre": "Cine Clásico",
+    "descripcion": "Cine Clásico",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/hCA5BRr.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28fb2aae-fcc1-4b39-a190-1ac70222ae41"
+  },
+  {
+    "id": 346,
+    "nombre": "Cine Premiere",
+    "descripcion": "Cine Premiere",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/PdhWTO6.png",
+    "streamUrl": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
   },
   {
     "id": 347,
-    "nombre": "Duck Dynasty",
-    "descripcion": "Duck Dynasty",
-    "categoria": "reality",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/QTimZMfrb5r7IA==/f2f4da49-e449-451e-a1e2-1abf11dcfcf9/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/f21508c8-437e-416c-b02f-340bc1a3da1a/playlist.m3u8"
+    "nombre": "Cine Romantico",
+    "descripcion": "Cine Romantico",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/FUrrDrb.png",
+    "streamUrl": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=656"
   },
   {
     "id": 348,
-    "nombre": "Ebony TV by Lionsgate",
-    "descripcion": "Ebony TV by Lionsgate",
-    "categoria": "black entertainment",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/LhylpibCK-OBTg==/2285b7cb-7f26-47e0-8bbf-5b9cae7d3f45/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/490b3e91-00d8-4637-a47b-47c05437c5e0/playlist.m3u8"
+    "nombre": "Cine Sony",
+    "descripcion": "Cine Sony",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/bZWoDTg.png",
+    "streamUrl": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8"
   },
   {
     "id": 349,
-    "nombre": "Estrella Games",
-    "descripcion": "Estrella Games",
-    "categoria": "español",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/7q_iLPgksocg-Q==/24f67f95-6f5f-4db9-8e06-bd7227bcd1c9/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/1d55cb91-9acf-4617-9207-0ce792931cb4/playlist.m3u8"
+    "nombre": "Cine Terror",
+    "descripcion": "Cine Terror",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/I5XxyLI.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e001-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0a34186-d9cb-4907-882c-bf61e4d59e0f"
   },
   {
     "id": 350,
-    "nombre": "Estrella News",
-    "descripcion": "Estrella News",
-    "categoria": "español",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/5lwzo7BT_au5Nw==/6693c612-32f8-4e02-be56-0029a4576cb2/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/1c67c086-8938-4961-9b14-2546c4b9be0b/playlist.m3u8"
+    "nombre": "Cine Terror LATAM [Geo-blocked]",
+    "descripcion": "Cine Terror LATAM [Geo-blocked]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/I5XxyLI.png",
+    "streamUrl": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
   },
   {
     "id": 351,
-    "nombre": "EstrellaTV",
-    "descripcion": "EstrellaTV",
-    "categoria": "español",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/AdaMzu2yfHxQEw==/529ef58f-5297-4ba3-8373-cc5efdd68a65/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/b6e73af0-57f8-4691-9832-4b52d3f157ac/playlist.m3u8"
+    "nombre": "Cine XOXO",
+    "descripcion": "Cine XOXO",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/eAS86qH.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7"
   },
   {
     "id": 352,
-    "nombre": "Euronews",
-    "descripcion": "Euronews",
-    "categoria": "global news",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/R85W7qpShoJ77Q==/bac08913-5ae4-4e98-8a24-18f143bd6e25/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/c841471d-dc14-43fb-9ba5-c266e7edcce4/playlist.m3u8"
+    "nombre": "Cinecanal",
+    "descripcion": "Cinecanal",
+    "categoria": "movies",
+    "imagenUrl": "https://comteco.com.bo/img/upload/canales/qvJQXi.png",
+    "streamUrl": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8"
+  },
+  {
+    "id": 353,
+    "nombre": "Cinema",
+    "descripcion": "Cinema",
+    "categoria": "movies",
+    "imagenUrl": "https://i.postimg.cc/9MFWM1gT/cinema.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8"
   },
   {
     "id": 354,
-    "nombre": "Family Feud",
-    "descripcion": "Family Feud",
-    "categoria": "games & competition",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/zLKiqAi0J_bcrw==/d94cfde1-49a9-4a2b-ab4f-a2848db4a588/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/a6ee322b-f3d8-4adf-b203-240c2001a6fe/playlist.m3u8"
+    "nombre": "Cinema",
+    "descripcion": "Cinema",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/b5e9qUA.png",
+    "streamUrl": "http://catchup.videoline.ru/cinema/playlist.m3u8"
   },
   {
     "id": 355,
-    "nombre": "Family Unscripted",
-    "descripcion": "Family Unscripted",
-    "categoria": "reality",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/fScebgMxe5tv5Q==/6ea6276d-0cdb-4348-a68f-5b6cc575c8cb/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/f451ef60-2bf2-4f54-8833-5e3495b7ea16/playlist.m3u8"
+    "nombre": "Cinema 1",
+    "descripcion": "Cinema 1",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/twNYF1W.png",
+    "streamUrl": "http://62.233.57.226:8001/play/a00l00"
+  },
+  {
+    "id": 356,
+    "nombre": "Cinema Hausa",
+    "descripcion": "Cinema Hausa",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/uV5cHDW.png",
+    "streamUrl": "https://origin3.afxp.telemedia.co.za/PremiumFree/cinemahausa/playlist.m3u8"
   },
   {
     "id": 357,
-    "nombre": "Fear Factor USA",
-    "descripcion": "Fear Factor USA",
-    "categoria": "games & competition",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/PW8NJ5Y8-uonLQ==/ae22b756-ab2a-4cb2-bb18-ce281b110449/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/dde54a14-3364-49f8-a1f2-4a56c7e9ebb2/playlist.m3u8"
+    "nombre": "CinemaWorld",
+    "descripcion": "CinemaWorld",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/D2qNVZ7.png",
+    "streamUrl": "http://210.210.155.37/dr9445/h/h04/index.m3u8"
+  },
+  {
+    "id": 358,
+    "nombre": "CinemaWorld Vietnam",
+    "descripcion": "CinemaWorld Vietnam",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/D2qNVZ7.png",
+    "streamUrl": "https://tv.ddns.vn/tv/cinemaworldhd/index.m3u8"
+  },
+  {
+    "id": 359,
+    "nombre": "Cinevault 80s (540p) [Geo-blocked]",
+    "descripcion": "Cinevault 80s (540p) [Geo-blocked]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/xaCyyDd.png",
+    "streamUrl": "https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8"
+  },
+  {
+    "id": 360,
+    "nombre": "Classic Cinema (240p) [Not 24/7]",
+    "descripcion": "Classic Cinema (240p) [Not 24/7]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/FJoPnTb.png",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8"
+  },
+  {
+    "id": 361,
+    "nombre": "Classic Movies Channel",
+    "descripcion": "Classic Movies Channel",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/pQJxov2.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e003-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7911819c-67eb-4f58-944f-5c6c6d4d937d"
   },
   {
     "id": 362,
-    "nombre": "FOX LOCAL Los Angeles",
-    "descripcion": "FOX LOCAL Los Angeles",
-    "categoria": "local news",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/CE2atc8vPG0Unw==/0e73f3ca-3e7a-4fa9-82e2-cefdfb798fef/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/b54c2aa5-e243-480f-9384-bbf7bcbddaf1/playlist.m3u8"
+    "nombre": "Classique TV",
+    "descripcion": "Classique TV",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/rHxcraT.png",
+    "streamUrl": "https://stmv1.srvif.com/classique/classique/playlist.m3u8"
   },
   {
     "id": 363,
-    "nombre": "FOX LOCAL New York",
-    "descripcion": "FOX LOCAL New York",
-    "categoria": "local news",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/g-KBFbrM7rcbxQ==/c6c25ba1-c2fd-4e78-973f-3a220337f694/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/7d346182-3c47-4c64-b8d6-cca75b5c8cd7/playlist.m3u8"
+    "nombre": "Cosmos TV",
+    "descripcion": "Cosmos TV",
+    "categoria": "movies",
+    "imagenUrl": "https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png",
+    "streamUrl": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8"
   },
   {
     "id": 364,
-    "nombre": "FOX LOCAL Washington DC",
-    "descripcion": "FOX LOCAL Washington DC",
-    "categoria": "local news",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/jwuZZ5FolzN2qw==/8c560c21-a9f7-41c7-82ad-df5674fb9692/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/8243cded-cf4c-489a-a5f1-6a2d1b68c3f8/playlist.m3u8"
+    "nombre": "Crave 1",
+    "descripcion": "Crave 1",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/ZkRQ0r1.png",
+    "streamUrl": "https://fl4.moveonjoy.com/CRAVE_1/index.m3u8"
   },
   {
     "id": 365,
-    "nombre": "FOX SOUL",
-    "descripcion": "FOX SOUL",
-    "categoria": "black entertainment",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/FuDUf_O9rDdF4w==/bbbed8f2-f666-49ad-8288-03f049585e3d/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/99849dd6-1831-49d8-9cec-408d4e404445/playlist.m3u8"
+    "nombre": "Crave 2",
+    "descripcion": "Crave 2",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/e1qJ5Bp.png",
+    "streamUrl": "https://fl4.moveonjoy.com/CRAVE_2/index.m3u8"
   },
   {
     "id": 366,
-    "nombre": "Fox Sports Extra",
-    "descripcion": "Fox Sports Extra",
-    "categoria": "español",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/BKBzWDRojggDxQ==/c2e45f1a-4b72-41fa-ac6c-4e402ca4d4f6/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8"
+    "nombre": "Crave 3",
+    "descripcion": "Crave 3",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/kOi0Adn.png",
+    "streamUrl": "https://fl4.moveonjoy.com/CRAVE_3/index.m3u8"
   },
   {
     "id": 367,
-    "nombre": "FOX Sports on Tubi",
-    "descripcion": "FOX Sports on Tubi",
-    "categoria": "sports on now",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/QdomsJC-kJvpPQ==/69e052e9-4264-45cf-93f6-6218f998abc4/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8"
+    "nombre": "Crave 4",
+    "descripcion": "Crave 4",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/MyH3Q2p.png",
+    "streamUrl": "https://fl4.moveonjoy.com/CRAVE_4/index.m3u8"
   },
   {
     "id": 368,
-    "nombre": "FOX Weather",
-    "descripcion": "FOX Weather",
-    "categoria": "weather",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/ay2g5uBYZWXJrg==/ac3a8a9b-0068-488b-a5c6-380f373cc446/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/f1fd1442-62f5-4663-9049-c08c27f6d980/playlist.m3u8"
+    "nombre": "CTB Perth Movies",
+    "descripcion": "CTB Perth Movies",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/VB8gtCy.jpeg",
+    "streamUrl": "https://movies.ctbperth.net.au/hls/stream.m3u8"
   },
   {
     "id": 369,
-    "nombre": "Fubo Sports Network",
-    "descripcion": "Fubo Sports Network",
-    "categoria": "sports on now",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/aA4hxxCMZ6ghHA==/134cd1d6-d194-49e9-a057-076ea9c0947d/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/d8c035df-1076-4aa6-8628-da2ec80781f9/playlist.m3u8"
+    "nombre": "De Película",
+    "descripcion": "De Película",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/aksM8pa.png",
+    "streamUrl": "https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8"
   },
   {
     "id": 370,
-    "nombre": "Game Show Central",
-    "descripcion": "Game Show Central",
-    "categoria": "games & competition",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/RKa1amdHUHpnDw==/6f7f3b3f-a050-4254-82eb-2c705dab77a6/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/37d25c4d-ae6a-4182-a830-12e09479ad85/playlist.m3u8"
+    "nombre": "De Película Plus",
+    "descripcion": "De Película Plus",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/MMhSmDK.png",
+    "streamUrl": "https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8"
   },
   {
     "id": 371,
-    "nombre": "Gardening with Monty Don",
-    "descripcion": "Gardening with Monty Don",
-    "categoria": "lifestyle",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/TxaQnAIfPWtxsg==/f92bd310-5477-49fd-a13b-b33bb79f629c/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/d91152d3-557b-4e9e-a7b9-73e0246f826d/playlist.m3u8"
+    "nombre": "Dhinchaak (576p) [Not 24/7]",
+    "descripcion": "Dhinchaak (576p) [Not 24/7]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/oqqChlH.png",
+    "streamUrl": "http://14.199.164.20:4001/play/a0o5/index.m3u8"
   },
   {
     "id": 372,
-    "nombre": "Generation Drama",
-    "descripcion": "Generation Drama",
-    "categoria": "tv dramas",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/RNwGj8ytg46XQA==/6e4b7a38-ccc1-4f1f-b4ce-626221c91a06/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/a8250c51-f628-4936-97cb-67a931d2d7d8/playlist.m3u8"
+    "nombre": "DiscoverFilm",
+    "descripcion": "DiscoverFilm",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/oMnpsQ5.png",
+    "streamUrl": "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8"
   },
   {
     "id": 373,
-    "nombre": "Ghosts are Real",
-    "descripcion": "Ghosts are Real",
-    "categoria": "sci-fi & supernatural",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/mDKhp24vPvhlUw==/f0784641-0d22-4eb3-88a2-f2854aa235f9/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/0893a942-6252-4604-9e43-147c920a3250/playlist.m3u8"
+    "nombre": "Dunia Sinema",
+    "descripcion": "Dunia Sinema",
+    "categoria": "movies",
+    "imagenUrl": "",
+    "streamUrl": "https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8"
   },
   {
     "id": 374,
-    "nombre": "Gordon Ramsay",
-    "descripcion": "Gordon Ramsay",
-    "categoria": "good eats",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/8MsHilem4UvCjg==/f7eea1c7-409e-4abc-b6f3-1228bb7135d7/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/329f14a6-aa88-4a92-a7ee-6a44b8b1b96c/playlist.m3u8"
+    "nombre": "EBS Cinema",
+    "descripcion": "EBS Cinema",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/fewPTFE.png",
+    "streamUrl": "https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8"
   },
   {
     "id": 375,
-    "nombre": "Grit Xtra",
-    "descripcion": "Grit Xtra",
-    "categoria": "classic tv",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/HUDO7xAB_StCsA==/9ba330f3-9b7c-436d-9eb3-ca24daeaa59a/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/e83c161c-4949-499b-b2b6-195337c7fd18/playlist.m3u8"
+    "nombre": "Ekran Movies",
+    "descripcion": "Ekran Movies",
+    "categoria": "movies",
+    "imagenUrl": "https://i.ibb.co/WNyssx28/Screenshot-2025-05-18-211143.png",
+    "streamUrl": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8"
   },
   {
     "id": 376,
-    "nombre": "GV TV",
-    "descripcion": "GV TV",
-    "categoria": "lifestyle",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/HAvAuNEeeJ23qw==/5643edc3-434a-4b31-8363-b00c62011ad4/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/8b8e2623-a616-4d17-b711-c0f0d2da7aa7/playlist.m3u8"
+    "nombre": "ETV Cinema HD",
+    "descripcion": "ETV Cinema HD",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/iMxePjI.png",
+    "streamUrl": "https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8"
   },
   {
     "id": 377,
-    "nombre": "Hagerty",
-    "descripcion": "Hagerty",
-    "categoria": "lifestyle",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/3bcGoel-LyvOjA==/63cd15f5-1b92-44ec-aa48-da4c4f90fb8f/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/7d917d9c-66d1-4a15-a323-7ad001137c41/playlist.m3u8"
+    "nombre": "Filamchi Bhojpuri",
+    "descripcion": "Filamchi Bhojpuri",
+    "categoria": "movies",
+    "imagenUrl": "",
+    "streamUrl": "https://epiconvh.akamaized.net/live/filamchi/master.m3u8"
   },
   {
     "id": 378,
-    "nombre": "HauntTV",
-    "descripcion": "HauntTV",
-    "categoria": "sci-fi & supernatural",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/06QjiMs6ry9yjA==/a9501720-74af-489c-993e-8c38c438e058/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/e1314865-409b-4349-87b8-550453f4e468/playlist.m3u8"
+    "nombre": "Film4 HD",
+    "descripcion": "Film4 HD",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/MTSgoGI.png",
+    "streamUrl": "https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8"
   },
   {
     "id": 379,
-    "nombre": "HBO Boxing",
-    "descripcion": "HBO Boxing",
-    "categoria": "sports on now",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/HTbwLF5yCAdEMg==/85396ad7-4f62-4df1-a6a6-433b0e027106/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/9fe78734-1db2-49b4-af7b-3c89f5f256ad/playlist.m3u8"
+    "nombre": "Filmeraa",
+    "descripcion": "Filmeraa",
+    "categoria": "movies",
+    "imagenUrl": "https://i.ibb.co/p4BwH0x/images-5.png",
+    "streamUrl": "https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8"
   },
   {
     "id": 380,
-    "nombre": "Hersphere",
-    "descripcion": "Hersphere",
-    "categoria": "classic tv",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/-_suTiXTwSzTOg==/2733aed8-2c07-4221-9669-061ef85c0df0/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/33df563a-88ee-46d9-9cc1-3459f2e90710/playlist.m3u8"
+    "nombre": "Filmex (Xumo) (1080p) [Geo-blocked]",
+    "descripcion": "Filmex (Xumo) (1080p) [Geo-blocked]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/Hiz2OyC.png",
+    "streamUrl": "https://filmex-filmex-xumo.amagi.tv/playlist.m3u8"
   },
   {
     "id": 381,
-    "nombre": "Homeful",
-    "descripcion": "Homeful",
-    "categoria": "lifestyle",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/9PqOkD1C6J3w5w==/790ebde9-0938-4667-9664-62136298f868/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/f6b960bc-57bb-431f-8879-22bb076fbce6/playlist.m3u8"
+    "nombre": "Filmex Clásico (1080p) [Geo-blocked]",
+    "descripcion": "Filmex Clásico (1080p) [Geo-blocked]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/D3dj4mv.png",
+    "streamUrl": "https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8"
   },
   {
     "id": 382,
-    "nombre": "Horror by ALTER",
-    "descripcion": "Horror by ALTER",
-    "categoria": "horror",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/irSnS1Oql4l3pg==/f4523b29-6b4d-4b40-ae37-5ff4f79691c5/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/c12f35bf-6465-4e44-b5f7-04ec645689c7/playlist.m3u8"
+    "nombre": "Filmrise Forensic Files",
+    "descripcion": "Filmrise Forensic Files",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/8j2npVc.png",
+    "streamUrl": "https://livetv-fa.tubi.video/forensic-files/index.m3u8"
   },
   {
     "id": 383,
-    "nombre": "How To",
-    "descripcion": "How To",
-    "categoria": "lifestyle",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/hh3yYU0jZKTKWQ==/e7c157ef-0e36-4131-9218-f27076ce26f4/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/8ca40844-aba2-49f8-a58c-37e5597b170e/playlist.m3u8"
+    "nombre": "Filmrise True Crime",
+    "descripcion": "Filmrise True Crime",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/8j2npVc.png",
+    "streamUrl": "https://livetv-fa.tubi.video/filmrise-true-crime/index.m3u8"
+  },
+  {
+    "id": 384,
+    "nombre": "Flicks of Fury",
+    "descripcion": "Flicks of Fury",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/rtL5L81.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca66-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=671a0e89-5b21-406b-95a9-b395c4ef4b07"
   },
   {
     "id": 385,
-    "nombre": "In the Garage",
-    "descripcion": "In the Garage",
-    "categoria": "lifestyle",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/nsc_El-DZ9qhkA==/8ec6200b-cbe1-4e2b-9883-24a37f5f4ab7/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/2fe3d2d3-5dca-4da5-999f-4fcc54f4a34b/playlist.m3u8"
+    "nombre": "Flou Cine",
+    "descripcion": "Flou Cine",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/OM6BP37.png",
+    "streamUrl": "https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/playlist.m3u8"
+  },
+  {
+    "id": 386,
+    "nombre": "Freedom Movie Sphere",
+    "descripcion": "Freedom Movie Sphere",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/jEyrlPp.jpg",
+    "streamUrl": "https://panel.freedomflixtv.org:3311/stream/play.m3u8"
   },
   {
     "id": 387,
-    "nombre": "ION Mystery",
-    "descripcion": "ION Mystery",
-    "categoria": "mystery",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/0e6dyfopOhknOQ==/b74f76d9-1cd3-4ff8-861a-c4613ef3ca3e/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/f1a3d6ca-6a7e-453b-8e89-dc06a46c870c/playlist.m3u8"
+    "nombre": "FX Movie Channel",
+    "descripcion": "FX Movie Channel",
+    "categoria": "movies",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png",
+    "streamUrl": "https://tvpass.org/live/FXMovieChannel/hd"
   },
   {
     "id": 388,
-    "nombre": "ION Plus",
-    "descripcion": "ION Plus",
-    "categoria": "tv dramas",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/kgPnfzyjJ7Ef4g==/979fd7e0-d2df-4c2b-90d0-af690c9405cb/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/2fd87230-572e-47ef-8bae-c282f99b174c/playlist.m3u8"
+    "nombre": "FXM East",
+    "descripcion": "FXM East",
+    "categoria": "movies",
+    "imagenUrl": "https://i.postimg.cc/j27hBV04/fxm.png",
+    "streamUrl": "https://fl4.moveonjoy.com/FX_MOVIE/index.m3u8"
   },
   {
     "id": 389,
-    "nombre": "Kartoon Channel!",
-    "descripcion": "Kartoon Channel!",
-    "categoria": "kids & family",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/Ack4AYWUtvd8Gw==/4258e598-4722-409b-8e3c-625f800ba9ba/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/ede882c2-43d6-4eca-9351-ea29e84dc217/playlist.m3u8"
+    "nombre": "GEM Bollywood",
+    "descripcion": "GEM Bollywood",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/2XASeBk.png",
+    "streamUrl": "https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gembollywood/index-0.m3u8"
+  },
+  {
+    "id": 390,
+    "nombre": "GEM Drama",
+    "descripcion": "GEM Drama",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/k2pGyRH.png",
+    "streamUrl": "https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemdrama/index-0.m3u8"
   },
   {
     "id": 391,
-    "nombre": "Living with Evil",
-    "descripcion": "Living with Evil",
-    "categoria": "true crime",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/Gtc0EGbaaaEvzA==/e4f84ab2-4935-4063-ad29-cc852b91e3b7/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/963f4a88-fe30-44f7-ae20-09a08eeb7cf7/playlist.m3u8"
+    "nombre": "GEM Drama Plus",
+    "descripcion": "GEM Drama Plus",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/5zPeOJM.png",
+    "streamUrl": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8"
   },
   {
     "id": 392,
-    "nombre": "Localish",
-    "descripcion": "Localish",
-    "categoria": "national news",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/MTYhDJTHDa_L9Q==/577b5b8e-307a-4535-a8fc-e18563a11950/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/ed84a986-071d-484d-b835-e6f0585bff83/playlist.m3u8"
+    "nombre": "GEM Film",
+    "descripcion": "GEM Film",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/nrFz3LU.png",
+    "streamUrl": "https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemfilm/index-0.m3u8"
+  },
+  {
+    "id": 393,
+    "nombre": "GEM Onyx",
+    "descripcion": "GEM Onyx",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/gXRIAw4.png",
+    "streamUrl": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemonyx/index-0.m3u8"
+  },
+  {
+    "id": 394,
+    "nombre": "GEM Pixel",
+    "descripcion": "GEM Pixel",
+    "categoria": "movies",
+    "imagenUrl": "https://i.ibb.co/Q3tkbPrn/icon-27.png",
+    "streamUrl": "https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8"
   },
   {
     "id": 395,
-    "nombre": "Love & Marriage",
-    "descripcion": "Love & Marriage",
-    "categoria": "reality",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/Fuxn83kmLxsFYw==/7b9a7209-d8b1-4c1e-9132-0407a473ed8f/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/550da437-5c67-44a3-a95e-a897fc7d6612/playlist.m3u8"
+    "nombre": "GEM Rubix",
+    "descripcion": "GEM Rubix",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/cDjOj58.png",
+    "streamUrl": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemrubix/index-0.m3u8"
   },
   {
     "id": 396,
-    "nombre": "Love Nature",
-    "descripcion": "Love Nature",
-    "categoria": "science & nature",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/vJproBq1EsozMw==/1c502e7b-e295-4f49-a248-cbe59b17d0f1/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/470abd8a-dea0-41a1-98bc-bf7f98671ab5/playlist.m3u8"
+    "nombre": "GEM Rubix Plus",
+    "descripcion": "GEM Rubix Plus",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/vpqgHrf.png",
+    "streamUrl": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8"
   },
   {
     "id": 397,
-    "nombre": "Maverick Black Cinema",
-    "descripcion": "Maverick Black Cinema",
-    "categoria": "black entertainment",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/AgOeT1VSk4LO5g==/15ddd8ef-f96c-43eb-9640-673f573d4eeb/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/f266b19b-a2b7-4e81-af7d-97915077cff3/playlist.m3u8"
+    "nombre": "GEM TV",
+    "descripcion": "GEM TV",
+    "categoria": "movies",
+    "imagenUrl": "https://i.postimg.cc/DZtrrCJJ/gemtv.png",
+    "streamUrl": "https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemb/index-0.m3u8"
   },
   {
     "id": 398,
-    "nombre": "Midsomer Murders",
-    "descripcion": "Midsomer Murders",
-    "categoria": "mystery",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/out8VdNya-rkZw==/34fa2e5d-6c68-4012-8c19-cc4afe6ad726/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/0ebfd814-cf17-4d01-a0e5-19f8df07cf68/playlist.m3u8"
+    "nombre": "Ghost TV (712p) [Not 24/7]",
+    "descripcion": "Ghost TV (712p) [Not 24/7]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/ZVO8GVI.png",
+    "streamUrl": "https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8"
   },
   {
     "id": 399,
-    "nombre": "MLB",
-    "descripcion": "MLB",
-    "categoria": "sports on now",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/_665V4AxYSxlLA==/652d017f-fb2a-460e-a528-ee54cc6ed872/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/94ef022e-59ad-486a-81bb-f817613e3df1/playlist.m3u8"
+    "nombre": "Gold Star",
+    "descripcion": "Gold Star",
+    "categoria": "movies",
+    "imagenUrl": "https://i.postimg.cc/KvsfL3sM/goldstar.jpg",
+    "streamUrl": "https://moviethls.wns.live/hls/stream.m3u8"
   },
   {
     "id": 400,
-    "nombre": "MotorTrend FAST TV",
-    "descripcion": "MotorTrend FAST TV",
-    "categoria": "reality",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/27Elei7FoHZCIw==/db233fc0-5e25-4078-977c-324669c03581/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8"
+    "nombre": "Golden Premier",
+    "descripcion": "Golden Premier",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/JMa7jws.png",
+    "streamUrl": "https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8"
   },
   {
     "id": 401,
-    "nombre": "MovieSphere",
-    "descripcion": "MovieSphere",
-    "categoria": "movie channels",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/-qf0HyYx16Zneg==/262557d9-a277-464c-b915-e200128f48a0/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/050aaad2-b60d-4525-9e2e-2465b85cfa43/playlist.m3u8"
+    "nombre": "Grand Cinema",
+    "descripcion": "Grand Cinema",
+    "categoria": "movies",
+    "imagenUrl": "https://www.lyngsat.com/logo/tv/gg/grand-cinema.png",
+    "streamUrl": "https://gcinemahls.wns.live/hls/stream.m3u8"
   },
   {
     "id": 402,
-    "nombre": "MrBeast",
-    "descripcion": "MrBeast",
-    "categoria": "pop culture",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/E6SaHrQioslH-g==/1cd9fa65-16d9-40e6-81c3-a81ce2663736/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/e8f55e68-0e26-44f2-afac-c132218b4ce9/playlist.m3u8"
+    "nombre": "GREAT! movies",
+    "descripcion": "GREAT! movies",
+    "categoria": "movies",
+    "imagenUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3709.png",
+    "streamUrl": "https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8"
   },
   {
     "id": 403,
-    "nombre": "Mysterious Worlds",
-    "descripcion": "Mysterious Worlds",
-    "categoria": "sci-fi & supernatural",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/weH_uFv9I7eAlw==/686ca4a9-30ac-42d6-bdbf-70199f7912d9/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/8fa6f1c5-c602-426c-999d-8651180ca7ff/playlist.m3u8"
+    "nombre": "GREAT! Mystery",
+    "descripcion": "GREAT! Mystery",
+    "categoria": "movies",
+    "imagenUrl": "https://image-cdn.suggestedtv.com/api/client/v1/image/ac0cfdfd-868c-4894-8dd9-dbe9f1a18a74?tenant=GREAT&mode=fit&width=300&height=73&format=png",
+    "streamUrl": "https://linear-861.frequency.stream/dist/lg-uk/861/hls/master/playlist.m3u8"
   },
   {
     "id": 404,
-    "nombre": "Mystery Science Theater 3000",
-    "descripcion": "Mystery Science Theater 3000",
-    "categoria": "comedy",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/crRlar4nj5AluA==/62dc5afa-c235-41ae-904e-e77b6c93e93e/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/da2d381e-93a5-466c-8807-74e18bac08f1/playlist.m3u8"
+    "nombre": "GREAT! romance",
+    "descripcion": "GREAT! romance",
+    "categoria": "movies",
+    "imagenUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png",
+    "streamUrl": "https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8"
   },
   {
     "id": 405,
-    "nombre": "NASCAR",
-    "descripcion": "NASCAR",
-    "categoria": "sports on now",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/DoxbhLiGuekMbA==/7739dd1a-423d-4a56-92c7-d27129356eb0/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/3404f25c-24bd-4ced-9d72-f2b4d5f63c57/playlist.m3u8"
+    "nombre": "Groovy TV",
+    "descripcion": "Groovy TV",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/ZYNQuf1.png",
+    "streamUrl": "http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8"
   },
   {
     "id": 406,
-    "nombre": "Nash Bridges",
-    "descripcion": "Nash Bridges",
-    "categoria": "classic tv",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/jRjZ9d6c8zXLwg==/13cb369b-10c8-4017-82f6-3658ff67b899/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/597417af-5589-4e08-a432-2ac5034e0a71/playlist.m3u8"
+    "nombre": "Hallmark Movies & More",
+    "descripcion": "Hallmark Movies & More",
+    "categoria": "movies",
+    "imagenUrl": "",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a"
   },
   {
     "id": 407,
-    "nombre": "NBA FAST Channel",
-    "descripcion": "NBA FAST Channel",
-    "categoria": "sports on now",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/X64MlRvuEKn1ZQ==/7d258341-afc7-4022-acd4-ce330c6db573/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/553b8d5e-fd2a-4a61-bdfa-73b34c299d75/playlist.m3u8"
+    "nombre": "Hallmark Movies Mysteries East",
+    "descripcion": "Hallmark Movies Mysteries East",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/GPRGA9C.png",
+    "streamUrl": "https://fl4.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8"
   },
   {
     "id": 408,
-    "nombre": "NBC News NOW",
-    "descripcion": "NBC News NOW",
-    "categoria": "national news",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/SAA3cS-V06_Q3w==/dd770066-df10-4187-b8d5-c31d0b9c0a1f/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/df3e4d3f-fb37-4cf0-8bdb-ec9035d41d3b/playlist.m3u8"
+    "nombre": "Harbin Movie Channel",
+    "descripcion": "Harbin Movie Channel",
+    "categoria": "movies",
+    "imagenUrl": "https://www.tvchinese.net/uploads/tv/haerbin.jpg",
+    "streamUrl": "https://stream.hrbtv.net/yspd/playlist.m3u8"
   },
   {
     "id": 409,
-    "nombre": "News 12 New York",
-    "descripcion": "News 12 New York",
-    "categoria": "local news",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/WBTHyRV-rcHRIg==/08fde41e-4252-484f-8b51-17124415b90c/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/3b3697be-6add-4564-abb1-9358014f2d3a/playlist.m3u8"
+    "nombre": "Home Plus",
+    "descripcion": "Home Plus",
+    "categoria": "movies",
+    "imagenUrl": "https://www.lyngsat.com/logo/tv/hh/homeplus.png",
+    "streamUrl": "https://homeplushls.wns.live/hls/stream.m3u8"
+  },
+  {
+    "id": 410,
+    "nombre": "ICC Plus",
+    "descripcion": "ICC Plus",
+    "categoria": "movies",
+    "imagenUrl": "https://www.lyngsat.com/logo/tv/ii/iccplus-us.png",
+    "streamUrl": "https://icchls.wns.live/hls/stream.m3u8"
   },
   {
     "id": 411,
-    "nombre": "NHL",
-    "descripcion": "NHL",
-    "categoria": "sports on now",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/dCshytDQ2HKRow==/085bca04-c806-4a7f-bb0c-d38fe352f3e3/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/2cfb4368-6c7e-4075-bc1f-69f7141a8012/playlist.m3u8"
+    "nombre": "IFC East",
+    "descripcion": "IFC East",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/bQdkyF9.png",
+    "streamUrl": "https://tvpass.org/live/IFCEast/hd"
   },
   {
     "id": 412,
-    "nombre": "NHRA TV",
-    "descripcion": "NHRA TV",
-    "categoria": "sports on now",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/CFFAOljNa3xxLg==/20c45879-2263-415e-8d68-2f5522c6ba81/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/2b55583d-cfa8-440b-8f38-a0aef9950f75/playlist.m3u8"
+    "nombre": "iFilm 2",
+    "descripcion": "iFilm 2",
+    "categoria": "movies",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/fa/c/ce/Ifilm2logo.png",
+    "streamUrl": "https://live.presstv.ir/hls/ifilm2.m3u8"
   },
   {
     "id": 413,
-    "nombre": "Nikita",
-    "descripcion": "Nikita",
-    "categoria": "tv dramas",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/XgAOBC0Zv6egUA==/bf6f69f6-4495-4bc2-94f9-fd91877e36f0/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/69aad4c1-9bb9-49db-9b2a-f8b26a7c3582/playlist.m3u8"
+    "nombre": "iFilm Arabic",
+    "descripcion": "iFilm Arabic",
+    "categoria": "movies",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+    "streamUrl": "https://live.presstv.ir/hls/ifilmar.m3u8"
   },
   {
     "id": 414,
-    "nombre": "Nosey",
-    "descripcion": "Nosey",
-    "categoria": "reality",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/OlwIhGg4Q5ahzw==/22eaf49e-a2ad-4da4-afbd-66aedb72c78f/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/d0ca4057-94d2-44df-9277-fc715b261596/playlist.m3u8"
+    "nombre": "iFilm English",
+    "descripcion": "iFilm English",
+    "categoria": "movies",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+    "streamUrl": "https://live.presstv.ir/hls/ifilmen.m3u8"
   },
   {
     "id": 415,
-    "nombre": "OuterSphere",
-    "descripcion": "OuterSphere",
-    "categoria": "sci-fi & supernatural",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/nn7juGtf37zWFQ==/9d4070e4-10ea-42f7-8598-d56da77c07e0/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/ab6d635a-6d89-4228-93a6-c3a98980450c/playlist.m3u8"
+    "nombre": "iFilm Persian",
+    "descripcion": "iFilm Persian",
+    "categoria": "movies",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+    "streamUrl": "https://live.presstv.ir/hls/ifilmfa.m3u8"
+  },
+  {
+    "id": 416,
+    "nombre": "Indywood TV",
+    "descripcion": "Indywood TV",
+    "categoria": "movies",
+    "imagenUrl": "https://i.ibb.co/jT3NCPp/logo-tv.png",
+    "streamUrl": "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8"
   },
   {
     "id": 417,
-    "nombre": "Paws & Claws",
-    "descripcion": "Paws & Claws",
-    "categoria": "science & nature",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/No1F3Z5OhrEhmQ==/9aa4b3ac-db29-4a50-9c78-973cdeb2bed6/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/29c0f72f-e546-4599-a7d5-ad1c2928d531/playlist.m3u8"
+    "nombre": "Itage TV",
+    "descripcion": "Itage TV",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/FP1aUPw.jpg",
+    "streamUrl": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8"
   },
   {
     "id": 418,
-    "nombre": "PGA TOUR",
-    "descripcion": "PGA TOUR",
-    "categoria": "sports on now",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/EGd_xCiGQngB4Q==/168854e2-e698-4fee-8e2a-5e21c7b278c4/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/5efa4318-2569-4979-97b9-ad984427ba37/playlist.m3u8"
+    "nombre": "Jiangxi Movie Channel",
+    "descripcion": "Jiangxi Movie Channel",
+    "categoria": "movies",
+    "imagenUrl": "https://www.tvchinese.net/uploads/tv/jiangxi.jpg",
+    "streamUrl": "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8"
   },
   {
     "id": 419,
-    "nombre": "PLL Network",
-    "descripcion": "PLL Network",
-    "categoria": "sports on now",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/j0b-4BUXJKvDYg==/c41d5617-9035-4146-bafa-be2d9de2968c/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/a85525c7-da51-4d48-87bc-d5de1e7ca02f/playlist.m3u8"
+    "nombre": "Jilin Movie Channel",
+    "descripcion": "Jilin Movie Channel",
+    "categoria": "movies",
+    "imagenUrl": "https://www.tvchinese.net/uploads/tv/jlyspd.jpg",
+    "streamUrl": "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8"
   },
   {
     "id": 420,
-    "nombre": "PokerGO",
-    "descripcion": "PokerGO",
-    "categoria": "sports on now",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/Sux8P_pCFoYiMw==/3a6b2ab5-d20e-4b25-9231-65bc11c8b3c0/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/fe9537a5-c7cc-4a74-83df-4c6243922a70/playlist.m3u8"
+    "nombre": "Kairali We",
+    "descripcion": "Kairali We",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/zXpROBj.png",
+    "streamUrl": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8"
   },
   {
     "id": 421,
-    "nombre": "Real Madrid",
-    "descripcion": "Real Madrid",
-    "categoria": "sports on now",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/XQZv-YqIRLHe5Q==/4bb7bdf1-16ba-4d7c-b077-893f549c4022/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/5cfbe5af-a9c2-45cc-ade9-8e13e39fa2d0/playlist.m3u8"
+    "nombre": "Kids Movie Club",
+    "descripcion": "Kids Movie Club",
+    "categoria": "kids",
+    "imagenUrl": "https://i.imgur.com/avFk0Tt.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a7777f6-4245-4af6-b0b4-ee772b6bbeac"
   },
   {
     "id": 422,
-    "nombre": "REELZ Famous & Infamous",
-    "descripcion": "REELZ Famous & Infamous",
-    "categoria": "pop culture",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/kqMJDobqh7FFxw==/942bdeac-9411-4562-a78c-5402d04711a7/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/6e2a5ee3-d2ea-44db-bc14-b4d3e85442c2/playlist.m3u8"
+    "nombre": "KidsFlix (1080p) [Not 24/7]",
+    "descripcion": "KidsFlix (1080p) [Not 24/7]",
+    "categoria": "kids",
+    "imagenUrl": "https://i.imgur.com/4Pn0ADQ.png",
+    "streamUrl": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50"
+  },
+  {
+    "id": 423,
+    "nombre": "Kino 24",
+    "descripcion": "Kino 24",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/QAdDARF.png",
+    "streamUrl": "http://sirius.greenhosting.ru/Kino24Ru/video.m3u8"
   },
   {
     "id": 424,
-    "nombre": "Scripps News",
-    "descripcion": "Scripps News",
-    "categoria": "national news",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/HlP19CQuIAuOFQ==/d7933070-b9eb-4ce4-9c59-9631dd5815be/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/95479c29-c997-4f1d-9feb-b5a4981504aa/playlist.m3u8"
+    "nombre": "Kino Barrandov",
+    "descripcion": "Kino Barrandov",
+    "categoria": "movies",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kino_Barrandov_logo.png/512px-Kino_Barrandov_logo.png",
+    "streamUrl": "http://83.167.253.107/hdmi1_ext"
   },
   {
     "id": 425,
-    "nombre": "Silent Witness and New Tricks",
-    "descripcion": "Silent Witness and New Tricks",
-    "categoria": "mystery",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/qPCndKY47hw8Hg==/2601f920-7f1b-4a8f-a583-00b77ede189e/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/0dbee090-5f28-4184-8d79-95fe8756904b/playlist.m3u8"
+    "nombre": "Kinoteatr",
+    "descripcion": "Kinoteatr",
+    "categoria": "movies",
+    "imagenUrl": "https://i.postimg.cc/QdhYRM64/kinoteatr.png",
+    "streamUrl": "https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8"
   },
   {
     "id": 426,
-    "nombre": "Stadium",
-    "descripcion": "Stadium",
-    "categoria": "sports on now",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/lFBkJXab6LGjCw==/ffec7159-bf94-4c51-9544-5162e5a57b2f/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/30fec756-4948-4ecb-98ae-2fda1cd0ee95/playlist.m3u8"
+    "nombre": "Klasik TV (576p) [Not 24/7]",
+    "descripcion": "Klasik TV (576p) [Not 24/7]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/C90BYlb.png",
+    "streamUrl": "https://178.253.194.105/klasiktv/playlist.m3u8"
   },
   {
     "id": 427,
-    "nombre": "Supermarket Sweep",
-    "descripcion": "Supermarket Sweep",
-    "categoria": "games & competition",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/SgvPUicxPJSW3w==/5a1c3037-9440-4644-a0fd-489d5554ff1c/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/fcbe451e-2271-4e64-8c4d-0ece86e0ac76/playlist.m3u8"
+    "nombre": "Komsan TV [Not 24/7]",
+    "descripcion": "Komsan TV [Not 24/7]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/SNTf2r3.png",
+    "streamUrl": "http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8"
   },
   {
     "id": 428,
-    "nombre": "Sweet Escapes",
-    "descripcion": "Sweet Escapes",
-    "categoria": "good eats",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/hOOLW28Lh8ilNA==/db730c00-68a8-4147-bbab-a07b081c3179/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/7b765297-03ed-4d4a-90d7-3879e776c938/playlist.m3u8"
+    "nombre": "Kuriakos Cine",
+    "descripcion": "Kuriakos Cine",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/CZViCwB.jpg",
+    "streamUrl": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8"
   },
   {
     "id": 429,
-    "nombre": "The Biggest Loser",
-    "descripcion": "The Biggest Loser",
-    "categoria": "games & competition",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/SmdEjm-gnSGTfQ==/d15c6bd1-7006-4386-beff-047dfe28d2d2/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/81fb64f1-6881-4ac0-b6d3-f663b4298b94/playlist.m3u8"
+    "nombre": "Lenz Film",
+    "descripcion": "Lenz Film",
+    "categoria": "movies",
+    "imagenUrl": "https://i.postimg.cc/jjMGH8ph/lenzfilm.png",
+    "streamUrl": "https://lenz.splus.ir/PLTV/88888888/224/3221227021/index.m3u8"
   },
   {
     "id": 430,
-    "nombre": "The Bob Ross Channel",
-    "descripcion": "The Bob Ross Channel",
-    "categoria": "lifestyle",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/MNKfxuR8tSl4kw==/f5c01303-17e6-44a4-826e-d03be6b05d10/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/a79bf16e-b53d-434c-a5dc-b7d3ba647cdc/playlist.m3u8"
+    "nombre": "Lifetime Movies East",
+    "descripcion": "Lifetime Movies East",
+    "categoria": "movies",
+    "imagenUrl": "https://i.postimg.cc/RZGmYyTt/lifetimemovies.png",
+    "streamUrl": "https://fl4.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8"
   },
   {
     "id": 431,
-    "nombre": "The Breakfast Club on iHeartRadio",
-    "descripcion": "The Breakfast Club on iHeartRadio",
-    "categoria": "reality",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/aJMiL7C9b6KOFA==/fa2f8c60-0492-4a50-a92d-4a034e9f89f3/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/01eff731-e659-4011-9c28-bc1e7b0d8151/playlist.m3u8"
+    "nombre": "Maah TV",
+    "descripcion": "Maah TV",
+    "categoria": "movies",
+    "imagenUrl": "https://i.postimg.cc/rshG38zb/maahtv.png",
+    "streamUrl": "https://hls.maahtv.live/hls/stream.m3u8"
   },
   {
     "id": 432,
-    "nombre": "The Carol Burnett Show",
-    "descripcion": "The Carol Burnett Show",
-    "categoria": "comedy",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/vsl9mu8sFd2vZA==/0de31780-db48-47ea-9279-955ddaa089b5/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/dbce464b-6541-43dd-a847-01f68b21b4ff/playlist.m3u8"
+    "nombre": "Made in Hollywood",
+    "descripcion": "Made in Hollywood",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/p16HNIM.png",
+    "streamUrl": "https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8"
   },
   {
     "id": 433,
-    "nombre": "The Conners",
-    "descripcion": "The Conners",
-    "categoria": "comedy",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/AyOfE8Hc25FUCg==/2519aeef-b530-4f17-b7e7-16dfce1f1bd0/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/2e2e56f4-7352-4d4f-80b5-f8a9c0c494ef/playlist.m3u8"
+    "nombre": "Maha Movie (576p) [Not 24/7]",
+    "descripcion": "Maha Movie (576p) [Not 24/7]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/hpShFDL.png",
+    "streamUrl": "http://14.199.164.20:4001/play/a0q7/index.m3u8"
   },
   {
     "id": 434,
-    "nombre": "The FBI",
-    "descripcion": "The FBI",
-    "categoria": "classic tv",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/MJ3G3pEnFICwhQ==/44ac2d3a-3a63-46f3-badb-fe3f8afa7600/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/0e9b3dc6-8b19-4854-b0d1-df85b9ffa282/playlist.m3u8"
+    "nombre": "Manoranjan Grand",
+    "descripcion": "Manoranjan Grand",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/qfMEz78.png",
+    "streamUrl": "https://cdn-1.pishow.tv/live/1011/master.m3u8"
+  },
+  {
+    "id": 435,
+    "nombre": "Manoranjan Movies",
+    "descripcion": "Manoranjan Movies",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/oTBVML2.png",
+    "streamUrl": "https://cdn-2.pishow.tv/live/228/master.m3u8"
   },
   {
     "id": 436,
-    "nombre": "The Jack Hanna Channel",
-    "descripcion": "The Jack Hanna Channel",
-    "categoria": "science & nature",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/5qAoREotoqn6Yg==/4151b64f-afe8-4eb0-9f5a-82865d67d89d/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/db531789-62a9-4855-9aed-02bd32dd58bc/playlist.m3u8"
+    "nombre": "Maverick Black Cinema",
+    "descripcion": "Maverick Black Cinema",
+    "categoria": "movies",
+    "imagenUrl": "https://images.fubo.tv/station_logos/maverick_black_cinema_c.png",
+    "streamUrl": "https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8"
   },
   {
     "id": 437,
-    "nombre": "The Johnny Carson Show",
-    "descripcion": "The Johnny Carson Show",
-    "categoria": "comedy",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/RZtacPj-Ofpc6g==/c468221e-d75c-428a-bfaa-cdb5277c4c3b/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/196721fd-dabe-4799-8edc-d8e70f63eb31/playlist.m3u8"
+    "nombre": "MAX4",
+    "descripcion": "MAX4",
+    "categoria": "movies",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Max4_logo.png/375px-Max4_logo.png",
+    "streamUrl": "http://146.59.85.40:89/max4/index.m3u8"
   },
   {
     "id": 438,
-    "nombre": "The Masked Singer",
-    "descripcion": "The Masked Singer",
-    "categoria": "games & competition",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/r5v1Bfy6wRbIBQ==/ff6398da-6988-4b07-85ed-d732eb70b6aa/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/0e38deb7-55a8-4ae3-a6a7-295b4fd8d0fc/playlist.m3u8"
+    "nombre": "MBC 2",
+    "descripcion": "MBC 2",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/n9mSHuP.png",
+    "streamUrl": "http://213.57.91.138:8000/play/a05k"
+  },
+  {
+    "id": 439,
+    "nombre": "MBC 2",
+    "descripcion": "MBC 2",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/u0feOvX.png",
+    "streamUrl": "https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel2/index.m3u8"
   },
   {
     "id": 440,
-    "nombre": "theGrio",
-    "descripcion": "theGrio",
-    "categoria": "national news",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/vZzWno5NjFrM6w==/a9b7d587-ab4a-4d4d-bc0d-6f14da292f9f/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/872ed469-a2cf-41d6-a35c-726bec708189/playlist.m3u8"
+    "nombre": "MBC Bollywood (1080p) [Geo-blocked]",
+    "descripcion": "MBC Bollywood (1080p) [Geo-blocked]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/TTAGFHG.png",
+    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8"
   },
   {
     "id": 441,
-    "nombre": "TMZ",
-    "descripcion": "TMZ",
-    "categoria": "pop culture",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/Pco25VeQ5mNv9Q==/ac6425fe-0808-4566-ba6a-066d22dc3829/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/13228e92-c0a2-4c7f-b3f5-a35148426238/playlist.m3u8"
+    "nombre": "MBC+ Drama",
+    "descripcion": "MBC+ Drama",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/lxWdjXG.png",
+    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8"
   },
   {
     "id": 442,
-    "nombre": "Today All Day",
-    "descripcion": "Today All Day",
-    "categoria": "national news",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/aNLZVZ3OZeNFIQ==/bf04720c-d113-4728-a69a-a0ebc800e7b3/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/d51de949-6ef0-4e1e-a370-4602eaf9f466/playlist.m3u8"
+    "nombre": "MCI Television",
+    "descripcion": "MCI Television",
+    "categoria": "family",
+    "imagenUrl": "https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg",
+    "streamUrl": "https://video.ejeserver.com/live/mcitelevision.m3u8"
   },
   {
     "id": 443,
-    "nombre": "Top Gear",
-    "descripcion": "Top Gear",
-    "categoria": "lifestyle",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/g_SN11NtWr_adw==/45d06aa3-8a80-4864-a7b0-25a606d26be3/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/6d84d716-66f1-4f2d-8978-d0a6b99500ed/playlist.m3u8"
+    "nombre": "Meta Film TV",
+    "descripcion": "Meta Film TV",
+    "categoria": "movies",
+    "imagenUrl": "https://www.lyngsat.com/logo/tv/mm/meta-film-tv.png",
+    "streamUrl": "https://metafilmhls.wns.live/hls/stream.m3u8"
   },
   {
     "id": 444,
-    "nombre": "Top Rank Classics",
-    "descripcion": "Top Rank Classics",
-    "categoria": "sports on now",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/TyglNt0slET5Ow==/9ecc2de5-5b17-4d2e-a407-ced0d00af082/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/2a18fa03-db06-4f39-96c7-1751a3857698/playlist.m3u8"
+    "nombre": "MGM HD [Not 24/7]",
+    "descripcion": "MGM HD [Not 24/7]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/FRbtrxo.png",
+    "streamUrl": "https://v2.catcast.tv/content/44051/index.m3u8"
   },
   {
     "id": 445,
-    "nombre": "Torque",
-    "descripcion": "Torque",
-    "categoria": "reality",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/DkGOycFi4KAMlQ==/8c846b53-83bc-4c0b-a9c0-ff323c46c057/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/2a57c116-5540-439a-8703-8a20e21c6ea5/playlist.m3u8"
+    "nombre": "MGM+ East",
+    "descripcion": "MGM+ East",
+    "categoria": "movies",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/512px-MGM%2B_logo.svg.png",
+    "streamUrl": "https://fl4.moveonjoy.com/EPIX/index.m3u8"
   },
   {
     "id": 446,
-    "nombre": "Total Crime",
-    "descripcion": "Total Crime",
-    "categoria": "true crime",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/g-OH5ZVUG2WMlg==/7e8b8518-8447-4c08-9193-55efa2fff3bc/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/71fa1242-fb07-4d70-b30b-f4aaf76ddf2a/playlist.m3u8"
+    "nombre": "MGM+ Marquee",
+    "descripcion": "MGM+ Marquee",
+    "categoria": "movies",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/512px-MGM%2B_Marquee_2023.svg.png",
+    "streamUrl": "https://fl4.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8"
   },
   {
     "id": 447,
-    "nombre": "Travel + Adventure",
-    "descripcion": "Travel + Adventure",
-    "categoria": "lifestyle",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/CYTNzlV6patUNA==/d2ad86e1-c1b3-4758-abec-a75aabd439d0/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/399519f7-b848-4c8e-aaac-884546a1d916/playlist.m3u8"
+    "nombre": "MovieBox",
+    "descripcion": "MovieBox",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/xeO1Zb4.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8"
   },
   {
     "id": 448,
-    "nombre": "TV One Crime & Justice",
-    "descripcion": "TV One Crime & Justice",
-    "categoria": "true crime",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/uVMSPfRWQO9U4Q==/bed0ab9e-637e-4b96-a808-ee8b748c563f/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/e584c8c3-a4c4-4281-afd7-999492abcc23/playlist.m3u8"
+    "nombre": "MOVIEDOME",
+    "descripcion": "MOVIEDOME",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/8c54ycg.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615c1e5ce3039400070a0547/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7524-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9855fa27-eb7c-4e5a-852e-4c439515c25d"
   },
   {
     "id": 449,
-    "nombre": "UFC",
-    "descripcion": "UFC",
-    "categoria": "sports on now",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/lysgF2PEmQ0E0w==/a2adde61-ad0b-49bd-bf32-ec660546a380/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/dd6d627f-f0f8-48bb-b627-7f7c4fceec37/playlist.m3u8"
+    "nombre": "MOVIEDOME",
+    "descripcion": "MOVIEDOME",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/8c54ycg.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615c1e5ce3039400070a0547/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd31-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5bdf8fde-2533-4c16-b518-58e9777e93ca"
   },
   {
     "id": 450,
-    "nombre": "Unique Lives",
-    "descripcion": "Unique Lives",
-    "categoria": "reality",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/G2-HT4Bu9SL06w==/a7d3ffc6-0efb-4136-9faf-1be405d7a9dd/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/5602f3d6-c62c-4109-8de7-b7d2434ab63b/playlist.m3u8"
+    "nombre": "Movies Action",
+    "descripcion": "Movies Action",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/NIVhISa.png",
+    "streamUrl": "https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8"
+  },
+  {
+    "id": 451,
+    "nombre": "Movies on Verizon",
+    "descripcion": "Movies on Verizon",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/BSwdLYr.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5efb60a9e426140007c78e4b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b6350812-05fd-4d36-ad04-51b5df6a9ed0"
   },
   {
     "id": 452,
-    "nombre": "Untold Stories of the E.R.",
-    "descripcion": "Untold Stories of the E.R.",
-    "categoria": "documentaries",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/vUEzIMchDmmfWQ==/cdb009e8-90ea-4ef5-b12e-9395702b4a17/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/e135f994-9d0c-4128-a643-759705edf9c9/playlist.m3u8"
+    "nombre": "Movies Thriller",
+    "descripcion": "Movies Thriller",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/JWihdcl.png",
+    "streamUrl": "https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8"
+  },
+  {
+    "id": 453,
+    "nombre": "Movies!",
+    "descripcion": "Movies!",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/gAGn3mK.png",
+    "streamUrl": "https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-movies!/index.m3u8"
   },
   {
     "id": 454,
-    "nombre": "Very Boston WCVB",
-    "descripcion": "Very Boston WCVB",
-    "categoria": "local news",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/VGMbk0qWGrRw2Q==/8da5a668-c2a6-4e29-aebd-e1e0e02e06b6/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/d133d4a2-5013-4630-addf-b67c393d35ba/playlist.m3u8"
+    "nombre": "MovieSmart Turk",
+    "descripcion": "MovieSmart Turk",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/DWN9ulT.png",
+    "streamUrl": "https://tv1.arectv30.sbs/live/mvturk.m3u8"
+  },
+  {
+    "id": 455,
+    "nombre": "MovieSphere",
+    "descripcion": "MovieSphere",
+    "categoria": "movies",
+    "imagenUrl": "",
+    "streamUrl": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8"
   },
   {
     "id": 456,
-    "nombre": "Wanted: Dead or Alive",
-    "descripcion": "Wanted: Dead or Alive",
-    "categoria": "classic tv",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/STMcZKpf8MyAMA==/5583c936-6239-4da3-b733-a9aaeebbc2fe/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/f4c47d84-a50e-4053-8fd5-827f2e62a401/playlist.m3u8"
+    "nombre": "MovieSphere by Lionsgate",
+    "descripcion": "MovieSphere by Lionsgate",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/h1ejU90.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ee42393-c7a0-4d1d-82c7-0121c35ec03e"
+  },
+  {
+    "id": 457,
+    "nombre": "My Cinema",
+    "descripcion": "My Cinema",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/BTmcTQO.png",
+    "streamUrl": "http://210.210.155.37/uq2663/h/h192/index.m3u8"
   },
   {
     "id": 458,
-    "nombre": "Waypoint TV",
-    "descripcion": "Waypoint TV",
-    "categoria": "lifestyle",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/j5_965C-CDR-0w==/4b2bb660-9424-45c9-ad67-9c7099f60cbf/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/d419b6d7-3ede-4ca6-9d7c-3f34b039f7ab/playlist.m3u8"
+    "nombre": "My Cinema Asia (1080p) [Geo-blocked]",
+    "descripcion": "My Cinema Asia (1080p) [Geo-blocked]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/4XVZLW0.png",
+    "streamUrl": "http://210.210.155.37/uq2663/h/h193/index.m3u8"
   },
   {
     "id": 459,
-    "nombre": "WBAL Very Baltimore 11",
-    "descripcion": "WBAL Very Baltimore 11",
-    "categoria": "local news",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/az_Ve_cR-qSD9Q==/774c9b9e-6011-422f-b77b-8715b998c56d/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/86ece219-b5d8-478c-861a-76f58b9824da/playlist.m3u8"
+    "nombre": "MyTime Movie Network",
+    "descripcion": "MyTime Movie Network",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/HYgxPVQ.png",
+    "streamUrl": "https://mytime-tcl.amagi.tv/playlist.m3u8"
   },
   {
     "id": 460,
-    "nombre": "Welcome Home",
-    "descripcion": "Welcome Home",
-    "categoria": "lifestyle",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/4tVxJjWv-mtt6Q==/2f1fd1c5-7bdc-475f-841f-9a2a9f3ae75b/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/edb986fe-9600-4f83-8b6d-8593986f2f3a/playlist.m3u8"
+    "nombre": "MyTime Movie Network Brazil",
+    "descripcion": "MyTime Movie Network Brazil",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/aiGQtzI.png",
+    "streamUrl": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8"
   },
   {
     "id": 461,
-    "nombre": "WGAL Very Lancaster 8",
-    "descripcion": "WGAL Very Lancaster 8",
-    "categoria": "local news",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/Y5IOPVHpwuWl-A==/04771d5a-5adf-4e6d-bbdc-d0815e36b5a3/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/983a4bbf-3ed1-49ff-a577-cf2039c72f4c/playlist.m3u8"
+    "nombre": "MyTime Movie Network Mexico",
+    "descripcion": "MyTime Movie Network Mexico",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/pw4NZK1.png",
+    "streamUrl": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8"
   },
   {
     "id": 462,
-    "nombre": "Wipeout Xtra",
-    "descripcion": "Wipeout Xtra",
-    "categoria": "games & competition",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/mQtAXyEqZKAzWw==/991109c5-dce1-4eac-a23f-1d4713c52cbf/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/ea70dfb3-0a75-4ca1-9151-476fb43f6230/playlist.m3u8"
+    "nombre": "MyTime movie network Spain",
+    "descripcion": "MyTime movie network Spain",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/pw4NZK1.png",
+    "streamUrl": "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8"
   },
   {
     "id": 463,
-    "nombre": "WMAR 2 Baltimore",
-    "descripcion": "WMAR 2 Baltimore",
-    "categoria": "local news",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/0S7TySvmLTCQWA==/1ca1f944-34e3-4735-bf58-27af61762549/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/e6d38135-8231-40dc-8941-35df2190dfc4/playlist.m3u8"
+    "nombre": "NETV Toronto",
+    "descripcion": "NETV Toronto",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/WXRBuOW.png",
+    "streamUrl": "https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8"
   },
   {
     "id": 464,
-    "nombre": "WMUR New Hampshire 9",
-    "descripcion": "WMUR New Hampshire 9",
-    "categoria": "local news",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/Uz8GwqS9fYvFgw==/08428b49-8dd0-446e-9b7b-c7aa1c824400/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/8852afd3-e359-4e34-a7b0-528fa09d057a/playlist.m3u8"
+    "nombre": "NEW K.MOVIES",
+    "descripcion": "NEW K.MOVIES",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/wCgirjc.png",
+    "streamUrl": "https://ec3b4b7e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X05FV0tNT1ZJRVNfSExT/playlist.m3u8"
   },
   {
     "id": 465,
-    "nombre": "Women's Sports Network",
-    "descripcion": "Women's Sports Network",
-    "categoria": "sports on now",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/Wk6C3cgdBqufEw==/4a1d8a18-5086-438b-9298-7381aee4cb83/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/d4c5e01e-75ff-4e1d-abb1-d240e3a3694a/playlist.m3u8"
+    "nombre": "Newflix",
+    "descripcion": "Newflix",
+    "categoria": "movies",
+    "imagenUrl": "https://i.postimg.cc/3w2FPSrX/newflix.png",
+    "streamUrl": "https://newfhls.wns.live/hls/stream.m3u8"
+  },
+  {
+    "id": 466,
+    "nombre": "Next HD",
+    "descripcion": "Next HD",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/c2rF3SS.png",
+    "streamUrl": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8"
   },
   {
     "id": 467,
-    "nombre": "WUSA DC/MD/VA 9",
-    "descripcion": "WUSA DC/MD/VA 9",
-    "categoria": "local news",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/rfXKDWh9uqkgig==/16ed6354-f9fc-4b18-9f64-8c7ce0b786f8/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/ab1704f0-7075-4fe7-9263-b25af145e503/playlist.m3u8"
+    "nombre": "Nolly Africa [Geo-blocked]",
+    "descripcion": "Nolly Africa [Geo-blocked]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/IxtGpti.png",
+    "streamUrl": "https://amg02784-nollyafricafast-amg02784c1-cineverse-us-1124.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-cineverseus/playlist.m3u8"
   },
   {
     "id": 468,
-    "nombre": "Xplore",
-    "descripcion": "Xplore",
-    "categoria": "science & nature",
-    "imagenUrl": "https://canvas-lb.tubitv.com/opts/rHjNqeTfLE8Pow==/075f8826-fdc1-4007-aed3-abe290b90ff7/CHgQeDoFMS4xLjhAAQ==",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/f9eae274-e379-4d83-8a2b-bbb4c8f015aa/playlist.m3u8"
+    "nombre": "OCN",
+    "descripcion": "OCN",
+    "categoria": "movies",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/OCN_Logo.svg/512px-OCN_Logo.svg.png",
+    "streamUrl": "http://202.60.106.14:8080/207/playlist.m3u8"
+  },
+  {
+    "id": 469,
+    "nombre": "Oscar Movies Bhojpuri",
+    "descripcion": "Oscar Movies Bhojpuri",
+    "categoria": "movies",
+    "imagenUrl": "",
+    "streamUrl": "https://cdn-4.pishow.tv/live/233/master.m3u8"
+  },
+  {
+    "id": 470,
+    "nombre": "OuterMax East",
+    "descripcion": "OuterMax East",
+    "categoria": "movies",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/512px-OuterMax_Logo.svg.png",
+    "streamUrl": "https://fl4.moveonjoy.com/OUTER_MAX/index.m3u8"
+  },
+  {
+    "id": 471,
+    "nombre": "Paramount Movie Channel",
+    "descripcion": "Paramount Movie Channel",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/sj5h9bl.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74"
+  },
+  {
+    "id": 472,
+    "nombre": "Paramount Network (Indonesia) (720p) [Geo-blocked]",
+    "descripcion": "Paramount Network (Indonesia) (720p) [Geo-blocked]",
+    "categoria": "movies",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png",
+    "streamUrl": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8"
+  },
+  {
+    "id": 473,
+    "nombre": "Paramount Network East",
+    "descripcion": "Paramount Network East",
+    "categoria": "movies",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png",
+    "streamUrl": "https://fl4.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8"
+  },
+  {
+    "id": 474,
+    "nombre": "Paramount+ Picks",
+    "descripcion": "Paramount+ Picks",
+    "categoria": "movies",
+    "imagenUrl": "https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=86df5336-6268-4928-9b7d-3af618ca807b"
+  },
+  {
+    "id": 475,
+    "nombre": "Pelis y Popcorn",
+    "descripcion": "Pelis y Popcorn",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/jP19sGt.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f7b47b7-a2d8-4c61-847a-02818046001b"
+  },
+  {
+    "id": 476,
+    "nombre": "Persian Film",
+    "descripcion": "Persian Film",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/AB0BaaA.png",
+    "streamUrl": "https://pfilmhls.wns.live/hls/stream.m3u8"
+  },
+  {
+    "id": 477,
+    "nombre": "Persiana Cinema",
+    "descripcion": "Persiana Cinema",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/hgIro9r.png",
+    "streamUrl": "https://cinehls.persiana.live/hls/stream.m3u8"
+  },
+  {
+    "id": 478,
+    "nombre": "Persiana Family",
+    "descripcion": "Persiana Family",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/lMZsuWi.png",
+    "streamUrl": "https://familyhls.persiana.live/hls/stream.m3u8"
+  },
+  {
+    "id": 479,
+    "nombre": "Persiana Iranian",
+    "descripcion": "Persiana Iranian",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/vqrrpBi.png",
+    "streamUrl": "https://irhls.persiana.live/hls/stream.m3u8"
+  },
+  {
+    "id": 480,
+    "nombre": "Persiana Korea",
+    "descripcion": "Persiana Korea",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/si2ZnIA.png",
+    "streamUrl": "https://korhls.persiana.live/hls/stream.m3u8"
+  },
+  {
+    "id": 481,
+    "nombre": "Persiana Latino",
+    "descripcion": "Persiana Latino",
+    "categoria": "movies",
+    "imagenUrl": "https://www.lyngsat.com/logo/tv/pp/persiana-latino-fr.png",
+    "streamUrl": "https://latinohls.persiana.live/hls/stream.m3u8"
+  },
+  {
+    "id": 482,
+    "nombre": "Persiana One",
+    "descripcion": "Persiana One",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/X1Dv6st.png",
+    "streamUrl": "https://onehls.persiana.live/hls/stream.m3u8"
+  },
+  {
+    "id": 483,
+    "nombre": "Persiana Plus",
+    "descripcion": "Persiana Plus",
+    "categoria": "movies",
+    "imagenUrl": "https://i.postimg.cc/PqGNMPdx/persianahd.png",
+    "streamUrl": "https://euhls.persiana.live/hls/stream.m3u8"
+  },
+  {
+    "id": 484,
+    "nombre": "Pluto TV Action",
+    "descripcion": "Pluto TV Action",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/tDapGal.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac632-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9bd2e9c0-393b-484b-b5bc-b1869a276513"
+  },
+  {
+    "id": 485,
+    "nombre": "Pluto TV Action",
+    "descripcion": "Pluto TV Action",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/tDapGal.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055171-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c3b67254-4628-4f0e-8164-5a50e8969a42"
+  },
+  {
+    "id": 486,
+    "nombre": "Pluto TV Cine Accion",
+    "descripcion": "Pluto TV Cine Accion",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/PXhCzXn.png",
+    "streamUrl": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId="
+  },
+  {
+    "id": 487,
+    "nombre": "Pluto TV Cine Acción",
+    "descripcion": "Pluto TV Cine Acción",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/PXhCzXn.png",
+    "streamUrl": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS"
+  },
+  {
+    "id": 488,
+    "nombre": "Pluto TV Cine Clásico",
+    "descripcion": "Pluto TV Cine Clásico",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/hCA5BRr.png",
+    "streamUrl": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS"
+  },
+  {
+    "id": 489,
+    "nombre": "Pluto TV Cine Drama",
+    "descripcion": "Pluto TV Cine Drama",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/AQBtheU.png",
+    "streamUrl": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+  },
+  {
+    "id": 490,
+    "nombre": "Pluto TV Cine Estelar",
+    "descripcion": "Pluto TV Cine Estelar",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/v3BO4nW.png",
+    "streamUrl": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS"
+  },
+  {
+    "id": 491,
+    "nombre": "Pluto TV Cine Estelar",
+    "descripcion": "Pluto TV Cine Estelar",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/v3BO4nW.png",
+    "streamUrl": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId="
+  },
+  {
+    "id": 492,
+    "nombre": "Pluto TV Cine Estelar Spain+",
+    "descripcion": "Pluto TV Cine Estelar Spain+",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/v3BO4nW.png",
+    "streamUrl": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f59f50cc36a94000749fd3f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS"
+  },
+  {
+    "id": 493,
+    "nombre": "Pluto TV Cine Família (720p) [Not 24/7]",
+    "descripcion": "Pluto TV Cine Família (720p) [Not 24/7]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/r9UhBfV.png",
+    "streamUrl": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+  },
+  {
+    "id": 494,
+    "nombre": "Pluto TV Ciné Rétro",
+    "descripcion": "Pluto TV Ciné Rétro",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/y27HHe1.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055170-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=16087aae-45a5-4664-9dd5-7ba7c4fa78cf"
+  },
+  {
+    "id": 495,
+    "nombre": "Pluto TV Cine Suspenso",
+    "descripcion": "Pluto TV Cine Suspenso",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/GnUmEZn.png",
+    "streamUrl": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId="
+  },
+  {
+    "id": 496,
+    "nombre": "Pluto TV Cinema Italiano Italy",
+    "descripcion": "Pluto TV Cinema Italiano Italy",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/w3lUi4t.png",
+    "streamUrl": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa7d8359b270007861489/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+  },
+  {
+    "id": 497,
+    "nombre": "Pluto TV Crime Drama",
+    "descripcion": "Pluto TV Crime Drama",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/9j1njE3.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92708a7ce600007b2676a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d26-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=59a15527-cb90-4bf4-90ab-ec456c5d2df2"
+  },
+  {
+    "id": 498,
+    "nombre": "Pluto TV Crime Movies",
+    "descripcion": "Pluto TV Crime Movies",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/SJcqknt.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed41-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e4d2554e-9b84-4086-8e1d-07f64310a23b"
+  },
+  {
+    "id": 499,
+    "nombre": "Pluto TV Cult Films",
+    "descripcion": "Pluto TV Cult Films",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/xoaIAus.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed42-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2ff9f4-514d-4e8c-b1c7-b4c048053a69"
+  },
+  {
+    "id": 500,
+    "nombre": "Pluto TV Drama",
+    "descripcion": "Pluto TV Drama",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/PvhbHTZ.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed44-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=01b9b883-5344-4e99-81f9-dc1d9942ca58"
+  },
+  {
+    "id": 501,
+    "nombre": "Pluto TV Estrellas de Acción",
+    "descripcion": "Pluto TV Estrellas de Acción",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/GVOYX4L.png",
+    "streamUrl": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId="
+  },
+  {
+    "id": 502,
+    "nombre": "Pluto TV Film Azione Italy",
+    "descripcion": "Pluto TV Film Azione Italy",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/aQ18r9x.png",
+    "streamUrl": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+  },
+  {
+    "id": 503,
+    "nombre": "Pluto TV Film Classici Italy",
+    "descripcion": "Pluto TV Film Classici Italy",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/YEbc5EM.png",
+    "streamUrl": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa3c446d73500075f0e24/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+  },
+  {
+    "id": 504,
+    "nombre": "Pluto TV Film Commedia Italy",
+    "descripcion": "Pluto TV Film Commedia Italy",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/ADNrqKM.png",
+    "streamUrl": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa512d67fd900072323db/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+  },
+  {
+    "id": 505,
+    "nombre": "Pluto TV Film Drama Italy",
+    "descripcion": "Pluto TV Film Drama Italy",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/dOxuHUn.png",
+    "streamUrl": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa42b5c2b8f0007197529/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+  },
+  {
+    "id": 506,
+    "nombre": "Pluto TV Film Italy",
+    "descripcion": "Pluto TV Film Italy",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/aZverZQ.png",
+    "streamUrl": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+  },
+  {
+    "id": 507,
+    "nombre": "Pluto TV Film Romantici Italy",
+    "descripcion": "Pluto TV Film Romantici Italy",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/LAvRDve.png",
+    "streamUrl": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663af/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+  },
+  {
+    "id": 508,
+    "nombre": "Pluto TV Film Thriller Italy",
+    "descripcion": "Pluto TV Film Thriller Italy",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/3SWPIek.png",
+    "streamUrl": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa5e995132a00075f7005/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+  },
+  {
+    "id": 509,
+    "nombre": "Pluto TV Horror",
+    "descripcion": "Pluto TV Horror",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/k6qttca.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1450-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3f8b9bca-2807-48aa-a7cc-8513d68f8d92"
+  },
+  {
+    "id": 510,
+    "nombre": "Pluto TV Horror",
+    "descripcion": "Pluto TV Horror",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/k6qttca.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f4b88157cf00075c22db/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1fada1-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=98b1a14f-8335-48c9-a8f3-2e1926d24a7e"
+  },
+  {
+    "id": 511,
+    "nombre": "Pluto TV Horror",
+    "descripcion": "Pluto TV Horror",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/k6qttca.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea3f8a38acc80007072d26/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d29-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=198d34d5-3dfc-40a4-8f5e-7aecb91ced74"
+  },
+  {
+    "id": 512,
+    "nombre": "Pluto TV Horror",
+    "descripcion": "Pluto TV Horror",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/k6qttca.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f4b88157cf00075c22db/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aea083-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=67746cb2-93c1-4a0a-874d-a4043328cb08"
+  },
+  {
+    "id": 513,
+    "nombre": "Pluto TV Kultfilme",
+    "descripcion": "Pluto TV Kultfilme",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/RJhxl8t.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dde47b63585b500099f74ec/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1fd4b0-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=03130bd3-7919-4831-bc2e-4f5c3b202f88"
+  },
+  {
+    "id": 514,
+    "nombre": "Pluto TV Kultfilme",
+    "descripcion": "Pluto TV Kultfilme",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/RJhxl8t.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dde47b63585b500099f74ec/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aea088-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3418c444-a5b9-456d-9d11-e4e9c7b5eec0"
+  },
+  {
+    "id": 515,
+    "nombre": "Pluto TV Movies",
+    "descripcion": "Pluto TV Movies",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/XzAbXAn.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1fd4b4-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0b9dcc7-8579-47a9-a718-88e7ec066b8a"
+  },
+  {
+    "id": 516,
+    "nombre": "Pluto TV Movies",
+    "descripcion": "Pluto TV Movies",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/XzAbXAn.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aec791-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5500aa67-c527-4db6-868b-d37341c34286"
+  },
+  {
+    "id": 517,
+    "nombre": "Pluto TV Novelas Thriller",
+    "descripcion": "Pluto TV Novelas Thriller",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/WJnHkEm.png",
+    "streamUrl": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dc59026b9b000766f9a2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=943&terminate=false&userId="
+  },
+  {
+    "id": 518,
+    "nombre": "Pluto TV Reaction",
+    "descripcion": "Pluto TV Reaction",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/H9k3OXN.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/617b37b361e0fd0008cfd8c5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1457-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=32aea123-3ab5-4713-944a-87ebeb334781"
+  },
+  {
+    "id": 519,
+    "nombre": "Pluto TV Romance",
+    "descripcion": "Pluto TV Romance",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/GJBxfyf.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1459-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=195653a1-6a75-4cb6-b94d-0fe4a7594dba"
+  },
+  {
+    "id": 520,
+    "nombre": "Pluto TV Romance",
+    "descripcion": "Pluto TV Romance",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/GJBxfyf.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc287ce3086a20009f5024c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ffbc6-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fb4888c5-7223-4af0-9aec-f74be7f97304"
+  },
+  {
+    "id": 521,
+    "nombre": "Pluto TV Romance",
+    "descripcion": "Pluto TV Romance",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/GJBxfyf.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05c6a4-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d84357a9-e5ec-4c91-a037-9a426fa2cdff"
+  },
+  {
+    "id": 522,
+    "nombre": "Pluto TV Romance",
+    "descripcion": "Pluto TV Romance",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/GJBxfyf.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc287ce3086a20009f5024c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aec799-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=91cee60e-49f2-4985-953a-f2cde441fe54"
+  },
+  {
+    "id": 523,
+    "nombre": "Pluto TV Romance",
+    "descripcion": "Pluto TV Romance",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/GJBxfyf.png",
+    "streamUrl": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf321-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7ebb5004-1cd6-44bb-990a-082fdcdcba6d"
+  },
+  {
+    "id": 524,
+    "nombre": "Pluto TV Sci-Fi",
+    "descripcion": "Pluto TV Sci-Fi",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/vSzd5m7.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b60-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ed62db1c-5556-4fa7-b231-9514fcc69832"
+  },
+  {
+    "id": 525,
+    "nombre": "Pluto TV Sci-Fi",
+    "descripcion": "Pluto TV Sci-Fi",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/vSzd5m7.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60ed498c4248a400077c0b9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b2022d0-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7622190c-0c5d-4225-bfd1-46b7e034e788"
+  },
+  {
+    "id": 526,
+    "nombre": "Pluto TV Sci-Fi",
+    "descripcion": "Pluto TV Sci-Fi",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/vSzd5m7.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c34592c911890007f29a73/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c1-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b2680c6-291b-492d-a7cf-589b55d330d2"
+  },
+  {
+    "id": 527,
+    "nombre": "Pluto TV Sci-Fi",
+    "descripcion": "Pluto TV Sci-Fi",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/vSzd5m7.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60ed498c4248a400077c0b9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea0-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=91571e99-b22e-454e-9622-6abd1ff79fd1"
+  },
+  {
+    "id": 528,
+    "nombre": "Pluto TV Sci-Fi Italy",
+    "descripcion": "Pluto TV Sci-Fi Italy",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/vSzd5m7.png",
+    "streamUrl": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61728bb9ee3773000840c1fa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+  },
+  {
+    "id": 529,
+    "nombre": "Pluto TV Spotlight",
+    "descripcion": "Pluto TV Spotlight",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/UmuJkVB.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b64-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a26dc013-1780-409c-9a56-09ae4538fe40"
+  },
+  {
+    "id": 530,
+    "nombre": "Pluto TV Staff Picks",
+    "descripcion": "Pluto TV Staff Picks",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/JzwO8IO.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d863b98b41000076cd061/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b65-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c2fde2b7-d78e-4906-abf2-3c433f73ec5b"
+  },
+  {
+    "id": 531,
+    "nombre": "Pluto TV Terror",
+    "descripcion": "Pluto TV Terror",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/eWtoHDM.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b67-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bbd5d7ff-a6cc-4ad9-bb5f-d0f36c75fc29"
+  },
+  {
+    "id": 532,
+    "nombre": "Pluto TV Thrillers",
+    "descripcion": "Pluto TV Thrillers",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/ULKvDN7.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b68-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2bd17736-43bd-4c5d-aaa9-c3cdc2c77562"
+  },
+  {
+    "id": 533,
+    "nombre": "Pluto TV Thrillers",
+    "descripcion": "Pluto TV Thrillers",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/ULKvDN7.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c3472a51a2050008dad272/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c2-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b27ed94e-1347-4dd0-af99-b2e901fd5e71"
+  },
+  {
+    "id": 534,
+    "nombre": "Pluto TV Thrillers Spain",
+    "descripcion": "Pluto TV Thrillers Spain",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/ULKvDN7.png",
+    "streamUrl": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId="
+  },
+  {
+    "id": 535,
+    "nombre": "Pluto TV Western",
+    "descripcion": "Pluto TV Western",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/biepi4A.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630dd3b2605f140007e002f5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b2049e2-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=59d31236-c94c-43d9-a034-2227dea980c8"
+  },
+  {
+    "id": 536,
+    "nombre": "Pluto TV Western",
+    "descripcion": "Pluto TV Western",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/biepi4A.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cca3e2ec452d0008af3a65/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e074d44-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bae761e4-0e1a-4102-8f5e-fa657934946c"
+  },
+  {
+    "id": 537,
+    "nombre": "Pluto TV Western",
+    "descripcion": "Pluto TV Western",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/biepi4A.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630dd3b2605f140007e002f5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea9-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f9be2fb-9bfd-4c1e-8963-ba4370795ff3"
+  },
+  {
+    "id": 538,
+    "nombre": "Pluto TV Westerns",
+    "descripcion": "Pluto TV Westerns",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/biepi4A.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6272-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5e8336d8-e46b-4f0f-86ff-ba6f9678d77a"
+  },
+  {
+    "id": 539,
+    "nombre": "Pluto TV Westerns",
+    "descripcion": "Pluto TV Westerns",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/biepi4A.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdacc96a3751000811842d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb435-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d87a47e-6b0e-40e2-88e1-8631bfba1316"
+  },
+  {
+    "id": 540,
+    "nombre": "Pro100TV",
+    "descripcion": "Pro100TV",
+    "categoria": "animation",
+    "imagenUrl": "https://i.imgur.com/YfQEflM.png",
+    "streamUrl": "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8"
+  },
+  {
+    "id": 541,
+    "nombre": "QTV-3",
+    "descripcion": "QTV-3",
+    "categoria": "movies",
+    "imagenUrl": "https://www.tvchinese.net/uploads/tv/qdtv3.jpg",
+    "streamUrl": "http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8"
+  },
+  {
+    "id": 542,
+    "nombre": "Rai Movie",
+    "descripcion": "Rai Movie",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/0FjxXU9.png",
+    "streamUrl": "http://188.60.179.180:8000/play/xxRaiMOviexx"
+  },
+  {
+    "id": 543,
+    "nombre": "Rakuten Top Movies UK",
+    "descripcion": "Rakuten Top Movies UK",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
+  },
+  {
+    "id": 544,
+    "nombre": "Rakuten TV Action Movies Austria",
+    "descripcion": "Rakuten TV Action Movies Austria",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://0f846627524f4dd2995e93581379db82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenActionMovies-1/playlist.m3u8"
+  },
+  {
+    "id": 545,
+    "nombre": "Rakuten TV Action Movies Finland",
+    "descripcion": "Rakuten TV Action Movies Finland",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8"
+  },
+  {
+    "id": 546,
+    "nombre": "Rakuten TV Action Movies Germany",
+    "descripcion": "Rakuten TV Action Movies Germany",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8"
+  },
+  {
+    "id": 547,
+    "nombre": "Rakuten TV Action Movies Italy",
+    "descripcion": "Rakuten TV Action Movies Italy",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8"
+  },
+  {
+    "id": 548,
+    "nombre": "Rakuten TV Action Movies Spain",
+    "descripcion": "Rakuten TV Action Movies Spain",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8"
+  },
+  {
+    "id": 549,
+    "nombre": "Rakuten TV Action Movies UK",
+    "descripcion": "Rakuten TV Action Movies UK",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8"
+  },
+  {
+    "id": 550,
+    "nombre": "Rakuten TV Comedy Movies Austria",
+    "descripcion": "Rakuten TV Comedy Movies Austria",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://7ed752b220a441b7b22bdf697c6c4df8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenComedyMovies-1/playlist.m3u8"
+  },
+  {
+    "id": 551,
+    "nombre": "Rakuten TV Comedy Movies Finland",
+    "descripcion": "Rakuten TV Comedy Movies Finland",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8"
+  },
+  {
+    "id": 552,
+    "nombre": "Rakuten TV Comedy Movies Germany",
+    "descripcion": "Rakuten TV Comedy Movies Germany",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8"
+  },
+  {
+    "id": 553,
+    "nombre": "Rakuten TV Comedy Movies Italy",
+    "descripcion": "Rakuten TV Comedy Movies Italy",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8"
+  },
+  {
+    "id": 554,
+    "nombre": "Rakuten TV Comedy Movies Spain",
+    "descripcion": "Rakuten TV Comedy Movies Spain",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
+  },
+  {
+    "id": 555,
+    "nombre": "Rakuten TV Comedy Movies UK",
+    "descripcion": "Rakuten TV Comedy Movies UK",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8"
+  },
+  {
+    "id": 556,
+    "nombre": "Rakuten TV Drama Movies Austria",
+    "descripcion": "Rakuten TV Drama Movies Austria",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://df1aa472ff5b4780a8d91fe319778b4d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenTVShows-1/playlist.m3u8"
+  },
+  {
+    "id": 557,
+    "nombre": "Rakuten TV Drama Movies Finland",
+    "descripcion": "Rakuten TV Drama Movies Finland",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8"
+  },
+  {
+    "id": 558,
+    "nombre": "Rakuten TV Drama Movies Germany",
+    "descripcion": "Rakuten TV Drama Movies Germany",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8"
+  },
+  {
+    "id": 559,
+    "nombre": "Rakuten TV Drama Movies Italy",
+    "descripcion": "Rakuten TV Drama Movies Italy",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8"
+  },
+  {
+    "id": 560,
+    "nombre": "Rakuten TV Drama Movies Spain",
+    "descripcion": "Rakuten TV Drama Movies Spain",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8"
+  },
+  {
+    "id": 561,
+    "nombre": "Rakuten TV Drama Movies UK",
+    "descripcion": "Rakuten TV Drama Movies UK",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
+  },
+  {
+    "id": 562,
+    "nombre": "Rakuten TV Family Movies Austria",
+    "descripcion": "Rakuten TV Family Movies Austria",
+    "categoria": "family",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenFamily-1/playlist.m3u8"
+  },
+  {
+    "id": 563,
+    "nombre": "Rakuten TV Family Movies Finland",
+    "descripcion": "Rakuten TV Family Movies Finland",
+    "categoria": "family",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8"
+  },
+  {
+    "id": 564,
+    "nombre": "Rakuten TV Family Movies Germany",
+    "descripcion": "Rakuten TV Family Movies Germany",
+    "categoria": "family",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8"
+  },
+  {
+    "id": 565,
+    "nombre": "Rakuten TV Family Movies Italy",
+    "descripcion": "Rakuten TV Family Movies Italy",
+    "categoria": "family",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8"
+  },
+  {
+    "id": 566,
+    "nombre": "Rakuten TV Family Movies Spain",
+    "descripcion": "Rakuten TV Family Movies Spain",
+    "categoria": "family",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
+  },
+  {
+    "id": 567,
+    "nombre": "Rakuten TV Family Movies UK",
+    "descripcion": "Rakuten TV Family Movies UK",
+    "categoria": "family",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8"
+  },
+  {
+    "id": 568,
+    "nombre": "Rakuten TV Family Switzerland",
+    "descripcion": "Rakuten TV Family Switzerland",
+    "categoria": "family",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://a24daf1125344b9cab66eed2fcff8821.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenFamily-1/playlist.m3u8"
+  },
+  {
+    "id": 569,
+    "nombre": "Rakuten TV Nordic Films",
+    "descripcion": "Rakuten TV Nordic Films",
+    "categoria": "movies",
+    "imagenUrl": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/ff79e878-3eea-45fc-b0cd-55d6acce9b18-width200-quality90.jpeg",
+    "streamUrl": "https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8"
+  },
+  {
+    "id": 570,
+    "nombre": "Rakuten TV Top Movies Finland",
+    "descripcion": "Rakuten TV Top Movies Finland",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8"
+  },
+  {
+    "id": 571,
+    "nombre": "Rakuten TV Top Movies Germany",
+    "descripcion": "Rakuten TV Top Movies Germany",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8"
+  },
+  {
+    "id": 572,
+    "nombre": "Rakuten TV Top Movies Italy",
+    "descripcion": "Rakuten TV Top Movies Italy",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8"
+  },
+  {
+    "id": 573,
+    "nombre": "Rakuten TV Top Movies Spain",
+    "descripcion": "Rakuten TV Top Movies Spain",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/Meew6eX.png",
+    "streamUrl": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
+  },
+  {
+    "id": 574,
+    "nombre": "Revry Her",
+    "descripcion": "Revry Her",
+    "categoria": "movies",
+    "imagenUrl": "https://www.washingtonblade.com/content/files/2020/01/QUEER_STREAMING_SERVICE_ADOPTS-LGBT_TOKEN_FEATURED_WB_10012020-e1578680670538.jpeg",
+    "streamUrl": "https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8"
+  },
+  {
+    "id": 575,
+    "nombre": "Rotana Cinema KSA",
+    "descripcion": "Rotana Cinema KSA",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/pGgp38I.png",
+    "streamUrl": "https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8"
+  },
+  {
+    "id": 576,
+    "nombre": "Runtime Espanol",
+    "descripcion": "Runtime Espanol",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/OMQq19N.png",
+    "streamUrl": "https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8"
+  },
+  {
+    "id": 577,
+    "nombre": "ServusTV (1080p) [Geo-blocked]",
+    "descripcion": "ServusTV (1080p) [Geo-blocked]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/6W637Gn.png",
+    "streamUrl": "https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8"
+  },
+  {
+    "id": 578,
+    "nombre": "ServusTV HD",
+    "descripcion": "ServusTV HD",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/6W637Gn.png",
+    "streamUrl": "https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8"
+  },
+  {
+    "id": 579,
+    "nombre": "Sky Cinema Family HD",
+    "descripcion": "Sky Cinema Family HD",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/vKZSotN.png",
+    "streamUrl": "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6535776-1/playlist.m3u8"
+  },
+  {
+    "id": 580,
+    "nombre": "SL 1",
+    "descripcion": "SL 1",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/n9cuM2W.jpg",
+    "streamUrl": "https://slonehls.wns.live/hls/stream.m3u8"
+  },
+  {
+    "id": 581,
+    "nombre": "SL 2",
+    "descripcion": "SL 2",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/BVuUx5R.jpg",
+    "streamUrl": "https://sltwohls.wns.live/hls/stream.m3u8"
+  },
+  {
+    "id": 582,
+    "nombre": "Sony Canal Novelas",
+    "descripcion": "Sony Canal Novelas",
+    "categoria": "movies",
+    "imagenUrl": "",
+    "streamUrl": "https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8"
+  },
+  {
+    "id": 583,
+    "nombre": "Star Tamil Television",
+    "descripcion": "Star Tamil Television",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/fjHcr9z.jpg",
+    "streamUrl": "https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr="
+  },
+  {
+    "id": 584,
+    "nombre": "START Air",
+    "descripcion": "START Air",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/4bACa7x.png",
+    "streamUrl": "https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8"
+  },
+  {
+    "id": 585,
+    "nombre": "START World",
+    "descripcion": "START World",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/TXtY5eM.png",
+    "streamUrl": "https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8"
+  },
+  {
+    "id": 586,
+    "nombre": "Studio One +",
+    "descripcion": "Studio One +",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/yOPB7JB.png",
+    "streamUrl": "https://cdn-1.pishow.tv/live/276/master.m3u8"
+  },
+  {
+    "id": 587,
+    "nombre": "Sundance TV East",
+    "descripcion": "Sundance TV East",
+    "categoria": "movies",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png",
+    "streamUrl": "https://fl4.moveonjoy.com/SUNDANCE/index.m3u8"
+  },
+  {
+    "id": 588,
+    "nombre": "Superflix TV",
+    "descripcion": "Superflix TV",
+    "categoria": "entertainment",
+    "imagenUrl": "https://i.imgur.com/lvUbMen.png",
+    "streamUrl": "https://streaming.cloudecast.com/hls/superflix/index.m3u8"
+  },
+  {
+    "id": 589,
+    "nombre": "T2 Movies",
+    "descripcion": "T2 Movies",
+    "categoria": "movies",
+    "imagenUrl": "https://i.postimg.cc/gJ0pG0jK/t2movies.png",
+    "streamUrl": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8"
+  },
+  {
+    "id": 590,
+    "nombre": "Tamasha",
+    "descripcion": "Tamasha",
+    "categoria": "movies",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/240px-IRIB_tamashaTV.svg.png",
+    "streamUrl": "https://lenz.splus.ir/PLTV/88888888/224/3221226879/index.m3u8"
+  },
+  {
+    "id": 591,
+    "nombre": "TF1 Series Films",
+    "descripcion": "TF1 Series Films",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/4CJIDKQ.png",
+    "streamUrl": "https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8"
+  },
+  {
+    "id": 592,
+    "nombre": "The Film Detective",
+    "descripcion": "The Film Detective",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/yfOwmsP.png",
+    "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8"
+  },
+  {
+    "id": 593,
+    "nombre": "TV Land Drama",
+    "descripcion": "TV Land Drama",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/y1rXIAS.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5e762bb7-572b-4470-87fd-b3b4bb48462e"
+  },
+  {
+    "id": 594,
+    "nombre": "TVCARiB Cinema (720p) [Not 24/7]",
+    "descripcion": "TVCARiB Cinema (720p) [Not 24/7]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/fvGlwKo.png",
+    "streamUrl": "https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8"
+  },
+  {
+    "id": 595,
+    "nombre": "tvN Movies (Indonesian Subtitle)",
+    "descripcion": "tvN Movies (Indonesian Subtitle)",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/c4XvwO2.png",
+    "streamUrl": "http://210.210.155.37/dr9445/h/h21/index.m3u8"
+  },
+  {
+    "id": 596,
+    "nombre": "TVS Drive In Movie",
+    "descripcion": "TVS Drive In Movie",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/OR9APjb.png",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8"
+  },
+  {
+    "id": 597,
+    "nombre": "TVS Film Noir Network",
+    "descripcion": "TVS Film Noir Network",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/A4yWhQw.png",
+    "streamUrl": "https://rpn.bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8"
+  },
+  {
+    "id": 598,
+    "nombre": "Universal Cinema",
+    "descripcion": "Universal Cinema",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/XxfET68.png",
+    "streamUrl": "http://190.2.212.209:8050/play/a0q3"
+  },
+  {
+    "id": 599,
+    "nombre": "Universal Comedy",
+    "descripcion": "Universal Comedy",
+    "categoria": "comedy",
+    "imagenUrl": "https://i.imgur.com/avBL8pQ.png",
+    "streamUrl": "http://190.2.212.209:8050/play/a0q4"
+  },
+  {
+    "id": 600,
+    "nombre": "VHS TV [Not 24/7]",
+    "descripcion": "VHS TV [Not 24/7]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/BHCwWBf.png",
+    "streamUrl": "https://v2.catcast.tv/content/47609/index.m3u8"
+  },
+  {
+    "id": 601,
+    "nombre": "Viasat Kino",
+    "descripcion": "Viasat Kino",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/io0WAkA.png",
+    "streamUrl": "http://89.254.128.5:22280/viasat_kino/index.m3u8"
+  },
+  {
+    "id": 602,
+    "nombre": "Viasat Kino Action",
+    "descripcion": "Viasat Kino Action",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/HwsNIDK.png",
+    "streamUrl": "http://89.254.128.5:22280/viasat_kino_action/index.m3u8"
+  },
+  {
+    "id": 603,
+    "nombre": "Victor Valley Movies (1080p) [Not 24/7]",
+    "descripcion": "Victor Valley Movies (1080p) [Not 24/7]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/zgiuNNj.png",
+    "streamUrl": "https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8"
+  },
+  {
+    "id": 604,
+    "nombre": "Wild Side TV",
+    "descripcion": "Wild Side TV",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/cQkfRhH.png",
+    "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60b4d6c806ad2a00073b3108/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c0-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d329ef28-8c5a-4451-bc8a-ab7d7083f320"
+  },
+  {
+    "id": 605,
+    "nombre": "ZB Cinema",
+    "descripcion": "ZB Cinema",
+    "categoria": "classic",
+    "imagenUrl": "https://i.imgur.com/kUg6WSk.jpeg",
+    "streamUrl": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8"
+  },
+  {
+    "id": 606,
+    "nombre": "Zee Bollymovies",
+    "descripcion": "Zee Bollymovies",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/rbWA6ph.png",
+    "streamUrl": "https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": 607,
+    "nombre": "Zee Cinema (1080p) [Geo-blocked]",
+    "descripcion": "Zee Cinema (1080p) [Geo-blocked]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/uYjCv5p.png",
+    "streamUrl": "https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8"
+  },
+  {
+    "id": 608,
+    "nombre": "Детское кино International [Not 24/7]",
+    "descripcion": "Детское кино International [Not 24/7]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/dJqFRhQ.png",
+    "streamUrl": "https://autopilot.catcast.tv/content/38720/index.m3u8"
+  },
+  {
+    "id": 609,
+    "nombre": "Дом Кино",
+    "descripcion": "Дом Кино",
+    "categoria": "movies",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/512px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png",
+    "streamUrl": "https://streaming.thestream.cyou/live/44.m3u8"
+  },
+  {
+    "id": 610,
+    "nombre": "Дом Кино Премиум HD",
+    "descripcion": "Дом Кино Премиум HD",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/rJpQtvK.png",
+    "streamUrl": "http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8"
+  },
+  {
+    "id": 611,
+    "nombre": "Еврокино",
+    "descripcion": "Еврокино",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/8LPtPf6.png",
+    "streamUrl": "http://31.148.48.15/Evrokino/index.m3u8"
+  },
+  {
+    "id": 612,
+    "nombre": "Иллюзион+",
+    "descripcion": "Иллюзион+",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/9GvuHQ5.png",
+    "streamUrl": "http://31.148.48.15/Illusion_plus/index.m3u8"
+  },
+  {
+    "id": 613,
+    "nombre": "Кинеко",
+    "descripcion": "Кинеко",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/Otfvlmf.png",
+    "streamUrl": "http://194.143.148.28:8080/KINEKO/index.m3u8"
+  },
+  {
+    "id": 614,
+    "nombre": "Кино 1 International [Not 24/7]",
+    "descripcion": "Кино 1 International [Not 24/7]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/zsCPLs4.png",
+    "streamUrl": "http://kino-1.catcast.tv/content/38617/index.m3u8"
+  },
+  {
+    "id": 615,
+    "nombre": "Кинопоказ",
+    "descripcion": "Кинопоказ",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/nNjMyAq.png",
+    "streamUrl": "http://31.148.48.15/Kinopokaz/index.m3u8"
+  },
+  {
+    "id": 616,
+    "nombre": "КИНОТВ",
+    "descripcion": "КИНОТВ",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/sMpamNO.png",
+    "streamUrl": "https://vod.tuva.ru/kinotv/index.m3u8"
+  },
+  {
+    "id": 617,
+    "nombre": "Любимое Индийское Кино [Not 24/7]",
+    "descripcion": "Любимое Индийское Кино [Not 24/7]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/hVptFue.png",
+    "streamUrl": "https://v2.catcast.tv/content/41596/index.m3u8"
+  },
+  {
+    "id": 618,
+    "nombre": "Малдер Мегахит [Not 24/7]",
+    "descripcion": "Малдер Мегахит [Not 24/7]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/Ow2Pawt.png",
+    "streamUrl": "https://v2.catcast.tv/content/47689/index.m3u8"
+  },
+  {
+    "id": 619,
+    "nombre": "Мосфильм Золотая Коллекция",
+    "descripcion": "Мосфильм Золотая Коллекция",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/95Y8jb6.png",
+    "streamUrl": "http://178.217.72.66:8080/mosfilm/index.m3u8"
+  },
+  {
+    "id": 620,
+    "nombre": "Патриот",
+    "descripcion": "Патриот",
+    "categoria": "movies",
+    "imagenUrl": "https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png",
+    "streamUrl": "http://catchup.videoline.ru/asvtv/index.m3u8"
+  },
+  {
+    "id": 621,
+    "nombre": "Русский Бестселлер",
+    "descripcion": "Русский Бестселлер",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/w0ZE9QJ.png",
+    "streamUrl": "http://31.148.48.15/Russkiy_Bestseller/index.m3u8"
+  },
+  {
+    "id": 622,
+    "nombre": "Русский Иллюзион",
+    "descripcion": "Русский Иллюзион",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/RlsqFN8.png",
+    "streamUrl": "http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8"
+  },
+  {
+    "id": 623,
+    "nombre": "Русский роман",
+    "descripcion": "Русский роман",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/cQN0P2B.png",
+    "streamUrl": "http://31.148.48.15/Russkiy_Roman_HD/index.m3u8"
+  },
+  {
+    "id": 624,
+    "nombre": "Сити Эдем КиноАзия [Not 24/7]",
+    "descripcion": "Сити Эдем КиноАзия [Not 24/7]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/gaket4B.png",
+    "streamUrl": "https://cityeden.catcast.tv/content/34393/index.m3u8"
+  },
+  {
+    "id": 625,
+    "nombre": "Сити Эдем КиноАрт [Not 24/7]",
+    "descripcion": "Сити Эдем КиноАрт [Not 24/7]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/67CWCtz.png",
+    "streamUrl": "https://cityeden.catcast.tv/content/38398/index.m3u8"
+  },
+  {
+    "id": 626,
+    "nombre": "Сити Эдем КиноДетектив [Not 24/7]",
+    "descripcion": "Сити Эдем КиноДетектив [Not 24/7]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/9rKHwBV.png",
+    "streamUrl": "https://cityeden.catcast.tv/content/41327/index.m3u8"
+  },
+  {
+    "id": 627,
+    "nombre": "Сити Эдем КиноДрама [Not 24/7]",
+    "descripcion": "Сити Эдем КиноДрама [Not 24/7]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/29ddffh.png",
+    "streamUrl": "https://cityeden.catcast.tv/content/45269/index.m3u8"
+  },
+  {
+    "id": 628,
+    "nombre": "Сити Эдем КиноКлассика [Not 24/7]",
+    "descripcion": "Сити Эдем КиноКлассика [Not 24/7]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/0qGCS1S.png",
+    "streamUrl": "https://cityeden.catcast.tv/content/34185/index.m3u8"
+  },
+  {
+    "id": 629,
+    "nombre": "Сити Эдем КиноКомедия [Not 24/7]",
+    "descripcion": "Сити Эдем КиноКомедия [Not 24/7]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/Aga2XVA.png",
+    "streamUrl": "https://cityeden.catcast.tv/content/41331/index.m3u8"
+  },
+  {
+    "id": 630,
+    "nombre": "Сити Эдем КиноМистика [Not 24/7]",
+    "descripcion": "Сити Эдем КиноМистика [Not 24/7]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/s1Pid0K.png",
+    "streamUrl": "https://cityeden.catcast.tv/content/40783/index.m3u8"
+  },
+  {
+    "id": 631,
+    "nombre": "Сити Эдем КиноСемья [Not 24/7]",
+    "descripcion": "Сити Эдем КиноСемья [Not 24/7]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/YoWOZMx.png",
+    "streamUrl": "https://v2.catcast.tv/content/38128/index.m3u8"
+  },
+  {
+    "id": 632,
+    "nombre": "Сити Эдем КиноФантастика [Not 24/7]",
+    "descripcion": "Сити Эдем КиноФантастика [Not 24/7]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/I64FeIO.png",
+    "streamUrl": "https://cityeden.catcast.tv/content/45268/index.m3u8"
+  },
+  {
+    "id": 633,
+    "nombre": "Сити Эдем КиноЭкшен [Not 24/7]",
+    "descripcion": "Сити Эдем КиноЭкшен [Not 24/7]",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/uuzuvD0.png",
+    "streamUrl": "https://cityeden.catcast.tv/content/41333/index.m3u8"
+  },
+  {
+    "id": 634,
+    "nombre": "Феникс плюс Кино",
+    "descripcion": "Феникс плюс Кино",
+    "categoria": "movies",
+    "imagenUrl": "https://i.imgur.com/S9OPMLE.png",
+    "streamUrl": "http://31.148.48.15/Feniks_plus_kino/index.m3u8"
+  },
+  {
+    "id": 635,
+    "nombre": "江苏影视",
+    "descripcion": "江苏影视",
+    "categoria": "movies",
+    "imagenUrl": "https://www.tvchinese.net/uploads/tv/jsys.jpg",
+    "streamUrl": "http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8"
   }
 ]
