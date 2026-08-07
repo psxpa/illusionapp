@@ -122,6 +122,17 @@
     "es": {
       "items": [
          {
+          "id": "18",
+          "title": "Había hecho pacto con la muerte",
+          "author": " Debanhi Talamante",
+          "category": "Conversión",
+          "duration": "1:24:05",
+          "videoUrl": "https://ok.ru/video/15114489629424",
+          "fallbackUrl": "",
+          "publishDate": "2026-08-07",
+          "thumbnailUrl": "https://imgur.com/NY7C0l3.jpeg"
+        },
+        {
           "id": "17",
           "title": "Sufría Depresión y Ansiedad",
           "author": " Debanhi Talamante",
@@ -138,7 +149,7 @@
           "author": "Javier González",
           "category": "Conversión",
           "duration": "0:49:10",
-          "videoUrl": "https://ok.ru/video/15114489629424",
+          "videoUrl": "https://ok.ru/video/15113265416944",
           "fallbackUrl": "",
           "publishDate": "2026-08-07",
           "thumbnailUrl": "https://imgur.com/WeR6PkQ.jpeg"
